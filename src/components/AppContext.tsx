@@ -1,4 +1,5 @@
 "use client";
+import { useRouter } from "next/navigation";
 import { createContext, useCallback, useContext, useEffect, useState } from "react";
 import { supabase } from "@/lib/supabase/client";
 import { loadProfile, loadTree } from "@/lib/data/load";
@@ -22,13 +23,14 @@ export function AppProvider({ children }: { children: React.ReactNode }) {
   const [profile, setProfile] = useState<Profile | null>(null);
   const [tree, setTree] = useState<Tree | null>(null);
   const [err, setErr] = useState<string | null>(null);
+  const router = useRouter();
 
   const reload = useCallback(async () => {
     try {
       const sb = supabase();
       const [p, t] = await Promise.all([loadProfile(sb), loadTree(sb)]);
       if (!p) {
-        window.location.href = "/login";
+        router.replace("/login");
         return;
       }
       setProfile(p);
@@ -36,7 +38,7 @@ export function AppProvider({ children }: { children: React.ReactNode }) {
     } catch (e) {
       setErr(e instanceof Error ? e.message : "Fehler beim Laden");
     }
-  }, []);
+  }, [router]);
 
   useEffect(() => {
     // eslint-disable-next-line react-hooks/set-state-in-effect

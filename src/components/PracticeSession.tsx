@@ -44,7 +44,7 @@ export function PracticeSession({ mode, scope, part, n: nParam }: { mode: string
   const [grade, setGrade] = useState<Grade | null>(null);
   const [results, setResults] = useState<Result[]>([]);
   const [run, setRun] = useState(0);
-  const t0 = useRef(Date.now());
+  const t0 = useRef(0);
 
   const def = MODE_BY_KEY[mode];
   const special = SPECIAL_MODES[mode as keyof typeof SPECIAL_MODES];

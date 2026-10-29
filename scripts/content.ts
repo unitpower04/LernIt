@@ -4,10 +4,10 @@
  *   npm run content:import -- --emit    – JSON-Payload je Datei als SQL ausgeben (für SQL-Editor/MCP)
  *   npm run content:reset-demo          – alle Demo-Daten entfernen
  */
-import { createHash } from "node:crypto";
 import { readdirSync, readFileSync, statSync } from "node:fs";
 import { join, relative } from "node:path";
 import { createClient } from "@supabase/supabase-js";
+import { withKeys } from "../src/lib/content/keys";
 import { bundleSchema, type Bundle } from "../src/lib/content/schema";
 import { emptyAnswer, gradeAnswer } from "../src/lib/engine/grade";
 import { fromQuestion, instantiate } from "../src/lib/engine/instantiate";
@@ -24,19 +24,6 @@ function walk(dir: string): string[] {
     const p = join(dir, f);
     return statSync(p).isDirectory() ? walk(p) : p.endsWith(".json") ? [p] : [];
   });
-}
-
-const sha = (x: unknown) => createHash("sha1").update(JSON.stringify(x)).digest("hex").slice(0, 10);
-
-function withKeys(b: Bundle): Bundle {
-  for (const it of b.items) {
-    for (const f of it.flashcards) f.key ??= `${it.topic}/card-${sha([f.front, f.back])}`;
-    for (const g of it.glossary) g.key ??= `${it.topic}/gl-${sha(g.term)}`;
-    for (const q of it.questions) q.key ??= `${it.topic}/q-${sha([q.type, q.body])}`;
-    for (const t of it.templates) t.key ??= `${it.topic}/t-${sha([t.type, t.body])}`;
-    if (it.summary) it.summary.key ??= `${it.topic}/summary`;
-  }
-  return b;
 }
 
 function load(): { file: string; bundle: Bundle }[] {

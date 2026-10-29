@@ -43,7 +43,7 @@ function LernenInner() {
 
   // Breadcrumb (Eltern)
   const crumbs: { label: string; scope: Scope }[] = [{ label: "Lernen", scope: { kind: "all" } }];
-  let cur = scope;
+  const cur = scope;
   const chain: { label: string; scope: Scope }[] = [];
   if (cur.kind === "topic") {
     const t = tree.topics.find((x) => x.id === cur.id);

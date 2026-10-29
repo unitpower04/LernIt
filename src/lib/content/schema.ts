@@ -110,10 +110,23 @@ const questionBase = {
 function variants<T extends Record<string, z.ZodTypeAny>>(extra: T) {
   return QTYPES.map((t) =>
     z.object({ ...questionBase, ...extra, type: z.literal(t), body: bodyByType[t] }),
-  ) as unknown as [z.ZodObject<any>, ...z.ZodObject<any>[]];
+  ) as unknown as [z.ZodObject, ...z.ZodObject[]];
 }
 
-export const questionSchema = z.discriminatedUnion("type", variants({}));
+export type QuestionItem = {
+  key?: string;
+  type: QType;
+  exam_part: number;
+  difficulty: number;
+  points?: number;
+  explanation?: string;
+  source?: string;
+  // eslint-disable-next-line @typescript-eslint/no-explicit-any
+  body: any;
+};
+export type TemplateItem = QuestionItem & { vars: Record<string, VarDef> };
+
+export const questionSchema = z.discriminatedUnion("type", variants({})) as unknown as z.ZodType<QuestionItem, unknown>;
 
 // Vorlagen-Variablen
 export const varSchema = z.discriminatedUnion("type", [
@@ -127,7 +140,7 @@ export type VarDef = z.infer<typeof varSchema>;
 export const templateSchema = z.discriminatedUnion(
   "type",
   variants({ vars: z.record(z.string(), varSchema).default({}) }),
-);
+) as unknown as z.ZodType<TemplateItem, unknown>;
 
 export const flashcardSchema = z.object({
   key: z.string().optional(),
