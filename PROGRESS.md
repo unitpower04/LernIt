@@ -11,6 +11,9 @@
 - Freunde: Rangliste (freiwillig), Duell, Streak; Admin-Seite (Inhalte, Import, Einladungen)
 - E2E-Tests (Playwright, Mobil + Desktop) gegen lokalen Supabase-Ersatz
 
+## Wunsch des Nutzers für den Import
+- Aufgaben nicht nur übernehmen, sondern stark erweitern: Vorlagen mit Zufallszahlen, wechselnden Kontexten, anderen Antwortoptionen/Reihenfolgen, zusätzliche Aufgaben je Thema (siehe CLAUDE.md, Schritt 5)
+
 ## Als Nächstes
 - Vercel-Deployment mit GitHub-Repo verbinden (Env-Variablen siehe `.env.example`), danach Supabase Auth → URL Configuration: Site URL + Redirect `https://<domain>/passwort-neu`
 - Auth-Einstellung „Confirm email“ ausschalten (Trigger bestätigt ohnehin automatisch)

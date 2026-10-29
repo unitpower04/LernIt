@@ -39,7 +39,8 @@ Prüfungs-Lern-App für Kaufleute für Marketingkommunikation (IHK-Abschlussprü
 2. Text extrahieren (PDF/DOCX/PPTX, Bilder per OCR/ansehen; `.goodnotes` = ZIP → enthaltene PDFs/Bilder nutzen, sonst notieren).
 3. Die mitgelieferte IHK-Prüfung analysieren (Teil per Inhalt zuordnen, Aufbau, Aufgabentypen, Belege, Punkte) → Stilvorlage.
 4. Struktur in `content/<fach>/struktur.json` (Fächer → Lernfelder → Themen, `exam_parts`), Inhalte je Thema in `content/<fach>/<thema>.json` (`items[]`: summary, flashcards 15–40, glossary, questions, templates, cases). **Immer eigene `key`s vergeben** (z. B. `mako-lf7-plakat-q12`), `"demo": false`.
-5. Prüfungspool: viele Vorlagen (≥ 10 deutlich unterschiedliche Sätze je schriftlichem Teil), Praxisfälle für Teil 4 (`cases`).
+5. **Portfolio kräftig erweitern (Nutzerwunsch):** Nicht nur die Aufgaben aus dem Material abschreiben, sondern daraus *abgewandelte* Aufgaben erzeugen: Vorlagen mit Zufallszahlen und wechselnden Unternehmen/Branchen/Produkten/Medien, umformulierte Fragen, neue plausible Falschantworten (Antwortreihenfolge mischt die App selbst), zusätzliche Aufgabentypen pro Thema (MC, R/F, Zuordnung, Reihenfolge, Lücke, Rechnen, Fehler finden, Fälle). Ziel: pro Thema deutlich mehr Varianten als Originalfragen.
+5b. Prüfungspool: viele Vorlagen (≥ 10 deutlich unterschiedliche Sätze je schriftlichem Teil), Praxisfälle für Teil 4 (`cases`).
 6. Frei zugängliche, legale Ergänzungen in `content/quellen.md` dokumentieren; bei Widerspruch gilt das Unterrichtsmaterial.
 7. Qualitätsprüfung (zweiter Durchgang/Subagent): fachlich korrekt, eindeutige Lösung, keine Dubletten.
 8. `npm run content:validate` → `npm run content:import` (oder `content:emit` + SQL) → `npm run content:reset-demo` → Übersicht (Anzahl je Fach/Teil) an den Nutzer.
