@@ -1,0 +1,29 @@
+{
+  "demo": true,
+  "items": [
+    {
+      "topic": "demo-swot",
+      "cases": [
+        {
+          "key": "demo-fall-eisdiele",
+          "title": "Fall A – Eisdiele „Luna“ will junge Gäste gewinnen",
+          "situation": "Sie sind Kaufmann/-frau für Marketingkommunikation in der Agentur „Kreativ-Kontor“. Die Eisdiele „Luna“ (2 Standorte, Jahresbudget 8.000 €) möchte im Sommer verstärkt 16–25-Jährige erreichen. Bisher gibt es nur ein Schaufenster-Plakat und eine veraltete Website. Der Inhaber bittet Sie um einen Vorschlag.",
+          "prompts": [
+            { "question": "Wie würden Sie die Ausgangslage analysieren?", "sample": ["SWOT: Stärken (handgemachtes Eis, Lage), Schwächen (kein Online-Auftritt, kleines Budget)", "Chancen: Social Media, Sommersaison; Risiken: Wettbewerber, Wetter", "Zielgruppe genauer beschreiben (Mediennutzung, Budget, Orte)"] },
+            { "question": "Welche Maßnahmen schlagen Sie vor und warum?", "sample": ["Instagram/TikTok mit Eis-Kreationen und Mikro-Influencern", "Aktion mit Studierendenrabatt, Gutschein-Code zur Erfolgsmessung", "Passt zum Budget, geringe Streuverluste"] },
+            { "question": "Wie messen Sie den Erfolg?", "sample": ["Ziele vorab definieren (Reichweite, Einlösungen)", "Gutschein-Codes, Follower-Wachstum, Umfrage vor Ort", "Auswertung und Anpassung der Maßnahmen"] }
+          ]
+        },
+        {
+          "key": "demo-fall-fahrrad",
+          "title": "Fall B – Fahrradhändler „Velo-Werk“ plant Eventmarketing",
+          "situation": "Der Fahrradhändler „Velo-Werk“ plant einen Aktionstag zur Saisoneröffnung. Budget: 5.000 €. Ziel: 300 Besucher und 40 Probefahrten. Der Kunde ist unsicher, ob Event oder Anzeigenkampagne sinnvoller ist.",
+          "prompts": [
+            { "question": "Wie begründen Sie dem Kunden Ihre Empfehlung?", "sample": ["Ziele und Zielgruppe gegenüberstellen (Erlebnis, direkter Kontakt)", "Event erlaubt Probefahrten – Anzeigen nur Reichweite", "Kombination möglich: Event + lokale Online-Werbung"] },
+            { "question": "Wie planen Sie das Budget?", "sample": ["Posten: Location/Technik, Werbemittel, Personal, Puffer", "Kosten pro Besucher/Probefahrt berechnen", "Ca. 10 % Reserve einplanen"] }
+          ]
+        }
+      ]
+    }
+  ]
+}

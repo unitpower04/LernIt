@@ -1,0 +1,73 @@
+{
+  "demo": true,
+  "items": [
+    {
+      "topic": "demo-swot",
+      "summary": {
+        "key": "demo-swot-zettel",
+        "title": "SWOT-Analyse",
+        "content_md": "Die **SWOT-Analyse** verbindet die *interne* Sicht (Unternehmen) mit der *externen* Sicht (Markt/Umfeld).\n\n| | Hilfreich | Schädlich |\n|---|---|---|\n| **Intern** | **S**trengths (Stärken) | **W**eaknesses (Schwächen) |\n| **Extern** | **O**pportunities (Chancen) | **T**hreats (Risiken) |\n\n**Merke:** Stärken/Schwächen kann das Unternehmen *beeinflussen*, Chancen/Risiken nicht.\n\n**Strategien ableiten:** Stärken nutzen, um Chancen zu ergreifen (SO), Schwächen abbauen, um Risiken abzuwehren (WT)."
+      },
+      "flashcards": [
+        { "key": "demo-swot-c1", "front": "Wofür steht SWOT?", "back": "Strengths, Weaknesses, Opportunities, Threats – Stärken, Schwächen, Chancen, Risiken." },
+        { "key": "demo-swot-c2", "front": "Welche SWOT-Faktoren sind intern?", "back": "Stärken und Schwächen (Unternehmenssicht)." },
+        { "key": "demo-swot-c3", "front": "Welche SWOT-Faktoren sind extern?", "back": "Chancen und Risiken (Markt-/Umfeldsicht)." },
+        { "key": "demo-swot-c4", "front": "Beispiel für eine Chance?", "back": "Wachsende Zielgruppe, neue Medienkanäle, Trend passt zum Produkt." },
+        { "key": "demo-swot-c5", "front": "Beispiel für eine Schwäche?", "back": "Geringe Bekanntheit, kleines Werbebudget, veraltete Website." },
+        { "key": "demo-swot-c6", "front": "Was ist das Ziel der SWOT-Analyse?", "back": "Eine Ausgangslage bewerten und daraus Strategien und Maßnahmen ableiten." },
+        { "key": "demo-swot-c7", "front": "Was bedeutet eine SO-Strategie?", "back": "Eigene Stärken nutzen, um Chancen zu ergreifen (Ausbauen)." },
+        { "key": "demo-swot-c8", "front": "Was bedeutet eine WT-Strategie?", "back": "Schwächen abbauen und Risiken vermeiden (Verteidigen/Rückzug)." },
+        { "key": "demo-swot-c9", "front": "Warum ist die SWOT-Analyse Teil der Marketingplanung?", "back": "Sie liefert die Informationsbasis für Ziele, Zielgruppen und die Auswahl der Marketinginstrumente." },
+        { "key": "demo-swot-c10", "front": "Kann ein Unternehmen Risiken (Threats) direkt beeinflussen?", "back": "Nein – sie kommen von außen; man kann nur reagieren oder vorbeugen." }
+      ],
+      "glossary": [
+        { "key": "demo-g-swot", "term": "SWOT-Analyse", "definition": "Instrument der Situationsanalyse, das Stärken, Schwächen, Chancen und Risiken gegenüberstellt." },
+        { "key": "demo-g-zielgruppe", "term": "Zielgruppe", "definition": "Personenkreis, den eine Marketingmaßnahme erreichen soll." },
+        { "key": "demo-g-usp", "term": "USP", "definition": "Alleinstellungsmerkmal: Eigenschaft, die ein Angebot von Wettbewerbern unterscheidet." },
+        { "key": "demo-g-briefing", "term": "Briefing", "definition": "Schriftliche Auftragsbeschreibung des Kunden an die Agentur." }
+      ],
+      "questions": [
+        { "key": "demo-swot-q1", "type": "mc", "exam_part": 1, "difficulty": 1, "explanation": "Stärken und Schwächen betreffen das Unternehmen selbst (intern).",
+          "body": { "prompt": "Welche zwei Faktoren gehören bei der SWOT-Analyse zur internen Analyse?", "options": [
+            { "text": "Stärken", "correct": true }, { "text": "Chancen", "correct": false }, { "text": "Schwächen", "correct": true }, { "text": "Risiken", "correct": false } ] } },
+        { "key": "demo-swot-q2", "type": "mc", "exam_part": 1, "difficulty": 2, "explanation": "Ein Trend ist ein externer, günstiger Faktor – also eine Chance.",
+          "body": { "prompt": "Die Nachfrage nach nachhaltigen Produkten wächst stark. Wie ist das in der SWOT-Analyse einzuordnen?", "options": [
+            { "text": "Chance", "correct": true }, { "text": "Stärke", "correct": false }, { "text": "Schwäche", "correct": false }, { "text": "Risiko", "correct": false } ] } },
+        { "key": "demo-swot-q3", "type": "tf", "exam_part": 1, "difficulty": 1, "explanation": "Chancen und Risiken sind externe Faktoren.",
+          "body": { "statement": "Chancen und Risiken sind interne Faktoren des Unternehmens.", "answer": false } },
+        { "key": "demo-swot-q4", "type": "tf", "exam_part": 1, "difficulty": 1, "explanation": "Die SWOT-Analyse bewertet die Ausgangslage und bereitet Strategien vor.",
+          "body": { "statement": "Aus der SWOT-Analyse lassen sich Strategien ableiten.", "answer": true } },
+        { "key": "demo-swot-q5", "type": "match", "exam_part": 1, "difficulty": 2, "explanation": "Intern = Stärken/Schwächen, extern = Chancen/Risiken.",
+          "body": { "prompt": "Ordnen Sie jedes Beispiel dem SWOT-Begriff zu.", "items": [
+            { "term": "Das Unternehmen hat ein sehr geringes Werbebudget.", "match": "Schwäche" },
+            { "term": "Ein Wettbewerber startet mit Kampfpreisen.", "match": "Risiko" },
+            { "term": "Die Marke hat eine hohe Bekanntheit.", "match": "Stärke" },
+            { "term": "Eine neue Social-Media-Plattform wächst in der Zielgruppe.", "match": "Chance" } ] } },
+        { "key": "demo-swot-q6", "type": "order", "exam_part": 1, "difficulty": 2, "explanation": "Erst analysieren, dann Ziele setzen, Strategie wählen und Maßnahmen planen.",
+          "body": { "prompt": "Bringen Sie die Schritte der Marketingplanung in die richtige Reihenfolge.", "items": [
+            "Situationsanalyse (z. B. SWOT)", "Marketingziele festlegen", "Strategie und Zielgruppen wählen", "Maßnahmen und Budget planen", "Erfolgskontrolle" ] } },
+        { "key": "demo-swot-q7", "type": "cloze", "exam_part": 1, "difficulty": 1, "explanation": "S und W sind intern, O und T extern.",
+          "body": { "prompt": "Ergänzen Sie.", "text": "Stärken und [[Schwächen]] sind interne Faktoren, [[Chancen]] und Risiken sind externe Faktoren." } },
+        { "key": "demo-swot-q8", "type": "error", "exam_part": 1, "difficulty": 2, "explanation": "Nur Aussagen 2 und 4 sind fehlerhaft.",
+          "body": { "prompt": "Welche Aussagen zur SWOT-Analyse sind fehlerhaft?", "items": [
+            { "text": "Die SWOT-Analyse hilft, die Ausgangslage zu bewerten.", "wrong": false },
+            { "text": "Chancen sind interne Faktoren.", "wrong": true, "fix": "Chancen sind externe Faktoren." },
+            { "text": "Stärken können vom Unternehmen beeinflusst werden.", "wrong": false },
+            { "text": "Risiken kann das Unternehmen immer vollständig beseitigen.", "wrong": true, "fix": "Risiken liegen im Umfeld; man kann sie nur abmildern." } ] } },
+        { "key": "demo-swot-q9", "type": "ad", "exam_part": 1, "difficulty": 2, "points": 6, "explanation": "AIDA: Attention, Interest, Desire, Action.",
+          "body": { "prompt": "Analysieren Sie die folgende Anzeige.", "adText": "„Schluss mit grauen Montagen!\" – Frische Bio-Smoothies direkt ins Büro. Jetzt 20 % Rabatt auf die erste Lieferung. Bestellen unter smoothie-box.example",
+            "parts": [
+              { "prompt": "Welche AIDA-Stufe spricht der Satz „Jetzt 20 % Rabatt auf die erste Lieferung\" vor allem an?", "options": [ { "text": "Action", "correct": true }, { "text": "Attention", "correct": false }, { "text": "Interest", "correct": false }, { "text": "Desire", "correct": false } ] },
+              { "prompt": "Welche Funktion hat die Schlagzeile „Schluss mit grauen Montagen!\"?", "options": [ { "text": "Aufmerksamkeit wecken", "correct": true }, { "text": "Kaufabschluss erzwingen", "correct": false }, { "text": "Preis nennen", "correct": false } ] } ] } },
+        { "key": "demo-swot-q10", "type": "case", "exam_part": 1, "difficulty": 3, "points": 25, "source": "Demo",
+          "body": { "situation": "Die Agentur „Kreativ-Kontor\" betreut die Eisdiele „Luna\" (Familienbetrieb, 2 Standorte, Budget 8.000 € pro Jahr). Luna möchte im Sommer mehr junge Gäste (16–25 Jahre) gewinnen. Stärken: handgemachtes Eis, zentrale Lage. Schwächen: kaum Online-Auftritt. Neue Eisdiele mit Kampfpreisen eröffnet in der Nähe.",
+            "tasks": [
+              { "text": "Erstellen Sie eine SWOT-Analyse mit je zwei Punkten.", "points": 10, "sample": "Stärken: handgemachtes Eis, zentrale Lage. Schwächen: kaum Online-Auftritt, begrenztes Budget. Chancen: Social-Media-Nutzung der Zielgruppe, Sommersaison. Risiken: Wettbewerber mit Kampfpreisen, wetterabhängiges Geschäft.",
+                "checklist": ["Mind. 2 Stärken genannt", "Mind. 2 Schwächen genannt", "Mind. 2 Chancen genannt", "Mind. 2 Risiken genannt", "Intern/extern sauber getrennt"] },
+              { "text": "Leiten Sie eine Kommunikationsmaßnahme für die Zielgruppe ab und begründen Sie sie.", "points": 15, "sample": "Instagram-/TikTok-Kampagne mit Eis-Kreationen und Mikro-Influencern aus der Region, da die Zielgruppe dort erreichbar ist und der Online-Auftritt eine Schwäche ist; geringe Streuverluste und passend zum Budget.",
+                "checklist": ["Maßnahme zur Zielgruppe passend", "Bezug zur SWOT hergestellt", "Budgetbezug genannt", "Begründung nachvollziehbar"] }
+            ] } }
+      ]
+    }
+  ]
+}

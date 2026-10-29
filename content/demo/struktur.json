@@ -1,0 +1,41 @@
+{
+  "demo": true,
+  "subjects": [
+    {
+      "key": "demo-mako",
+      "name": "Mako (Demo)",
+      "description": "Marketing & Kommunikation – kleiner Demo-Datensatz",
+      "color": "#4f46e5",
+      "learning_fields": [
+        {
+          "key": "demo-mako-lf6",
+          "code": "LF6",
+          "name": "Marketing-Mix",
+          "exam_parts": [1, 2],
+          "topics": [
+            { "key": "demo-swot", "name": "SWOT-Analyse", "exam_parts": [1] },
+            { "key": "demo-preis", "name": "Preispolitik & Kalkulation", "exam_parts": [1, 2] }
+          ]
+        }
+      ]
+    },
+    {
+      "key": "demo-wsp",
+      "name": "WSP (Demo)",
+      "description": "Wirtschafts- und Sozialprozesse – Demo",
+      "color": "#0d9488",
+      "learning_fields": [
+        {
+          "key": "demo-wsp-lf12",
+          "code": "LF12",
+          "name": "Volkswirtschaft",
+          "exam_parts": [3],
+          "topics": [
+            { "key": "demo-viereck", "name": "Magisches Viereck", "exam_parts": [3] },
+            { "key": "demo-buchung", "name": "Umsatzsteuer & Buchungen", "exam_parts": [2, 3] }
+          ]
+        }
+      ]
+    }
+  ]
+}

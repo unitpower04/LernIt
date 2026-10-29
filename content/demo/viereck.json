@@ -1,0 +1,106 @@
+{
+  "demo": true,
+  "items": [
+    {
+      "topic": "demo-viereck",
+      "summary": {
+        "key": "demo-viereck-zettel",
+        "title": "Magisches Viereck",
+        "content_md": "Das **Stabilitätsgesetz (StabG, 1967)** nennt vier gesamtwirtschaftliche Ziele:\n\n1. **Stabilität des Preisniveaus** (Inflation gering)\n2. **Hoher Beschäftigungsstand** (niedrige Arbeitslosigkeit)\n3. **Außenwirtschaftliches Gleichgewicht** (ausgeglichene Handelsbilanz)\n4. **Angemessenes, stetiges Wirtschaftswachstum**\n\n*Magisch*, weil alle Ziele gleichzeitig kaum erreichbar sind (Zielkonflikte). Mit **Nachhaltigkeit** wird oft zum *magischen Sechseck* erweitert."
+      },
+      "flashcards": [
+        { "key": "demo-viereck-c1", "front": "Nenne die vier Ziele des magischen Vierecks.", "back": "Preisniveaustabilität, hoher Beschäftigungsstand, außenwirtschaftliches Gleichgewicht, angemessenes Wirtschaftswachstum." },
+        { "key": "demo-viereck-c2", "front": "Warum heißt es „magisch“?", "back": "Weil sich alle Ziele gleichzeitig kaum erreichen lassen – es gibt Zielkonflikte." },
+        { "key": "demo-viereck-c3", "front": "In welchem Gesetz stehen die Ziele?", "back": "Stabilitäts- und Wachstumsgesetz (StabG) von 1967." },
+        { "key": "demo-viereck-c4", "front": "Beispiel für einen Zielkonflikt?", "back": "Hohes Wachstum und hohe Beschäftigung können zu steigenden Preisen (Inflation) führen." },
+        { "key": "demo-viereck-c5", "front": "Welches Ziel wird zum Sechseck ergänzt?", "back": "Gerechte Einkommens- und Vermögensverteilung sowie Umweltschutz/Nachhaltigkeit." }
+      ],
+      "glossary": [
+        { "key": "demo-g-stabg", "term": "Stabilitätsgesetz", "definition": "Gesetz von 1967, das die Ziele der Wirtschaftspolitik (magisches Viereck) festlegt." },
+        { "key": "demo-g-inflation", "term": "Inflation", "definition": "Anhaltender Anstieg des allgemeinen Preisniveaus; das Geld verliert an Kaufkraft." }
+      ],
+      "questions": [
+        { "key": "demo-viereck-q1", "type": "mc", "exam_part": 3, "difficulty": 1, "explanation": "Preisniveaustabilität und hoher Beschäftigungsstand gehören zum Viereck, Gewinnmaximierung nicht.",
+          "body": { "prompt": "Welche zwei Ziele gehören zum magischen Viereck?", "options": [
+            { "text": "Stabilität des Preisniveaus", "correct": true }, { "text": "Hoher Beschäftigungsstand", "correct": true }, { "text": "Maximale Unternehmensgewinne", "correct": false }, { "text": "Höchstmögliche Staatsverschuldung", "correct": false } ] } },
+        { "key": "demo-viereck-q2", "type": "tf", "exam_part": 3, "difficulty": 1,
+          "body": { "statement": "Das magische Viereck ist im Stabilitäts- und Wachstumsgesetz verankert.", "answer": true } },
+        { "key": "demo-viereck-q3", "type": "match", "exam_part": 3, "difficulty": 2,
+          "body": { "prompt": "Ordnen Sie jedem Ziel die passende Kennzahl zu.", "items": [
+            { "term": "Preisniveaustabilität", "match": "Inflationsrate" },
+            { "term": "Hoher Beschäftigungsstand", "match": "Arbeitslosenquote" },
+            { "term": "Wirtschaftswachstum", "match": "Veränderung des BIP" },
+            { "term": "Außenwirtschaftliches Gleichgewicht", "match": "Außenbeitrag" } ], "distractors": ["Eigenkapitalquote"] } },
+        { "key": "demo-viereck-q4", "type": "cloze", "exam_part": 3, "difficulty": 1,
+          "body": { "text": "Das Stabilitätsgesetz stammt aus dem Jahr [[1967]]. Weil sich die Ziele kaum gleichzeitig erreichen lassen, spricht man vom [[magischen]] Viereck." } },
+        { "key": "demo-viereck-q5", "type": "mc", "exam_part": 3, "difficulty": 2, "explanation": "Wenn Preise steigen, während die Beschäftigung hoch ist, stehen Preisniveaustabilität und Beschäftigung im Konflikt.",
+          "body": { "prompt": "Ein Zielkonflikt besteht zwischen …", "options": [
+            { "text": "hoher Beschäftigung und Preisniveaustabilität", "correct": true }, { "text": "Preisniveaustabilität und niedrigen Zinsen", "correct": false }, { "text": "Wirtschaftswachstum und Rechtssicherheit", "correct": false } ] } },
+        { "key": "demo-viereck-q6", "type": "error", "exam_part": 3, "difficulty": 2,
+          "body": { "prompt": "Welche Aussagen zur Wirtschaftspolitik sind falsch?", "items": [
+            { "text": "Inflation bedeutet sinkende Preise.", "wrong": true, "fix": "Inflation = anhaltend steigendes Preisniveau." },
+            { "text": "Die Arbeitslosenquote misst die Beschäftigungslage.", "wrong": false },
+            { "text": "Alle vier Ziele lassen sich leicht gleichzeitig erreichen.", "wrong": true, "fix": "Es bestehen Zielkonflikte." } ] } }
+      ],
+      "templates": [
+        { "key": "demo-viereck-t-inflation", "type": "calc", "exam_part": 3, "difficulty": 2, "points": 3,
+          "vars": { "alt": { "type": "int", "min": 90, "max": 130, "step": 1 }, "rate": { "type": "dec", "min": 1, "max": 9, "decimals": 1 }, "neu": { "type": "expr", "expr": "alt*(1+rate/100)", "decimals": 2 } },
+          "body": { "prompt": "Ein Warenkorb kostete im Vorjahr {alt|eur0}. Die Inflationsrate beträgt {rate|pct}. Was kostet der Warenkorb jetzt?", "answer": "alt*(1+rate/100)", "unit": "€", "decimals": 2,
+            "steps": ["Neu = {alt|eur0} × (1 + {rate|pct})", "Neu = {result|eur}"] } }
+      ]
+    },
+    {
+      "topic": "demo-buchung",
+      "summary": {
+        "key": "demo-buchung-zettel",
+        "title": "Umsatzsteuer & Buchungen",
+        "content_md": "- **Eingangsrechnung** (Einkauf): Aufwandskonto *Soll*, **Vorsteuer** *Soll*, Verbindlichkeiten *Haben*.\n- **Ausgangsrechnung** (Verkauf): Forderungen *Soll*, Umsatzerlöse *Haben*, **Umsatzsteuer** *Haben*.\n- **Zahllast** = Umsatzsteuer − Vorsteuer (an das Finanzamt)."
+      },
+      "flashcards": [
+        { "key": "demo-buchung-c1", "front": "Buchungssatz Eingangsrechnung Werbung (netto + USt)?", "back": "Werbekosten (S) + Vorsteuer (S) an Verbindlichkeiten aus LuL (H)" },
+        { "key": "demo-buchung-c2", "front": "Wie berechnet sich die Zahllast?", "back": "Umsatzsteuer − Vorsteuer" },
+        { "key": "demo-buchung-c3", "front": "Buchungssatz Ausgangsrechnung?", "back": "Forderungen aus LuL (S) an Umsatzerlöse (H) + Umsatzsteuer (H)" }
+      ],
+      "glossary": [
+        { "key": "demo-g-vorsteuer", "term": "Vorsteuer", "definition": "Umsatzsteuer auf Eingangsrechnungen, die das Unternehmen vom Finanzamt zurückfordern kann." }
+      ],
+      "questions": [
+        { "key": "demo-buchung-q1", "type": "tf", "exam_part": 2, "difficulty": 1, "explanation": "Die Vorsteuer wird als Forderung gegen das Finanzamt im Soll gebucht.",
+          "body": { "statement": "Die Vorsteuer wird bei einer Eingangsrechnung im Soll gebucht.", "answer": true } }
+      ],
+      "templates": [
+        { "key": "demo-buchung-t-eingang", "type": "booking", "exam_part": 2, "difficulty": 2, "points": 4,
+          "vars": {
+            "ctx": { "type": "pick", "options": [
+              { "firma": "Pixelwerk GmbH", "was": "die Gestaltung eines Flyers" },
+              { "firma": "Druckerei Maier", "was": "den Druck von Plakaten" },
+              { "firma": "Mediahaus Rhein", "was": "die Produktion eines Imagefilms" } ] },
+            "netto": { "type": "int", "min": 500, "max": 5000, "step": 50, "fmt": "eur0" }
+          },
+          "body": {
+            "prompt": "Wir erhalten eine Eingangsrechnung der {ctx.firma} für {ctx.was}: Nettobetrag {netto|eur}, zuzüglich 19 % Umsatzsteuer. Bilden Sie den Buchungssatz.",
+            "accounts": ["6600 Werbekosten", "1406 Vorsteuer 19 %", "1600 Verbindlichkeiten aus LuL", "1200 Bank", "1400 Forderungen aus LuL", "8400 Umsatzerlöse 19 %", "1776 Umsatzsteuer 19 %"],
+            "lines": [
+              { "account": "6600 Werbekosten", "side": "S", "amount": "netto" },
+              { "account": "1406 Vorsteuer 19 %", "side": "S", "amount": "round(netto*0.19,2)" },
+              { "account": "1600 Verbindlichkeiten aus LuL", "side": "H", "amount": "round(netto*1.19,2)" } ] } },
+        { "key": "demo-buchung-t-ausgang", "type": "booking", "exam_part": 2, "difficulty": 2, "points": 4,
+          "vars": {
+            "kunde": { "type": "pick", "options": ["Bäckerei Sonnenschein", "Autohaus Wagner", "Fitnessstudio Vital"] },
+            "netto": { "type": "int", "min": 800, "max": 6000, "step": 100 }
+          },
+          "body": {
+            "prompt": "Wir stellen der {kunde} für eine Kampagne {netto|eur} netto zuzüglich 19 % Umsatzsteuer in Rechnung. Bilden Sie den Buchungssatz.",
+            "accounts": ["6600 Werbekosten", "1406 Vorsteuer 19 %", "1600 Verbindlichkeiten aus LuL", "1200 Bank", "1400 Forderungen aus LuL", "8400 Umsatzerlöse 19 %", "1776 Umsatzsteuer 19 %"],
+            "lines": [
+              { "account": "1400 Forderungen aus LuL", "side": "S", "amount": "round(netto*1.19,2)" },
+              { "account": "8400 Umsatzerlöse 19 %", "side": "H", "amount": "netto" },
+              { "account": "1776 Umsatzsteuer 19 %", "side": "H", "amount": "round(netto*0.19,2)" } ] } },
+        { "key": "demo-buchung-t-zahllast", "type": "calc", "exam_part": 2, "difficulty": 2, "points": 3,
+          "vars": { "ust": { "type": "int", "min": 2000, "max": 9000, "step": 100 }, "vor": { "type": "int", "min": 500, "max": 1900, "step": 100 } },
+          "body": { "prompt": "Im Monat sind {ust|eur0} Umsatzsteuer und {vor|eur0} Vorsteuer angefallen. Wie hoch ist die Zahllast?", "answer": "ust-vor", "unit": "€", "decimals": 2,
+            "steps": ["Zahllast = Umsatzsteuer − Vorsteuer", "{ust|eur0} − {vor|eur0} = {result|eur}"] } }
+      ]
+    }
+  ]
+}

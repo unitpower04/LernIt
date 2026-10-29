@@ -1,0 +1,106 @@
+{
+  "demo": true,
+  "items": [
+    {
+      "topic": "demo-preis",
+      "summary": {
+        "key": "demo-preis-zettel",
+        "title": "Preispolitik & Kalkulation",
+        "content_md": "**Preispolitik** legt fest, zu welchem Preis ein Angebot verkauft wird.\n\n### Wichtige Formeln\n- **Angebotspreis netto** = Selbstkosten + Gewinnzuschlag\n- **Brutto** = Netto × 1,19 (19 % USt)\n- **Skonto-Zahlung** = Rechnungsbetrag × (1 − Skonto %)\n- **TKP** (Tausender-Kontakt-Preis) = Kosten ÷ Kontakte × 1.000\n- **Deckungsbeitrag je Stück** = Preis − variable Kosten\n- **Break-even-Menge** = Fixkosten ÷ Deckungsbeitrag je Stück\n\n### Preisstrategien\n1. *Skimming* (Abschöpfung): hoher Einstiegspreis\n2. *Penetration*: niedriger Einstiegspreis, schneller Marktanteil"
+      },
+      "flashcards": [
+        { "key": "demo-preis-c1", "front": "Formel TKP?", "back": "TKP = Kosten ÷ Kontakte × 1.000", "hint": "Kosten pro tausend erreichte Kontakte" },
+        { "key": "demo-preis-c2", "front": "Break-even-Menge?", "back": "Fixkosten ÷ Deckungsbeitrag je Stück" },
+        { "key": "demo-preis-c3", "front": "Was ist Skimming?", "back": "Hoher Einführungspreis, der später gesenkt wird (Abschöpfungsstrategie)." },
+        { "key": "demo-preis-c4", "front": "Was ist Penetration?", "back": "Niedriger Einführungspreis, um schnell Marktanteile zu gewinnen." },
+        { "key": "demo-preis-c5", "front": "Deckungsbeitrag je Stück?", "back": "Verkaufspreis − variable Kosten je Stück" },
+        { "key": "demo-preis-c6", "front": "Wie berechnet man den Bruttopreis?", "back": "Nettopreis × 1,19 (bei 19 % Umsatzsteuer)." },
+        { "key": "demo-preis-c7", "front": "Was ist Skonto?", "back": "Preisnachlass bei Zahlung innerhalb einer festgelegten Frist." },
+        { "key": "demo-preis-c8", "front": "Unterschied Rabatt und Skonto?", "back": "Rabatt: Nachlass auf den Preis (Menge, Treue …). Skonto: Nachlass für schnelle Zahlung." }
+      ],
+      "glossary": [
+        { "key": "demo-g-tkp", "term": "TKP", "definition": "Tausender-Kontakt-Preis: Kosten, um 1.000 Kontakte zu erreichen." },
+        { "key": "demo-g-db", "term": "Deckungsbeitrag", "definition": "Verkaufspreis abzüglich variabler Kosten – er trägt zur Deckung der Fixkosten bei." },
+        { "key": "demo-g-skonto", "term": "Skonto", "definition": "Preisnachlass bei Zahlung innerhalb einer vereinbarten Frist." }
+      ],
+      "questions": [
+        { "key": "demo-preis-q1", "type": "mc", "exam_part": 2, "difficulty": 1, "explanation": "Hohe Einstiegspreise, die später sinken, heißen Skimming.",
+          "body": { "prompt": "Ein neues Produkt wird zunächst sehr teuer eingeführt, später wird der Preis gesenkt. Wie heißt diese Strategie?", "options": [
+            { "text": "Skimming-Strategie", "correct": true }, { "text": "Penetrationsstrategie", "correct": false }, { "text": "Preisbündelung", "correct": false }, { "text": "Preisdifferenzierung", "correct": false } ] } },
+        { "key": "demo-preis-q2", "type": "tf", "exam_part": 2, "difficulty": 1, "explanation": "Skonto gibt es für schnelle Zahlung.",
+          "body": { "statement": "Skonto ist ein Preisnachlass für Zahlung innerhalb einer bestimmten Frist.", "answer": true } },
+        { "key": "demo-preis-q3", "type": "match", "exam_part": 2, "difficulty": 2,
+          "body": { "prompt": "Ordnen Sie die Begriffe den Erklärungen zu.", "items": [
+            { "term": "TKP", "match": "Kosten pro 1.000 Kontakte" },
+            { "term": "Deckungsbeitrag", "match": "Preis minus variable Kosten" },
+            { "term": "Skonto", "match": "Nachlass bei schneller Zahlung" } ], "distractors": ["Zuschlag für Lagerhaltung"] } },
+        { "key": "demo-preis-q4", "type": "order", "exam_part": 2, "difficulty": 2, "explanation": "Vom Netto zum Brutto: Selbstkosten, Gewinn, Netto, USt, Brutto.",
+          "body": { "prompt": "Bringen Sie die Kalkulation in die richtige Reihenfolge.", "items": ["Selbstkosten ermitteln", "Gewinnzuschlag aufschlagen", "Nettoangebotspreis", "Umsatzsteuer aufschlagen", "Bruttoangebotspreis"] } }
+      ],
+      "templates": [
+        { "key": "demo-preis-t-angebot", "type": "calc", "exam_part": 2, "difficulty": 2, "points": 5,
+          "vars": {
+            "ctx": { "type": "pick", "options": [
+              { "firma": "Studio Nordlicht", "leistung": "Gestaltung einer Imagebroschüre" },
+              { "firma": "Mediahaus Rhein", "leistung": "Produktion eines Erklärfilms" },
+              { "firma": "Pixelwerk GmbH", "leistung": "Entwicklung einer Landingpage" },
+              { "firma": "Textkontor", "leistung": "Konzeption einer Pressekampagne" } ] },
+            "kosten": { "type": "int", "min": 1200, "max": 6000, "step": 100, "fmt": "eur0" },
+            "gewinn": { "type": "int", "min": 8, "max": 25, "step": 1 },
+            "netto": { "type": "expr", "expr": "kosten*(1+gewinn/100)", "decimals": 2, "fmt": "eur" }
+          },
+          "explanation": "Selbstkosten + {gewinn} % Gewinn = Nettopreis; danach 19 % Umsatzsteuer.",
+          "body": {
+            "prompt": "{ctx.firma} kalkuliert die {ctx.leistung}. Die Selbstkosten betragen {kosten|eur0}, der Gewinnzuschlag {gewinn} %. Berechnen Sie den Bruttoangebotspreis (19 % USt).",
+            "answer": "kosten*(1+gewinn/100)*1.19", "unit": "€", "decimals": 2,
+            "steps": ["Gewinn: {kosten|eur0} × {gewinn} % → Nettopreis = {netto}", "Umsatzsteuer: Nettopreis × 1,19", "Bruttoangebotspreis = {result|eur}"] } },
+        { "key": "demo-preis-t-skonto", "type": "calc", "exam_part": 2, "difficulty": 2, "points": 4,
+          "vars": {
+            "firma": { "type": "pick", "options": ["Druckerei Maier", "Fotostudio Klar", "Schilder-Schmidt", "Flyer24"] },
+            "rech": { "type": "int", "min": 500, "max": 8000, "step": 50 },
+            "sk": { "type": "int", "min": 2, "max": 3, "step": 1 }
+          },
+          "body": {
+            "prompt": "Die Rechnung der {firma} lautet über {rech|eur} brutto. Bei Zahlung innerhalb von 10 Tagen werden {sk} % Skonto gewährt. Wie viel Euro überweisen Sie bei Skontoabzug?",
+            "answer": "rech*(1-sk/100)", "unit": "€", "decimals": 2,
+            "steps": ["Skontobetrag = {rech|eur} × {sk} %", "Überweisungsbetrag = {rech|eur} − Skonto = {result|eur}"] } },
+        { "key": "demo-preis-t-tkp", "type": "calc", "exam_part": 2, "difficulty": 2, "points": 4,
+          "vars": {
+            "medium": { "type": "pick", "options": ["Radiospot", "Online-Banner", "Anzeige in der Stadtzeitung", "Plakat-Kampagne"] },
+            "kosten": { "type": "int", "min": 2000, "max": 20000, "step": 500 },
+            "reich": { "type": "int", "min": 100000, "max": 900000, "step": 10000 }
+          },
+          "explanation": "TKP = Kosten ÷ Kontakte × 1.000.",
+          "body": {
+            "prompt": "Ein {medium} kostet {kosten|eur0} und erreicht {reich} Kontakte. Berechnen Sie den TKP.",
+            "answer": "kosten/reich*1000", "unit": "€", "decimals": 2,
+            "steps": ["TKP = Kosten ÷ Kontakte × 1.000", "TKP = {kosten} ÷ {reich} × 1.000 = {result|eur}"] } },
+        { "key": "demo-preis-t-breakeven", "type": "calc", "exam_part": 2, "difficulty": 3, "points": 5,
+          "vars": {
+            "produkt": { "type": "pick", "options": ["Tassen mit Logo", "Notizbücher", "Stoffbeutel", "Powerbanks"] },
+            "var": { "type": "int", "min": 2, "max": 12, "step": 1 },
+            "db": { "type": "int", "min": 3, "max": 10, "step": 1 },
+            "menge": { "type": "int", "min": 100, "max": 600, "step": 50 },
+            "preis": { "type": "expr", "expr": "var+db" },
+            "fix": { "type": "expr", "expr": "db*menge" }
+          },
+          "body": {
+            "prompt": "Für {produkt} entstehen Fixkosten von {fix|eur0}. Der Verkaufspreis beträgt {preis|eur} je Stück, die variablen Kosten {var|eur} je Stück. Ab welcher Menge (Stück) ist die Gewinnschwelle erreicht?",
+            "answer": "menge", "unit": "Stück", "decimals": 0,
+            "steps": ["Deckungsbeitrag je Stück = {preis|eur} − {var|eur} = {db|eur}", "Break-even = {fix|eur0} ÷ {db|eur} = {menge} Stück"] } },
+        { "key": "demo-preis-t-tkp-mc", "type": "mc", "exam_part": 2, "difficulty": 2,
+          "vars": {
+            "kosten": { "type": "int", "min": 4000, "max": 12000, "step": 1000 },
+            "tk": { "type": "int", "min": 20, "max": 60, "step": 5 },
+            "kontakte": { "type": "expr", "expr": "kosten/tk*1000" },
+            "w1": { "type": "expr", "expr": "tk+5" },
+            "w2": { "type": "expr", "expr": "tk-5" },
+            "w3": { "type": "expr", "expr": "tk*10" }
+          },
+          "explanation": "TKP = {kosten} ÷ {kontakte} × 1.000 = {tk} €.",
+          "body": { "prompt": "Eine Kampagne kostet {kosten|eur0} und erreicht {kontakte|int} Kontakte. Wie hoch ist der TKP?", "options": [
+            { "text": "{tk|eur0}", "correct": true }, { "text": "{w1|eur0}", "correct": false }, { "text": "{w2|eur0}", "correct": false }, { "text": "{w3|eur0}", "correct": false } ] } }
+      ]
+    }
+  ]
+}

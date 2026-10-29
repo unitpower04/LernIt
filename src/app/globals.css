@@ -1,0 +1,190 @@
+@import "tailwindcss";
+
+@custom-variant dark (&:where(.dark, .dark *));
+
+:root {
+  --bg: #f6f7fb;
+  --surface: #ffffff;
+  --surface-2: #eef0f6;
+  --border: #dfe2ec;
+  --fg: #1a1d2b;
+  --muted: #667085;
+  --brand: #4f46e5;
+  --brand-fg: #ffffff;
+  --brand-soft: #e8e7fd;
+  --ok: #15803d;
+  --ok-soft: #dcfce7;
+  --bad: #b91c1c;
+  --bad-soft: #fee2e2;
+  --warn: #b45309;
+  --warn-soft: #fef3c7;
+  color-scheme: light;
+}
+.dark {
+  --bg: #0e1118;
+  --surface: #171b26;
+  --surface-2: #202636;
+  --border: #2a3144;
+  --fg: #e8eaf2;
+  --muted: #98a2b8;
+  --brand: #8b85ff;
+  --brand-fg: #0e1118;
+  --brand-soft: #25264a;
+  --ok: #4ade80;
+  --ok-soft: #12301f;
+  --bad: #f87171;
+  --bad-soft: #3a1717;
+  --warn: #fbbf24;
+  --warn-soft: #3a2c0c;
+  color-scheme: dark;
+}
+
+@theme inline {
+  --color-bg: var(--bg);
+  --color-surface: var(--surface);
+  --color-surface2: var(--surface-2);
+  --color-line: var(--border);
+  --color-fg: var(--fg);
+  --color-muted: var(--muted);
+  --color-brand: var(--brand);
+  --color-brandfg: var(--brand-fg);
+  --color-brandsoft: var(--brand-soft);
+  --color-ok: var(--ok);
+  --color-oksoft: var(--ok-soft);
+  --color-bad: var(--bad);
+  --color-badsoft: var(--bad-soft);
+  --color-warn: var(--warn);
+  --color-warnsoft: var(--warn-soft);
+  --font-sans: ui-sans-serif, system-ui, -apple-system, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif;
+}
+
+html {
+  -webkit-tap-highlight-color: transparent;
+}
+body {
+  background: var(--bg);
+  color: var(--fg);
+  font-family: var(--font-sans);
+  min-height: 100dvh;
+}
+
+@layer components {
+  .card {
+    @apply rounded-2xl border border-line bg-surface p-4 shadow-sm;
+  }
+  .btn {
+    @apply inline-flex min-h-11 items-center justify-center gap-2 rounded-xl border border-line bg-surface px-4 py-2 text-sm font-medium transition active:scale-[0.98] disabled:cursor-not-allowed disabled:opacity-50;
+  }
+  .btn:hover:not(:disabled) {
+    background: var(--surface-2);
+  }
+  .btn-primary {
+    @apply border-transparent bg-brand text-brandfg;
+  }
+  .btn-primary:hover:not(:disabled) {
+    background: var(--brand);
+    filter: brightness(1.08);
+  }
+  .btn-ok {
+    @apply border-transparent bg-ok text-bg;
+  }
+  .btn-bad {
+    @apply border-transparent bg-bad text-bg;
+  }
+  .input {
+    @apply min-h-11 w-full rounded-xl border border-line bg-surface px-3 py-2 text-base outline-none focus:border-brand focus:ring-2 focus:ring-brand/30;
+  }
+  .chip {
+    @apply inline-flex items-center gap-1 rounded-full bg-surface2 px-2.5 py-0.5 text-xs font-medium text-muted;
+  }
+  .label {
+    @apply mb-1 block text-sm font-medium;
+  }
+  .h1 {
+    @apply text-2xl font-bold tracking-tight;
+  }
+  .h2 {
+    @apply text-lg font-semibold;
+  }
+  .opt {
+    @apply flex min-h-12 w-full items-start gap-3 rounded-xl border border-line bg-surface px-3 py-3 text-left text-base transition;
+  }
+  .opt[data-sel="true"] {
+    border-color: var(--brand);
+    background: var(--brand-soft);
+  }
+  .opt[data-state="right"] {
+    border-color: var(--ok);
+    background: var(--ok-soft);
+  }
+  .opt[data-state="wrong"] {
+    border-color: var(--bad);
+    background: var(--bad-soft);
+  }
+}
+
+.prose-lern h1,
+.prose-lern h2,
+.prose-lern h3 {
+  font-weight: 700;
+  margin: 1.1em 0 0.4em;
+}
+.prose-lern h1 {
+  font-size: 1.4rem;
+}
+.prose-lern h2 {
+  font-size: 1.2rem;
+}
+.prose-lern h3 {
+  font-size: 1.05rem;
+}
+.prose-lern p {
+  margin: 0.6em 0;
+  line-height: 1.6;
+}
+.prose-lern ul {
+  list-style: disc;
+  padding-left: 1.3em;
+  margin: 0.6em 0;
+}
+.prose-lern ol {
+  list-style: decimal;
+  padding-left: 1.3em;
+  margin: 0.6em 0;
+}
+.prose-lern li {
+  margin: 0.25em 0;
+  line-height: 1.55;
+}
+.prose-lern table {
+  width: 100%;
+  border-collapse: collapse;
+  margin: 0.8em 0;
+  font-size: 0.9rem;
+  display: block;
+  overflow-x: auto;
+}
+.prose-lern th,
+.prose-lern td {
+  border: 1px solid var(--border);
+  padding: 0.35em 0.6em;
+  text-align: left;
+}
+.prose-lern th {
+  background: var(--surface-2);
+}
+.prose-lern code {
+  background: var(--surface-2);
+  border-radius: 6px;
+  padding: 0.1em 0.35em;
+  font-size: 0.9em;
+}
+.prose-lern blockquote {
+  border-left: 3px solid var(--brand);
+  padding-left: 0.8em;
+  color: var(--muted);
+  margin: 0.8em 0;
+}
+.prose-lern strong {
+  font-weight: 650;
+}
