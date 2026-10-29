@@ -82,7 +82,7 @@ function check(all: { file: string; bundle: Bundle }[]) {
         dupe(t.key);
         for (let seed = 1; seed <= 40; seed++) {
           try {
-            const raw: RawTemplate = { id: t.key!, topic_id: it.topic, type: t.type, exam_part: t.exam_part, difficulty: t.difficulty, points: t.points ?? DEFAULT_POINTS[t.type], body: t.body, explanation: t.explanation ?? null, source: t.source ?? null, vars: t.vars };
+            const raw: RawTemplate = { id: t.key!, topic_id: it.topic, type: t.type, exam_part: t.exam_part, difficulty: t.difficulty, points: t.points ?? DEFAULT_POINTS[t.type], body: t.body, explanation: t.explanation ?? null, source: t.source ?? null, vars: Object.fromEntries(Object.entries(t.vars).reverse()) }; // umgekehrt: jsonb behält keine Reihenfolge
             const c = instantiate(raw, seed * 7919);
             const text = JSON.stringify(c.body) + (c.explanation ?? "");
             if (/\{[A-Za-z_][\w.]*(\|\w+)?\}/.test(text)) throw new Error("unaufgelöster Platzhalter: " + (text.match(/\{[A-Za-z_][\w.]*(\|\w+)?\}/) ?? [""])[0]);

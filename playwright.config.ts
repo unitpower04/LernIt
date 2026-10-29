@@ -1,7 +1,9 @@
 import { defineConfig, devices } from "@playwright/test";
 
 // UI-Tests laufen gegen einen lokalen Supabase-Ersatz (e2e/mock-supabase.ts), nicht gegen die echte Datenbank.
-const MOCK = "http://127.0.0.1:54321";
+const REAL = process.env.E2E_REAL_URL; // optional: gegen echtes Supabase testen (siehe e2e/README in CLAUDE.md)
+const MOCK = REAL ?? "http://127.0.0.1:54321";
+const KEY = process.env.E2E_REAL_KEY ?? "test";
 const exe = process.env.CHROMIUM_PATH ?? "/opt/pw-browsers/chromium";
 
 export default defineConfig({
@@ -16,9 +18,9 @@ export default defineConfig({
     { name: "desktop", use: { viewport: { width: 1280, height: 800 } } },
   ],
   webServer: [
-    { command: "npx tsx e2e/mock-supabase.ts 54321", url: `${MOCK}/auth/v1/health`, reuseExistingServer: true },
+    ...(REAL ? [] : [{ command: "npx tsx e2e/mock-supabase.ts 54321", url: `${MOCK}/auth/v1/health`, reuseExistingServer: true }]),
     {
-      command: `NEXT_PUBLIC_SUPABASE_URL=${MOCK} NEXT_PUBLIC_SUPABASE_PUBLISHABLE_KEY=test npx next build 2>&1 | tail -3 && NEXT_PUBLIC_SUPABASE_URL=${MOCK} NEXT_PUBLIC_SUPABASE_PUBLISHABLE_KEY=test npx next start -p 3100`,
+      command: `NEXT_PUBLIC_SUPABASE_URL=${MOCK} NEXT_PUBLIC_SUPABASE_PUBLISHABLE_KEY=${KEY} npx next build 2>&1 | tail -3 && NEXT_PUBLIC_SUPABASE_URL=${MOCK} NEXT_PUBLIC_SUPABASE_PUBLISHABLE_KEY=${KEY} npx next start -p 3100`,
       url: "http://127.0.0.1:3100/login",
       timeout: 300_000,
       reuseExistingServer: true,

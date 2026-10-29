@@ -18,4 +18,5 @@
 
 ## Offene Fragen / Hinweise
 - KI-Bewertung offener Aufgaben (Claude-API) ist nur vorbereitet, nicht aktiv (API-Key fehlt)
-- Echte Supabase-Flows wurden in der Sandbox nicht automatisiert getestet (Netzwerk gesperrt); UI-Tests liefen gegen den Mock
+- E2E-Tests laufen grün (20/20) sowohl gegen den lokalen Ersatz als auch gegen das echte Supabase (Test-Codes/-Nutzer danach gelöscht)
+- Gefundener+behobener Fehler: jsonb behält die Reihenfolge der Vorlagen-Variablen nicht → `rollVars` löst abgeleitete Variablen jetzt abhängigkeitsbasiert auf

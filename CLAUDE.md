@@ -13,7 +13,7 @@ Prüfungs-Lern-App für Kaufleute für Marketingkommunikation (IHK-Abschlussprü
 | `npm run content:import` | Inhalte nach Supabase schreiben (braucht `SUPABASE_SERVICE_ROLE_KEY` in `.env.local`) |
 | `npm run content:emit` | Wie import, gibt aber `select import_bundle(...)`-SQL aus (SQL-Editor / MCP) |
 | `npm run content:reset-demo` | Alle Demo-Daten entfernen |
-| `npm run test:e2e` | Playwright gegen lokalen Supabase-Ersatz (`e2e/mock-supabase.ts`) |
+| `npm run test:e2e` | Playwright gegen lokalen Supabase-Ersatz (`e2e/mock-supabase.ts`). Gegen echtes Supabase: `E2E_REAL_URL`, `E2E_REAL_KEY`, `E2E_CODE`, `E2E_ADMIN_CODE` setzen (temporäre Einladungscodes anlegen, danach Testnutzer `t%@example.com` löschen); in der Sandbox zusätzlich `NODE_USE_ENV_PROXY=1 NODE_EXTRA_CA_CERTS=/root/.ccr/ca-bundle.crt` |
 
 ## Architektur
 - `src/app/(auth)` Login/Registrierung (nur mit Einladungscode)/Passwort. `src/app/(app)` geschützter Bereich (Dashboard, `lernen`, `ueben/[mode]`, `pruefung`, `freunde`, `duell`, `glossar`, `admin`, `einstellungen`).

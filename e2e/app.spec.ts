@@ -1,9 +1,11 @@
 import { expect, test, type Page } from "@playwright/test";
 
+const USER_CODE = process.env.E2E_CODE ?? "TESTCODE";
+const ADMIN_CODE = process.env.E2E_ADMIN_CODE ?? "ADMINCODE";
 let n = 0;
 const email = () => `t${Date.now()}${n++}@example.com`;
 
-async function register(page: Page, code = "TESTCODE", name = "Testerin") {
+async function register(page: Page, code = USER_CODE, name = "Testerin") {
   await page.goto("/registrieren");
   await page.getByLabel("Einladungscode").fill(code);
   await page.getByLabel("Anzeigename").fill(name);
@@ -157,12 +159,12 @@ test("Glossar, Sprint, Einstellungen, Dark Mode, Freunde/Duell", async ({ page }
 });
 
 test("Admin: Zugriff nur für Admins, Import per UI", async ({ page }) => {
-  await register(page, "TESTCODE", "Normal");
+  await register(page, USER_CODE, "Normal");
   await page.goto("/admin");
   await expect(page.getByText("Kein Zugriff")).toBeVisible();
   await page.context().clearCookies();
   await page.evaluate(() => localStorage.clear());
-  await register(page, "ADMINCODE", "Chefin");
+  await register(page, ADMIN_CODE, "Chefin");
   await page.goto("/admin");
   await expect(page.getByRole("heading", { name: "Admin" })).toBeVisible();
   const bundle = JSON.stringify({ items: [{ topic: "demo-swot", flashcards: [{ key: "x-test-1", front: "Testfrage", back: "Testantwort" }] }] });

@@ -62,9 +62,12 @@ function deepMap(x: unknown, f: (s: string) => string): unknown {
 }
 
 export function rollVars(defs: Record<string, VarDef>, rng: Rng): Record<string, Val> {
+  // Reihenfolge der Schlüssel ist nach dem Speichern in jsonb nicht garantiert:
+  // erst alle unabhängigen Variablen würfeln (sortiert → reproduzierbar), dann abgeleitete (expr) nach Abhängigkeit.
   const vals: Record<string, Val> = {};
   const nums = () => Object.fromEntries(Object.entries(vals).filter(([, v]) => typeof v === "number")) as Record<string, number>;
-  for (const [name, d] of Object.entries(defs)) {
+  const entries = Object.entries(defs).sort(([a], [b]) => (a < b ? -1 : a > b ? 1 : 0));
+  for (const [name, d] of entries) {
     switch (d.type) {
       case "int": {
         const steps = Math.floor((d.max - d.min) / d.step);
@@ -81,12 +84,24 @@ export function rollVars(defs: Record<string, VarDef>, rng: Rng): Record<string,
       case "pick":
         vals[name] = d.options[Math.floor(rng() * d.options.length)] as Val;
         break;
-      case "expr": {
+    }
+  }
+  let pending = entries.filter(([, d]) => d.type === "expr");
+  while (pending.length) {
+    const rest: typeof pending = [];
+    let lastErr: unknown;
+    for (const [name, d] of pending) {
+      if (d.type !== "expr") continue;
+      try {
         const v = evalExpr(d.expr, nums());
         vals[name] = d.decimals !== undefined ? round(v, d.decimals) : v;
-        break;
+      } catch (e) {
+        lastErr = e;
+        rest.push([name, d]);
       }
     }
+    if (rest.length === pending.length) throw lastErr;
+    pending = rest;
   }
   return vals;
 }
