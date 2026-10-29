@@ -43,7 +43,7 @@ test("Dashboard, Navigation, Lernen → Thema → Multiple Choice", async ({ pag
   await page.getByRole("link", { name: /Mako \(Demo\)/ }).click();
   await page.getByRole("link", { name: /LF6/ }).click();
   await page.getByRole("link", { name: /SWOT-Analyse/ }).click();
-  await expect(page.getByText("Lernzettel")).toBeVisible();
+  await expect(page.getByRole("heading", { name: "Lernzettel" })).toBeVisible();
   await expect(page.getByText("Strengths (Stärken)")).toBeVisible();
   await noHScroll(page);
   await page.getByRole("link", { name: /Multiple Choice/ }).click();
