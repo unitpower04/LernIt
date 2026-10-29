@@ -12,12 +12,12 @@ export default defineConfig({
   fullyParallel: false,
   workers: 1,
   reporter: [["list"]],
-  use: { baseURL: "http://127.0.0.1:3100", trace: "retain-on-failure", launchOptions: { executablePath: exe, args: ["--no-sandbox"] } },
+  use: { baseURL: process.env.E2E_BASE_URL ?? "http://127.0.0.1:3100", trace: "retain-on-failure", launchOptions: { executablePath: exe, args: ["--no-sandbox"] } },
   projects: [
     { name: "mobil", use: { ...devices["Pixel 7"], launchOptions: { executablePath: exe, args: ["--no-sandbox"] } } },
     { name: "desktop", use: { viewport: { width: 1280, height: 800 } } },
   ],
-  webServer: [
+  webServer: process.env.E2E_BASE_URL ? [] : [
     ...(REAL ? [] : [{ command: "npx tsx e2e/mock-supabase.ts 54321", url: `${MOCK}/auth/v1/health`, reuseExistingServer: true }]),
     {
       command: `NEXT_PUBLIC_SUPABASE_URL=${MOCK} NEXT_PUBLIC_SUPABASE_PUBLISHABLE_KEY=${KEY} npx next build 2>&1 | tail -3 && NEXT_PUBLIC_SUPABASE_URL=${MOCK} NEXT_PUBLIC_SUPABASE_PUBLISHABLE_KEY=${KEY} npx next start -p 3100`,
