@@ -7,7 +7,7 @@ import { BLUEPRINTS, EXAM_WEIGHT, ihkGrade, overallResult, PART_SHORT, type Exam
 import { dateDE } from "@/lib/format";
 import { supabase } from "@/lib/supabase/client";
 
-const LABEL: Record<string, string> = { teil1: "Teil 1", teil2: "Teil 2", teil3: "Teil 3", teil4: "Teil 4 (Gespräch)", mini: "Mini-Prüfung" };
+const LABEL: Record<string, string> = { teil1: "Teil 1 – Konzepte", teil2: "Teil 2 – WiSo", teil3: "Teil 3 – Umsetzung", teil4: "Teil 4 (Gespräch)", mini: "Mini-Prüfung" };
 
 export default function VerlaufPage() {
   const [items, setItems] = useState<Attempt[] | null>(null);

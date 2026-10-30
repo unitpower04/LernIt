@@ -86,15 +86,15 @@ export type ErrorBody = z.infer<typeof errorBody>;
 export type AdBody = z.infer<typeof adBody>;
 
 export const DEFAULT_POINTS: Record<QType, number> = {
-  mc: 2,
-  tf: 1,
+  mc: 4,
+  tf: 2,
   match: 4,
-  order: 3,
-  cloze: 3,
-  calc: 5,
+  order: 4,
+  cloze: 4,
+  calc: 4,
   booking: 4,
-  case: 25,
-  error: 3,
+  case: 20,
+  error: 4,
   ad: 6,
 };
 

@@ -4,7 +4,7 @@ export type ModeGroup = "merken" | "aufgaben" | "rechnen" | "pruefung";
 
 export const MODE_GROUPS: { key: ModeGroup; title: string; hint: string }[] = [
   { key: "merken", title: "Merken & Wiederholen", hint: "Begriffe und Wissen einprägen – ideal zum Start eines Themas" },
-  { key: "aufgaben", title: "Aufgaben üben", hint: "Wissen anwenden, wie in der gebundenen Prüfung (Teil 2 & 3)" },
+  { key: "aufgaben", title: "Aufgaben üben", hint: "Wissen anwenden, wie in den gebundenen Prüfungsteilen (Teil 2 WiSo & Teil 3 Umsetzung)" },
   { key: "rechnen", title: "Rechnen & Buchen", hint: "Neue Zahlen bei jedem Durchgang" },
   { key: "pruefung", title: "Prüfungsstil", hint: "Offene und analytische Aufgaben (u. a. Teil 1)" },
 ];

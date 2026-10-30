@@ -1,15 +1,20 @@
 import type { QType } from "@/lib/content/schema";
 
 /** Gewichtung der Prüfungsbereiche (MarketKfmAusbV § 9). */
-export const EXAM_WEIGHT: Record<number, number> = { 1: 0.3, 2: 0.3, 3: 0.1, 4: 0.3 };
+export const EXAM_WEIGHT: Record<number, number> = { 1: 0.3, 2: 0.1, 3: 0.3, 4: 0.3 };
 
+/**
+ * Nummerierung wie in den IHK-Aufgabensätzen (Sommer 2026):
+ * Teil 1 Konzepte (150 Min), Teil 2 Wirtschafts- und Sozialkunde (60 Min),
+ * Teil 3 Umsetzung und Steuerung (90 Min), Teil 4 Fachgespräch.
+ */
 export const PART_NAMES: Record<number, string> = {
   1: "Entwicklung von Marketing- und Kommunikationskonzepten",
-  2: "Umsetzung und Steuerung von Marketing- und Kommunikationsmaßnahmen",
-  3: "Wirtschafts- und Sozialkunde",
+  2: "Wirtschafts- und Sozialkunde",
+  3: "Umsetzung und Steuerung von Marketing- und Kommunikationsmaßnahmen",
   4: "Fallbezogenes Fachgespräch",
 };
-export const PART_SHORT: Record<number, string> = { 1: "Konzepte", 2: "Umsetzung", 3: "WiSo", 4: "Fachgespräch" };
+export const PART_SHORT: Record<number, string> = { 1: "Konzepte", 2: "WiSo", 3: "Umsetzung", 4: "Fachgespräch" };
 
 export type ExamKind = "teil1" | "teil2" | "teil3" | "mini";
 
@@ -28,28 +33,28 @@ export const BLUEPRINTS: Record<ExamKind, Blueprint> = {
     label: "Teil 1 – Konzeptentwicklung",
     parts: [1],
     minutes: 150,
-    count: 4,
+    count: 5,
     types: ["case"],
     form: "schriftlich, ungebunden",
-    desc: "Offene Handlungssituationen mit Teilaufgaben: Marktanalyse, Planung, Maßnahmen, Budget. 150 Min.",
+    desc: "5 Situationen à 20 Punkte mit offenen Teilaufgaben: Marktanalyse, Planung, Maßnahmen, Budget. 150 Min.",
   },
   teil2: {
-    label: "Teil 2 – Umsetzung & Steuerung",
+    label: "Teil 2 – Wirtschafts- und Sozialkunde",
     parts: [2],
-    minutes: 90,
-    count: 25,
-    types: ["mc", "tf", "match", "order", "cloze", "calc", "booking", "error", "ad"],
-    form: "schriftlich, gebunden",
-    desc: "Ankreuz-, Zuordnungs- und Rechenaufgaben inkl. Rechnungswesen. 90 Min.",
-  },
-  teil3: {
-    label: "Teil 3 – Wirtschafts- und Sozialkunde",
-    parts: [3],
     minutes: 60,
     count: 25,
     types: ["mc", "tf", "match", "order", "cloze", "calc", "error"],
     form: "schriftlich, gebunden",
-    desc: "Gebundene Aufgaben zu Berufs- und Arbeitswelt, Recht, VWL. 60 Min.",
+    desc: "25 gebundene Aufgaben à 4 Punkte: Recht, Arbeitswelt, Sozialversicherung, VWL. 60 Min.",
+  },
+  teil3: {
+    label: "Teil 3 – Umsetzung & Steuerung",
+    parts: [3],
+    minutes: 90,
+    count: 25,
+    types: ["mc", "tf", "match", "order", "cloze", "calc", "booking", "error", "ad"],
+    form: "schriftlich, gebunden",
+    desc: "25 gebundene Aufgaben à 4 Punkte: Dienstleister, Produktion, Medien, Recht, Rechnungswesen/KLR. 90 Min.",
   },
   mini: {
     label: "Mini-Prüfung (20 Min)",
