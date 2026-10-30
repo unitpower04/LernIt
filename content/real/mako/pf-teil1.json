@@ -1,0 +1,284 @@
+{
+ "demo": false,
+ "items": [
+  {
+   "topic": "mako-pf-teil1",
+   "flashcards": [],
+   "glossary": [],
+   "questions": [
+    {
+     "key": "mako-pf-teil1-q01",
+     "type": "case",
+     "exam_part": 1,
+     "difficulty": 2,
+     "points": 20,
+     "source": "Prüfungsstil (eigene Fallsituationen, angelehnt an IHK-Aufbau)",
+     "body": {
+      "situation": "Die Agentur Kreativkontor GmbH betreut den Neukunden „Rheinbrot“, eine regionale Bäckereikette mit 40 Filialen zwischen Köln und Düsseldorf. Rheinbrot möchte jüngere Kundschaft (18–29 Jahre) gewinnen, da die Stammkundschaft überwiegend über 55 ist. Das Budget beträgt 120.000 €, die Kampagne soll im Frühjahr starten. Die Marke ist regional bekannt (gestützte Bekanntheit 62 %), das Image gilt als „solide, aber altmodisch“. Wettbewerber sind Discounter-Backstationen und Ketten wie Backwerk.",
+      "tasks": [
+       {
+        "text": "Entwickeln Sie anhand von vier Kriterien eine SWOT-Analyse für Rheinbrot (je ein Beispiel pro Feld).",
+        "points": 5,
+        "sample": "Stärken: hohe regionale Bekanntheit (62 %), dichtes Filialnetz. Schwächen: veraltetes Image, überalterte Stammkundschaft. Chancen: wachsender Trend zu regionalen/handwerklichen Produkten, junge Zielgruppe offen für Social Media. Risiken: Discounter-Backstationen mit niedrigen Preisen, steigende Rohstoff-/Energiekosten.",
+        "checklist": [
+         "je ein Beispiel Stärke/Schwäche intern",
+         "je ein Beispiel Chance/Risiko extern",
+         "Zuordnung intern/extern korrekt",
+         "Bezug zum Fall"
+        ]
+       },
+       {
+        "text": "Formulieren Sie ein SMART-Kommunikationsziel für die Kampagne.",
+        "points": 4,
+        "sample": "Die gestützte Bekanntheit bei 18–29-Jährigen im Verbreitungsgebiet soll bis Ende des zweiten Quartals von 40 % auf 55 % steigen (gemessen per Online-Befragung).",
+        "checklist": [
+         "spezifisch (Zielgruppe/Größe)",
+         "messbar (Kennzahl)",
+         "terminiert",
+         "realistisch/außerökonomisch"
+        ]
+       },
+       {
+        "text": "Schlagen Sie drei geeignete Kommunikationsinstrumente für die junge Zielgruppe vor und begründen Sie Ihre Auswahl.",
+        "points": 6,
+        "sample": "Social-Media-Kampagne (Instagram/TikTok mit Influencern) – hohe Reichweite, günstige Zielgruppenansprache; Verkaufsförderung (Coupon/App-Rabatt für die erste Bestellung) – Kaufanreiz, messbar; Eventmarketing/Sampling vor Hochschulen – direkter Produktkontakt, emotionale Bindung. Alternativ: Out-of-Home-Plakate an Haltestellen.",
+        "checklist": [
+         "drei Instrumente genannt",
+         "je Begründung mit Zielgruppenbezug",
+         "Passung zum Budget",
+         "Mix aufeinander abgestimmt"
+        ]
+       },
+       {
+        "text": "Nennen Sie zwei Kennzahlen, mit denen Sie den Erfolg der Social-Media-Aktivitäten messen.",
+        "points": 5,
+        "sample": "Reichweite/Impressions, Engagement Rate (Likes, Kommentare, Shares), Klickrate (CTR) auf den Coupon, Einlösequote der Coupons, Follower-Zuwachs.",
+        "checklist": [
+         "zwei Kennzahlen korrekt",
+         "Bezug zum Ziel",
+         "kurze Erläuterung"
+        ]
+       }
+      ]
+     }
+    },
+    {
+     "key": "mako-pf-teil1-q02",
+     "type": "case",
+     "exam_part": 1,
+     "difficulty": 2,
+     "points": 20,
+     "source": "Prüfungsstil (eigene Fallsituationen, angelehnt an IHK-Aufbau)",
+     "body": {
+      "situation": "Das Start-up „FitBox“ vertreibt Fitness-Trainingsboxen im Abo (monatlich 39,90 € inkl. USt). Die Agentur Pixelwerk soll ein Kommunikationskonzept für den Markteintritt in Deutschland entwickeln. Zielgruppe: Berufstätige zwischen 25 und 40, urban, gesundheitsbewusst, wenig Zeit. Das Produkt ist neu; die Marke ist unbekannt. Das Budget für die ersten sechs Monate beträgt 250.000 €.",
+      "tasks": [
+       {
+        "text": "Stellen Sie die Zielgruppe durch je zwei soziodemografische und zwei psychografische Merkmale dar.",
+        "points": 4,
+        "sample": "Soziodemografisch: Alter 25–40, berufstätig, städtisches Wohnumfeld, mittleres bis höheres Einkommen. Psychografisch: gesundheitsbewusst, zeitbewusst/effizienzorientiert, technikaffin, Wunsch nach Selbstoptimierung.",
+        "checklist": [
+         "zwei soziodemografische",
+         "zwei psychografische",
+         "Abgrenzung korrekt"
+        ]
+       },
+       {
+        "text": "Erläutern Sie, in welcher Phase des Produktlebenszyklus sich FitBox befindet, und leiten Sie zwei kommunikative Konsequenzen ab.",
+        "points": 5,
+        "sample": "Einführungsphase: Bekanntheit ist gering. Konsequenzen: hohe Werbeintensität zum Aufbau von Bekanntheit, Probierangebote (Testbox, Rabatt für Neukunden), Aufbau von Vertrauen durch Testimonials/Bewertungen.",
+        "checklist": [
+         "Phase korrekt",
+         "zwei Konsequenzen",
+         "Bezug zum Fall"
+        ]
+       },
+       {
+        "text": "Skizzieren Sie einen Kommunikationsmix für den Markteintritt (mindestens drei Instrumente) mit Zielen je Instrument.",
+        "points": 7,
+        "sample": "Online-Marketing (SEA/Social Ads) – Reichweite und Leads; Influencer-Marketing – Glaubwürdigkeit und Bekanntheit; Public Relations (Fitness-/Lifestyle-Medien) – Vertrauen; Sampling/Testbox – Kaufanreiz. Integriert: gleiche Botschaft und Optik (Key Visual, Claim).",
+        "checklist": [
+         "mindestens drei Instrumente",
+         "je Ziel",
+         "Abstimmung/integriert",
+         "Budgetbezug"
+        ]
+       },
+       {
+        "text": "Formulieren Sie einen Claim und begründen Sie ihn in zwei Sätzen.",
+        "points": 4,
+        "sample": "Claim z. B.: „FitBox – 20 Minuten. Überall. Fit.“ Begründung: Spricht Zeitknappheit der Zielgruppe an (Nutzenversprechen) und ist kurz, einprägsam und markenfähig.",
+        "checklist": [
+         "Claim vorhanden",
+         "Zielgruppenbezug",
+         "Nutzenversprechen erkennbar"
+        ]
+       }
+      ]
+     }
+    },
+    {
+     "key": "mako-pf-teil1-q03",
+     "type": "case",
+     "exam_part": 1,
+     "difficulty": 2,
+     "points": 20,
+     "source": "Prüfungsstil (eigene Fallsituationen, angelehnt an IHK-Aufbau)",
+     "body": {
+      "situation": "Die Agentur Mediahaus Rhein erhält von der Stadtwerke Aurelia AG den Auftrag, eine Informationskampagne zum neuen Ökostromtarif „AureliaGrün“ zu planen. Das Budget beträgt 90.000 €. Die Kampagne soll in der Region Aurelia (ca. 400.000 Einwohner) laufen. Ziel ist die Gewinnung von 5.000 Neukunden in sechs Monaten. Im Briefing fehlen Angaben zu Wettbewerb, Alleinstellungsmerkmal und zur Zielgruppe.",
+      "tasks": [
+       {
+        "text": "Nennen Sie vier Fragen, die Sie dem Kunden im Rahmen des Re-Briefings stellen müssen.",
+        "points": 4,
+        "sample": "Wer ist die Zielgruppe (Haushalte, Alter, Einkommen)? Was unterscheidet den Tarif von Wettbewerbern (USP/Preis)? Welche Wettbewerber/Tarife existieren? Welche Medien/Maßnahmen wurden bisher eingesetzt? Gibt es CI-Vorgaben/rechtliche Auflagen? Wie wird der Erfolg gemessen?",
+        "checklist": [
+         "vier sinnvolle Fragen",
+         "Bezug zu fehlenden Informationen",
+         "Briefingbezug"
+        ]
+       },
+       {
+        "text": "Übersetzen Sie das Ziel in eine Kennzahl: Welche Conversion-Quote muss die Kampagne erreichen, wenn 250.000 Personen erreicht werden?",
+        "points": 4,
+        "sample": "5.000 Neukunden : 250.000 erreichte Personen = 2 % (Conversion von Kontakt zu Neukunde).",
+        "checklist": [
+         "korrekte Rechnung",
+         "Ergebnis 2 %",
+         "Bezeichnung als Quote"
+        ]
+       },
+       {
+        "text": "Ordnen Sie zwei Medien zu und begründen Sie die Eignung für die regionale Kampagne.",
+        "points": 6,
+        "sample": "Regionalzeitung/Anzeigen – regionale Streuung, glaubwürdig; regionales Radio – günstig, hohe Frequenz; Plakat/ÖPNV-Werbung – lokale Präsenz; Social Ads mit Geotargeting – zielgenau und messbar.",
+        "checklist": [
+         "zwei Medien",
+         "Begründung regional",
+         "Bezug Budget",
+         "Zielgruppenpassung"
+        ]
+       },
+       {
+        "text": "Erläutern Sie, wie Sie die Wirkung der Kampagne messen (zwei Methoden).",
+        "points": 6,
+        "sample": "Befragung vor und nach der Kampagne (Bekanntheit, Image); Auswertung der Tarifabschlüsse mit Aktionscode/Landingpage; Web-Analytics (Besuche, Conversions); Coupon-Einlösungen.",
+        "checklist": [
+         "zwei Methoden",
+         "Bezug zum Ziel",
+         "Pre-/Post-Vergleich"
+        ]
+       }
+      ]
+     }
+    },
+    {
+     "key": "mako-pf-teil1-q04",
+     "type": "case",
+     "exam_part": 1,
+     "difficulty": 2,
+     "points": 20,
+     "source": "Prüfungsstil (eigene Fallsituationen, angelehnt an IHK-Aufbau)",
+     "body": {
+      "situation": "Die Manufaktur „Steinbock Outdoor“ verkauft handgefertigte Rucksäcke (Preis ca. 189 €) bisher über den eigenen Onlineshop und zwei Fachgeschäfte. Die Agentur Kreativkontor soll eine Strategie für den Ausbau der Distribution und eine Preisstrategie für die Einführung einer günstigeren Produktlinie (ca. 99 €) entwickeln. Die Marke gilt als hochwertig und nachhaltig.",
+      "tasks": [
+       {
+        "text": "Beurteilen Sie anhand der Ansoff-Matrix die Einführung der günstigeren Linie (Strategietyp und Risiko).",
+        "points": 5,
+        "sample": "Produktentwicklung (neues Produkt im bestehenden Markt). Risiko: Imageverwässerung der Premiummarke, Kannibalisierung der teureren Rucksäcke, Qualitätsanspruch.",
+        "checklist": [
+         "Strategie korrekt",
+         "Risiko benannt",
+         "Bezug zur Marke"
+        ]
+       },
+       {
+        "text": "Empfehlen Sie eine Markenstrategie für die neue Linie und begründen Sie sie.",
+        "points": 5,
+        "sample": "Eigene Zweitmarke (Mehrmarkenstrategie) schützt das Premium-Image; alternativ Markentransfer mit klarer Abgrenzung (Sublabel). Begründung: unterschiedliche Preislage und Zielgruppe.",
+        "checklist": [
+         "Strategie benannt",
+         "Begründung",
+         "Abgrenzung Premium"
+        ]
+       },
+       {
+        "text": "Nennen Sie drei Absatzwege, die für den Ausbau der Distribution in Frage kommen, und je einen Vorteil.",
+        "points": 6,
+        "sample": "Marktplätze/Amazon (hohe Reichweite), Outdoor-Fachhandel (Beratung/Image), eigene Pop-up-Stores/Events (Markenerlebnis), Handelsvertreter für Händlerakquise.",
+        "checklist": [
+         "drei Absatzwege",
+         "je Vorteil",
+         "Bezug zum Produkt"
+        ]
+       },
+       {
+        "text": "Welche Preisstrategie empfehlen Sie für die neue Linie? Begründen Sie in zwei Sätzen.",
+        "points": 4,
+        "sample": "Penetrationspreisstrategie (günstiger Einstieg, um schnell Marktanteile in der preissensiblen Zielgruppe zu gewinnen) – alternativ psychologischer Preis 99 €. Begründung: neue Zielgruppe, Wettbewerbsdruck.",
+        "checklist": [
+         "Strategie benannt",
+         "Begründung",
+         "Konsistenz mit Marke"
+        ]
+       }
+      ]
+     }
+    },
+    {
+     "key": "mako-pf-teil1-q05",
+     "type": "case",
+     "exam_part": 1,
+     "difficulty": 2,
+     "points": 20,
+     "source": "Prüfungsstil (eigene Fallsituationen, angelehnt an IHK-Aufbau)",
+     "body": {
+      "situation": "Der Bio-Joghurt-Hersteller „Weidemilch“ möchte für sein neues Produkt „Wiesen-Skyr“ eine Verkaufsförderung im Handel durchführen. Die Agentur Pixelwerk berät. Zielgruppe: Familien mit Kindern. Ziel: kurzfristige Umsatzsteigerung von 15 % in vier Wochen. Das Produkt wird im Lebensmitteleinzelhandel verkauft; Händler sind Kunden der Agentur-Kunden. Rechtlich ist zu beachten, dass Werbeversprechen („Fördert die Abwehrkräfte“) belegbar sein müssen.",
+      "tasks": [
+       {
+        "text": "Unterscheiden Sie Consumer Promotion und Trade Promotion anhand jeweils eines Beispiels für dieses Projekt.",
+        "points": 4,
+        "sample": "Consumer Promotion: Gewinnspiel/Probierpackungen/Coupons für Endverbraucher. Trade Promotion: Zweitplatzierung/Displays, Händlerprämien oder Naturalrabatt für Einzelhändler.",
+        "checklist": [
+         "zwei Begriffe richtig",
+         "je Beispiel",
+         "Zuordnung Kunde/Händler"
+        ]
+       },
+       {
+        "text": "Berechnen Sie: Der Umsatz beträgt aktuell 80.000 € pro Monat. Welcher Umsatz soll im Aktionsmonat erreicht werden?",
+        "points": 3,
+        "sample": "80.000 € · 1,15 = 92.000 €.",
+        "checklist": [
+         "Formel",
+         "korrektes Ergebnis"
+        ]
+       },
+       {
+        "text": "Beurteilen Sie die Werbeaussage „Fördert die Abwehrkräfte“ rechtlich und schlagen Sie eine Alternative vor.",
+        "points": 5,
+        "sample": "Gesundheitsbezogene Angaben sind nach der Health-Claims-Verordnung nur zulässig, wenn sie zugelassen und belegbar sind; sonst irreführend (UWG § 5). Alternative: „Mit lebenden Kulturen und viel Eiweiß“ oder genaue, belegbare Nährwertangaben.",
+        "checklist": [
+         "Rechtsgrundlage (UWG/Health-Claims)",
+         "Beurteilung",
+         "Alternative formuliert"
+        ]
+       },
+       {
+        "text": "Entwerfen Sie eine integrierte Maßnahme aus drei Elementen (Handel, Online, Medien) und begründen Sie die Abstimmung.",
+        "points": 8,
+        "sample": "Zweitplatzierung im Handel mit Display und Coupon; Online-Gewinnspiel mit Teilnahme per Coupon-Code; Regionaler Radiospot/Social Ads mit gleichem Key Visual und Claim. Abstimmung: einheitliche Botschaft, zeitgleicher Start, Gutschein als Verbindungsglied.",
+        "checklist": [
+         "drei Elemente",
+         "inhaltliche und zeitliche Abstimmung",
+         "Kopplung (Code/Coupon)",
+         "Zielbezug Umsatz"
+        ]
+       }
+      ]
+     }
+    }
+   ],
+   "templates": [],
+   "cases": []
+  }
+ ]
+}

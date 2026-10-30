@@ -30,6 +30,10 @@ const struktur = structure([
     lf("mako-lf10", "LF10", "Produktion & Umsetzung", [3], [
       tp("mako-lf10-produktion", "Druckverfahren, Papier & Produktionsablauf", [3]),
     ]),
+    lf("mako-pf", "PF", "Prüfungsfälle & Fachgespräch", [1, 4], [
+      tp("mako-pf-teil1", "Teil 1: Fallsituationen Konzepte", [1]),
+      tp("mako-pf-teil4", "Teil 4: Fachgespräch (Praxisfälle)", [4]),
+    ]),
   ]),
 ]);
 

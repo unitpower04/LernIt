@@ -1,0 +1,403 @@
+{
+ "demo": false,
+ "items": [
+  {
+   "topic": "deutsch-aa-gestaltung",
+   "flashcards": [
+    {
+     "key": "deutsch-aa-gestaltung-c01",
+     "front": "Wozu dient die Aktivierung?",
+     "back": "Aufmerksamkeit der Zielgruppe wecken."
+    },
+    {
+     "key": "deutsch-aa-gestaltung-c02",
+     "front": "Was ist emotionale Aktivierung?",
+     "back": "Ansprache über Gefühle (Humor, Erotik, Kindchenschema, Spannung)."
+    },
+    {
+     "key": "deutsch-aa-gestaltung-c03",
+     "front": "Was ist kognitive Aktivierung?",
+     "back": "Ansprache des Denkens (Rätsel, Überraschung, Widerspruch, Information)."
+    },
+    {
+     "key": "deutsch-aa-gestaltung-c04",
+     "front": "Was ist physische Aktivierung?",
+     "back": "Körperliche Reize wie Größe, Farbe, Kontrast, Lautstärke, Bewegung."
+    },
+    {
+     "key": "deutsch-aa-gestaltung-c05",
+     "front": "Was bedeutet Prägnanz?",
+     "back": "Klare, einfache, schnell erfassbare Gestaltung."
+    },
+    {
+     "key": "deutsch-aa-gestaltung-c06",
+     "front": "Was ist Figur-Grund-Differenzierung?",
+     "back": "Das Hauptelement hebt sich deutlich vom Hintergrund ab."
+    },
+    {
+     "key": "deutsch-aa-gestaltung-c07",
+     "front": "Worauf achtet man beim Einsatz von Farbe?",
+     "back": "Signalwirkung, Kontrast, Corporate Colors, Lesbarkeit."
+    },
+    {
+     "key": "deutsch-aa-gestaltung-c08",
+     "front": "Worauf achtet man beim Einsatz von Schrift?",
+     "back": "Lesbarkeit, Größenhierarchie, Schriftart, Zeilenlänge."
+    },
+    {
+     "key": "deutsch-aa-gestaltung-c09",
+     "front": "Was ist der Blickverlauf?",
+     "back": "Die Reihenfolge, in der das Auge die Elemente erfasst (meist Bild – Headline – Text – Logo)."
+    },
+    {
+     "key": "deutsch-aa-gestaltung-c10",
+     "front": "Gestaltgesetz der Nähe?",
+     "back": "Nahe beieinander liegende Elemente werden als zusammengehörig wahrgenommen."
+    },
+    {
+     "key": "deutsch-aa-gestaltung-c11",
+     "front": "Gestaltgesetz der Ähnlichkeit?",
+     "back": "Elemente mit gleichen Merkmalen werden gruppiert."
+    },
+    {
+     "key": "deutsch-aa-gestaltung-c12",
+     "front": "Gestaltgesetz der Geschlossenheit?",
+     "back": "Lücken in Formen werden gedanklich ergänzt."
+    },
+    {
+     "key": "deutsch-aa-gestaltung-c13",
+     "front": "Gestaltgesetz der Kontinuität?",
+     "back": "Linien und Bewegungen werden gedanklich fortgesetzt."
+    },
+    {
+     "key": "deutsch-aa-gestaltung-c14",
+     "front": "Gestaltgesetz der Symmetrie?",
+     "back": "Symmetrische Formen werden als zusammengehörige Einheit wahrgenommen."
+    },
+    {
+     "key": "deutsch-aa-gestaltung-c15",
+     "front": "Was ist ein Blickfänger?",
+     "back": "Element, das als erstes die Aufmerksamkeit auf sich zieht."
+    },
+    {
+     "key": "deutsch-aa-gestaltung-c16",
+     "front": "Was ist das Kindchenschema?",
+     "back": "Schlüsselreiz: kindliche Merkmale lösen positive Gefühle aus."
+    }
+   ],
+   "glossary": [
+    {
+     "key": "deutsch-aa-gestaltung-g01",
+     "term": "Prägnanz",
+     "definition": "Klarheit und Einfachheit der Gestaltung."
+    },
+    {
+     "key": "deutsch-aa-gestaltung-g02",
+     "term": "Figur-Grund-Differenzierung",
+     "definition": "Abhebung des Objekts vom Hintergrund."
+    },
+    {
+     "key": "deutsch-aa-gestaltung-g03",
+     "term": "Blickverlauf",
+     "definition": "Weg des Auges durch die Anzeige."
+    },
+    {
+     "key": "deutsch-aa-gestaltung-g04",
+     "term": "Gestaltgesetze",
+     "definition": "Regeln der Wahrnehmung von Formen und Gruppen."
+    }
+   ],
+   "questions": [
+    {
+     "key": "deutsch-aa-gestaltung-q01",
+     "type": "mc",
+     "exam_part": 1,
+     "difficulty": 2,
+     "source": "Deutsch – Anzeigenanalyse (Kannliste, Unterricht)",
+     "body": {
+      "prompt": "Eine Anzeige zeigt ein niedliches Baby mit großem Kopf und großen Augen. Welche Aktivierung?",
+      "options": [
+       {
+        "text": "Emotionale Aktivierung (Kindchenschema)",
+        "correct": true
+       },
+       {
+        "text": "Kognitive Aktivierung",
+        "correct": false
+       },
+       {
+        "text": "Physische Aktivierung",
+        "correct": false
+       },
+       {
+        "text": "Keine Aktivierung",
+        "correct": false
+       },
+       {
+        "text": "Rationale Aktivierung",
+        "correct": false
+       }
+      ]
+     }
+    },
+    {
+     "key": "deutsch-aa-gestaltung-q02",
+     "type": "mc",
+     "exam_part": 1,
+     "difficulty": 2,
+     "source": "Deutsch – Anzeigenanalyse (Kannliste, Unterricht)",
+     "body": {
+      "prompt": "Eine Anzeige präsentiert ein Rätsel, dessen Lösung erst im Text steht. Welche Aktivierung?",
+      "options": [
+       {
+        "text": "Kognitive Aktivierung",
+        "correct": true
+       },
+       {
+        "text": "Emotionale Aktivierung",
+        "correct": false
+       },
+       {
+        "text": "Physische Aktivierung",
+        "correct": false
+       },
+       {
+        "text": "Keine",
+        "correct": false
+       },
+       {
+        "text": "Vertrauensaktivierung",
+        "correct": false
+       }
+      ]
+     }
+    },
+    {
+     "key": "deutsch-aa-gestaltung-q03",
+     "type": "mc",
+     "exam_part": 1,
+     "difficulty": 2,
+     "source": "Deutsch – Anzeigenanalyse (Kannliste, Unterricht)",
+     "body": {
+      "prompt": "Eine riesige Anzeige in Signalrot sticht durch Größe und Farbe ins Auge. Welche Aktivierung?",
+      "options": [
+       {
+        "text": "Physische Aktivierung",
+        "correct": true
+       },
+       {
+        "text": "Emotionale",
+        "correct": false
+       },
+       {
+        "text": "Kognitive",
+        "correct": false
+       },
+       {
+        "text": "Soziale",
+        "correct": false
+       },
+       {
+        "text": "Keine",
+        "correct": false
+       }
+      ]
+     }
+    },
+    {
+     "key": "deutsch-aa-gestaltung-q04",
+     "type": "mc",
+     "exam_part": 1,
+     "difficulty": 2,
+     "source": "Deutsch – Anzeigenanalyse (Kannliste, Unterricht)",
+     "body": {
+      "prompt": "Welches Gestaltgesetz beschreibt, dass nahe beieinanderstehende Elemente zusammengehörig wirken?",
+      "options": [
+       {
+        "text": "Gesetz der Nähe",
+        "correct": true
+       },
+       {
+        "text": "Gesetz der Ähnlichkeit",
+        "correct": false
+       },
+       {
+        "text": "Gesetz der Geschlossenheit",
+        "correct": false
+       },
+       {
+        "text": "Gesetz der Kontinuität",
+        "correct": false
+       },
+       {
+        "text": "Gesetz der Symmetrie",
+        "correct": false
+       }
+      ]
+     }
+    },
+    {
+     "key": "deutsch-aa-gestaltung-q05",
+     "type": "mc",
+     "exam_part": 1,
+     "difficulty": 2,
+     "source": "Deutsch – Anzeigenanalyse (Kannliste, Unterricht)",
+     "body": {
+      "prompt": "Welches Gestaltgesetz beschreibt, dass wir unvollständige Formen gedanklich ergänzen?",
+      "options": [
+       {
+        "text": "Gesetz der Geschlossenheit",
+        "correct": true
+       },
+       {
+        "text": "Gesetz der Nähe",
+        "correct": false
+       },
+       {
+        "text": "Gesetz der Ähnlichkeit",
+        "correct": false
+       },
+       {
+        "text": "Gesetz der Kontinuität",
+        "correct": false
+       },
+       {
+        "text": "Figur-Grund-Gesetz",
+        "correct": false
+       }
+      ]
+     }
+    },
+    {
+     "key": "deutsch-aa-gestaltung-q06",
+     "type": "mc",
+     "exam_part": 1,
+     "difficulty": 2,
+     "source": "Deutsch – Anzeigenanalyse (Kannliste, Unterricht)",
+     "body": {
+      "prompt": "Was bedeutet Figur-Grund-Differenzierung?",
+      "options": [
+       {
+        "text": "Das Hauptmotiv hebt sich klar vom Hintergrund ab.",
+        "correct": true
+       },
+       {
+        "text": "Das Bild und der Text sind identisch.",
+        "correct": false
+       },
+       {
+        "text": "Die Figur ist immer im Hintergrund.",
+        "correct": false
+       },
+       {
+        "text": "Der Hintergrund bleibt leer.",
+        "correct": false
+       },
+       {
+        "text": "Schrift und Bild werden vertauscht.",
+        "correct": false
+       }
+      ]
+     }
+    },
+    {
+     "key": "deutsch-aa-gestaltung-q07",
+     "type": "match",
+     "exam_part": 1,
+     "difficulty": 2,
+     "source": "Deutsch – Anzeigenanalyse (Kannliste, Unterricht)",
+     "body": {
+      "prompt": "Ordnen Sie jedes Beispiel der Aktivierungsart zu.",
+      "items": [
+       {
+        "term": "Humor",
+        "match": "emotional"
+       },
+       {
+        "term": "Rätsel/Überraschung",
+        "match": "kognitiv"
+       },
+       {
+        "term": "Grelle Farben und Größe",
+        "match": "physisch"
+       },
+       {
+        "term": "Kindchenschema",
+        "match": "emotional"
+       }
+      ],
+      "distractors": []
+     }
+    },
+    {
+     "key": "deutsch-aa-gestaltung-q08",
+     "type": "match",
+     "exam_part": 1,
+     "difficulty": 2,
+     "source": "Deutsch – Anzeigenanalyse (Kannliste, Unterricht)",
+     "body": {
+      "prompt": "Ordnen Sie jedem Gestaltgesetz das Beispiel zu.",
+      "items": [
+       {
+        "term": "Nähe",
+        "match": "Drei dicht beieinanderstehende Produktbilder wirken wie eine Gruppe"
+       },
+       {
+        "term": "Ähnlichkeit",
+        "match": "Alle roten Elemente werden als Gruppe gesehen"
+       },
+       {
+        "term": "Geschlossenheit",
+        "match": "Ein unterbrochener Kreis wird als Kreis erkannt"
+       },
+       {
+        "term": "Kontinuität",
+        "match": "Eine gestrichelte Linie wird als durchgehende Linie wahrgenommen"
+       }
+      ],
+      "distractors": []
+     }
+    },
+    {
+     "key": "deutsch-aa-gestaltung-q09",
+     "type": "tf",
+     "exam_part": 1,
+     "difficulty": 2,
+     "source": "Deutsch – Anzeigenanalyse (Kannliste, Unterricht)",
+     "body": {
+      "statement": "Prägnante Gestaltung bedeutet möglichst viele Elemente auf engem Raum.",
+      "answer": false
+     }
+    },
+    {
+     "key": "deutsch-aa-gestaltung-q10",
+     "type": "tf",
+     "exam_part": 1,
+     "difficulty": 2,
+     "source": "Deutsch – Anzeigenanalyse (Kannliste, Unterricht)",
+     "body": {
+      "statement": "Der Blickverlauf in Anzeigen beginnt häufig beim Bild.",
+      "answer": true
+     }
+    },
+    {
+     "key": "deutsch-aa-gestaltung-q11",
+     "type": "cloze",
+     "exam_part": 1,
+     "difficulty": 2,
+     "source": "Deutsch – Anzeigenanalyse (Kannliste, Unterricht)",
+     "body": {
+      "text": "Die Gestaltgesetze der [[Nähe]] und [[Ähnlichkeit]] erklären, wie Gruppen wahrgenommen werden."
+     }
+    }
+   ],
+   "templates": [],
+   "cases": [],
+   "summary": {
+    "key": "deutsch-aa-gestaltung-zettel",
+    "title": "Aktivierung, Prägnanz & Gestaltgesetze",
+    "content_md": "\n**Aktivierung** (Aufmerksamkeit erzeugen): **emotional** (Gefühle: Kindchenschema, Erotik, Humor, Spannung) · **kognitiv** (Denken: Rätsel, Überraschung, Widerspruch, Neugier, Informationsgehalt) · **physisch** (körperliche Reize: Farbe, Größe, Kontrast, Lautstärke, Bewegung, Schlüsselreize).\n**Blickverlauf** (Z-/F-Muster; Bild zuerst, dann Headline, dann Text, dann Logo); Lesefluss von oben links nach unten rechts; Blickfänger.\n**Prägnanz** = klare, einfache, gut erfassbare Gestaltung. Unterpunkte: **Figur-Grund-Differenzierung** (Objekt hebt sich vom Hintergrund ab: Kontrast, Freiraum), **Einsatz von Farbe** (Signalwirkung, Corporate Colors, Kontrast), **Einsatz von Schrift** (Lesbarkeit, Größenhierarchie, Schriftart, Zeilenlänge).\n**Gestaltgesetze**: **Nähe** (nahe Elemente = zusammengehörig) · **Ähnlichkeit** (gleiche Merkmale = Gruppe) · **Geschlossenheit** (Lücken werden ergänzt) · **Kontinuität/Fortsetzung** (Linien werden fortgesetzt) · **Prägnanz/gute Gestalt** · **Symmetrie** · **gemeinsames Schicksal** · **Figur-Grund**.\n"
+   }
+  }
+ ]
+}

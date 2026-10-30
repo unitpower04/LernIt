@@ -1,0 +1,316 @@
+{
+ "demo": false,
+ "items": [
+  {
+   "topic": "deutsch-aa-positionierung",
+   "flashcards": [
+    {
+     "key": "deutsch-aa-positionierung-c01",
+     "front": "Was ist ein USP?",
+     "back": "Einzigartiges Verkaufsversprechen – ein Alleinstellungsmerkmal des Produkts, das Wettbewerber nicht bieten."
+    },
+    {
+     "key": "deutsch-aa-positionierung-c02",
+     "front": "Was ist ein UAP?",
+     "back": "Einzigartiges Werbeversprechen – bei austauschbaren Produkten entsteht Einzigartigkeit durch die Kommunikation."
+    },
+    {
+     "key": "deutsch-aa-positionierung-c03",
+     "front": "USP vs. UAP?",
+     "back": "USP: Einzigartigkeit im Produkt. UAP: Einzigartigkeit in der Werbung."
+    },
+    {
+     "key": "deutsch-aa-positionierung-c04",
+     "front": "Ist-Positionierung?",
+     "back": "Die aktuelle Wahrnehmung der Marke bei der Zielgruppe."
+    },
+    {
+     "key": "deutsch-aa-positionierung-c05",
+     "front": "Soll-Positionierung?",
+     "back": "Die angestrebte Wahrnehmung der Marke."
+    },
+    {
+     "key": "deutsch-aa-positionierung-c06",
+     "front": "Was ist ein Wahrnehmungsraum?",
+     "back": "Grafik, die Marken nach Kriterien (z. B. Preis/Qualität) in der Wahrnehmung der Zielgruppe verortet."
+    },
+    {
+     "key": "deutsch-aa-positionierung-c07",
+     "front": "Was ist ein objektiver/funktionaler Zusatznutzen?",
+     "back": "Messbarer, sachlicher Mehrwert wie Haltbarkeit, Leistung oder Sicherheit."
+    },
+    {
+     "key": "deutsch-aa-positionierung-c08",
+     "front": "Was ist ein subjektiver/emotionaler Zusatznutzen?",
+     "back": "Gefühlsbezogener Mehrwert wie Prestige, Zugehörigkeit oder Genuss."
+    },
+    {
+     "key": "deutsch-aa-positionierung-c09",
+     "front": "Was ist die Brand Benefit Ladder?",
+     "back": "Nutzenleiter vom Produktmerkmal über funktionalen und emotionalen Nutzen zu den Markenwerten."
+    },
+    {
+     "key": "deutsch-aa-positionierung-c10",
+     "front": "Stufen der Benefit Ladder?",
+     "back": "Merkmal → funktionaler Nutzen → emotionaler Nutzen → Markenwerte."
+    },
+    {
+     "key": "deutsch-aa-positionierung-c11",
+     "front": "Beispiel funktionaler Nutzen?",
+     "back": "Das Waschmittel entfernt Flecken schon bei 30 Grad."
+    },
+    {
+     "key": "deutsch-aa-positionierung-c12",
+     "front": "Beispiel emotionaler Nutzen?",
+     "back": "Man fühlt sich als gute Gastgeberin, wenn die Wäsche strahlt."
+    },
+    {
+     "key": "deutsch-aa-positionierung-c13",
+     "front": "Warum ist ein UAP bei Bier üblich?",
+     "back": "Produkte sind austauschbar; Differenzierung erfolgt über Image und Emotion."
+    },
+    {
+     "key": "deutsch-aa-positionierung-c14",
+     "front": "Wofür ist die Positionierung wichtig?",
+     "back": "Sie schafft Unterscheidbarkeit und bestimmt Botschaft und Mix."
+    }
+   ],
+   "glossary": [
+    {
+     "key": "deutsch-aa-positionierung-g01",
+     "term": "USP",
+     "definition": "Unique Selling Proposition – einzigartiges Verkaufsversprechen."
+    },
+    {
+     "key": "deutsch-aa-positionierung-g02",
+     "term": "UAP",
+     "definition": "Unique Advertising Proposition – einzigartiges Werbeversprechen."
+    },
+    {
+     "key": "deutsch-aa-positionierung-g03",
+     "term": "Positionierung",
+     "definition": "Gewünschter Platz einer Marke im Kopf der Zielgruppe."
+    },
+    {
+     "key": "deutsch-aa-positionierung-g04",
+     "term": "Brand Benefit Ladder",
+     "definition": "Stufenmodell der Markennutzen."
+    }
+   ],
+   "questions": [
+    {
+     "key": "deutsch-aa-positionierung-q01",
+     "type": "mc",
+     "exam_part": 1,
+     "difficulty": 2,
+     "source": "Deutsch – Anzeigenanalyse (Kannliste, Unterricht)",
+     "body": {
+      "prompt": "Ein Bier ist qualitativ kaum von anderen unterscheidbar; die Marke grenzt sich durch Lebensgefühl in der Werbung ab. Was liegt vor?",
+      "options": [
+       {
+        "text": "UAP",
+        "correct": true
+       },
+       {
+        "text": "USP",
+        "correct": false
+       },
+       {
+        "text": "Reason Why",
+        "correct": false
+       },
+       {
+        "text": "Packshot",
+        "correct": false
+       },
+       {
+        "text": "Call to Action",
+        "correct": false
+       }
+      ]
+     }
+    },
+    {
+     "key": "deutsch-aa-positionierung-q02",
+     "type": "mc",
+     "exam_part": 1,
+     "difficulty": 2,
+     "source": "Deutsch – Anzeigenanalyse (Kannliste, Unterricht)",
+     "body": {
+      "prompt": "Ein Zahnpasta-Hersteller wirbt mit einem einzigartigen, patentierten Wirkstoff. Was liegt vor?",
+      "options": [
+       {
+        "text": "USP",
+        "correct": true
+       },
+       {
+        "text": "UAP",
+        "correct": false
+       },
+       {
+        "text": "Tonality",
+        "correct": false
+       },
+       {
+        "text": "Claim ohne Nutzen",
+        "correct": false
+       },
+       {
+        "text": "Image",
+        "correct": false
+       }
+      ]
+     }
+    },
+    {
+     "key": "deutsch-aa-positionierung-q03",
+     "type": "mc",
+     "exam_part": 1,
+     "difficulty": 2,
+     "source": "Deutsch – Anzeigenanalyse (Kannliste, Unterricht)",
+     "body": {
+      "prompt": "Welche Aussage beschreibt einen emotionalen Zusatznutzen?",
+      "options": [
+       {
+        "text": "Der Kunde fühlt sich mit der Marke als Teil einer Community.",
+        "correct": true
+       },
+       {
+        "text": "Das Gerät hält 10 Jahre.",
+        "correct": false
+       },
+       {
+        "text": "Der Akku lädt in 20 Minuten.",
+        "correct": false
+       },
+       {
+        "text": "Der Stoff ist wasserdicht.",
+        "correct": false
+       },
+       {
+        "text": "Der Preis ist 20 % niedriger.",
+        "correct": false
+       }
+      ]
+     }
+    },
+    {
+     "key": "deutsch-aa-positionierung-q04",
+     "type": "mc",
+     "exam_part": 1,
+     "difficulty": 2,
+     "source": "Deutsch – Anzeigenanalyse (Kannliste, Unterricht)",
+     "body": {
+      "prompt": "Welcher Begriff beschreibt die angestrebte Wahrnehmung einer Marke?",
+      "options": [
+       {
+        "text": "Soll-Positionierung",
+        "correct": true
+       },
+       {
+        "text": "Ist-Positionierung",
+        "correct": false
+       },
+       {
+        "text": "Copy Analyse",
+        "correct": false
+       },
+       {
+        "text": "Reichweite",
+        "correct": false
+       },
+       {
+        "text": "Zielgruppe",
+        "correct": false
+       }
+      ]
+     }
+    },
+    {
+     "key": "deutsch-aa-positionierung-q05",
+     "type": "order",
+     "exam_part": 1,
+     "difficulty": 2,
+     "source": "Deutsch – Anzeigenanalyse (Kannliste, Unterricht)",
+     "body": {
+      "prompt": "Bringen Sie die Stufen der Brand Benefit Ladder (von unten nach oben) in die richtige Reihenfolge.",
+      "items": [
+       "Produktmerkmal",
+       "Funktionaler Nutzen",
+       "Emotionaler Nutzen",
+       "Markenwerte/Persönlichkeit"
+      ]
+     }
+    },
+    {
+     "key": "deutsch-aa-positionierung-q06",
+     "type": "match",
+     "exam_part": 1,
+     "difficulty": 2,
+     "source": "Deutsch – Anzeigenanalyse (Kannliste, Unterricht)",
+     "body": {
+      "prompt": "Ordnen Sie jede Aussage der Nutzenart zu.",
+      "items": [
+       {
+        "term": "Der Sitz ist TÜV-geprüft",
+        "match": "objektiver/funktionaler Nutzen"
+       },
+       {
+        "term": "Ich fühle mich sicher und souverän",
+        "match": "subjektiver/emotionaler Nutzen"
+       },
+       {
+        "term": "Die Batterie hält 12 Stunden",
+        "match": "objektiver/funktionaler Nutzen"
+       },
+       {
+        "term": "Ich gehöre zu den Trendsettern",
+        "match": "subjektiver/emotionaler Nutzen"
+       }
+      ],
+      "distractors": []
+     }
+    },
+    {
+     "key": "deutsch-aa-positionierung-q07",
+     "type": "tf",
+     "exam_part": 1,
+     "difficulty": 2,
+     "source": "Deutsch – Anzeigenanalyse (Kannliste, Unterricht)",
+     "body": {
+      "statement": "USP und UAP bedeuten dasselbe.",
+      "answer": false
+     }
+    },
+    {
+     "key": "deutsch-aa-positionierung-q08",
+     "type": "tf",
+     "exam_part": 1,
+     "difficulty": 2,
+     "source": "Deutsch – Anzeigenanalyse (Kannliste, Unterricht)",
+     "body": {
+      "statement": "Die Brand Benefit Ladder führt vom Produktmerkmal zu Markenwerten.",
+      "answer": true
+     }
+    },
+    {
+     "key": "deutsch-aa-positionierung-q09",
+     "type": "cloze",
+     "exam_part": 1,
+     "difficulty": 2,
+     "source": "Deutsch – Anzeigenanalyse (Kannliste, Unterricht)",
+     "body": {
+      "text": "Beim [[USP]] liegt die Einzigartigkeit im Produkt, beim [[UAP]] in der Werbung."
+     }
+    }
+   ],
+   "templates": [],
+   "cases": [],
+   "summary": {
+    "key": "deutsch-aa-positionierung-zettel",
+    "title": "USP/UAP, Positionierung & Benefit Ladder",
+    "content_md": "\n**USP** (Unique Selling Proposition) = **einzigartiges Verkaufsversprechen** (Produkt bietet etwas, was kein Wettbewerber bietet – sachlich-funktional). **UAP** (Unique Advertising Proposition) = **einzigartiges Werbeversprechen** (Produkte austauschbar → Einzigartigkeit entsteht durch die Kommunikation, z. B. emotionale Ansprache).\n**Positionierung**: **Ist-Positionierung** (wie die Marke heute wahrgenommen wird) vs. **Soll-Positionierung** (angestrebte Position). Positionierungsmodelle: Wahrnehmungsraum (Preis × Qualität).\n**Zusatznutzen**: **objektiv/funktional** (messbar, sachlich: Haltbarkeit, Leistung) vs. **subjektiv/emotional** (Gefühl, Prestige, Zugehörigkeit). Grundnutzen (Funktion) + Zusatznutzen.\n**Brand Benefit Ladder** (Nutzenleiter): Produkteigenschaft (Merkmal) → **funktionaler Nutzen** → **emotionaler Nutzen** → **Markenwerte/Persönlichkeit**. Von „Was ist es?\" über „Was habe ich davon?\" zu „Wie fühle ich mich?\"\n"
+   }
+  }
+ ]
+}

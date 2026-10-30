@@ -1,0 +1,424 @@
+{
+ "demo": false,
+ "items": [
+  {
+   "topic": "deutsch-aa-bestandteile",
+   "flashcards": [
+    {
+     "key": "deutsch-aa-bestandteile-c01",
+     "front": "Nenne die Bestandteile einer Anzeige.",
+     "back": "Headline, Subline, Bodycopy, Visual/Key Visual, Claim/Slogan, Logo, Call to Action, Packshot."
+    },
+    {
+     "key": "deutsch-aa-bestandteile-c02",
+     "front": "Aufgabe der Headline?",
+     "back": "Aufmerksamkeit wecken und zum Weiterlesen anregen."
+    },
+    {
+     "key": "deutsch-aa-bestandteile-c03",
+     "front": "Was ist die Subline?",
+     "back": "Ergänzende Zeile unter der Headline, die die Aussage präzisiert."
+    },
+    {
+     "key": "deutsch-aa-bestandteile-c04",
+     "front": "Was ist die Bodycopy?",
+     "back": "Der Fließtext mit Argumenten und Informationen."
+    },
+    {
+     "key": "deutsch-aa-bestandteile-c05",
+     "front": "Was ist ein Visual/Key Visual?",
+     "back": "Das zentrale Bild der Anzeige, das Aufmerksamkeit und Emotion erzeugt."
+    },
+    {
+     "key": "deutsch-aa-bestandteile-c06",
+     "front": "Was ist ein Claim?",
+     "back": "Kurzer Markenspruch, der das Markenversprechen zusammenfasst."
+    },
+    {
+     "key": "deutsch-aa-bestandteile-c07",
+     "front": "Was ist ein Call to Action?",
+     "back": "Aufforderung zu einer konkreten Handlung (z. B. „Jetzt testen“)."
+    },
+    {
+     "key": "deutsch-aa-bestandteile-c08",
+     "front": "Was ist ein Packshot?",
+     "back": "Abbildung des Produkts in der Verpackung."
+    },
+    {
+     "key": "deutsch-aa-bestandteile-c09",
+     "front": "Was ist die Copy Strategy?",
+     "back": "Textstrategie mit Consumer Benefit, Reason Why und Tonality – legt fest, was und wie kommuniziert wird."
+    },
+    {
+     "key": "deutsch-aa-bestandteile-c10",
+     "front": "Was ist der Consumer Benefit?",
+     "back": "Das Nutzenversprechen an den Konsumenten."
+    },
+    {
+     "key": "deutsch-aa-bestandteile-c11",
+     "front": "Was ist der Reason Why?",
+     "back": "Begründung oder Beweis, warum das Nutzenversprechen glaubwürdig ist."
+    },
+    {
+     "key": "deutsch-aa-bestandteile-c12",
+     "front": "Was ist die Tonality?",
+     "back": "Die Tonlage der Kommunikation (z. B. witzig, seriös, emotional)."
+    },
+    {
+     "key": "deutsch-aa-bestandteile-c13",
+     "front": "Copy Strategy vs. Copy Analyse?",
+     "back": "Strategie: Soll-Vorgabe vor der Gestaltung. Analyse: Untersuchung der fertigen Anzeige (Ist)."
+    },
+    {
+     "key": "deutsch-aa-bestandteile-c14",
+     "front": "Beispiele für Tonalities?",
+     "back": "humorvoll, ironisch, emotional, sachlich-informativ, jugendlich, exklusiv."
+    },
+    {
+     "key": "deutsch-aa-bestandteile-c15",
+     "front": "Wofür wird ein Coupon/Response-Element genutzt?",
+     "back": "Zur Messung der Reaktion und für Direktantworten."
+    }
+   ],
+   "glossary": [
+    {
+     "key": "deutsch-aa-bestandteile-g01",
+     "term": "Headline",
+     "definition": "Schlagzeile einer Anzeige."
+    },
+    {
+     "key": "deutsch-aa-bestandteile-g02",
+     "term": "Bodycopy",
+     "definition": "Fließtext einer Anzeige."
+    },
+    {
+     "key": "deutsch-aa-bestandteile-g03",
+     "term": "Claim",
+     "definition": "Markenversprechen in einem Satz."
+    },
+    {
+     "key": "deutsch-aa-bestandteile-g04",
+     "term": "Copy Strategy",
+     "definition": "Textstrategie aus Consumer Benefit, Reason Why und Tonality."
+    },
+    {
+     "key": "deutsch-aa-bestandteile-g05",
+     "term": "Tonality",
+     "definition": "Tonlage der Kommunikation."
+    },
+    {
+     "key": "deutsch-aa-bestandteile-g06",
+     "term": "Consumer Benefit",
+     "definition": "Nutzenversprechen für den Konsumenten."
+    }
+   ],
+   "questions": [
+    {
+     "key": "deutsch-aa-bestandteile-q01",
+     "type": "mc",
+     "exam_part": 1,
+     "difficulty": 2,
+     "source": "Deutsch – Anzeigenanalyse (Kannliste, Unterricht)",
+     "body": {
+      "prompt": "Welches Element einer Anzeige dient vor allem der Aufmerksamkeit und dem Weiterlesen?",
+      "options": [
+       {
+        "text": "Headline",
+        "correct": true
+       },
+       {
+        "text": "Bodycopy",
+        "correct": false
+       },
+       {
+        "text": "Logo",
+        "correct": false
+       },
+       {
+        "text": "Coupon",
+        "correct": false
+       },
+       {
+        "text": "Impressum",
+        "correct": false
+       }
+      ]
+     }
+    },
+    {
+     "key": "deutsch-aa-bestandteile-q02",
+     "type": "mc",
+     "exam_part": 1,
+     "difficulty": 2,
+     "source": "Deutsch – Anzeigenanalyse (Kannliste, Unterricht)",
+     "body": {
+      "prompt": "Was beschreibt der Reason Why?",
+      "options": [
+       {
+        "text": "Die Begründung, warum das Nutzenversprechen glaubwürdig ist",
+        "correct": true
+       },
+       {
+        "text": "Den Ton der Anzeige",
+        "correct": false
+       },
+       {
+        "text": "Das Nutzenversprechen selbst",
+        "correct": false
+       },
+       {
+        "text": "Die Zielgruppe",
+        "correct": false
+       },
+       {
+        "text": "Den Slogan",
+        "correct": false
+       }
+      ]
+     }
+    },
+    {
+     "key": "deutsch-aa-bestandteile-q03",
+     "type": "mc",
+     "exam_part": 1,
+     "difficulty": 2,
+     "source": "Deutsch – Anzeigenanalyse (Kannliste, Unterricht)",
+     "body": {
+      "prompt": "Welche Bestandteile hat die Copy Strategy?",
+      "options": [
+       {
+        "text": "Consumer Benefit, Reason Why, Tonality",
+        "correct": true
+       },
+       {
+        "text": "Headline, Subline, Bodycopy",
+        "correct": false
+       },
+       {
+        "text": "USP, UAP, Claim",
+        "correct": false
+       },
+       {
+        "text": "Benefit, Ladder, Logo",
+        "correct": false
+       },
+       {
+        "text": "Image, Logo, Preis",
+        "correct": false
+       }
+      ]
+     }
+    },
+    {
+     "key": "deutsch-aa-bestandteile-q04",
+     "type": "mc",
+     "exam_part": 1,
+     "difficulty": 2,
+     "source": "Deutsch – Anzeigenanalyse (Kannliste, Unterricht)",
+     "body": {
+      "prompt": "Welche Aussage zur Copy Analyse ist richtig?",
+      "options": [
+       {
+        "text": "Sie untersucht, wie die Copy Strategy in einer fertigen Anzeige umgesetzt ist.",
+        "correct": true
+       },
+       {
+        "text": "Sie legt die Strategie vor der Gestaltung fest.",
+        "correct": false
+       },
+       {
+        "text": "Sie ist identisch mit der Mediaplanung.",
+        "correct": false
+       },
+       {
+        "text": "Sie bewertet nur den Preis.",
+        "correct": false
+       },
+       {
+        "text": "Sie ersetzt das Briefing.",
+        "correct": false
+       }
+      ]
+     }
+    },
+    {
+     "key": "deutsch-aa-bestandteile-q05",
+     "type": "ad",
+     "exam_part": 1,
+     "difficulty": 2,
+     "source": "Deutsch – Anzeigenanalyse (Kannliste, Unterricht)",
+     "body": {
+      "prompt": "Analysieren Sie die Anzeige.",
+      "adText": "Headline: „Dein Rücken sagt Danke.“ Subline: „Der Bürostuhl, der mitdenkt.“ Bodycopy: „Der ErgoPro passt sich automatisch deiner Haltung an – getestet an der Sporthochschule Köln. 10 Jahre Garantie.“ Claim: „ErgoPro – Sitzen mit Köpfchen.“ Call to Action: „Jetzt 30 Tage kostenlos testen.“",
+      "parts": [
+       {
+        "prompt": "Welche Aussage ist der Consumer Benefit?",
+        "options": [
+         {
+          "text": "Entlastung des Rückens durch automatische Haltungsanpassung",
+          "correct": true
+         },
+         {
+          "text": "Zehn Jahre Garantie",
+          "correct": false
+         },
+         {
+          "text": "Getestet an der Sporthochschule",
+          "correct": false
+         },
+         {
+          "text": "30 Tage kostenlos testen",
+          "correct": false
+         }
+        ]
+       },
+       {
+        "prompt": "Welche Aussage ist der Reason Why?",
+        "options": [
+         {
+          "text": "Getestet an der Sporthochschule Köln",
+          "correct": true
+         },
+         {
+          "text": "Dein Rücken sagt Danke",
+          "correct": false
+         },
+         {
+          "text": "Sitzen mit Köpfchen",
+          "correct": false
+         },
+         {
+          "text": "Jetzt testen",
+          "correct": false
+         }
+        ]
+       },
+       {
+        "prompt": "Welche Tonality liegt vor?",
+        "options": [
+         {
+          "text": "Locker, persönlich (Du-Ansprache) mit sachlichem Beleg",
+          "correct": true
+         },
+         {
+          "text": "Streng förmlich",
+          "correct": false
+         },
+         {
+          "text": "Aggressiv-vergleichend",
+          "correct": false
+         },
+         {
+          "text": "Düster-dramatisch",
+          "correct": false
+         }
+        ]
+       }
+      ]
+     }
+    },
+    {
+     "key": "deutsch-aa-bestandteile-q06",
+     "type": "match",
+     "exam_part": 1,
+     "difficulty": 2,
+     "source": "Deutsch – Anzeigenanalyse (Kannliste, Unterricht)",
+     "body": {
+      "prompt": "Ordnen Sie dem Anzeigenelement die Funktion zu.",
+      "items": [
+       {
+        "term": "Headline",
+        "match": "Aufmerksamkeit wecken"
+       },
+       {
+        "term": "Bodycopy",
+        "match": "Argumente und Informationen liefern"
+       },
+       {
+        "term": "Claim",
+        "match": "Markenversprechen verankern"
+       },
+       {
+        "term": "Call to Action",
+        "match": "Handlung auslösen"
+       },
+       {
+        "term": "Packshot",
+        "match": "Produkt zeigen"
+       }
+      ],
+      "distractors": []
+     }
+    },
+    {
+     "key": "deutsch-aa-bestandteile-q07",
+     "type": "match",
+     "exam_part": 1,
+     "difficulty": 2,
+     "source": "Deutsch – Anzeigenanalyse (Kannliste, Unterricht)",
+     "body": {
+      "prompt": "Ordnen Sie den Begriff der Erklärung zu.",
+      "items": [
+       {
+        "term": "Consumer Benefit",
+        "match": "Nutzenversprechen"
+       },
+       {
+        "term": "Reason Why",
+        "match": "Begründung/Beweis"
+       },
+       {
+        "term": "Tonality",
+        "match": "Tonlage"
+       },
+       {
+        "term": "Copy Analyse",
+        "match": "Untersuchung der fertigen Anzeige"
+       }
+      ],
+      "distractors": []
+     }
+    },
+    {
+     "key": "deutsch-aa-bestandteile-q08",
+     "type": "tf",
+     "exam_part": 1,
+     "difficulty": 2,
+     "source": "Deutsch – Anzeigenanalyse (Kannliste, Unterricht)",
+     "body": {
+      "statement": "Die Copy Strategy wird erst nach der Gestaltung der Anzeige erstellt.",
+      "answer": false
+     }
+    },
+    {
+     "key": "deutsch-aa-bestandteile-q09",
+     "type": "tf",
+     "exam_part": 1,
+     "difficulty": 2,
+     "source": "Deutsch – Anzeigenanalyse (Kannliste, Unterricht)",
+     "body": {
+      "statement": "Der Reason Why liefert den Beleg für das Nutzenversprechen.",
+      "answer": true
+     }
+    },
+    {
+     "key": "deutsch-aa-bestandteile-q10",
+     "type": "cloze",
+     "exam_part": 1,
+     "difficulty": 2,
+     "source": "Deutsch – Anzeigenanalyse (Kannliste, Unterricht)",
+     "body": {
+      "text": "Die Copy Strategy besteht aus [[Consumer Benefit]], [[Reason Why]] und [[Tonality]]."
+     }
+    }
+   ],
+   "templates": [],
+   "cases": [],
+   "summary": {
+    "key": "deutsch-aa-bestandteile-zettel",
+    "title": "Anzeigenbestandteile & Copy Strategy",
+    "content_md": "\n**Bestandteile einer Anzeige**: **Headline** (Schlagzeile – Aufmerksamkeit, Neugier) · **Subline/Unterzeile** · **Bodycopy** (Fließtext – Argumente) · **Visual/Key Visual** (Bild – Aufmerksamkeit, Emotion) · **Claim/Slogan** (Markenversprechen) · **Logo/Absender** · **Call to Action** (Handlungsaufforderung) · **Packshot** (Produktabbildung) · **Coupon/Response-Element**.\n**Copy Strategy** (Textstrategie, vor der Gestaltung = Soll): **Consumer Benefit** (Nutzenversprechen) · **Reason Why** (Begründung/Beweis) · **Tonality** (Ton: z. B. humorvoll, seriös, emotional, sachlich, ironisch).\n**Copy Analyse** (nach der Gestaltung = Ist): Wie wird die Copy Strategy tatsächlich in der Anzeige umgesetzt? Analyse von Benefit, Reason Why, Tonality an einer fertigen Anzeige.\n**Tonality** = Stil- und Tonlage, Wortwahl, Satzbau, Bildsprache.\n"
+   }
+  }
+ ]
+}

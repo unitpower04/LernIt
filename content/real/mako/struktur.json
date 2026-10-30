@@ -165,6 +165,31 @@
        ]
       }
      ]
+    },
+    {
+     "key": "mako-pf",
+     "code": "PF",
+     "name": "Prüfungsfälle & Fachgespräch",
+     "exam_parts": [
+      1,
+      4
+     ],
+     "topics": [
+      {
+       "key": "mako-pf-teil1",
+       "name": "Teil 1: Fallsituationen Konzepte",
+       "exam_parts": [
+        1
+       ]
+      },
+      {
+       "key": "mako-pf-teil4",
+       "name": "Teil 4: Fachgespräch (Praxisfälle)",
+       "exam_parts": [
+        4
+       ]
+      }
+     ]
     }
    ]
   }

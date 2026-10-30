@@ -1,0 +1,45 @@
+{
+ "demo": false,
+ "subjects": [
+  {
+   "key": "deutsch",
+   "name": "Deutsch – Anzeigenanalyse",
+   "description": "Anzeigenbestandteile, Copy Strategy, Positionierung und Gestaltung (Prüfungsteil 1)",
+   "color": "#0891b2",
+   "learning_fields": [
+    {
+     "key": "deutsch-aa",
+     "code": "AA",
+     "name": "Anzeigenanalyse",
+     "exam_parts": [
+      1
+     ],
+     "topics": [
+      {
+       "key": "deutsch-aa-bestandteile",
+       "name": "Anzeigenbestandteile & Copy Strategy",
+       "exam_parts": [
+        1
+       ]
+      },
+      {
+       "key": "deutsch-aa-positionierung",
+       "name": "USP/UAP, Positionierung & Benefit Ladder",
+       "exam_parts": [
+        1
+       ]
+      },
+      {
+       "key": "deutsch-aa-gestaltung",
+       "name": "Aktivierung, Prägnanz & Gestaltgesetze",
+       "exam_parts": [
+        1
+       ]
+      }
+     ]
+    }
+   ]
+  }
+ ],
+ "items": []
+}

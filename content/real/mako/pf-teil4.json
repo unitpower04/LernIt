@@ -1,0 +1,200 @@
+{
+ "demo": false,
+ "items": [
+  {
+   "topic": "mako-pf-teil4",
+   "flashcards": [],
+   "glossary": [],
+   "questions": [],
+   "templates": [],
+   "cases": [
+    {
+     "key": "mako-pf-teil4-fall01",
+     "title": "Fall 1: Reklamation eines Kunden zur Terminverzögerung",
+     "situation": "Du betreust als Auszubildende/r den Kunden „Rheinbrot“. Die Plakatmotive sollten laut Zeitplan am Montag zum Druck gehen, der Kunde hat jedoch erst am Donnerstag das Motiv freigegeben. Der Druck verzögert sich um drei Tage. Der Kunde ruft verärgert an und verlangt Preisnachlass.",
+     "prompts": [
+      {
+       "question": "Wie reagierst du im Gespräch mit dem verärgerten Kunden?",
+       "sample": [
+        "Ruhig bleiben, Gesprächspartner ausreden lassen, Verständnis zeigen (aktives Zuhören)",
+        "Sachlich auf die Terminkette verweisen (Freigabe am Donnerstag laut Freigabeprotokoll)",
+        "Lösungsorientiert: neuen Termin, Priorisierung beim Druck, Eskalation an Kundenberatung"
+       ]
+      },
+      {
+       "question": "Welche internen Dokumente/Prozesse helfen dir, die Ursache zu klären?",
+       "sample": [
+        "Zeitplan/Timing und Protokoll der Freigaben",
+        "E-Mail-/Briefingverlauf, Statusberichte",
+        "Rücksprache mit dem Trafficer"
+       ]
+      },
+      {
+       "question": "Wie vermeidest du solche Verzögerungen künftig?",
+       "sample": [
+        "Verbindliche Freigabefristen im Angebot und Zeitplan festlegen",
+        "Frühzeitige Erinnerung an offene Freigaben",
+        "Pufferzeiten einplanen, Agentur-Protokoll mit Terminbestätigung"
+       ]
+      }
+     ]
+    },
+    {
+     "key": "mako-pf-teil4-fall02",
+     "title": "Fall 2: Budgetüberschreitung bei einer Printproduktion",
+     "situation": "Für den Kunden „Kreativ-Kontor“ wurde ein Katalog mit 5.000 Exemplaren kalkuliert (Angebot: 6.200 € netto). Bei der Abrechnung der Druckerei fallen 7.100 € netto an, weil der Kunde nachträglich Veredelung (UV-Lack) und 500 Exemplare mehr beauftragt hat – ohne schriftliche Bestätigung.",
+     "prompts": [
+      {
+       "question": "Wie gehst du mit der Differenz zum Angebot um?",
+       "sample": [
+        "Ursache klären (Änderungen des Kunden), Mehrkosten dokumentieren",
+        "Nachtragsangebot bzw. schriftliche Bestätigung der Zusatzleistung einholen",
+        "Mit dem Kunden transparent kommunizieren und abstimmen, wer die Mehrkosten trägt"
+       ]
+      },
+      {
+       "question": "Welche rechtlichen Grundlagen sind relevant?",
+       "sample": [
+        "Werkvertrag: Änderungen führen zu Vergütungsanpassung; Beweislast beim Unternehmer",
+        "Formfreiheit, aber Schriftform schafft Beweissicherheit",
+        "AGB der Agentur regeln Änderungswünsche und Mehrkosten"
+       ]
+      },
+      {
+       "question": "Wie könnte man ähnliche Fälle künftig verhindern?",
+       "sample": [
+        "Change-Request-Prozess mit schriftlicher Freigabe",
+        "Kalkulation mit Variantenpreisen und Hinweis auf Zusatzkosten",
+        "Regelmäßige Statusabstimmung während der Produktion"
+       ]
+      }
+     ]
+    },
+    {
+     "key": "mako-pf-teil4-fall03",
+     "title": "Fall 3: Datenschutz bei einer Newsletter-Aktion",
+     "situation": "Ein Kunde möchte 8.000 E-Mail-Adressen aus einer alten Kundendatei für einen Newsletter nutzen. Die Adressen stammen von einem Gewinnspiel vor vier Jahren. Eine ausdrückliche Einwilligung für Werbung liegt nicht vor.",
+     "prompts": [
+      {
+       "question": "Darf die Agentur die Adressen verwenden? Begründe.",
+       "sample": [
+        "Nein, ohne Einwilligung (Opt-in) ist Werbung per E-Mail nach UWG § 7 und DSGVO nicht zulässig",
+        "Zweckbindung: Daten wurden für das Gewinnspiel erhoben",
+        "Ausnahme Bestandskundenwerbung greift nur bei eigenen Kunden mit Kauf"
+       ]
+      },
+      {
+       "question": "Wie kann man eine rechtssichere Newsletter-Liste aufbauen?",
+       "sample": [
+        "Double-Opt-in mit Bestätigungslink",
+        "Transparente Datenschutzerklärung und Abmeldemöglichkeit",
+        "Dokumentation der Einwilligungen"
+       ]
+      },
+      {
+       "question": "Welche Folgen drohen bei Verstößen?",
+       "sample": [
+        "Abmahnung durch Mitbewerber/Verbände, Unterlassungserklärung",
+        "Bußgelder nach DSGVO bis 20 Mio. € oder 4 % des Umsatzes",
+        "Imageschäden"
+       ]
+      }
+     ]
+    },
+    {
+     "key": "mako-pf-teil4-fall04",
+     "title": "Fall 4: Mediaplanentscheidung",
+     "situation": "Für eine neue Eis-Marke stehen 60.000 € zur Verfügung. Zielgruppe: Familien in der Region. Die Mediaplanerin schlägt vor, das gesamte Budget für eine zweiwöchige TV-Schaltung zu verwenden. Der Kunde zweifelt.",
+     "prompts": [
+      {
+       "question": "Welche Argumente sprechen für und gegen die TV-Schaltung?",
+       "sample": [
+        "Pro: hohe Reichweite, emotionale Wirkung, Bewegtbild",
+        "Contra: hohe Produktions- und Schaltkosten, Streuverluste bei regionaler Zielgruppe, kaum Wiederholung bei kurzer Laufzeit",
+        "Budget reicht evtl. nicht für wirksame Kontaktzahl (Effektivfrequenz)"
+       ]
+      },
+      {
+       "question": "Welche Alternativen empfiehlst du?",
+       "sample": [
+        "Regionale Medien: Radio, Plakat, Social Ads mit Geotargeting",
+        "Kombination mit Verkaufsförderung (Sampling im Handel)",
+        "Flight-Plan für Sommerwochen statt Dauerschaltung"
+       ]
+      },
+      {
+       "question": "Wie würdest du die Wirksamkeit der Planung bewerten?",
+       "sample": [
+        "Kennziffern: Reichweite, GRP, TKP/TNP, Affinität",
+        "Vergleich der Pläne intermedial",
+        "Post-Test: Bekanntheit/Abverkauf"
+       ]
+      }
+     ]
+    },
+    {
+     "key": "mako-pf-teil4-fall05",
+     "title": "Fall 5: Urheberrecht und Bildnutzung",
+     "situation": "Ein Kunde schickt ein Foto aus dem Internet und bittet darum, es für die Titelseite einer Broschüre zu nutzen. Ein Urheber ist nicht bekannt. Die Auflage beträgt 10.000 Stück.",
+     "prompts": [
+      {
+       "question": "Wie reagierst du auf die Bitte?",
+       "sample": [
+        "Rechte klären: Urheber ermitteln, Lizenz einholen, sonst nicht verwenden",
+        "Hinweis: Fotos im Internet sind urheberrechtlich geschützt (UrhG)",
+        "Alternative: lizenzfreie/lizenzierte Bilder (Stockfotos, Creative Commons mit Quellenangabe) oder Neuproduktion"
+       ]
+      },
+      {
+       "question": "Welche Folgen hätte eine unerlaubte Nutzung?",
+       "sample": [
+        "Abmahnung, Unterlassungserklärung",
+        "Schadensersatz (üblich in Höhe der Lizenzgebühr, teils mit Aufschlag)",
+        "Vernichtung/Rückruf der Broschüren und Imageschaden"
+       ]
+      },
+      {
+       "question": "Wie dokumentierst du die Rechteklärung?",
+       "sample": [
+        "Lizenzvertrag/Nutzungsrechte (Umfang, Dauer, Medium, Gebiet) schriftlich ablegen",
+        "Bildnachweis und ggf. Urhebernennung",
+        "Aufbewahrung in der Projektakte"
+       ]
+      }
+     ]
+    },
+    {
+     "key": "mako-pf-teil4-fall06",
+     "title": "Fall 6: Konflikt im Team – Terminstress in der Agentur",
+     "situation": "Du bist in der Agentur für die Terminplanung (Traffic) eingesetzt. Zwei Kolleginnen aus Kreation und Beratung beschuldigen sich gegenseitig, Verzögerungen zu verursachen. Ein wichtiger Pitch steht in fünf Tagen an.",
+     "prompts": [
+      {
+       "question": "Wie gehst du als Auszubildende/r mit dem Konflikt um?",
+       "sample": [
+        "Neutral bleiben, beide anhören, Sachebene vor Beziehungsebene",
+        "Gemeinsames Gespräch anregen, Verantwortlichkeiten klären",
+        "Vorgesetzten (Teamleitung) informieren, wenn keine Lösung gefunden wird"
+       ]
+      },
+      {
+       "question": "Wie sicherst du die Einhaltung des Pitch-Termins?",
+       "sample": [
+        "Rückwärtsterminierung mit Meilensteinen und Verantwortlichen",
+        "Tägliches kurzes Statusmeeting, Aufgabenpriorisierung",
+        "Pufferzeiten und Eskalationsweg festlegen"
+       ]
+      },
+      {
+       "question": "Welche Tools/Methoden der Ablaufplanung kennst du?",
+       "sample": [
+        "Zeitplan/Gantt-Diagramm, Kanban-Board, Projektmanagement-Software",
+        "Checklisten und Briefing-Protokolle",
+        "Ampelstatus für Aufgaben"
+       ]
+      }
+     ]
+    }
+   ]
+  }
+ ]
+}
