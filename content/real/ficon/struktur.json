@@ -1,0 +1,111 @@
+{
+ "demo": false,
+ "subjects": [
+  {
+   "key": "ficon",
+   "name": "FiCon – Finanzen & Controlling",
+   "description": "Rechnungswesen und Kostenrechnung (Prüfungsteil 3 Umsetzung & Steuerung)",
+   "color": "#ea580c",
+   "learning_fields": [
+    {
+     "key": "ficon-lf2",
+     "code": "LF2",
+     "name": "Gesetzliche Grundlagen & Finanzbuchhaltung",
+     "exam_parts": [
+      3
+     ],
+     "topics": [
+      {
+       "key": "ficon-jahresabschluss",
+       "name": "Inventur, Inventar, Bilanz & GuV",
+       "exam_parts": [
+        3
+       ]
+      },
+      {
+       "key": "ficon-buchen",
+       "name": "Buchen auf Bestands- und Erfolgskonten",
+       "exam_parts": [
+        3
+       ]
+      },
+      {
+       "key": "ficon-ust",
+       "name": "Umsatzsteuer & Vorsteuer",
+       "exam_parts": [
+        3
+       ]
+      },
+      {
+       "key": "ficon-abschreibung",
+       "name": "Abschreibungen auf Sachanlagen",
+       "exam_parts": [
+        3
+       ]
+      },
+      {
+       "key": "ficon-kennzahlen",
+       "name": "Bilanzkennzahlen",
+       "exam_parts": [
+        3
+       ]
+      }
+     ]
+    },
+    {
+     "key": "ficon-lf11",
+     "code": "LF11",
+     "name": "Gehaltsabrechnung & Kosten- und Leistungsrechnung",
+     "exam_parts": [
+      3
+     ],
+     "topics": [
+      {
+       "key": "ficon-gehalt",
+       "name": "Gehaltsabrechnung",
+       "exam_parts": [
+        3
+       ]
+      },
+      {
+       "key": "ficon-kostenarten",
+       "name": "Kostenartenrechnung",
+       "exam_parts": [
+        3
+       ]
+      },
+      {
+       "key": "ficon-bab",
+       "name": "Kostenstellenrechnung & BAB",
+       "exam_parts": [
+        3
+       ]
+      },
+      {
+       "key": "ficon-stundensatz",
+       "name": "Agenturstundensatz",
+       "exam_parts": [
+        3
+       ]
+      },
+      {
+       "key": "ficon-kalkulation",
+       "name": "Kostenträgerrechnung: Projektkalkulation",
+       "exam_parts": [
+        3
+       ]
+      },
+      {
+       "key": "ficon-db",
+       "name": "Deckungsbeitragsrechnung & Break-Even",
+       "exam_parts": [
+        3
+       ]
+      }
+     ]
+    }
+   ]
+  }
+ ],
+ "items": []
+}

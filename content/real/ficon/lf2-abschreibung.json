@@ -1,0 +1,465 @@
+{
+ "demo": false,
+ "items": [
+  {
+   "topic": "ficon-abschreibung",
+   "flashcards": [
+    {
+     "key": "ficon-abschreibung-c01",
+     "front": "Was ist Abschreibung?",
+     "back": "Verteilung der Anschaffungskosten auf die Nutzungsdauer – Erfassung der Wertminderung."
+    },
+    {
+     "key": "ficon-abschreibung-c02",
+     "front": "Aus welchen Bestandteilen bestehen die Anschaffungskosten?",
+     "back": "Anschaffungspreis (netto) + Nebenkosten − Preisnachlässe."
+    },
+    {
+     "key": "ficon-abschreibung-c03",
+     "front": "Gehört die Vorsteuer zu den Anschaffungskosten?",
+     "back": "Nein – sie wird als Forderung gebucht."
+    },
+    {
+     "key": "ficon-abschreibung-c04",
+     "front": "Wie berechnet sich die lineare Abschreibung?",
+     "back": "Anschaffungskosten : Nutzungsdauer."
+    },
+    {
+     "key": "ficon-abschreibung-c05",
+     "front": "Abschreibungssatz linear?",
+     "back": "100 % : Nutzungsdauer in Jahren."
+    },
+    {
+     "key": "ficon-abschreibung-c06",
+     "front": "Was bedeutet anteilige Abschreibung im Anschaffungsjahr?",
+     "back": "Abschreibung monatsgenau ab Anschaffung: Jahresbetrag × Monate : 12."
+    },
+    {
+     "key": "ficon-abschreibung-c07",
+     "front": "Was ist der Restbuchwert?",
+     "back": "Anschaffungskosten abzüglich der bisher vorgenommenen Abschreibungen."
+    },
+    {
+     "key": "ficon-abschreibung-c08",
+     "front": "Was ist der Erinnerungswert?",
+     "back": "1 € – bleibt für voll abgeschriebene, noch genutzte Anlagegüter in der Bilanz."
+    },
+    {
+     "key": "ficon-abschreibung-c09",
+     "front": "Was sind GWG?",
+     "back": "Geringwertige Wirtschaftsgüter bis 800 € netto – sofort abschreibbar."
+    },
+    {
+     "key": "ficon-abschreibung-c10",
+     "front": "Wie wirkt die Abschreibung auf den Gewinn?",
+     "back": "Sie ist Aufwand und mindert den Gewinn."
+    },
+    {
+     "key": "ficon-abschreibung-c11",
+     "front": "Warum ist Abschreibung Innenfinanzierung?",
+     "back": "Sie ist Aufwand ohne Auszahlung – Mittel fließen über Umsatzerlöse zurück."
+    },
+    {
+     "key": "ficon-abschreibung-c12",
+     "front": "Buchung der Abschreibung?",
+     "back": "Abschreibungen auf Sachanlagen an Anlagekonto (z. B. Fuhrpark)."
+    },
+    {
+     "key": "ficon-abschreibung-c13",
+     "front": "Nenne Abschreibungsgründe.",
+     "back": "Nutzung (Verschleiß), Zeit, technischer Fortschritt, wirtschaftliche Entwertung."
+    }
+   ],
+   "glossary": [
+    {
+     "key": "ficon-abschreibung-g01",
+     "term": "AfA",
+     "definition": "Absetzung für Abnutzung."
+    },
+    {
+     "key": "ficon-abschreibung-g02",
+     "term": "Anschaffungskosten",
+     "definition": "Kaufpreis netto plus Nebenkosten minus Nachlässe."
+    },
+    {
+     "key": "ficon-abschreibung-g03",
+     "term": "Restbuchwert",
+     "definition": "Anschaffungskosten minus kumulierte Abschreibung."
+    },
+    {
+     "key": "ficon-abschreibung-g04",
+     "term": "GWG",
+     "definition": "Geringwertiges Wirtschaftsgut."
+    }
+   ],
+   "questions": [
+    {
+     "key": "ficon-abschreibung-q01",
+     "type": "mc",
+     "exam_part": 3,
+     "difficulty": 2,
+     "source": "FiCon (Themenübersicht KMK, Unterricht)",
+     "body": {
+      "prompt": "Welche Position gehört zu den Anschaffungskosten?",
+      "options": [
+       {
+        "text": "Montagekosten",
+        "correct": true
+       },
+       {
+        "text": "Vorsteuer",
+        "correct": false
+       },
+       {
+        "text": "Umsatzsteuer",
+        "correct": false
+       },
+       {
+        "text": "Verkaufspreis",
+        "correct": false
+       },
+       {
+        "text": "Gewinnaufschlag",
+        "correct": false
+       }
+      ]
+     }
+    },
+    {
+     "key": "ficon-abschreibung-q02",
+     "type": "mc",
+     "exam_part": 3,
+     "difficulty": 2,
+     "source": "FiCon (Themenübersicht KMK, Unterricht)",
+     "body": {
+      "prompt": "Wie wirkt sich die Abschreibung auf den Gewinn aus?",
+      "options": [
+       {
+        "text": "Sie mindert den Gewinn.",
+        "correct": true
+       },
+       {
+        "text": "Sie erhöht den Gewinn.",
+        "correct": false
+       },
+       {
+        "text": "Sie wirkt nicht.",
+        "correct": false
+       },
+       {
+        "text": "Sie erhöht das Eigenkapital.",
+        "correct": false
+       },
+       {
+        "text": "Sie erhöht die Liquidität sofort.",
+        "correct": false
+       }
+      ]
+     }
+    },
+    {
+     "key": "ficon-abschreibung-q03",
+     "type": "mc",
+     "exam_part": 3,
+     "difficulty": 2,
+     "source": "FiCon (Themenübersicht KMK, Unterricht)",
+     "body": {
+      "prompt": "Wie hoch ist der lineare Abschreibungssatz bei 8 Jahren Nutzungsdauer?",
+      "options": [
+       {
+        "text": "12,5 %",
+        "correct": true
+       },
+       {
+        "text": "8 %",
+        "correct": false
+       },
+       {
+        "text": "10 %",
+        "correct": false
+       },
+       {
+        "text": "12 %",
+        "correct": false
+       },
+       {
+        "text": "15 %",
+        "correct": false
+       }
+      ]
+     }
+    },
+    {
+     "key": "ficon-abschreibung-q04",
+     "type": "mc",
+     "exam_part": 3,
+     "difficulty": 2,
+     "source": "FiCon (Themenübersicht KMK, Unterricht)",
+     "body": {
+      "prompt": "Welcher Wert bleibt für ein voll abgeschriebenes, noch genutztes Gut in der Bilanz?",
+      "options": [
+       {
+        "text": "Erinnerungswert von 1 €",
+        "correct": true
+       },
+       {
+        "text": "0 €",
+        "correct": false
+       },
+       {
+        "text": "10 €",
+        "correct": false
+       },
+       {
+        "text": "Anschaffungskosten",
+        "correct": false
+       },
+       {
+        "text": "Marktwert",
+        "correct": false
+       }
+      ]
+     }
+    },
+    {
+     "key": "ficon-abschreibung-q05",
+     "type": "mc",
+     "exam_part": 3,
+     "difficulty": 2,
+     "source": "FiCon (Themenübersicht KMK, Unterricht)",
+     "body": {
+      "prompt": "Wie wird die Abschreibung gebucht?",
+      "options": [
+       {
+        "text": "Abschreibungen auf Sachanlagen an Anlagekonto",
+        "correct": true
+       },
+       {
+        "text": "Anlagekonto an Abschreibungen",
+        "correct": false
+       },
+       {
+        "text": "Bank an Abschreibungen",
+        "correct": false
+       },
+       {
+        "text": "Abschreibungen an Bank",
+        "correct": false
+       },
+       {
+        "text": "Eigenkapital an Abschreibung",
+        "correct": false
+       }
+      ]
+     }
+    },
+    {
+     "key": "ficon-abschreibung-q06",
+     "type": "match",
+     "exam_part": 3,
+     "difficulty": 2,
+     "source": "FiCon (Themenübersicht KMK, Unterricht)",
+     "body": {
+      "prompt": "Ordnen Sie zu.",
+      "items": [
+       {
+        "term": "Anschaffungspreis netto + Nebenkosten − Nachlässe",
+        "match": "Anschaffungskosten"
+       },
+       {
+        "term": "Anschaffungskosten − bisherige AfA",
+        "match": "Restbuchwert"
+       },
+       {
+        "term": "Wert 1 €",
+        "match": "Erinnerungswert"
+       },
+       {
+        "term": "bis 800 € netto",
+        "match": "GWG"
+       }
+      ],
+      "distractors": []
+     }
+    },
+    {
+     "key": "ficon-abschreibung-q07",
+     "type": "tf",
+     "exam_part": 3,
+     "difficulty": 2,
+     "source": "FiCon (Themenübersicht KMK, Unterricht)",
+     "body": {
+      "statement": "Die Vorsteuer erhöht die Anschaffungskosten.",
+      "answer": false
+     }
+    },
+    {
+     "key": "ficon-abschreibung-q08",
+     "type": "tf",
+     "exam_part": 3,
+     "difficulty": 2,
+     "source": "FiCon (Themenübersicht KMK, Unterricht)",
+     "body": {
+      "statement": "Abschreibungen sind Aufwand ohne Auszahlung.",
+      "answer": true
+     }
+    },
+    {
+     "key": "ficon-abschreibung-q09",
+     "type": "cloze",
+     "exam_part": 3,
+     "difficulty": 2,
+     "source": "FiCon (Themenübersicht KMK, Unterricht)",
+     "body": {
+      "text": "Bei voller Abschreibung verbleibt ein [[Erinnerungswert]] von [[1]] €."
+     }
+    }
+   ],
+   "templates": [
+    {
+     "key": "ficon-abschreibung-t01",
+     "type": "calc",
+     "exam_part": 3,
+     "difficulty": 2,
+     "source": "FiCon (Themenübersicht KMK, Unterricht)",
+     "vars": {
+      "obj": {
+       "type": "pick",
+       "options": [
+        "Server",
+        "Kamerasystem",
+        "Großformatdrucker",
+        "Dienstwagen"
+       ]
+      },
+      "p": {
+       "type": "int",
+       "min": 6000,
+       "max": 30000,
+       "step": 1000
+      },
+      "m": {
+       "type": "int",
+       "min": 200,
+       "max": 1000,
+       "step": 100
+      },
+      "r": {
+       "type": "int",
+       "min": 100,
+       "max": 800,
+       "step": 100
+      },
+      "n": {
+       "type": "pick",
+       "options": [
+        3,
+        4,
+        5,
+        6,
+        8
+       ]
+      }
+     },
+     "body": {
+      "prompt": "Eine Agentur kauft einen {obj} für {p|eur} netto. Die Montage kostet {m|eur}, ein Rabatt von {r|eur} wird gewährt. Nutzungsdauer {n} Jahre, lineare Abschreibung. Wie hoch ist die jährliche Abschreibung?",
+      "answer": "(p+m-r)/n",
+      "unit": "€",
+      "decimals": 2,
+      "steps": [
+       "Anschaffungskosten = {p|eur} + {m|eur} − {r|eur}",
+       "AfA = Anschaffungskosten : {n} = {result|eur}"
+      ]
+     }
+    },
+    {
+     "key": "ficon-abschreibung-t02",
+     "type": "calc",
+     "exam_part": 3,
+     "difficulty": 2,
+     "source": "FiCon (Themenübersicht KMK, Unterricht)",
+     "vars": {
+      "ak": {
+       "type": "int",
+       "min": 6000,
+       "max": 24000,
+       "step": 1200
+      },
+      "n": {
+       "type": "pick",
+       "options": [
+        3,
+        4,
+        5,
+        6
+       ]
+      },
+      "mo": {
+       "type": "int",
+       "min": 2,
+       "max": 11,
+       "step": 1,
+       "fmt": "raw"
+      }
+     },
+     "body": {
+      "prompt": "Ein Gerät mit Anschaffungskosten von {ak|eur} und einer Nutzungsdauer von {n} Jahren wird zum {mo}. (Monat Nr.) des Jahres angeschafft (Anschaffung am Monatsanfang). Wie hoch ist die anteilige Abschreibung im Anschaffungsjahr?",
+      "answer": "ak/n*(13-mo)/12",
+      "unit": "€",
+      "decimals": 2,
+      "steps": [
+       "Jahres-AfA = {ak|eur} : {n}",
+       "anteilig = Jahres-AfA · (13 − {mo}) : 12 = {result|eur}"
+      ]
+     }
+    },
+    {
+     "key": "ficon-abschreibung-t03",
+     "type": "calc",
+     "exam_part": 3,
+     "difficulty": 2,
+     "source": "FiCon (Themenübersicht KMK, Unterricht)",
+     "vars": {
+      "ak": {
+       "type": "int",
+       "min": 10000,
+       "max": 40000,
+       "step": 2000
+      },
+      "n": {
+       "type": "pick",
+       "options": [
+        5,
+        6,
+        8
+       ]
+      },
+      "j": {
+       "type": "int",
+       "min": 1,
+       "max": 4,
+       "step": 1,
+       "fmt": "raw"
+      }
+     },
+     "body": {
+      "prompt": "Ein Fahrzeug (Anschaffungskosten {ak|eur}) wird {n} Jahre linear abgeschrieben. Wie hoch ist der Restbuchwert nach {j} Jahren?",
+      "answer": "ak-ak/n*j",
+      "unit": "€",
+      "decimals": 2,
+      "steps": [
+       "AfA/Jahr = {ak|eur} : {n}",
+       "Restbuchwert = {ak|eur} − {j} · AfA = {result|eur}"
+      ]
+     }
+    }
+   ],
+   "cases": [],
+   "summary": {
+    "key": "ficon-abschreibung-zettel",
+    "title": "Abschreibungen auf Sachanlagen",
+    "content_md": "\n**Abschreibung (AfA)** = planmäßige Verteilung der **Anschaffungskosten** auf die **Nutzungsdauer** (Wertminderung durch Nutzung/Alter). Mindert Gewinn (Aufwand), aber **keine Auszahlung** → Innenfinanzierung.\n**Anschaffungskosten** = Anschaffungspreis (netto) + Anschaffungsnebenkosten (Fracht, Montage) − Preisnachlässe (Rabatt, Skonto). **Vorsteuer** gehört nicht dazu.\n**Linear**: AfA/Jahr = Anschaffungskosten : Nutzungsdauer; Abschreibungssatz = 100 % : ND.\n**Anteilig im Anschaffungsjahr** (monatsgenau): × Monate/12.\n**Restbuchwert** = AK − bisherige AfA. **Erinnerungswert 1 €** bei voller Abschreibung noch genutzter Anlagen.\n**GWG**: Wirtschaftsgüter bis **800 € netto**: Sofortabschreibung; **Sammelposten** 250–1.000 € (5 Jahre).\n**Buchung**: *Abschreibungen auf Sachanlagen an Fuhrpark/BGA*.\n"
+   }
+  }
+ ]
+}

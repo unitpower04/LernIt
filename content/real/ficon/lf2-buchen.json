@@ -1,0 +1,534 @@
+{
+ "demo": false,
+ "items": [
+  {
+   "topic": "ficon-buchen",
+   "flashcards": [
+    {
+     "key": "ficon-buchen-c01",
+     "front": "Buchungssatz-Regel?",
+     "back": "Soll an Haben – Summe der Sollbuchungen gleich Summe der Habenbuchungen."
+    },
+    {
+     "key": "ficon-buchen-c02",
+     "front": "Wo steht der Anfangsbestand bei Aktivkonten?",
+     "back": "Im Soll."
+    },
+    {
+     "key": "ficon-buchen-c03",
+     "front": "Wo steht der Anfangsbestand bei Passivkonten?",
+     "back": "Im Haben."
+    },
+    {
+     "key": "ficon-buchen-c04",
+     "front": "Zugänge bei Aktivkonten?",
+     "back": "Im Soll."
+    },
+    {
+     "key": "ficon-buchen-c05",
+     "front": "Abgänge bei Aktivkonten?",
+     "back": "Im Haben."
+    },
+    {
+     "key": "ficon-buchen-c06",
+     "front": "Zugänge bei Passivkonten?",
+     "back": "Im Haben."
+    },
+    {
+     "key": "ficon-buchen-c07",
+     "front": "Abgänge bei Passivkonten?",
+     "back": "Im Soll."
+    },
+    {
+     "key": "ficon-buchen-c08",
+     "front": "Wo werden Aufwendungen gebucht?",
+     "back": "Im Soll der Aufwandskonten."
+    },
+    {
+     "key": "ficon-buchen-c09",
+     "front": "Wo werden Erträge gebucht?",
+     "back": "Im Haben der Ertragskonten."
+    },
+    {
+     "key": "ficon-buchen-c10",
+     "front": "Was ist ein Aktivtausch?",
+     "back": "Tausch innerhalb der Aktiva – Bilanzsumme unverändert (z. B. Bank an Kasse)."
+    },
+    {
+     "key": "ficon-buchen-c11",
+     "front": "Was ist ein Passivtausch?",
+     "back": "Tausch innerhalb der Passiva (z. B. Verbindlichkeit in Darlehen umwandeln)."
+    },
+    {
+     "key": "ficon-buchen-c12",
+     "front": "Was ist eine Aktiv-Passiv-Mehrung?",
+     "back": "Aktiva und Passiva steigen (z. B. Wareneinkauf auf Ziel)."
+    },
+    {
+     "key": "ficon-buchen-c13",
+     "front": "Was ist eine Aktiv-Passiv-Minderung?",
+     "back": "Aktiva und Passiva sinken (z. B. Verbindlichkeit per Bank begleichen)."
+    },
+    {
+     "key": "ficon-buchen-c14",
+     "front": "Buchung Eingangsrechnung Büromaterial 100 € netto + 19 % USt?",
+     "back": "Büromaterial 100, Vorsteuer 19 an Verbindlichkeiten aLuL 119."
+    },
+    {
+     "key": "ficon-buchen-c15",
+     "front": "Buchung Ausgangsrechnung 1.000 € netto + 19 % USt?",
+     "back": "Forderungen aLuL 1.190 an Umsatzerlöse 1.000 und Umsatzsteuer 190."
+    },
+    {
+     "key": "ficon-buchen-c16",
+     "front": "Buchung Kundenzahlung?",
+     "back": "Bank an Forderungen aLuL."
+    },
+    {
+     "key": "ficon-buchen-c17",
+     "front": "Buchung Zahlung an Lieferanten?",
+     "back": "Verbindlichkeiten aLuL an Bank."
+    },
+    {
+     "key": "ficon-buchen-c18",
+     "front": "Wie wird der Gewinn auf dem Konto übernommen?",
+     "back": "GuV-Konto wird über Eigenkapital abgeschlossen."
+    },
+    {
+     "key": "ficon-buchen-c19",
+     "front": "Was sind Fremdleistungen?",
+     "back": "Aufwand für bezogene Leistungen Dritter (z. B. Druck, Mediabuchung)."
+    }
+   ],
+   "glossary": [
+    {
+     "key": "ficon-buchen-g01",
+     "term": "Buchungssatz",
+     "definition": "Soll an Haben mit gleichen Beträgen."
+    },
+    {
+     "key": "ficon-buchen-g02",
+     "term": "Aktivkonto",
+     "definition": "Bestandskonto für Vermögen."
+    },
+    {
+     "key": "ficon-buchen-g03",
+     "term": "Passivkonto",
+     "definition": "Bestandskonto für Kapital/Schulden."
+    },
+    {
+     "key": "ficon-buchen-g04",
+     "term": "Aufwandskonto",
+     "definition": "Erfolgskonto, auf dem Wertverzehr im Soll gebucht wird."
+    },
+    {
+     "key": "ficon-buchen-g05",
+     "term": "Ertragskonto",
+     "definition": "Erfolgskonto, auf dem Wertzuwachs im Haben gebucht wird."
+    }
+   ],
+   "questions": [
+    {
+     "key": "ficon-buchen-q01",
+     "type": "mc",
+     "exam_part": 3,
+     "difficulty": 2,
+     "source": "FiCon (Themenübersicht KMK, Unterricht)",
+     "body": {
+      "prompt": "Welche Buchung ist bei Banküberweisung einer Eingangsrechnung für Büromaterial richtig?",
+      "options": [
+       {
+        "text": "Verbindlichkeiten aLuL an Bank",
+        "correct": true
+       },
+       {
+        "text": "Bank an Verbindlichkeiten aLuL",
+        "correct": false
+       },
+       {
+        "text": "Büromaterial an Bank",
+        "correct": false
+       },
+       {
+        "text": "Forderungen aLuL an Bank",
+        "correct": false
+       },
+       {
+        "text": "Bank an Büromaterial",
+        "correct": false
+       }
+      ]
+     }
+    },
+    {
+     "key": "ficon-buchen-q02",
+     "type": "mc",
+     "exam_part": 3,
+     "difficulty": 2,
+     "source": "FiCon (Themenübersicht KMK, Unterricht)",
+     "body": {
+      "prompt": "Eine Kundin zahlt eine Rechnung per Überweisung. Welche Buchung?",
+      "options": [
+       {
+        "text": "Bank an Forderungen aLuL",
+        "correct": true
+       },
+       {
+        "text": "Forderungen aLuL an Bank",
+        "correct": false
+       },
+       {
+        "text": "Bank an Umsatzerlöse",
+        "correct": false
+       },
+       {
+        "text": "Kasse an Forderungen",
+        "correct": false
+       },
+       {
+        "text": "Umsatzerlöse an Bank",
+        "correct": false
+       }
+      ]
+     }
+    },
+    {
+     "key": "ficon-buchen-q03",
+     "type": "mc",
+     "exam_part": 3,
+     "difficulty": 2,
+     "source": "FiCon (Themenübersicht KMK, Unterricht)",
+     "body": {
+      "prompt": "Ein Aktivkonto: Wo wird der Zugang gebucht?",
+      "options": [
+       {
+        "text": "Im Soll",
+        "correct": true
+       },
+       {
+        "text": "Im Haben",
+        "correct": false
+       },
+       {
+        "text": "Gar nicht",
+        "correct": false
+       },
+       {
+        "text": "In der GuV",
+        "correct": false
+       },
+       {
+        "text": "Auf der Passivseite",
+        "correct": false
+       }
+      ]
+     }
+    },
+    {
+     "key": "ficon-buchen-q04",
+     "type": "mc",
+     "exam_part": 3,
+     "difficulty": 2,
+     "source": "FiCon (Themenübersicht KMK, Unterricht)",
+     "body": {
+      "prompt": "Welcher Geschäftsfall ist ein Aktivtausch?",
+      "options": [
+       {
+        "text": "Barabhebung vom Bankkonto in die Kasse",
+        "correct": true
+       },
+       {
+        "text": "Zahlung einer Miete",
+        "correct": false
+       },
+       {
+        "text": "Wareneinkauf auf Ziel",
+        "correct": false
+       },
+       {
+        "text": "Aufnahme eines Darlehens",
+        "correct": false
+       },
+       {
+        "text": "Gehaltszahlung",
+        "correct": false
+       }
+      ]
+     }
+    },
+    {
+     "key": "ficon-buchen-q05",
+     "type": "mc",
+     "exam_part": 3,
+     "difficulty": 2,
+     "source": "FiCon (Themenübersicht KMK, Unterricht)",
+     "body": {
+      "prompt": "Welcher Geschäftsfall ist ein Passivtausch?",
+      "options": [
+       {
+        "text": "Eine Verbindlichkeit wird in ein Darlehen umgewandelt.",
+        "correct": true
+       },
+       {
+        "text": "Banküberweisung an Lieferanten",
+        "correct": false
+       },
+       {
+        "text": "Kundenzahlung",
+        "correct": false
+       },
+       {
+        "text": "Kauf auf Ziel",
+        "correct": false
+       },
+       {
+        "text": "Barkauf",
+        "correct": false
+       }
+      ]
+     }
+    },
+    {
+     "key": "ficon-buchen-q06",
+     "type": "match",
+     "exam_part": 3,
+     "difficulty": 2,
+     "source": "FiCon (Themenübersicht KMK, Unterricht)",
+     "body": {
+      "prompt": "Ordnen Sie jeden Geschäftsfall der Bilanzveränderung zu.",
+      "items": [
+       {
+        "term": "Kauf Büromöbel auf Ziel",
+        "match": "Aktiv-Passiv-Mehrung"
+       },
+       {
+        "term": "Bezahlen Lieferantenrechnung per Bank",
+        "match": "Aktiv-Passiv-Minderung"
+       },
+       {
+        "term": "Bar einzahlen aufs Bankkonto",
+        "match": "Aktivtausch"
+       },
+       {
+        "term": "Umwandlung Verbindlichkeit in Darlehen",
+        "match": "Passivtausch"
+       }
+      ],
+      "distractors": []
+     }
+    },
+    {
+     "key": "ficon-buchen-q07",
+     "type": "booking",
+     "exam_part": 3,
+     "difficulty": 2,
+     "source": "FiCon (Themenübersicht KMK, Unterricht)",
+     "body": {
+      "prompt": "Buchen Sie den Eingang einer Rechnung über Fremdleistungen (netto 1.000 €, 19 % USt = 190 €).",
+      "accounts": [
+       "Fremdleistungen",
+       "Vorsteuer",
+       "Verbindlichkeiten aLuL",
+       "Bank",
+       "Umsatzerlöse"
+      ],
+      "lines": [
+       {
+        "account": "Fremdleistungen",
+        "side": "S",
+        "amount": 1000
+       },
+       {
+        "account": "Vorsteuer",
+        "side": "S",
+        "amount": 190
+       },
+       {
+        "account": "Verbindlichkeiten aLuL",
+        "side": "H",
+        "amount": 1190
+       }
+      ]
+     }
+    },
+    {
+     "key": "ficon-buchen-q08",
+     "type": "tf",
+     "exam_part": 3,
+     "difficulty": 2,
+     "source": "FiCon (Themenübersicht KMK, Unterricht)",
+     "body": {
+      "statement": "Auf Passivkonten steht der Anfangsbestand im Soll.",
+      "answer": false
+     }
+    },
+    {
+     "key": "ficon-buchen-q09",
+     "type": "tf",
+     "exam_part": 3,
+     "difficulty": 2,
+     "source": "FiCon (Themenübersicht KMK, Unterricht)",
+     "body": {
+      "statement": "Aufwendungen werden im Soll gebucht.",
+      "answer": true
+     }
+    },
+    {
+     "key": "ficon-buchen-q10",
+     "type": "cloze",
+     "exam_part": 3,
+     "difficulty": 1,
+     "source": "FiCon (Themenübersicht KMK, Unterricht)",
+     "body": {
+      "text": "Der Buchungssatz lautet immer [[Soll]] an [[Haben]]."
+     }
+    }
+   ],
+   "templates": [
+    {
+     "key": "ficon-buchen-t01",
+     "type": "booking",
+     "exam_part": 3,
+     "difficulty": 2,
+     "source": "FiCon (Themenübersicht KMK, Unterricht)",
+     "vars": {
+      "ctx": {
+       "type": "pick",
+       "options": [
+        {
+         "art": "Büromaterial",
+         "konto": "Büromaterial"
+        },
+        {
+         "art": "Druckleistungen",
+         "konto": "Fremdleistungen"
+        },
+        {
+         "art": "die Büromiete",
+         "konto": "Mietaufwand"
+        }
+       ]
+      },
+      "n": {
+       "type": "int",
+       "min": 200,
+       "max": 4000,
+       "step": 100
+      }
+     },
+     "body": {
+      "prompt": "Eingangsrechnung für {ctx.art}: netto {n|eur}, Umsatzsteuer 19 %. Buchen Sie die Rechnung.",
+      "accounts": [
+       "{ctx.konto}",
+       "Vorsteuer",
+       "Verbindlichkeiten aLuL",
+       "Bank",
+       "Umsatzerlöse"
+      ],
+      "lines": [
+       {
+        "account": "{ctx.konto}",
+        "side": "S",
+        "amount": "n"
+       },
+       {
+        "account": "Vorsteuer",
+        "side": "S",
+        "amount": "n*0.19"
+       },
+       {
+        "account": "Verbindlichkeiten aLuL",
+        "side": "H",
+        "amount": "n*1.19"
+       }
+      ]
+     }
+    },
+    {
+     "key": "ficon-buchen-t02",
+     "type": "booking",
+     "exam_part": 3,
+     "difficulty": 2,
+     "source": "FiCon (Themenübersicht KMK, Unterricht)",
+     "vars": {
+      "n": {
+       "type": "int",
+       "min": 1000,
+       "max": 12000,
+       "step": 500
+      }
+     },
+     "body": {
+      "prompt": "Ausgangsrechnung: Werbedienstleistung netto {n|eur}, Umsatzsteuer 19 %. Buchen Sie die Rechnung.",
+      "accounts": [
+       "Forderungen aLuL",
+       "Umsatzerlöse",
+       "Umsatzsteuer",
+       "Bank",
+       "Vorsteuer"
+      ],
+      "lines": [
+       {
+        "account": "Forderungen aLuL",
+        "side": "S",
+        "amount": "n*1.19"
+       },
+       {
+        "account": "Umsatzerlöse",
+        "side": "H",
+        "amount": "n"
+       },
+       {
+        "account": "Umsatzsteuer",
+        "side": "H",
+        "amount": "n*0.19"
+       }
+      ]
+     }
+    },
+    {
+     "key": "ficon-buchen-t03",
+     "type": "booking",
+     "exam_part": 3,
+     "difficulty": 2,
+     "source": "FiCon (Themenübersicht KMK, Unterricht)",
+     "vars": {
+      "b": {
+       "type": "int",
+       "min": 500,
+       "max": 15000,
+       "step": 100
+      }
+     },
+     "body": {
+      "prompt": "Ein Kunde überweist {b|eur} für eine offene Rechnung. Buchen Sie den Zahlungseingang.",
+      "accounts": [
+       "Bank",
+       "Forderungen aLuL",
+       "Umsatzerlöse",
+       "Kasse"
+      ],
+      "lines": [
+       {
+        "account": "Bank",
+        "side": "S",
+        "amount": "b"
+       },
+       {
+        "account": "Forderungen aLuL",
+        "side": "H",
+        "amount": "b"
+       }
+      ]
+     }
+    }
+   ],
+   "cases": [],
+   "summary": {
+    "key": "ficon-buchen-zettel",
+    "title": "Buchen auf Bestands- und Erfolgskonten",
+    "content_md": "\n**Buchungssatz**: *Soll an Haben* (Soll-Betrag = Haben-Betrag). Bestandskonten: **Aktivkonten** (Anfangsbestand im Soll, Zugang Soll, Abgang Haben) und **Passivkonten** (Anfangsbestand Haben, Zugang Haben, Abgang Soll).\n**Erfolgskonten**: **Aufwandskonten** (Soll: Aufwand mindert Eigenkapital) · **Ertragskonten** (Haben: Ertrag mehrt Eigenkapital); Abschluss über **GuV-Konto** → **Eigenkapital**.\n**Typische Buchungen**\n- Eingangsrechnung Büromaterial 119 € brutto: *Büromaterial 100 + Vorsteuer 19 an Verbindlichkeiten aLuL 119*\n- Ausgangsrechnung Werbedienstleistung 11.900 € brutto: *Forderungen aLuL 11.900 an Umsatzerlöse 10.000 + Umsatzsteuer 1.900*\n- Banküberweisung Miete: *Mietaufwand an Bank*\n- Kundenzahlung: *Bank an Forderungen aLuL*\n- Lieferantenzahlung: *Verbindlichkeiten aLuL an Bank*\n- Gehalt: *Gehälter an Bank*\n**Konten**: Kasse, Bank, Forderungen aLuL, Verbindlichkeiten aLuL, Vorsteuer, Umsatzsteuer, Umsatzerlöse, Mietaufwand, Fremdleistungen (Fremdarbeiten), Büromaterial.\n"
+   }
+  }
+ ]
+}

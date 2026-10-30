@@ -1,0 +1,374 @@
+{
+ "demo": false,
+ "items": [
+  {
+   "topic": "ficon-ust",
+   "flashcards": [
+    {
+     "key": "ficon-ust-c01",
+     "front": "Wer trägt die Umsatzsteuer wirtschaftlich?",
+     "back": "Der Endverbraucher – für Unternehmen ist sie ein durchlaufender Posten."
+    },
+    {
+     "key": "ficon-ust-c02",
+     "front": "Regelsteuersatz der USt?",
+     "back": "19 %."
+    },
+    {
+     "key": "ficon-ust-c03",
+     "front": "Ermäßigter Steuersatz?",
+     "back": "7 % (z. B. Lebensmittel, Bücher, Zeitungen)."
+    },
+    {
+     "key": "ficon-ust-c04",
+     "front": "Was ist Vorsteuer?",
+     "back": "Die in Eingangsrechnungen gezahlte Umsatzsteuer – Forderung gegen das Finanzamt."
+    },
+    {
+     "key": "ficon-ust-c05",
+     "front": "Was ist Umsatzsteuer (auf dem Konto)?",
+     "back": "Die in Ausgangsrechnungen berechnete USt – Verbindlichkeit gegenüber dem Finanzamt."
+    },
+    {
+     "key": "ficon-ust-c06",
+     "front": "Zahllast?",
+     "back": "Umsatzsteuer größer als Vorsteuer: Differenz wird ans Finanzamt gezahlt."
+    },
+    {
+     "key": "ficon-ust-c07",
+     "front": "Vorsteuerüberhang?",
+     "back": "Vorsteuer größer als Umsatzsteuer: das Finanzamt erstattet die Differenz."
+    },
+    {
+     "key": "ficon-ust-c08",
+     "front": "Wie rechnet man vom Netto- auf den Bruttobetrag?",
+     "back": "Netto × 1,19."
+    },
+    {
+     "key": "ficon-ust-c09",
+     "front": "Wie rechnet man vom Brutto- auf den Nettobetrag?",
+     "back": "Brutto : 1,19."
+    },
+    {
+     "key": "ficon-ust-c10",
+     "front": "Wie berechnet man die USt aus dem Bruttobetrag?",
+     "back": "Brutto × 19/119."
+    },
+    {
+     "key": "ficon-ust-c11",
+     "front": "Bis wann erfolgt die USt-Voranmeldung?",
+     "back": "Bis zum 10. des Folgemonats (ggf. mit Dauerfristverlängerung)."
+    },
+    {
+     "key": "ficon-ust-c12",
+     "front": "Wie wird die Zahllast gebucht?",
+     "back": "Umsatzsteuer an Vorsteuer, Rest Umsatzsteuer an Bank."
+    },
+    {
+     "key": "ficon-ust-c13",
+     "front": "Was ist eine Kleinunternehmerregelung?",
+     "back": "Bis zur Umsatzgrenze (25.000 € im Vorjahr, 100.000 € lfd. Jahr ab 2025) keine USt auf Rechnungen."
+    }
+   ],
+   "glossary": [
+    {
+     "key": "ficon-ust-g01",
+     "term": "Vorsteuer",
+     "definition": "USt aus Eingangsrechnungen – Anspruch gegenüber dem Finanzamt."
+    },
+    {
+     "key": "ficon-ust-g02",
+     "term": "Umsatzsteuer",
+     "definition": "Steuer auf Ausgangsrechnungen – Schuld gegenüber dem Finanzamt."
+    },
+    {
+     "key": "ficon-ust-g03",
+     "term": "Zahllast",
+     "definition": "Von Unternehmen an das Finanzamt zu zahlende Differenz."
+    },
+    {
+     "key": "ficon-ust-g04",
+     "term": "Vorsteuerüberhang",
+     "definition": "Erstattungsanspruch gegen das Finanzamt."
+    }
+   ],
+   "questions": [
+    {
+     "key": "ficon-ust-q01",
+     "type": "mc",
+     "exam_part": 3,
+     "difficulty": 2,
+     "source": "FiCon (Themenübersicht KMK, Unterricht)",
+     "body": {
+      "prompt": "Wie wird die Umsatzsteuerzahllast ermittelt?",
+      "options": [
+       {
+        "text": "Umsatzsteuer − Vorsteuer",
+        "correct": true
+       },
+       {
+        "text": "Vorsteuer − Umsatzsteuer",
+        "correct": false
+       },
+       {
+        "text": "Umsatzsteuer + Vorsteuer",
+        "correct": false
+       },
+       {
+        "text": "Netto × 19 %",
+        "correct": false
+       },
+       {
+        "text": "Brutto : 1,19",
+        "correct": false
+       }
+      ]
+     }
+    },
+    {
+     "key": "ficon-ust-q02",
+     "type": "mc",
+     "exam_part": 3,
+     "difficulty": 2,
+     "source": "FiCon (Themenübersicht KMK, Unterricht)",
+     "body": {
+      "prompt": "Die Vorsteuer übersteigt die Umsatzsteuer. Wie nennt man das?",
+      "options": [
+       {
+        "text": "Vorsteuerüberhang",
+        "correct": true
+       },
+       {
+        "text": "Zahllast",
+        "correct": false
+       },
+       {
+        "text": "Umsatzüberhang",
+        "correct": false
+       },
+       {
+        "text": "Gewinn",
+        "correct": false
+       },
+       {
+        "text": "Rückstellung",
+        "correct": false
+       }
+      ]
+     }
+    },
+    {
+     "key": "ficon-ust-q03",
+     "type": "mc",
+     "exam_part": 3,
+     "difficulty": 2,
+     "source": "FiCon (Themenübersicht KMK, Unterricht)",
+     "body": {
+      "prompt": "Wo erscheint die Vorsteuer in der Bilanz?",
+      "options": [
+       {
+        "text": "Als Forderung gegenüber dem Finanzamt (Aktiva)",
+        "correct": true
+       },
+       {
+        "text": "Als Verbindlichkeit",
+        "correct": false
+       },
+       {
+        "text": "Als Eigenkapital",
+        "correct": false
+       },
+       {
+        "text": "In der GuV",
+        "correct": false
+       },
+       {
+        "text": "Gar nicht",
+        "correct": false
+       }
+      ]
+     }
+    },
+    {
+     "key": "ficon-ust-q04",
+     "type": "mc",
+     "exam_part": 3,
+     "difficulty": 2,
+     "source": "FiCon (Themenübersicht KMK, Unterricht)",
+     "body": {
+      "prompt": "Wer trägt die Umsatzsteuer am Ende wirtschaftlich?",
+      "options": [
+       {
+        "text": "Der Endverbraucher",
+        "correct": true
+       },
+       {
+        "text": "Der Hersteller",
+        "correct": false
+       },
+       {
+        "text": "Das Finanzamt",
+        "correct": false
+       },
+       {
+        "text": "Die Agentur",
+        "correct": false
+       },
+       {
+        "text": "Der Großhändler",
+        "correct": false
+       }
+      ]
+     }
+    },
+    {
+     "key": "ficon-ust-q05",
+     "type": "match",
+     "exam_part": 3,
+     "difficulty": 2,
+     "source": "FiCon (Themenübersicht KMK, Unterricht)",
+     "body": {
+      "prompt": "Ordnen Sie zu.",
+      "items": [
+       {
+        "term": "Rechnung eines Lieferanten (Eingang)",
+        "match": "Vorsteuer"
+       },
+       {
+        "term": "Rechnung an einen Kunden (Ausgang)",
+        "match": "Umsatzsteuer"
+       },
+       {
+        "term": "Umsatzsteuer größer als Vorsteuer",
+        "match": "Zahllast"
+       },
+       {
+        "term": "Vorsteuer größer als Umsatzsteuer",
+        "match": "Vorsteuerüberhang"
+       }
+      ],
+      "distractors": []
+     }
+    },
+    {
+     "key": "ficon-ust-q06",
+     "type": "tf",
+     "exam_part": 3,
+     "difficulty": 2,
+     "source": "FiCon (Themenübersicht KMK, Unterricht)",
+     "body": {
+      "statement": "Die Umsatzsteuer ist für Unternehmen ein durchlaufender Posten.",
+      "answer": true
+     }
+    },
+    {
+     "key": "ficon-ust-q07",
+     "type": "tf",
+     "exam_part": 3,
+     "difficulty": 2,
+     "source": "FiCon (Themenübersicht KMK, Unterricht)",
+     "body": {
+      "statement": "Der ermäßigte Steuersatz beträgt 19 %.",
+      "answer": false
+     }
+    },
+    {
+     "key": "ficon-ust-q08",
+     "type": "cloze",
+     "exam_part": 3,
+     "difficulty": 2,
+     "source": "FiCon (Themenübersicht KMK, Unterricht)",
+     "body": {
+      "text": "Bei einer [[Zahllast]] zahlt das Unternehmen an das Finanzamt, bei einem [[Vorsteuerüberhang]] erhält es Erstattung."
+     }
+    }
+   ],
+   "templates": [
+    {
+     "key": "ficon-ust-t01",
+     "type": "calc",
+     "exam_part": 3,
+     "difficulty": 2,
+     "source": "FiCon (Themenübersicht KMK, Unterricht)",
+     "vars": {
+      "n": {
+       "type": "int",
+       "min": 500,
+       "max": 20000,
+       "step": 100
+      }
+     },
+     "body": {
+      "prompt": "Eine Agentur stellt netto {n|eur} in Rechnung. Wie hoch ist der Bruttobetrag bei 19 % Umsatzsteuer?",
+      "answer": "n*1.19",
+      "unit": "€",
+      "decimals": 2,
+      "steps": [
+       "Brutto = Netto · 1,19 = {result|eur}"
+      ]
+     }
+    },
+    {
+     "key": "ficon-ust-t02",
+     "type": "calc",
+     "exam_part": 3,
+     "difficulty": 2,
+     "source": "FiCon (Themenübersicht KMK, Unterricht)",
+     "vars": {
+      "b": {
+       "type": "int",
+       "min": 595,
+       "max": 11900,
+       "step": 595
+      }
+     },
+     "body": {
+      "prompt": "Die Eingangsrechnung beträgt brutto {b|eur} (19 % USt). Wie hoch ist die Vorsteuer?",
+      "answer": "b*19/119",
+      "unit": "€",
+      "decimals": 2,
+      "steps": [
+       "Vorsteuer = Brutto · 19/119 = {result|eur}"
+      ]
+     }
+    },
+    {
+     "key": "ficon-ust-t03",
+     "type": "calc",
+     "exam_part": 3,
+     "difficulty": 2,
+     "source": "FiCon (Themenübersicht KMK, Unterricht)",
+     "vars": {
+      "u": {
+       "type": "int",
+       "min": 4000,
+       "max": 12000,
+       "step": 500
+      },
+      "v": {
+       "type": "int",
+       "min": 1000,
+       "max": 9000,
+       "step": 500
+      }
+     },
+     "body": {
+      "prompt": "Im Monat entstehen Umsatzsteuer {u|eur} und Vorsteuer {v|eur}. Wie hoch ist die Zahllast an das Finanzamt (negativ = Erstattung)?",
+      "answer": "u-v",
+      "unit": "€",
+      "decimals": 2,
+      "steps": [
+       "Zahllast = Umsatzsteuer − Vorsteuer = {result|eur}"
+      ]
+     }
+    }
+   ],
+   "cases": [],
+   "summary": {
+    "key": "ficon-ust-zettel",
+    "title": "Umsatzsteuer & Vorsteuer",
+    "content_md": "\n**Umsatzsteuer (USt)**: Verbrauchsteuer, trägt der **Endverbraucher**; Unternehmen führen sie als **durchlaufender Posten** ab. Regelsatz **19 %**, ermäßigt **7 %** (Lebensmittel, Bücher …).\n**Vorsteuer** = USt aus **Eingangsrechnungen** (Forderung gegen Finanzamt) · **Umsatzsteuer** = USt aus **Ausgangsrechnungen** (Verbindlichkeit).\n**Zahllast** = Umsatzsteuer − Vorsteuer > 0 → Zahlung ans Finanzamt (bis 10. des Folgemonats, Voranmeldung). **Vorsteuerüberhang** = Vorsteuer > Umsatzsteuer → Erstattung.\n**Rechnen**: Netto + 19 % = Brutto · Brutto : 1,19 = Netto · USt = Netto × 0,19 = Brutto × 19/119.\n**Buchung Abschluss**: *Umsatzsteuer an Vorsteuer*; Rest *Umsatzsteuer an Bank* (Zahllast).\n"
+   }
+  }
+ ]
+}

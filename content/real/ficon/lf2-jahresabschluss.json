@@ -1,0 +1,528 @@
+{
+ "demo": false,
+ "items": [
+  {
+   "topic": "ficon-jahresabschluss",
+   "flashcards": [
+    {
+     "key": "ficon-jahresabschluss-c01",
+     "front": "Was ist Inventur?",
+     "back": "Die Bestandsaufnahme aller Vermögensteile und Schulden zu einem Stichtag nach Art, Menge und Wert."
+    },
+    {
+     "key": "ficon-jahresabschluss-c02",
+     "front": "Was ist ein Inventar?",
+     "back": "Das ausführliche Bestandsverzeichnis: Vermögen − Schulden = Reinvermögen."
+    },
+    {
+     "key": "ficon-jahresabschluss-c03",
+     "front": "Wie berechnet sich das Reinvermögen?",
+     "back": "Vermögen − Schulden."
+    },
+    {
+     "key": "ficon-jahresabschluss-c04",
+     "front": "Was ist die Bilanz?",
+     "back": "Kurzgefasste Gegenüberstellung von Vermögen (Aktiva) und Kapital (Passiva) in T-Form."
+    },
+    {
+     "key": "ficon-jahresabschluss-c05",
+     "front": "Was zeigt die Aktivseite?",
+     "back": "Die Mittelverwendung: Anlage- und Umlaufvermögen."
+    },
+    {
+     "key": "ficon-jahresabschluss-c06",
+     "front": "Was zeigt die Passivseite?",
+     "back": "Die Mittelherkunft: Eigenkapital und Fremdkapital."
+    },
+    {
+     "key": "ficon-jahresabschluss-c07",
+     "front": "Nenne Beispiele für Anlagevermögen.",
+     "back": "Gebäude, Fuhrpark, Maschinen, BGA, Software."
+    },
+    {
+     "key": "ficon-jahresabschluss-c08",
+     "front": "Nenne Beispiele für Umlaufvermögen.",
+     "back": "Vorräte, Forderungen aLuL, Bankguthaben, Kasse."
+    },
+    {
+     "key": "ficon-jahresabschluss-c09",
+     "front": "Nenne Beispiele für Fremdkapital.",
+     "back": "Darlehen, Verbindlichkeiten aLuL, Rückstellungen."
+    },
+    {
+     "key": "ficon-jahresabschluss-c10",
+     "front": "Was ist die GuV?",
+     "back": "Gegenüberstellung von Erträgen und Aufwendungen eines Jahres; Saldo = Gewinn/Verlust."
+    },
+    {
+     "key": "ficon-jahresabschluss-c11",
+     "front": "Wie verändert ein Gewinn das Eigenkapital?",
+     "back": "Gewinn erhöht, Verlust mindert das Eigenkapital."
+    },
+    {
+     "key": "ficon-jahresabschluss-c12",
+     "front": "Aufbewahrungsfrist Bilanzen und Bücher?",
+     "back": "10 Jahre."
+    },
+    {
+     "key": "ficon-jahresabschluss-c13",
+     "front": "Aufbewahrungsfrist Handels-/Geschäftsbriefe?",
+     "back": "6 Jahre."
+    },
+    {
+     "key": "ficon-jahresabschluss-c14",
+     "front": "Nenne Inventurarten.",
+     "back": "Stichtagsinventur, ausgeweitete, vor-/nachverlegte, permanente Inventur, Stichprobeninventur."
+    },
+    {
+     "key": "ficon-jahresabschluss-c15",
+     "front": "Körperliche vs. buchmäßige Inventur?",
+     "back": "Körperlich: zählen, messen, wiegen. Buchmäßig: Forderungen und Schulden per Belege/Saldenlisten."
+    },
+    {
+     "key": "ficon-jahresabschluss-c16",
+     "front": "Was bedeutet Bilanzsumme?",
+     "back": "Summe der Aktiva = Summe der Passiva."
+    },
+    {
+     "key": "ficon-jahresabschluss-c17",
+     "front": "Was ist ein Bilanzgewinn?",
+     "back": "Gewinn, der in der Bilanz als Eigenkapitalmehrung ausgewiesen wird."
+    },
+    {
+     "key": "ficon-jahresabschluss-c18",
+     "front": "Was bedeutet Mittelherkunft?",
+     "back": "Woher das Kapital stammt (Eigen-/Fremdkapital)."
+    },
+    {
+     "key": "ficon-jahresabschluss-c19",
+     "front": "Was bedeutet Mittelverwendung?",
+     "back": "Wofür das Kapital eingesetzt wurde (Vermögen)."
+    }
+   ],
+   "glossary": [
+    {
+     "key": "ficon-jahresabschluss-g01",
+     "term": "Inventur",
+     "definition": "Bestandsaufnahme von Vermögen und Schulden."
+    },
+    {
+     "key": "ficon-jahresabschluss-g02",
+     "term": "Inventar",
+     "definition": "Verzeichnis aller Vermögensteile und Schulden."
+    },
+    {
+     "key": "ficon-jahresabschluss-g03",
+     "term": "Bilanz",
+     "definition": "T-förmige Gegenüberstellung von Vermögen und Kapital."
+    },
+    {
+     "key": "ficon-jahresabschluss-g04",
+     "term": "GuV",
+     "definition": "Gewinn- und Verlustrechnung."
+    },
+    {
+     "key": "ficon-jahresabschluss-g05",
+     "term": "Aktiva",
+     "definition": "Aktivseite der Bilanz – Mittelverwendung."
+    },
+    {
+     "key": "ficon-jahresabschluss-g06",
+     "term": "Passiva",
+     "definition": "Passivseite der Bilanz – Mittelherkunft."
+    },
+    {
+     "key": "ficon-jahresabschluss-g07",
+     "term": "Reinvermögen",
+     "definition": "Eigenkapital: Vermögen minus Schulden."
+    }
+   ],
+   "questions": [
+    {
+     "key": "ficon-jahresabschluss-q01",
+     "type": "mc",
+     "exam_part": 3,
+     "difficulty": 2,
+     "source": "FiCon (Themenübersicht KMK, Unterricht)",
+     "body": {
+      "prompt": "Auf welcher Bilanzseite stehen die Verbindlichkeiten aus Lieferungen und Leistungen?",
+      "options": [
+       {
+        "text": "Passivseite",
+        "correct": true
+       },
+       {
+        "text": "Aktivseite",
+        "correct": false
+       },
+       {
+        "text": "Auf keiner",
+        "correct": false
+       },
+       {
+        "text": "Auf der Aktivseite unter Umlaufvermögen",
+        "correct": false
+       },
+       {
+        "text": "In der GuV",
+        "correct": false
+       }
+      ]
+     }
+    },
+    {
+     "key": "ficon-jahresabschluss-q02",
+     "type": "mc",
+     "exam_part": 3,
+     "difficulty": 2,
+     "source": "FiCon (Themenübersicht KMK, Unterricht)",
+     "body": {
+      "prompt": "Welche Aussage zur Bilanz ist richtig?",
+      "options": [
+       {
+        "text": "Aktiva und Passiva sind immer gleich hoch.",
+        "correct": true
+       },
+       {
+        "text": "Aktiva sind immer höher als Passiva.",
+        "correct": false
+       },
+       {
+        "text": "Passiva sind immer höher.",
+        "correct": false
+       },
+       {
+        "text": "Die Bilanz enthält Umsatz und Kosten.",
+        "correct": false
+       },
+       {
+        "text": "Sie besteht nur aus Fremdkapital.",
+        "correct": false
+       }
+      ]
+     }
+    },
+    {
+     "key": "ficon-jahresabschluss-q03",
+     "type": "mc",
+     "exam_part": 3,
+     "difficulty": 2,
+     "source": "FiCon (Themenübersicht KMK, Unterricht)",
+     "body": {
+      "prompt": "Wie berechnet man das Eigenkapital im Inventar?",
+      "options": [
+       {
+        "text": "Vermögen − Schulden",
+        "correct": true
+       },
+       {
+        "text": "Vermögen + Schulden",
+        "correct": false
+       },
+       {
+        "text": "Schulden − Vermögen",
+        "correct": false
+       },
+       {
+        "text": "Umlaufvermögen − Anlagevermögen",
+        "correct": false
+       },
+       {
+        "text": "Erträge − Aufwendungen",
+        "correct": false
+       }
+      ]
+     }
+    },
+    {
+     "key": "ficon-jahresabschluss-q04",
+     "type": "mc",
+     "exam_part": 3,
+     "difficulty": 2,
+     "source": "FiCon (Themenübersicht KMK, Unterricht)",
+     "body": {
+      "prompt": "Welche Position gehört zum Anlagevermögen?",
+      "options": [
+       {
+        "text": "Fuhrpark",
+        "correct": true
+       },
+       {
+        "text": "Bankguthaben",
+        "correct": false
+       },
+       {
+        "text": "Forderungen aLuL",
+        "correct": false
+       },
+       {
+        "text": "Kasse",
+        "correct": false
+       },
+       {
+        "text": "Verbindlichkeiten",
+        "correct": false
+       }
+      ]
+     }
+    },
+    {
+     "key": "ficon-jahresabschluss-q05",
+     "type": "mc",
+     "exam_part": 3,
+     "difficulty": 2,
+     "source": "FiCon (Themenübersicht KMK, Unterricht)",
+     "body": {
+      "prompt": "Wie lange müssen Jahresabschlüsse aufbewahrt werden?",
+      "options": [
+       {
+        "text": "10 Jahre",
+        "correct": true
+       },
+       {
+        "text": "2 Jahre",
+        "correct": false
+       },
+       {
+        "text": "5 Jahre",
+        "correct": false
+       },
+       {
+        "text": "6 Jahre",
+        "correct": false
+       },
+       {
+        "text": "30 Jahre",
+        "correct": false
+       }
+      ]
+     }
+    },
+    {
+     "key": "ficon-jahresabschluss-q06",
+     "type": "mc",
+     "exam_part": 3,
+     "difficulty": 2,
+     "source": "FiCon (Themenübersicht KMK, Unterricht)",
+     "body": {
+      "prompt": "Welche Bilanzposition gehört zum Umlaufvermögen?",
+      "options": [
+       {
+        "text": "Forderungen aus Lieferungen und Leistungen",
+        "correct": true
+       },
+       {
+        "text": "Gebäude",
+        "correct": false
+       },
+       {
+        "text": "Maschinen",
+        "correct": false
+       },
+       {
+        "text": "Darlehen",
+        "correct": false
+       },
+       {
+        "text": "Fuhrpark",
+        "correct": false
+       }
+      ]
+     }
+    },
+    {
+     "key": "ficon-jahresabschluss-q07",
+     "type": "match",
+     "exam_part": 3,
+     "difficulty": 2,
+     "source": "FiCon (Themenübersicht KMK, Unterricht)",
+     "body": {
+      "prompt": "Ordnen Sie jede Position der Bilanzseite/Gruppe zu.",
+      "items": [
+       {
+        "term": "Fuhrpark",
+        "match": "Anlagevermögen"
+       },
+       {
+        "term": "Forderungen aLuL",
+        "match": "Umlaufvermögen"
+       },
+       {
+        "term": "Bankdarlehen",
+        "match": "Fremdkapital"
+       },
+       {
+        "term": "Eigenkapital",
+        "match": "Passiva (Eigenkapital)"
+       }
+      ],
+      "distractors": []
+     }
+    },
+    {
+     "key": "ficon-jahresabschluss-q08",
+     "type": "match",
+     "exam_part": 3,
+     "difficulty": 2,
+     "source": "FiCon (Themenübersicht KMK, Unterricht)",
+     "body": {
+      "prompt": "Ordnen Sie die Begriffe zu.",
+      "items": [
+       {
+        "term": "Inventur",
+        "match": "Tätigkeit der Bestandsaufnahme"
+       },
+       {
+        "term": "Inventar",
+        "match": "Ergebnis der Bestandsaufnahme (Verzeichnis)"
+       },
+       {
+        "term": "Bilanz",
+        "match": "Kurzform in T-Form"
+       },
+       {
+        "term": "GuV",
+        "match": "Erträge − Aufwendungen"
+       }
+      ],
+      "distractors": []
+     }
+    },
+    {
+     "key": "ficon-jahresabschluss-q09",
+     "type": "tf",
+     "exam_part": 3,
+     "difficulty": 2,
+     "explanation": "Das ist die GuV.",
+     "source": "FiCon (Themenübersicht KMK, Unterricht)",
+     "body": {
+      "statement": "Die Bilanz ist eine Gegenüberstellung von Erträgen und Aufwendungen.",
+      "answer": false
+     }
+    },
+    {
+     "key": "ficon-jahresabschluss-q10",
+     "type": "tf",
+     "exam_part": 3,
+     "difficulty": 2,
+     "source": "FiCon (Themenübersicht KMK, Unterricht)",
+     "body": {
+      "statement": "Ein Gewinn erhöht das Eigenkapital.",
+      "answer": true
+     }
+    },
+    {
+     "key": "ficon-jahresabschluss-q11",
+     "type": "cloze",
+     "exam_part": 3,
+     "difficulty": 2,
+     "source": "FiCon (Themenübersicht KMK, Unterricht)",
+     "body": {
+      "text": "Die [[Aktivseite]] zeigt die Mittelverwendung, die [[Passivseite]] die Mittelherkunft."
+     }
+    }
+   ],
+   "templates": [
+    {
+     "key": "ficon-jahresabschluss-t01",
+     "type": "calc",
+     "exam_part": 3,
+     "difficulty": 2,
+     "source": "FiCon (Themenübersicht KMK, Unterricht)",
+     "vars": {
+      "fp": {
+       "type": "int",
+       "min": 15000,
+       "max": 40000,
+       "step": 5000
+      },
+      "bga": {
+       "type": "int",
+       "min": 8000,
+       "max": 30000,
+       "step": 2000
+      },
+      "fo": {
+       "type": "int",
+       "min": 10000,
+       "max": 40000,
+       "step": 2000
+      },
+      "ba": {
+       "type": "int",
+       "min": 5000,
+       "max": 30000,
+       "step": 1000
+      },
+      "ka": {
+       "type": "int",
+       "min": 300,
+       "max": 2000,
+       "step": 100
+      },
+      "vb": {
+       "type": "int",
+       "min": 5000,
+       "max": 20000,
+       "step": 1000
+      },
+      "da": {
+       "type": "int",
+       "min": 10000,
+       "max": 40000,
+       "step": 5000
+      }
+     },
+     "body": {
+      "prompt": "Eine Agentur hat Fuhrpark {fp|eur}, BGA {bga|eur}, Forderungen {fo|eur}, Bank {ba|eur}, Kasse {ka|eur} und Verbindlichkeiten aLuL {vb|eur} sowie ein Darlehen {da|eur}. Berechnen Sie das Eigenkapital.",
+      "answer": "fp+bga+fo+ba+ka-vb-da",
+      "unit": "€",
+      "decimals": 2,
+      "steps": [
+       "Vermögen = Fuhrpark + BGA + Forderungen + Bank + Kasse",
+       "Schulden = Verbindlichkeiten + Darlehen",
+       "Eigenkapital = Vermögen − Schulden = {result|eur}"
+      ]
+     }
+    },
+    {
+     "key": "ficon-jahresabschluss-t02",
+     "type": "calc",
+     "exam_part": 3,
+     "difficulty": 2,
+     "source": "FiCon (Themenübersicht KMK, Unterricht)",
+     "vars": {
+      "e": {
+       "type": "int",
+       "min": 200000,
+       "max": 600000,
+       "step": 10000
+      },
+      "a": {
+       "type": "int",
+       "min": 150000,
+       "max": 580000,
+       "step": 10000
+      }
+     },
+     "body": {
+      "prompt": "Die Erträge einer Agentur betragen {e|eur}, die Aufwendungen {a|eur}. Wie hoch ist der Jahresgewinn (Verlust negativ)?",
+      "answer": "e-a",
+      "unit": "€",
+      "decimals": 2,
+      "steps": [
+       "Gewinn = Erträge − Aufwendungen",
+       "= {e|eur} − {a|eur} = {result|eur}"
+      ]
+     }
+    }
+   ],
+   "cases": [],
+   "summary": {
+    "key": "ficon-jahresabschluss-zettel",
+    "title": "Inventur, Inventar, Bilanz & GuV",
+    "content_md": "\n**Inventur** = Bestandsaufnahme aller Vermögensteile und Schulden (**körperlich**, **buchmäßig**; Stichtags-, ausgeweitete, permanente, Stichprobeninventur). **Inventar** = ausführliches Bestandsverzeichnis: **A Vermögen** (Anlage-/Umlaufvermögen) − **B Schulden** = **C Reinvermögen (Eigenkapital)**.\n**Bilanz** = Kurzform des Inventars in **T-Form**: *Aktiva* (Mittelverwendung: Anlagevermögen, Umlaufvermögen) = *Passiva* (Mittelherkunft: Eigenkapital, Fremdkapital). Immer **Bilanzsumme links = rechts**.\n**Anlagevermögen**: Gebäude, Fuhrpark, BGA (Betriebs- und Geschäftsausstattung), Maschinen · **Umlaufvermögen**: Vorräte, Forderungen, Bank, Kasse · **Fremdkapital**: Darlehen, Verbindlichkeiten aLuL.\n**GuV** (Gewinn- und Verlustrechnung): Erträge − Aufwendungen = **Gewinn/Verlust**; Gewinn erhöht das Eigenkapital.\n**Pflichten**: § 238–242 HGB: Inventur/Inventar zu Beginn und jährlich, Bilanz und GuV; Aufbewahrung **10 Jahre** (Bücher, Bilanzen), **6 Jahre** Geschäftsbriefe.\n"
+   }
+  }
+ ]
+}

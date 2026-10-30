@@ -1,0 +1,402 @@
+{
+ "demo": false,
+ "items": [
+  {
+   "topic": "ficon-kennzahlen",
+   "flashcards": [
+    {
+     "key": "ficon-kennzahlen-c01",
+     "front": "Umsatzrentabilität?",
+     "back": "Gewinn : Umsatzerlöse · 100 – wie viel Gewinn pro 100 € Umsatz."
+    },
+    {
+     "key": "ficon-kennzahlen-c02",
+     "front": "Eigenkapitalrentabilität?",
+     "back": "Gewinn : Eigenkapital · 100 – Verzinsung des Eigenkapitals."
+    },
+    {
+     "key": "ficon-kennzahlen-c03",
+     "front": "Gesamtkapitalrentabilität?",
+     "back": "(Gewinn + Fremdkapitalzinsen) : Gesamtkapital · 100."
+    },
+    {
+     "key": "ficon-kennzahlen-c04",
+     "front": "Eigenkapitalquote?",
+     "back": "Eigenkapital : Gesamtkapital · 100."
+    },
+    {
+     "key": "ficon-kennzahlen-c05",
+     "front": "Fremdkapitalquote?",
+     "back": "Fremdkapital : Gesamtkapital · 100 (= 100 % − EK-Quote)."
+    },
+    {
+     "key": "ficon-kennzahlen-c06",
+     "front": "Anlagendeckungsgrad I?",
+     "back": "Eigenkapital : Anlagevermögen · 100."
+    },
+    {
+     "key": "ficon-kennzahlen-c07",
+     "front": "Anlagendeckungsgrad II?",
+     "back": "(Eigenkapital + langfristiges Fremdkapital) : Anlagevermögen · 100."
+    },
+    {
+     "key": "ficon-kennzahlen-c08",
+     "front": "Goldene Bilanzregel?",
+     "back": "Langfristig gebundenes Vermögen sollte durch langfristiges Kapital gedeckt sein (Deckungsgrad ≥ 100 %)."
+    },
+    {
+     "key": "ficon-kennzahlen-c09",
+     "front": "Was zeigt eine hohe Eigenkapitalquote?",
+     "back": "Finanzielle Stabilität und Unabhängigkeit von Gläubigern."
+    },
+    {
+     "key": "ficon-kennzahlen-c10",
+     "front": "Was ist der Leverage-Effekt?",
+     "back": "Wenn die Gesamtkapitalrentabilität über dem Fremdkapitalzins liegt, steigt die EK-Rentabilität durch mehr Fremdkapital."
+    },
+    {
+     "key": "ficon-kennzahlen-c11",
+     "front": "Liquidität 1. Grades?",
+     "back": "Zahlungsmittel : kurzfristige Verbindlichkeiten · 100."
+    },
+    {
+     "key": "ficon-kennzahlen-c12",
+     "front": "Wofür dienen Kennzahlen?",
+     "back": "Zur Beurteilung von Rentabilität, Finanzierung, Liquidität und für Vergleiche."
+    }
+   ],
+   "glossary": [
+    {
+     "key": "ficon-kennzahlen-g01",
+     "term": "Rentabilität",
+     "definition": "Verhältnis von Gewinn zu eingesetztem Kapital oder Umsatz."
+    },
+    {
+     "key": "ficon-kennzahlen-g02",
+     "term": "Eigenkapitalquote",
+     "definition": "Anteil des Eigenkapitals am Gesamtkapital."
+    },
+    {
+     "key": "ficon-kennzahlen-g03",
+     "term": "Anlagendeckung",
+     "definition": "Verhältnis von Eigenkapital (bzw. langfristigem Kapital) zum Anlagevermögen."
+    },
+    {
+     "key": "ficon-kennzahlen-g04",
+     "term": "Leverage-Effekt",
+     "definition": "Hebelwirkung des Fremdkapitals auf die Eigenkapitalrentabilität."
+    }
+   ],
+   "questions": [
+    {
+     "key": "ficon-kennzahlen-q01",
+     "type": "mc",
+     "exam_part": 3,
+     "difficulty": 2,
+     "source": "FiCon (Themenübersicht KMK, Unterricht)",
+     "body": {
+      "prompt": "Welche Kennzahl setzt den Gewinn ins Verhältnis zum Umsatz?",
+      "options": [
+       {
+        "text": "Umsatzrentabilität",
+        "correct": true
+       },
+       {
+        "text": "Eigenkapitalrentabilität",
+        "correct": false
+       },
+       {
+        "text": "Gesamtkapitalrentabilität",
+        "correct": false
+       },
+       {
+        "text": "Eigenkapitalquote",
+        "correct": false
+       },
+       {
+        "text": "Anlagendeckungsgrad",
+        "correct": false
+       }
+      ]
+     }
+    },
+    {
+     "key": "ficon-kennzahlen-q02",
+     "type": "mc",
+     "exam_part": 3,
+     "difficulty": 2,
+     "source": "FiCon (Themenübersicht KMK, Unterricht)",
+     "body": {
+      "prompt": "Wie berechnet sich die Eigenkapitalquote?",
+      "options": [
+       {
+        "text": "Eigenkapital : Gesamtkapital × 100",
+        "correct": true
+       },
+       {
+        "text": "Fremdkapital : Eigenkapital",
+        "correct": false
+       },
+       {
+        "text": "Gewinn : Eigenkapital",
+        "correct": false
+       },
+       {
+        "text": "Eigenkapital : Anlagevermögen",
+        "correct": false
+       },
+       {
+        "text": "Gewinn : Umsatz",
+        "correct": false
+       }
+      ]
+     }
+    },
+    {
+     "key": "ficon-kennzahlen-q03",
+     "type": "mc",
+     "exam_part": 3,
+     "difficulty": 2,
+     "source": "FiCon (Themenübersicht KMK, Unterricht)",
+     "body": {
+      "prompt": "Der Anlagendeckungsgrad I beträgt 80 %. Was bedeutet das?",
+      "options": [
+       {
+        "text": "Das Anlagevermögen ist nur zu 80 % durch Eigenkapital gedeckt.",
+        "correct": true
+       },
+       {
+        "text": "Das Anlagevermögen ist doppelt gedeckt.",
+        "correct": false
+       },
+       {
+        "text": "Das Unternehmen ist überschuldet.",
+        "correct": false
+       },
+       {
+        "text": "Die Liquidität ist gesichert.",
+        "correct": false
+       },
+       {
+        "text": "Der Gewinn beträgt 80 %.",
+        "correct": false
+       }
+      ]
+     }
+    },
+    {
+     "key": "ficon-kennzahlen-q04",
+     "type": "mc",
+     "exam_part": 3,
+     "difficulty": 2,
+     "source": "FiCon (Themenübersicht KMK, Unterricht)",
+     "body": {
+      "prompt": "Wann lohnt sich zusätzliches Fremdkapital (Leverage)?",
+      "options": [
+       {
+        "text": "Wenn die Gesamtkapitalrentabilität über dem Fremdkapitalzins liegt",
+        "correct": true
+       },
+       {
+        "text": "Wenn der Zins über der Rentabilität liegt",
+        "correct": false
+       },
+       {
+        "text": "Immer",
+        "correct": false
+       },
+       {
+        "text": "Nie",
+        "correct": false
+       },
+       {
+        "text": "Wenn das Eigenkapital negativ ist",
+        "correct": false
+       }
+      ]
+     }
+    },
+    {
+     "key": "ficon-kennzahlen-q05",
+     "type": "match",
+     "exam_part": 3,
+     "difficulty": 2,
+     "source": "FiCon (Themenübersicht KMK, Unterricht)",
+     "body": {
+      "prompt": "Ordnen Sie jede Kennzahl der Formel zu.",
+      "items": [
+       {
+        "term": "Umsatzrentabilität",
+        "match": "Gewinn : Umsatz"
+       },
+       {
+        "term": "Eigenkapitalrentabilität",
+        "match": "Gewinn : Eigenkapital"
+       },
+       {
+        "term": "Eigenkapitalquote",
+        "match": "Eigenkapital : Gesamtkapital"
+       },
+       {
+        "term": "Anlagendeckungsgrad I",
+        "match": "Eigenkapital : Anlagevermögen"
+       }
+      ],
+      "distractors": []
+     }
+    },
+    {
+     "key": "ficon-kennzahlen-q06",
+     "type": "tf",
+     "exam_part": 3,
+     "difficulty": 2,
+     "source": "FiCon (Themenübersicht KMK, Unterricht)",
+     "body": {
+      "statement": "Eine hohe Fremdkapitalquote bedeutet immer hohe Stabilität.",
+      "answer": false
+     }
+    },
+    {
+     "key": "ficon-kennzahlen-q07",
+     "type": "cloze",
+     "exam_part": 3,
+     "difficulty": 2,
+     "source": "FiCon (Themenübersicht KMK, Unterricht)",
+     "body": {
+      "text": "Die [[Eigenkapitalquote]] und die [[Fremdkapitalquote]] ergeben zusammen 100 %."
+     }
+    }
+   ],
+   "templates": [
+    {
+     "key": "ficon-kennzahlen-t01",
+     "type": "calc",
+     "exam_part": 3,
+     "difficulty": 2,
+     "source": "FiCon (Themenübersicht KMK, Unterricht)",
+     "vars": {
+      "u": {
+       "type": "int",
+       "min": 400000,
+       "max": 900000,
+       "step": 50000
+      },
+      "g": {
+       "type": "int",
+       "min": 20000,
+       "max": 90000,
+       "step": 5000
+      }
+     },
+     "body": {
+      "prompt": "Eine Agentur erzielt einen Umsatz von {u|eur} und einen Gewinn von {g|eur}. Berechnen Sie die Umsatzrentabilität in Prozent.",
+      "answer": "g/u*100",
+      "unit": "%",
+      "decimals": 2,
+      "steps": [
+       "Gewinn : Umsatz · 100 = {g|eur} : {u|eur} · 100",
+       "= {result} %"
+      ]
+     }
+    },
+    {
+     "key": "ficon-kennzahlen-t02",
+     "type": "calc",
+     "exam_part": 3,
+     "difficulty": 2,
+     "source": "FiCon (Themenübersicht KMK, Unterricht)",
+     "vars": {
+      "ek": {
+       "type": "int",
+       "min": 100000,
+       "max": 400000,
+       "step": 20000
+      },
+      "fk": {
+       "type": "int",
+       "min": 100000,
+       "max": 500000,
+       "step": 20000
+      }
+     },
+     "body": {
+      "prompt": "Eigenkapital {ek|eur}, Fremdkapital {fk|eur}. Berechnen Sie die Eigenkapitalquote in Prozent.",
+      "answer": "ek/(ek+fk)*100",
+      "unit": "%",
+      "decimals": 2,
+      "steps": [
+       "Gesamtkapital = {ek|eur} + {fk|eur}",
+       "Quote = EK : Gesamtkapital · 100 = {result} %"
+      ]
+     }
+    },
+    {
+     "key": "ficon-kennzahlen-t03",
+     "type": "calc",
+     "exam_part": 3,
+     "difficulty": 2,
+     "source": "FiCon (Themenübersicht KMK, Unterricht)",
+     "vars": {
+      "g": {
+       "type": "int",
+       "min": 20000,
+       "max": 80000,
+       "step": 5000
+      },
+      "ek": {
+       "type": "int",
+       "min": 150000,
+       "max": 400000,
+       "step": 25000
+      }
+     },
+     "body": {
+      "prompt": "Gewinn {g|eur}, Eigenkapital {ek|eur}. Berechnen Sie die Eigenkapitalrentabilität in Prozent.",
+      "answer": "g/ek*100",
+      "unit": "%",
+      "decimals": 2,
+      "steps": [
+       "Gewinn : Eigenkapital · 100 = {result} %"
+      ]
+     }
+    },
+    {
+     "key": "ficon-kennzahlen-t04",
+     "type": "calc",
+     "exam_part": 3,
+     "difficulty": 2,
+     "source": "FiCon (Themenübersicht KMK, Unterricht)",
+     "vars": {
+      "ek": {
+       "type": "int",
+       "min": 100000,
+       "max": 300000,
+       "step": 20000
+      },
+      "av": {
+       "type": "int",
+       "min": 120000,
+       "max": 350000,
+       "step": 20000
+      }
+     },
+     "body": {
+      "prompt": "Eigenkapital {ek|eur}, Anlagevermögen {av|eur}. Berechnen Sie den Anlagendeckungsgrad I in Prozent.",
+      "answer": "ek/av*100",
+      "unit": "%",
+      "decimals": 2,
+      "steps": [
+       "Eigenkapital : Anlagevermögen · 100 = {result} %"
+      ]
+     }
+    }
+   ],
+   "cases": [],
+   "summary": {
+    "key": "ficon-kennzahlen-zettel",
+    "title": "Bilanzkennzahlen",
+    "content_md": "\n| Kennzahl | Formel |\n|---|---|\n| **Umsatzrentabilität** | Gewinn : Umsatzerlöse × 100 |\n| **Eigenkapitalrentabilität** | Gewinn : Eigenkapital × 100 |\n| **Gesamtkapitalrentabilität** | (Gewinn + FK-Zinsen) : Gesamtkapital × 100 |\n| **Eigenkapitalquote** | Eigenkapital : Gesamtkapital × 100 |\n| **Fremdkapitalquote** | Fremdkapital : Gesamtkapital × 100 |\n| **Anlagendeckungsgrad I** | Eigenkapital : Anlagevermögen × 100 (goldene Bilanzregel: ≥ 100 %) |\n| **Anlagendeckungsgrad II** | (Eigenkapital + langfr. FK) : Anlagevermögen × 100 (≥ 100 %) |\n| **Liquidität 1/2/3** | Zahlungsmittel / (+ Forderungen) / (+ Vorräte) : kurzfr. Verbindlichkeiten |\n\nEigenkapitalquote hoch → finanziell stabil; Fremdkapitalquote = 100 % − EK-Quote. **Leverage-Effekt**: Gesamtkapitalrentabilität > FK-Zins → Fremdkapital erhöht EK-Rentabilität.\n"
+   }
+  }
+ ]
+}
