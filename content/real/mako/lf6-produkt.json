@@ -1,0 +1,377 @@
+{
+ "demo": false,
+ "items": [
+  {
+   "topic": "mako-lf6-produkt",
+   "flashcards": [
+    {
+     "key": "mako-lf6-produkt-c01",
+     "front": "Was ist Produktinnovation?",
+     "back": "Einführung eines völlig neuen Produkts."
+    },
+    {
+     "key": "mako-lf6-produkt-c02",
+     "front": "Was ist Produktvariation?",
+     "back": "Veränderung eines bestehenden Produkts (Design, Qualität, Verpackung)."
+    },
+    {
+     "key": "mako-lf6-produkt-c03",
+     "front": "Was ist Produktdifferenzierung?",
+     "back": "Ergänzung des Produkts um Varianten (Größen, Sorten)."
+    },
+    {
+     "key": "mako-lf6-produkt-c04",
+     "front": "Was ist Produktelimination?",
+     "back": "Herausnahme erfolgloser Produkte aus dem Sortiment."
+    },
+    {
+     "key": "mako-lf6-produkt-c05",
+     "front": "Was beschreibt die Sortimentsbreite?",
+     "back": "Anzahl der verschiedenen Produktlinien."
+    },
+    {
+     "key": "mako-lf6-produkt-c06",
+     "front": "Was beschreibt die Sortimentstiefe?",
+     "back": "Anzahl der Varianten innerhalb einer Produktlinie."
+    },
+    {
+     "key": "mako-lf6-produkt-c07",
+     "front": "Funktionen der Verpackung?",
+     "back": "Schutz-, Lager-/Transport-, Verkaufs-, Informations- und Werbefunktion."
+    },
+    {
+     "key": "mako-lf6-produkt-c08",
+     "front": "Was ist eine Marke?",
+     "back": "Kennzeichen, das Produkte unterscheidbar macht (Name, Logo, Klang, Farbe)."
+    },
+    {
+     "key": "mako-lf6-produkt-c09",
+     "front": "Was ist eine Einzelmarkenstrategie?",
+     "back": "Jedes Produkt hat eine eigene Marke."
+    },
+    {
+     "key": "mako-lf6-produkt-c10",
+     "front": "Was ist eine Familienmarkenstrategie?",
+     "back": "Mehrere Produkte tragen dieselbe Marke."
+    },
+    {
+     "key": "mako-lf6-produkt-c11",
+     "front": "Was ist eine Dachmarkenstrategie?",
+     "back": "Alle Produkte werden unter dem Unternehmensnamen vermarktet."
+    },
+    {
+     "key": "mako-lf6-produkt-c12",
+     "front": "Was ist eine Mehrmarkenstrategie?",
+     "back": "Ein Unternehmen führt mehrere Marken im selben Produktsegment."
+    },
+    {
+     "key": "mako-lf6-produkt-c13",
+     "front": "Was ist eine Handelsmarke?",
+     "back": "Marke des Händlers (Eigenmarke) statt des Herstellers."
+    },
+    {
+     "key": "mako-lf6-produkt-c14",
+     "front": "Was ist Markentransfer?",
+     "back": "Übertragung einer erfolgreichen Marke auf neue Produkte."
+    },
+    {
+     "key": "mako-lf6-produkt-c15",
+     "front": "Grundnutzen vs. Zusatznutzen?",
+     "back": "Grundnutzen: Funktion. Zusatznutzen: Prestige, Design, Service, Emotion."
+    },
+    {
+     "key": "mako-lf6-produkt-c16",
+     "front": "Was ist der Markenkern?",
+     "back": "Zentrale Werte und Versprechen der Marke."
+    },
+    {
+     "key": "mako-lf6-produkt-c17",
+     "front": "Nenne Maßnahmen in der Einführungsphase.",
+     "back": "Hohe Werbung, Bekanntheit aufbauen, Distribution aufbauen."
+    },
+    {
+     "key": "mako-lf6-produkt-c18",
+     "front": "Nenne Maßnahmen in der Rückgangsphase.",
+     "back": "Produktelimination oder Relaunch prüfen, Kosten senken."
+    }
+   ],
+   "glossary": [
+    {
+     "key": "mako-lf6-produkt-g01",
+     "term": "Produktinnovation",
+     "definition": "Entwicklung eines neuen Produkts."
+    },
+    {
+     "key": "mako-lf6-produkt-g02",
+     "term": "Dachmarke",
+     "definition": "Eine Marke für das gesamte Sortiment."
+    },
+    {
+     "key": "mako-lf6-produkt-g03",
+     "term": "Mehrmarkenstrategie",
+     "definition": "Mehrere Marken für ähnliche Produkte eines Anbieters."
+    },
+    {
+     "key": "mako-lf6-produkt-g04",
+     "term": "Handelsmarke",
+     "definition": "Marke eines Handelsunternehmens."
+    },
+    {
+     "key": "mako-lf6-produkt-g05",
+     "term": "Relaunch",
+     "definition": "Überarbeitung eines bestehenden Produkts bzw. einer Marke."
+    }
+   ],
+   "questions": [
+    {
+     "key": "mako-lf6-produkt-q01",
+     "type": "mc",
+     "exam_part": 1,
+     "difficulty": 2,
+     "explanation": "Mehrere eigenständige Marken desselben Unternehmens.",
+     "source": "MaKo (Skripte Vaaßen/Kuhn, Unterricht, Prüfungsstil)",
+     "body": {
+      "prompt": "Die Schüller GmbH führt neben der Marke „Super Crema“ im Süßwarensegment einen Joghurt der Marke „Fruitimio“ ein. Welche Markenstrategie?",
+      "options": [
+       {
+        "text": "Mehrmarkenstrategie",
+        "correct": true
+       },
+       {
+        "text": "Dachmarkenstrategie",
+        "correct": false
+       },
+       {
+        "text": "Familienmarkenstrategie",
+        "correct": false
+       },
+       {
+        "text": "Handelsmarkenstrategie",
+        "correct": false
+       },
+       {
+        "text": "Einzelmarkenstrategie ohne weitere Marke",
+        "correct": false
+       }
+      ]
+     }
+    },
+    {
+     "key": "mako-lf6-produkt-q02",
+     "type": "mc",
+     "exam_part": 1,
+     "difficulty": 2,
+     "source": "MaKo (Skripte Vaaßen/Kuhn, Unterricht, Prüfungsstil)",
+     "body": {
+      "prompt": "Ein Unternehmen vermarktet alle Produkte unter dem Firmennamen. Welche Strategie?",
+      "options": [
+       {
+        "text": "Dachmarkenstrategie",
+        "correct": true
+       },
+       {
+        "text": "Einzelmarkenstrategie",
+        "correct": false
+       },
+       {
+        "text": "Mehrmarkenstrategie",
+        "correct": false
+       },
+       {
+        "text": "Handelsmarkenstrategie",
+        "correct": false
+       },
+       {
+        "text": "Nischenstrategie",
+        "correct": false
+       }
+      ]
+     }
+    },
+    {
+     "key": "mako-lf6-produkt-q03",
+     "type": "mc",
+     "exam_part": 1,
+     "difficulty": 2,
+     "source": "MaKo (Skripte Vaaßen/Kuhn, Unterricht, Prüfungsstil)",
+     "body": {
+      "prompt": "Ein Supermarkt verkauft Nudeln unter seinem eigenen Namen. Wie heißt das?",
+      "options": [
+       {
+        "text": "Handelsmarke",
+        "correct": true
+       },
+       {
+        "text": "Herstellermarke",
+        "correct": false
+       },
+       {
+        "text": "Dachmarke",
+        "correct": false
+       },
+       {
+        "text": "Familienmarke",
+        "correct": false
+       },
+       {
+        "text": "Premiummarke",
+        "correct": false
+       }
+      ]
+     }
+    },
+    {
+     "key": "mako-lf6-produkt-q04",
+     "type": "mc",
+     "exam_part": 1,
+     "difficulty": 2,
+     "source": "MaKo (Skripte Vaaßen/Kuhn, Unterricht, Prüfungsstil)",
+     "body": {
+      "prompt": "Ein bestehendes Produkt erhält eine neue Verpackung und ein neues Design. Welche Maßnahme?",
+      "options": [
+       {
+        "text": "Produktvariation",
+        "correct": true
+       },
+       {
+        "text": "Produktinnovation",
+        "correct": false
+       },
+       {
+        "text": "Produktelimination",
+        "correct": false
+       },
+       {
+        "text": "Diversifikation",
+        "correct": false
+       },
+       {
+        "text": "Markentransfer",
+        "correct": false
+       }
+      ]
+     }
+    },
+    {
+     "key": "mako-lf6-produkt-q05",
+     "type": "mc",
+     "exam_part": 1,
+     "difficulty": 2,
+     "source": "MaKo (Skripte Vaaßen/Kuhn, Unterricht, Prüfungsstil)",
+     "body": {
+      "prompt": "Welche Aussage zur Marke ist richtig?",
+      "options": [
+       {
+        "text": "Eine Marke schafft Vertrauen und Orientierung.",
+        "correct": true
+       },
+       {
+        "text": "Marken sind nur für Luxusprodukte relevant.",
+        "correct": false
+       },
+       {
+        "text": "Eine Marke ist ein Gesetz.",
+        "correct": false
+       },
+       {
+        "text": "Marken dürfen nie erweitert werden.",
+        "correct": false
+       },
+       {
+        "text": "Marken ersetzen die Qualität.",
+        "correct": false
+       }
+      ]
+     }
+    },
+    {
+     "key": "mako-lf6-produkt-q06",
+     "type": "match",
+     "exam_part": 1,
+     "difficulty": 2,
+     "source": "MaKo (Skripte Vaaßen/Kuhn, Unterricht, Prüfungsstil)",
+     "body": {
+      "prompt": "Ordnen Sie jede Verpackungsfunktion dem Beispiel zu.",
+      "items": [
+       {
+        "term": "Schutzfunktion",
+        "match": "Karton verhindert Bruch"
+       },
+       {
+        "term": "Informationsfunktion",
+        "match": "Inhaltsstoffe und Haltbarkeitsdatum"
+       },
+       {
+        "term": "Verkaufsfunktion",
+        "match": "Auffälliges Design im Regal"
+       },
+       {
+        "term": "Transportfunktion",
+        "match": "Stapelbare Kisten"
+       }
+      ],
+      "distractors": []
+     }
+    },
+    {
+     "key": "mako-lf6-produkt-q07",
+     "type": "match",
+     "exam_part": 1,
+     "difficulty": 2,
+     "source": "MaKo (Skripte Vaaßen/Kuhn, Unterricht, Prüfungsstil)",
+     "body": {
+      "prompt": "Ordnen Sie jede Produktpolitik-Maßnahme zu.",
+      "items": [
+       {
+        "term": "Neues Produkt auf den Markt bringen",
+        "match": "Produktinnovation"
+       },
+       {
+        "term": "Weitere Geschmacksrichtungen",
+        "match": "Produktdifferenzierung"
+       },
+       {
+        "term": "Alte Linie auslaufen lassen",
+        "match": "Produktelimination"
+       },
+       {
+        "term": "Relaunch mit neuem Design",
+        "match": "Produktvariation"
+       }
+      ],
+      "distractors": []
+     }
+    },
+    {
+     "key": "mako-lf6-produkt-q08",
+     "type": "tf",
+     "exam_part": 1,
+     "difficulty": 2,
+     "explanation": "Das ist die Sortimentsbreite.",
+     "source": "MaKo (Skripte Vaaßen/Kuhn, Unterricht, Prüfungsstil)",
+     "body": {
+      "statement": "Die Sortimentstiefe beschreibt die Zahl der Produktlinien.",
+      "answer": false
+     }
+    },
+    {
+     "key": "mako-lf6-produkt-q09",
+     "type": "cloze",
+     "exam_part": 1,
+     "difficulty": 2,
+     "source": "MaKo (Skripte Vaaßen/Kuhn, Unterricht, Prüfungsstil)",
+     "body": {
+      "text": "Bei der [[Dachmarkenstrategie]] werden alle Produkte unter dem Unternehmensnamen vermarktet."
+     }
+    }
+   ],
+   "templates": [],
+   "cases": [],
+   "summary": {
+    "key": "mako-lf6-produkt-zettel",
+    "title": "Produkt- und Markenpolitik",
+    "content_md": "\n**Produktpolitik**: Produktinnovation, -variation, -differenzierung, -elimination · Sortiment (Breite = Zahl der Produktlinien, Tiefe = Varianten je Linie) · Qualität, Design, Verpackung (Schutz-, Verkaufs-, Informations-, Transportfunktion), Service/Garantie.\n**Marke**: Name, Logo, Zeichen, die Produkte kennzeichnen; Funktionen: Orientierung, Vertrauen, Differenzierung, Wertsteigerung.\n**Markenstrategien**: **Einzelmarke** (jedes Produkt eigene Marke) · **Familienmarke** (mehrere Produkte, eine Marke) · **Dachmarke** (Unternehmen als Marke über allem) · **Mehrmarkenstrategie** (mehrere Marken für gleiche Produktgruppe) · **Markentransfer/Line Extension/Brand Extension** · **Handelsmarke (Eigenmarke)** · Gattungsmarke/No-Name.\n**Markenwert**: Bekanntheit, Image, Loyalität. **Markenpersönlichkeit**, **Markenkern**.\n**Produktlebenszyklus** (Einführung, Wachstum, Reife, Sättigung, Rückgang) – Maßnahmen je Phase.\n**Zusatznutzen**: Grundnutzen (Funktion) vs. Zusatznutzen (Prestige, Design, Service).\n"
+   }
+  }
+ ]
+}

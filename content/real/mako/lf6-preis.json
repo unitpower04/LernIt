@@ -1,0 +1,321 @@
+{
+ "demo": false,
+ "items": [
+  {
+   "topic": "mako-lf6-preis",
+   "flashcards": [
+    {
+     "key": "mako-lf6-preis-c01",
+     "front": "Was ist Skimming?",
+     "back": "Hoher Einführungspreis, der später gesenkt wird (Abschöpfung)."
+    },
+    {
+     "key": "mako-lf6-preis-c02",
+     "front": "Was ist Penetrationspreisstrategie?",
+     "back": "Niedriger Einstiegspreis, um schnell Marktanteile zu gewinnen."
+    },
+    {
+     "key": "mako-lf6-preis-c03",
+     "front": "Was ist Preisdifferenzierung?",
+     "back": "Gleiches Produkt zu unterschiedlichen Preisen (zeitlich, räumlich, personell, mengenmäßig)."
+    },
+    {
+     "key": "mako-lf6-preis-c04",
+     "front": "Beispiel zeitliche Preisdifferenzierung?",
+     "back": "Happy Hour, Frühbucherpreise, Saisonpreise."
+    },
+    {
+     "key": "mako-lf6-preis-c05",
+     "front": "Beispiel personelle Preisdifferenzierung?",
+     "back": "Studentenrabatt, Seniorenrabatt."
+    },
+    {
+     "key": "mako-lf6-preis-c06",
+     "front": "Was ist ein Mengenrabatt?",
+     "back": "Nachlass bei Abnahme größerer Mengen."
+    },
+    {
+     "key": "mako-lf6-preis-c07",
+     "front": "Was ist ein Bonus?",
+     "back": "Nachträglicher Preisnachlass (z. B. am Jahresende bei Erreichen eines Umsatzes)."
+    },
+    {
+     "key": "mako-lf6-preis-c08",
+     "front": "Was ist Skonto?",
+     "back": "Preisnachlass bei Zahlung innerhalb einer kurzen Frist."
+    },
+    {
+     "key": "mako-lf6-preis-c09",
+     "front": "Was ist ein psychologischer Preis?",
+     "back": "Preis wie 9,99 €, der günstiger wirkt."
+    },
+    {
+     "key": "mako-lf6-preis-c10",
+     "front": "Was ist Preiselastizität?",
+     "back": "Maß für die Reaktion der Nachfrage auf Preisänderungen."
+    },
+    {
+     "key": "mako-lf6-preis-c11",
+     "front": "Was ist Preisbündelung?",
+     "back": "Mehrere Leistungen werden zu einem Gesamtpreis angeboten."
+    },
+    {
+     "key": "mako-lf6-preis-c12",
+     "front": "Konkurrenzorientierte Preisbildung?",
+     "back": "Der Preis orientiert sich am Marktpreis der Wettbewerber."
+    }
+   ],
+   "glossary": [
+    {
+     "key": "mako-lf6-preis-g01",
+     "term": "Skimming",
+     "definition": "Abschöpfungsstrategie mit hohem Einführungspreis."
+    },
+    {
+     "key": "mako-lf6-preis-g02",
+     "term": "Penetration",
+     "definition": "Niedrigpreisstrategie zur Marktdurchdringung."
+    },
+    {
+     "key": "mako-lf6-preis-g03",
+     "term": "Bonus",
+     "definition": "Nachträglicher Preisnachlass."
+    },
+    {
+     "key": "mako-lf6-preis-g04",
+     "term": "Skonto",
+     "definition": "Preisnachlass für schnelle Zahlung."
+    }
+   ],
+   "questions": [
+    {
+     "key": "mako-lf6-preis-q01",
+     "type": "mc",
+     "exam_part": 1,
+     "difficulty": 2,
+     "source": "MaKo (Skripte Vaaßen/Kuhn, Unterricht, Prüfungsstil)",
+     "body": {
+      "prompt": "Ein neues Smartphone wird zu einem sehr hohen Preis eingeführt, der später sinkt. Welche Strategie?",
+      "options": [
+       {
+        "text": "Skimming",
+        "correct": true
+       },
+       {
+        "text": "Penetration",
+        "correct": false
+       },
+       {
+        "text": "Preisbündelung",
+        "correct": false
+       },
+       {
+        "text": "Konkurrenzpreis",
+        "correct": false
+       },
+       {
+        "text": "Preisbindung",
+        "correct": false
+       }
+      ]
+     }
+    },
+    {
+     "key": "mako-lf6-preis-q02",
+     "type": "mc",
+     "exam_part": 1,
+     "difficulty": 2,
+     "source": "MaKo (Skripte Vaaßen/Kuhn, Unterricht, Prüfungsstil)",
+     "body": {
+      "prompt": "Eine Streamingplattform startet mit extrem günstigem Einstiegspreis, um schnell viele Nutzer zu gewinnen. Welche Strategie?",
+      "options": [
+       {
+        "text": "Penetrationsstrategie",
+        "correct": true
+       },
+       {
+        "text": "Skimming",
+        "correct": false
+       },
+       {
+        "text": "Premiumstrategie",
+        "correct": false
+       },
+       {
+        "text": "Preisdifferenzierung",
+        "correct": false
+       },
+       {
+        "text": "Preisbindung",
+        "correct": false
+       }
+      ]
+     }
+    },
+    {
+     "key": "mako-lf6-preis-q03",
+     "type": "mc",
+     "exam_part": 1,
+     "difficulty": 2,
+     "source": "MaKo (Skripte Vaaßen/Kuhn, Unterricht, Prüfungsstil)",
+     "body": {
+      "prompt": "Studierende zahlen im Museum weniger. Welche Form der Preisdifferenzierung?",
+      "options": [
+       {
+        "text": "Personelle Preisdifferenzierung",
+        "correct": true
+       },
+       {
+        "text": "Zeitliche",
+        "correct": false
+       },
+       {
+        "text": "Räumliche",
+        "correct": false
+       },
+       {
+        "text": "Mengenmäßige",
+        "correct": false
+       },
+       {
+        "text": "Keine",
+        "correct": false
+       }
+      ]
+     }
+    },
+    {
+     "key": "mako-lf6-preis-q04",
+     "type": "mc",
+     "exam_part": 1,
+     "difficulty": 2,
+     "source": "MaKo (Skripte Vaaßen/Kuhn, Unterricht, Prüfungsstil)",
+     "body": {
+      "prompt": "Ein Kunde erhält am Jahresende einen Preisnachlass, weil er seinen Jahresumsatz erreicht hat. Wie nennt man das?",
+      "options": [
+       {
+        "text": "Bonus",
+        "correct": true
+       },
+       {
+        "text": "Skonto",
+        "correct": false
+       },
+       {
+        "text": "Sofortrabatt",
+        "correct": false
+       },
+       {
+        "text": "Mengenrabatt",
+        "correct": false
+       },
+       {
+        "text": "Aufpreis",
+        "correct": false
+       }
+      ]
+     }
+    },
+    {
+     "key": "mako-lf6-preis-q05",
+     "type": "match",
+     "exam_part": 1,
+     "difficulty": 2,
+     "source": "MaKo (Skripte Vaaßen/Kuhn, Unterricht, Prüfungsstil)",
+     "body": {
+      "prompt": "Ordnen Sie jedem Nachlass die Bedingung zu.",
+      "items": [
+       {
+        "term": "Skonto",
+        "match": "Zahlung innerhalb kurzer Frist"
+       },
+       {
+        "term": "Mengenrabatt",
+        "match": "Abnahme großer Mengen"
+       },
+       {
+        "term": "Bonus",
+        "match": "Nachträgliche Vergütung bei Umsatzziel"
+       },
+       {
+        "term": "Frühbucherrabatt",
+        "match": "Buchung lange vor dem Termin"
+       }
+      ],
+      "distractors": []
+     }
+    },
+    {
+     "key": "mako-lf6-preis-q06",
+     "type": "tf",
+     "exam_part": 1,
+     "difficulty": 2,
+     "source": "MaKo (Skripte Vaaßen/Kuhn, Unterricht, Prüfungsstil)",
+     "body": {
+      "statement": "Skimming bedeutet niedrige Einstiegspreise.",
+      "answer": false
+     }
+    },
+    {
+     "key": "mako-lf6-preis-q07",
+     "type": "cloze",
+     "exam_part": 1,
+     "difficulty": 2,
+     "source": "MaKo (Skripte Vaaßen/Kuhn, Unterricht, Prüfungsstil)",
+     "body": {
+      "text": "Beim [[Skimming]] wird ein hoher Einführungspreis gewählt, bei der [[Penetration]] ein niedriger."
+     }
+    }
+   ],
+   "templates": [
+    {
+     "key": "mako-lf6-preis-t01",
+     "type": "calc",
+     "exam_part": 1,
+     "difficulty": 2,
+     "source": "MaKo (Skripte Vaaßen/Kuhn, Unterricht, Prüfungsstil)",
+     "vars": {
+      "p": {
+       "type": "int",
+       "min": 10,
+       "max": 80,
+       "step": 2
+      },
+      "r": {
+       "type": "pick",
+       "options": [
+        10,
+        15,
+        20,
+        25
+       ]
+      },
+      "s": {
+       "type": "pick",
+       "options": [
+        2,
+        3
+       ]
+      }
+     },
+     "body": {
+      "prompt": "Ein Werbemittel kostet {p|eur} netto je Stück. Der Händler erhält {r} % Wiederverkäuferrabatt und zahlt innerhalb der Frist mit {s} % Skonto (auf den Zielpreis). Wie viel zahlt er je Stück?",
+      "answer": "p*(1-r/100)*(1-s/100)",
+      "unit": "€",
+      "decimals": 2,
+      "steps": [
+       "Zielpreis = {p|eur} · (1 − {r} %)",
+       "Barpreis = Zielpreis · (1 − {s} %) = {result|eur}"
+      ]
+     }
+    }
+   ],
+   "cases": [],
+   "summary": {
+    "key": "mako-lf6-preis-zettel",
+    "title": "Preis- und Konditionenpolitik",
+    "content_md": "\n**Preisstrategien**: **Skimming** (Abschöpfung: hoher Einführungspreis, später senken – Innovationen) · **Penetration** (niedriger Einstiegspreis zur schnellen Marktdurchdringung) · Premium · Niedrigpreis · **Preisdifferenzierung** (zeitlich, räumlich, personell, mengenmäßig) · Preisbündelung · Psychologische Preise (9,99 €).\n**Preisermittlung**: kostenorientiert (Selbstkosten + Gewinn), nachfrageorientiert (Zahlungsbereitschaft), konkurrenzorientiert (Marktpreis).\n**Konditionenpolitik**: **Rabatte** (Mengen-, Treue-, Wiederverkäufer-, Sonder-, Frühbucherrabatt), **Bonus** (nachträglich), **Skonto** (Zahlung innerhalb Frist), Lieferungs- und Zahlungsbedingungen, Kredite.\n**Preiselastizität**: Reaktion der Nachfrage auf Preisänderungen (elastisch/unelastisch).\n**Rechnen**: Rabatt vom Listenpreis; Skonto vom Zielpreis; Brutto = Netto · 1,19.\n"
+   }
+  }
+ ]
+}

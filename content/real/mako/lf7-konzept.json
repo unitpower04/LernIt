@@ -1,0 +1,385 @@
+{
+ "demo": false,
+ "items": [
+  {
+   "topic": "mako-lf7-konzept",
+   "flashcards": [
+    {
+     "key": "mako-lf7-konzept-c01",
+     "front": "Aufbau eines Kommunikationskonzepts?",
+     "back": "Ausgangslage, Ziele, Zielgruppe, Strategie/Botschaft, Instrumente/Maßnahmen, Budget/Zeitplan, Erfolgskontrolle."
+    },
+    {
+     "key": "mako-lf7-konzept-c02",
+     "front": "Ökonomische vs. außerökonomische Ziele?",
+     "back": "Ökonomisch: Umsatz, Marktanteil, Gewinn. Außerökonomisch: Bekanntheit, Image, Einstellung."
+    },
+    {
+     "key": "mako-lf7-konzept-c03",
+     "front": "Was ist ein psychologisches Kommunikationsziel?",
+     "back": "Z. B. Bekanntheit steigern, Image verbessern, Kaufabsicht fördern."
+    },
+    {
+     "key": "mako-lf7-konzept-c04",
+     "front": "Was bedeutet AIDA?",
+     "back": "Attention, Interest, Desire, Action."
+    },
+    {
+     "key": "mako-lf7-konzept-c05",
+     "front": "Was ist die Kernbotschaft?",
+     "back": "Die zentrale Aussage, die die Zielgruppe verstehen und behalten soll."
+    },
+    {
+     "key": "mako-lf7-konzept-c06",
+     "front": "Was ist ein Claim?",
+     "back": "Kurzer Markenspruch, der das Versprechen der Marke zusammenfasst."
+    },
+    {
+     "key": "mako-lf7-konzept-c07",
+     "front": "Was ist ein Key Visual?",
+     "back": "Zentrales Leitbild einer Kampagne mit hohem Wiedererkennungswert."
+    },
+    {
+     "key": "mako-lf7-konzept-c08",
+     "front": "Was beinhaltet die Copy Strategy?",
+     "back": "Consumer Benefit, Reason Why, Tonality."
+    },
+    {
+     "key": "mako-lf7-konzept-c09",
+     "front": "Was ist der Consumer Benefit?",
+     "back": "Der Nutzen, den die Zielgruppe vom Produkt hat."
+    },
+    {
+     "key": "mako-lf7-konzept-c10",
+     "front": "Was ist Reason Why?",
+     "back": "Die Begründung/Beweis für das Nutzenversprechen."
+    },
+    {
+     "key": "mako-lf7-konzept-c11",
+     "front": "Was ist Tonalität?",
+     "back": "Der Ton der Kommunikation (humorvoll, seriös, jugendlich)."
+    },
+    {
+     "key": "mako-lf7-konzept-c12",
+     "front": "Was ist Storytelling?",
+     "back": "Vermittlung der Botschaft in einer erzählenden Geschichte."
+    },
+    {
+     "key": "mako-lf7-konzept-c13",
+     "front": "Nenne Schlüsselreize.",
+     "back": "Kindchenschema, Erotik, Humor, Überraschung."
+    },
+    {
+     "key": "mako-lf7-konzept-c14",
+     "front": "Was ist integrierte Kommunikation?",
+     "back": "Alle Instrumente werden formal, inhaltlich und zeitlich aufeinander abgestimmt."
+    },
+    {
+     "key": "mako-lf7-konzept-c15",
+     "front": "Wie misst man Werbewirkung?",
+     "back": "Recall/Recognition, Image-Tests, Klickraten, Umsatz."
+    },
+    {
+     "key": "mako-lf7-konzept-c16",
+     "front": "Was ist Recall?",
+     "back": "Ungestützte Erinnerung an Werbung/Marke."
+    },
+    {
+     "key": "mako-lf7-konzept-c17",
+     "front": "Was ist Recognition?",
+     "back": "Gestützte Wiedererkennung."
+    },
+    {
+     "key": "mako-lf7-konzept-c18",
+     "front": "Was ist ein Pre-Test?",
+     "back": "Test von Werbemitteln vor dem Einsatz."
+    },
+    {
+     "key": "mako-lf7-konzept-c19",
+     "front": "Was ist ein KPI?",
+     "back": "Key Performance Indicator – Kennzahl zur Erfolgsmessung."
+    }
+   ],
+   "glossary": [
+    {
+     "key": "mako-lf7-konzept-g01",
+     "term": "AIDA",
+     "definition": "Aufmerksamkeit, Interesse, Verlangen, Aktion."
+    },
+    {
+     "key": "mako-lf7-konzept-g02",
+     "term": "Claim",
+     "definition": "Markenversprechen in einem Satz."
+    },
+    {
+     "key": "mako-lf7-konzept-g03",
+     "term": "Key Visual",
+     "definition": "Zentrales Bild einer Kampagne."
+    },
+    {
+     "key": "mako-lf7-konzept-g04",
+     "term": "KPI",
+     "definition": "Leistungskennzahl."
+    },
+    {
+     "key": "mako-lf7-konzept-g05",
+     "term": "Copy Strategy",
+     "definition": "Strategie aus Benefit, Reason Why und Tonalität."
+    }
+   ],
+   "questions": [
+    {
+     "key": "mako-lf7-konzept-q01",
+     "type": "mc",
+     "exam_part": 1,
+     "difficulty": 2,
+     "source": "MaKo (Skripte Vaaßen/Kuhn, Unterricht, Prüfungsstil)",
+     "body": {
+      "prompt": "Welches Ziel ist ein außerökonomisches (psychologisches) Kommunikationsziel?",
+      "options": [
+       {
+        "text": "Steigerung der Markenbekanntheit von 20 auf 30 %",
+        "correct": true
+       },
+       {
+        "text": "Umsatzsteigerung um 10 %",
+        "correct": false
+       },
+       {
+        "text": "Steigerung des Marktanteils",
+        "correct": false
+       },
+       {
+        "text": "Gewinnerhöhung",
+        "correct": false
+       },
+       {
+        "text": "Senkung der Kosten",
+        "correct": false
+       }
+      ]
+     }
+    },
+    {
+     "key": "mako-lf7-konzept-q02",
+     "type": "mc",
+     "exam_part": 1,
+     "difficulty": 2,
+     "source": "MaKo (Skripte Vaaßen/Kuhn, Unterricht, Prüfungsstil)",
+     "body": {
+      "prompt": "Was bedeutet das „D“ in AIDA?",
+      "options": [
+       {
+        "text": "Desire (Verlangen)",
+        "correct": true
+       },
+       {
+        "text": "Decision",
+        "correct": false
+       },
+       {
+        "text": "Design",
+        "correct": false
+       },
+       {
+        "text": "Distribution",
+        "correct": false
+       },
+       {
+        "text": "Dialog",
+        "correct": false
+       }
+      ]
+     }
+    },
+    {
+     "key": "mako-lf7-konzept-q03",
+     "type": "mc",
+     "exam_part": 1,
+     "difficulty": 2,
+     "source": "MaKo (Skripte Vaaßen/Kuhn, Unterricht, Prüfungsstil)",
+     "body": {
+      "prompt": "Welche Reihenfolge entspricht AIDA?",
+      "options": [
+       {
+        "text": "Aufmerksamkeit – Interesse – Verlangen – Handlung",
+        "correct": true
+       },
+       {
+        "text": "Interesse – Aufmerksamkeit – Handlung – Verlangen",
+        "correct": false
+       },
+       {
+        "text": "Verlangen – Aufmerksamkeit – Interesse – Handlung",
+        "correct": false
+       },
+       {
+        "text": "Handlung – Interesse – Aufmerksamkeit – Verlangen",
+        "correct": false
+       },
+       {
+        "text": "Aufmerksamkeit – Handlung – Interesse – Verlangen",
+        "correct": false
+       }
+      ]
+     }
+    },
+    {
+     "key": "mako-lf7-konzept-q04",
+     "type": "mc",
+     "exam_part": 1,
+     "difficulty": 2,
+     "source": "MaKo (Skripte Vaaßen/Kuhn, Unterricht, Prüfungsstil)",
+     "body": {
+      "prompt": "Ein Claim soll…",
+      "options": [
+       {
+        "text": "das Markenversprechen auf den Punkt bringen",
+        "correct": true
+       },
+       {
+        "text": "das Budget festlegen",
+        "correct": false
+       },
+       {
+        "text": "die Mediaplanung ersetzen",
+        "correct": false
+       },
+       {
+        "text": "die Zielgruppe definieren",
+        "correct": false
+       },
+       {
+        "text": "den Druck bestimmen",
+        "correct": false
+       }
+      ]
+     }
+    },
+    {
+     "key": "mako-lf7-konzept-q05",
+     "type": "mc",
+     "exam_part": 1,
+     "difficulty": 2,
+     "source": "MaKo (Skripte Vaaßen/Kuhn, Unterricht, Prüfungsstil)",
+     "body": {
+      "prompt": "Wie nennt man die ungestützte Erinnerung an eine Marke?",
+      "options": [
+       {
+        "text": "Recall",
+        "correct": true
+       },
+       {
+        "text": "Recognition",
+        "correct": false
+       },
+       {
+        "text": "Reichweite",
+        "correct": false
+       },
+       {
+        "text": "Affinität",
+        "correct": false
+       },
+       {
+        "text": "Insight",
+        "correct": false
+       }
+      ]
+     }
+    },
+    {
+     "key": "mako-lf7-konzept-q06",
+     "type": "order",
+     "exam_part": 1,
+     "difficulty": 2,
+     "source": "MaKo (Skripte Vaaßen/Kuhn, Unterricht, Prüfungsstil)",
+     "body": {
+      "prompt": "Bringen Sie die Bestandteile eines Kommunikationskonzepts in sinnvolle Reihenfolge.",
+      "items": [
+       "Situationsanalyse",
+       "Kommunikationsziele",
+       "Zielgruppe und Strategie",
+       "Maßnahmen und Medien",
+       "Erfolgskontrolle"
+      ]
+     }
+    },
+    {
+     "key": "mako-lf7-konzept-q07",
+     "type": "order",
+     "exam_part": 1,
+     "difficulty": 1,
+     "source": "MaKo (Skripte Vaaßen/Kuhn, Unterricht, Prüfungsstil)",
+     "body": {
+      "prompt": "Bringen Sie die AIDA-Stufen in die richtige Reihenfolge.",
+      "items": [
+       "Attention",
+       "Interest",
+       "Desire",
+       "Action"
+      ]
+     }
+    },
+    {
+     "key": "mako-lf7-konzept-q08",
+     "type": "match",
+     "exam_part": 1,
+     "difficulty": 2,
+     "source": "MaKo (Skripte Vaaßen/Kuhn, Unterricht, Prüfungsstil)",
+     "body": {
+      "prompt": "Ordnen Sie jede Zielart zu.",
+      "items": [
+       {
+        "term": "Marktanteil erhöhen",
+        "match": "ökonomisch"
+       },
+       {
+        "term": "Bekanntheit steigern",
+        "match": "psychologisch"
+       },
+       {
+        "term": "Image verbessern",
+        "match": "psychologisch"
+       },
+       {
+        "term": "Umsatz steigern",
+        "match": "ökonomisch"
+       }
+      ],
+      "distractors": []
+     }
+    },
+    {
+     "key": "mako-lf7-konzept-q09",
+     "type": "tf",
+     "exam_part": 1,
+     "difficulty": 2,
+     "explanation": "Ein Pre-Test erfolgt vor dem Einsatz.",
+     "source": "MaKo (Skripte Vaaßen/Kuhn, Unterricht, Prüfungsstil)",
+     "body": {
+      "statement": "Ein Pre-Test prüft Werbemittel nach der Kampagne.",
+      "answer": false
+     }
+    },
+    {
+     "key": "mako-lf7-konzept-q10",
+     "type": "cloze",
+     "exam_part": 1,
+     "difficulty": 2,
+     "source": "MaKo (Skripte Vaaßen/Kuhn, Unterricht, Prüfungsstil)",
+     "body": {
+      "text": "Das AIDA-Modell beschreibt die Stufen der [[Werbewirkung]]: Attention, Interest, [[Desire]], Action."
+     }
+    }
+   ],
+   "templates": [],
+   "cases": [],
+   "summary": {
+    "key": "mako-lf7-konzept-zettel",
+    "title": "Kommunikationskonzept, Werbeziele & AIDA",
+    "content_md": "\n**Konzeptaufbau (Kommunikationskonzept)**: 1 Ausgangslage/Situationsanalyse (SWOT, Markt, Zielgruppe) → 2 Kommunikationsziele → 3 Zielgruppe → 4 Kommunikationsstrategie (Positionierung, Botschaft/Kernbotschaft, Tonalität, Leitidee/Claim) → 5 Instrumente und Maßnahmen (Kommunikationsmix, Medien) → 6 Budget/Zeitplan → 7 Erfolgskontrolle (KPIs).\n**Ziele**: *ökonomische* (Umsatz, Marktanteil, Gewinn) vs. *psychologische/außerökonomische* (Bekanntheit, Image, Einstellung, Kaufabsicht). **SMART**.\n**AIDA-Modell**: **A**ttention (Aufmerksamkeit) → **I**nterest (Interesse) → **D**esire (Verlangen) → **A**ction (Kauf/Handlung). Weitere: AIDCA, DAGMAR.\n**Werbewirkung**: Bekanntheit, Erinnerung (Recall/Recognition), Image, Einstellung, Kaufabsicht, Kaufhandlung.\n**Gestaltung**: **Claim/Slogan** (Markenversprechen) · **Key Visual** · **Tonalität** · **Copy Strategy** (Consumer Benefit, Reason Why, Tonality) · **Storytelling** · **Emotionale vs. rationale Ansprache** · **Reiz-Reaktions**: Schlüsselreize (Kindchenschema, Erotik, Humor).\n**Erfolgskontrolle**: vorher (Pre-Test), laufend, nachher (Post-Test): Recall, Image, Umsatz, Klickrate.\n**Integrierte Kommunikation**: Abstimmung aller Instrumente (formal, inhaltlich, zeitlich).\n"
+   }
+  }
+ ]
+}

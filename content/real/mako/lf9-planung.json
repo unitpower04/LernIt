@@ -1,0 +1,565 @@
+{
+ "demo": false,
+ "items": [
+  {
+   "topic": "mako-lf9-planung",
+   "flashcards": [
+    {
+     "key": "mako-lf9-planung-c01",
+     "front": "Phasen des Mediaplanungsprozesses?",
+     "back": "Analyse/Briefing, Mediaziele, Mediastrategie, Selektion, Streuplan, Buchung, Kontrolle."
+    },
+    {
+     "key": "mako-lf9-planung-c02",
+     "front": "Was sind Mediaziele?",
+     "back": "Quantitative Vorgaben wie Reichweite, Kontakte, GRP und Kontaktklasse."
+    },
+    {
+     "key": "mako-lf9-planung-c03",
+     "front": "Was ist Mediaselektion?",
+     "back": "Auswahl der Werbeträger (inter- und intramedial)."
+    },
+    {
+     "key": "mako-lf9-planung-c04",
+     "front": "Streuplan?",
+     "back": "Zeitliche und mengenmäßige Verteilung der Schaltungen."
+    },
+    {
+     "key": "mako-lf9-planung-c05",
+     "front": "Was ist ein Flight?",
+     "back": "Zeitlich begrenzte intensive Werbewelle mit Pausen."
+    },
+    {
+     "key": "mako-lf9-planung-c06",
+     "front": "Was ist Pulsing?",
+     "back": "Dauerhafte Grundschaltung mit zusätzlichen Werbewellen."
+    },
+    {
+     "key": "mako-lf9-planung-c07",
+     "front": "Was ist eine Dauerschaltung?",
+     "back": "Gleichmäßige Werbung über den gesamten Zeitraum."
+    },
+    {
+     "key": "mako-lf9-planung-c08",
+     "front": "Nenne Etatfindungsmethoden.",
+     "back": "Prozent vom Umsatz/Gewinn, Konkurrenzorientierung, Verfügbarkeit, Ziel-/Aufgabenmethode, Pro-Kopf."
+    },
+    {
+     "key": "mako-lf9-planung-c09",
+     "front": "Was ist Share of Voice?",
+     "back": "Anteil des eigenen Werbedrucks am Gesamtwerbedruck der Branche."
+    },
+    {
+     "key": "mako-lf9-planung-c10",
+     "front": "Vorteile von TV?",
+     "back": "Hohe Reichweite, Bewegtbild/Ton, emotionale Wirkung – aber hohe Kosten."
+    },
+    {
+     "key": "mako-lf9-planung-c11",
+     "front": "Vorteile von Radio?",
+     "back": "Günstig, regional, hohe Frequenz – aber nur auditiv."
+    },
+    {
+     "key": "mako-lf9-planung-c12",
+     "front": "Vorteile von Plakat?",
+     "back": "Hohe lokale Reichweite, Dauerpräsenz – Botschaft muss kurz sein."
+    },
+    {
+     "key": "mako-lf9-planung-c13",
+     "front": "Vorteile von Zeitschriften?",
+     "back": "Zielgruppennähe, Qualität, lange Nutzung."
+    },
+    {
+     "key": "mako-lf9-planung-c14",
+     "front": "Vorteile von Zeitungen?",
+     "back": "Aktualität, regionale Streuung."
+    },
+    {
+     "key": "mako-lf9-planung-c15",
+     "front": "Vorteile von Online-Werbung?",
+     "back": "Messbarkeit, Zielgenauigkeit, Interaktion, flexible Budgets."
+    },
+    {
+     "key": "mako-lf9-planung-c16",
+     "front": "Was sind Nielsen-Gebiete?",
+     "back": "Sieben Werbemarktgebiete zur regionalen Planung."
+    },
+    {
+     "key": "mako-lf9-planung-c17",
+     "front": "Was ist die b4p?",
+     "back": "Best for Planning – Markt-Media-Studie für die Zielgruppenplanung."
+    },
+    {
+     "key": "mako-lf9-planung-c18",
+     "front": "Was ist die AE-Provision?",
+     "back": "Vergütung der Agentur durch die Medien (traditionell 15 % der Schaltkosten)."
+    },
+    {
+     "key": "mako-lf9-planung-c19",
+     "front": "Was ist ein Malstaffelrabatt?",
+     "back": "Rabatt nach der Häufigkeit der Schaltungen."
+    },
+    {
+     "key": "mako-lf9-planung-c20",
+     "front": "Was ist ein Mengenrabatt in der Mediaplanung?",
+     "back": "Nachlass nach Schaltvolumen (z. B. mm oder Seiten)."
+    },
+    {
+     "key": "mako-lf9-planung-c21",
+     "front": "Was ist DOOH?",
+     "back": "Digital Out of Home – digitale Außenwerbung."
+    },
+    {
+     "key": "mako-lf9-planung-c22",
+     "front": "Was ist Programmatic Advertising?",
+     "back": "Automatisierter, datengestützter Einkauf digitaler Werbeplätze in Echtzeit."
+    },
+    {
+     "key": "mako-lf9-planung-c23",
+     "front": "Was ist ein Mediaplan?",
+     "back": "Detaillierte Übersicht von Medien, Terminen, Kosten und Kennziffern."
+    }
+   ],
+   "glossary": [
+    {
+     "key": "mako-lf9-planung-g01",
+     "term": "Mediaplan",
+     "definition": "Plan der Schaltung von Werbemitteln in Medien."
+    },
+    {
+     "key": "mako-lf9-planung-g02",
+     "term": "Streuplan",
+     "definition": "Zeitliche Verteilung der Werbung."
+    },
+    {
+     "key": "mako-lf9-planung-g03",
+     "term": "Share of Voice",
+     "definition": "Anteil am Werbedruck einer Branche."
+    },
+    {
+     "key": "mako-lf9-planung-g04",
+     "term": "Flight",
+     "definition": "Befristete intensive Werbewelle."
+    },
+    {
+     "key": "mako-lf9-planung-g05",
+     "term": "Programmatic Advertising",
+     "definition": "Automatisierter Medieneinkauf."
+    }
+   ],
+   "questions": [
+    {
+     "key": "mako-lf9-planung-q01",
+     "type": "mc",
+     "exam_part": 3,
+     "difficulty": 2,
+     "source": "MaKo (Skripte Vaaßen/Kuhn, Unterricht, Prüfungsstil)",
+     "body": {
+      "prompt": "Welche Phase folgt im Mediaplanungsprozess nach der Festlegung der Mediaziele?",
+      "options": [
+       {
+        "text": "Mediastrategie bzw. Mediaselektion",
+        "correct": true
+       },
+       {
+        "text": "Buchung",
+        "correct": false
+       },
+       {
+        "text": "Kontrolle",
+        "correct": false
+       },
+       {
+        "text": "Briefing",
+        "correct": false
+       },
+       {
+        "text": "Produktion",
+        "correct": false
+       }
+      ]
+     }
+    },
+    {
+     "key": "mako-lf9-planung-q02",
+     "type": "mc",
+     "exam_part": 3,
+     "difficulty": 2,
+     "source": "MaKo (Skripte Vaaßen/Kuhn, Unterricht, Prüfungsstil)",
+     "body": {
+      "prompt": "Welches Medium bietet hohe Reichweite durch Bild und Ton, ist aber vergleichsweise teuer?",
+      "options": [
+       {
+        "text": "Fernsehen",
+        "correct": true
+       },
+       {
+        "text": "Zeitung",
+        "correct": false
+       },
+       {
+        "text": "Radio",
+        "correct": false
+       },
+       {
+        "text": "Plakat",
+        "correct": false
+       },
+       {
+        "text": "Mailing",
+        "correct": false
+       }
+      ]
+     }
+    },
+    {
+     "key": "mako-lf9-planung-q03",
+     "type": "mc",
+     "exam_part": 3,
+     "difficulty": 2,
+     "source": "MaKo (Skripte Vaaßen/Kuhn, Unterricht, Prüfungsstil)",
+     "body": {
+      "prompt": "Welches Medium eignet sich besonders gut für regionale, kostengünstige Werbung mit hoher Frequenz?",
+      "options": [
+       {
+        "text": "Radio",
+        "correct": true
+       },
+       {
+        "text": "Fernsehen",
+        "correct": false
+       },
+       {
+        "text": "Zeitschrift",
+        "correct": false
+       },
+       {
+        "text": "Kino",
+        "correct": false
+       },
+       {
+        "text": "Fachmesse",
+        "correct": false
+       }
+      ]
+     }
+    },
+    {
+     "key": "mako-lf9-planung-q04",
+     "type": "mc",
+     "exam_part": 3,
+     "difficulty": 2,
+     "source": "MaKo (Skripte Vaaßen/Kuhn, Unterricht, Prüfungsstil)",
+     "body": {
+      "prompt": "Was ist ein Flight?",
+      "options": [
+       {
+        "text": "Intensive Werbewelle in einem begrenzten Zeitraum",
+        "correct": true
+       },
+       {
+        "text": "Konstante Dauerschaltung",
+        "correct": false
+       },
+       {
+        "text": "Eine Medienkooperation",
+        "correct": false
+       },
+       {
+        "text": "Ein Messeauftritt",
+        "correct": false
+       },
+       {
+        "text": "Eine Konkurrenzanalyse",
+        "correct": false
+       }
+      ]
+     }
+    },
+    {
+     "key": "mako-lf9-planung-q05",
+     "type": "mc",
+     "exam_part": 3,
+     "difficulty": 2,
+     "source": "MaKo (Skripte Vaaßen/Kuhn, Unterricht, Prüfungsstil)",
+     "body": {
+      "prompt": "Welche Etatfindungsmethode orientiert sich am Verhalten der Wettbewerber?",
+      "options": [
+       {
+        "text": "Konkurrenzorientierte Methode (Share of Voice)",
+        "correct": true
+       },
+       {
+        "text": "Prozent vom Umsatz",
+        "correct": false
+       },
+       {
+        "text": "Restmethode",
+        "correct": false
+       },
+       {
+        "text": "Zielmethode",
+        "correct": false
+       },
+       {
+        "text": "Pro-Kopf-Methode",
+        "correct": false
+       }
+      ]
+     }
+    },
+    {
+     "key": "mako-lf9-planung-q06",
+     "type": "mc",
+     "exam_part": 3,
+     "difficulty": 2,
+     "source": "MaKo (Skripte Vaaßen/Kuhn, Unterricht, Prüfungsstil)",
+     "body": {
+      "prompt": "Welcher Vergleich liegt vor, wenn Fernsehen mit Zeitung verglichen wird?",
+      "options": [
+       {
+        "text": "Intermedialer Vergleich",
+        "correct": true
+       },
+       {
+        "text": "Intramedialer Vergleich",
+        "correct": false
+       },
+       {
+        "text": "Intrakultureller Vergleich",
+        "correct": false
+       },
+       {
+        "text": "Kein Vergleich",
+        "correct": false
+       },
+       {
+        "text": "Interner Vergleich",
+        "correct": false
+       }
+      ]
+     }
+    },
+    {
+     "key": "mako-lf9-planung-q07",
+     "type": "mc",
+     "exam_part": 3,
+     "difficulty": 2,
+     "source": "MaKo (Skripte Vaaßen/Kuhn, Unterricht, Prüfungsstil)",
+     "body": {
+      "prompt": "Wofür steht die Abkürzung b4p?",
+      "options": [
+       {
+        "text": "Best for Planning (Markt-Media-Studie)",
+        "correct": true
+       },
+       {
+        "text": "Business for Print",
+        "correct": false
+       },
+       {
+        "text": "Brand for People",
+        "correct": false
+       },
+       {
+        "text": "Budget for Planning",
+        "correct": false
+       },
+       {
+        "text": "Best for Print",
+        "correct": false
+       }
+      ]
+     }
+    },
+    {
+     "key": "mako-lf9-planung-q08",
+     "type": "order",
+     "exam_part": 3,
+     "difficulty": 2,
+     "source": "MaKo (Skripte Vaaßen/Kuhn, Unterricht, Prüfungsstil)",
+     "body": {
+      "prompt": "Bringen Sie den Mediaplanungsprozess in die richtige Reihenfolge.",
+      "items": [
+       "Analyse und Briefing",
+       "Festlegung der Mediaziele",
+       "Mediastrategie und Selektion",
+       "Erstellung des Streuplans",
+       "Buchung und Kontrolle"
+      ]
+     }
+    },
+    {
+     "key": "mako-lf9-planung-q09",
+     "type": "match",
+     "exam_part": 3,
+     "difficulty": 2,
+     "source": "MaKo (Skripte Vaaßen/Kuhn, Unterricht, Prüfungsstil)",
+     "body": {
+      "prompt": "Ordnen Sie jedes Medium dem typischen Vorteil zu.",
+      "items": [
+       {
+        "term": "Fernsehen",
+        "match": "Hohe Reichweite, Bewegtbild und Ton"
+       },
+       {
+        "term": "Radio",
+        "match": "Günstig und regional"
+       },
+       {
+        "term": "Zeitschrift",
+        "match": "Zielgruppennähe und Qualität"
+       },
+       {
+        "term": "Online",
+        "match": "Messbarkeit und Zielgenauigkeit"
+       },
+       {
+        "term": "Plakat",
+        "match": "Dauerpräsenz im öffentlichen Raum"
+       }
+      ],
+      "distractors": []
+     }
+    },
+    {
+     "key": "mako-lf9-planung-q10",
+     "type": "match",
+     "exam_part": 3,
+     "difficulty": 2,
+     "source": "MaKo (Skripte Vaaßen/Kuhn, Unterricht, Prüfungsstil)",
+     "body": {
+      "prompt": "Ordnen Sie das Timing-Muster zu.",
+      "items": [
+       {
+        "term": "Dauerschaltung",
+        "match": "gleichmäßig über den gesamten Zeitraum"
+       },
+       {
+        "term": "Flight",
+        "match": "intensive Welle mit Pausen"
+       },
+       {
+        "term": "Pulsing",
+        "match": "Grundschaltung plus zusätzliche Wellen"
+       }
+      ],
+      "distractors": []
+     }
+    },
+    {
+     "key": "mako-lf9-planung-q11",
+     "type": "tf",
+     "exam_part": 3,
+     "difficulty": 2,
+     "source": "MaKo (Skripte Vaaßen/Kuhn, Unterricht, Prüfungsstil)",
+     "body": {
+      "statement": "Die Mediastrategie legt fest, welche Medien die Zielgruppe am besten erreichen.",
+      "answer": true
+     }
+    },
+    {
+     "key": "mako-lf9-planung-q12",
+     "type": "tf",
+     "exam_part": 3,
+     "difficulty": 2,
+     "explanation": "Die Agentur erhält die Agenturprovision von den Medien.",
+     "source": "MaKo (Skripte Vaaßen/Kuhn, Unterricht, Prüfungsstil)",
+     "body": {
+      "statement": "Der AE-Provision stehen Kunden zu.",
+      "answer": false
+     }
+    },
+    {
+     "key": "mako-lf9-planung-q13",
+     "type": "cloze",
+     "exam_part": 3,
+     "difficulty": 2,
+     "source": "MaKo (Skripte Vaaßen/Kuhn, Unterricht, Prüfungsstil)",
+     "body": {
+      "text": "Im [[Mediaplan]] werden Medien, Termine und [[Kosten]] zusammengefasst."
+     }
+    }
+   ],
+   "templates": [
+    {
+     "key": "mako-lf9-planung-t01",
+     "type": "calc",
+     "exam_part": 3,
+     "difficulty": 2,
+     "source": "MaKo (Skripte Vaaßen/Kuhn, Unterricht, Prüfungsstil)",
+     "vars": {
+      "p": {
+       "type": "int",
+       "min": 5000,
+       "max": 40000,
+       "step": 1000
+      },
+      "ae": {
+       "type": "pick",
+       "options": [
+        10,
+        15
+       ]
+      }
+     },
+     "body": {
+      "prompt": "Ein Medium berechnet für eine Schaltung {p|eur}. Die Agentur erhält {ae} % Agenturprovision auf die Schaltkosten. Wie hoch ist die Provision der Agentur?",
+      "answer": "p*ae/100",
+      "unit": "€",
+      "decimals": 2,
+      "steps": [
+       "Provision = {p|eur} · {ae} % = {result|eur}"
+      ]
+     }
+    },
+    {
+     "key": "mako-lf9-planung-t02",
+     "type": "calc",
+     "exam_part": 3,
+     "difficulty": 2,
+     "source": "MaKo (Skripte Vaaßen/Kuhn, Unterricht, Prüfungsstil)",
+     "vars": {
+      "p": {
+       "type": "int",
+       "min": 800,
+       "max": 4000,
+       "step": 100
+      },
+      "n": {
+       "type": "int",
+       "min": 10,
+       "max": 40,
+       "step": 2
+      },
+      "r": {
+       "type": "pick",
+       "options": [
+        5,
+        8,
+        10,
+        12
+       ]
+      }
+     },
+     "body": {
+      "prompt": "Ein Spot kostet {p|eur} je Schaltung. Es werden {n} Schaltungen gebucht. Der Sender gewährt {r} % Malstaffelrabatt auf die Gesamtsumme. Wie hoch ist der zu zahlende Betrag?",
+      "answer": "p*n*(1-r/100)",
+      "unit": "€",
+      "decimals": 2,
+      "steps": [
+       "Gesamtpreis = {n} · {p|eur}",
+       "Rabatt {r} % → {result|eur}"
+      ]
+     }
+    }
+   ],
+   "cases": [],
+   "summary": {
+    "key": "mako-lf9-planung-zettel",
+    "title": "Mediaplanungsprozess, Mediagattungen & Online-Media",
+    "content_md": "\n**Mediaplanungsprozess**: 1 Briefing/Analyse (Marketingziel, Zielgruppe, Budget) → 2 **Mediaziele** (Reichweite, Kontakte, GRP, Kontaktklasse, Zeitraum, Gebiet) → 3 **Mediastrategie** → 4 **Mediaselektion** (inter-/intramedial, Medienvergleich) → 5 **Streuplan/Mediaplan** (Timing: Dauerschaltung, Flights, Pulsing, Blockschaltung) → 6 Buchung/Einkauf → 7 Kontrolle (Post-Test).\n**Werbeziel ↔ Mediaziel**: Werbeziel (psychologisch) wird in Mediaziele (Reichweite/Kontakte) übersetzt.\n**Etatfindung (6 Methoden)**: Prozent vom Umsatz, Prozent vom Gewinn, Konkurrenzorientierung (Share of Voice), Rest-/Verfügbarkeitsmethode, Zielerreichungsmethode (Task-and-Objective), Marktanteil/Pro-Kopf-Methode.\n**Gattungen** (Vor-/Nachteile): **Print** (Zeitung: aktuell, regional; Zeitschrift: Zielgruppennähe, Qualität) · **TV** (hohe Reichweite, audiovisuell, teuer) · **Radio** (günstig, regional, nur Ton) · **Plakat/OOH/DOOH** (Dauer, hohe Reichweite lokal) · **Kino** · **Online/Digital** (messbar, zielgenau) · **Direktwerbung**.\n**Nielsen-Gebiete**: Einteilung Deutschlands in Werbemarktgebiete (I–VII) für die regionale Streuplanung.\n**Marktstudien**: AWA, b4p (best for planning), ma (Media-Analyse), AGOF daily digital facts, Mediaplan-Software.\n**Mediaäquivalente**: AE-Provision (Agenturvergütung 15 %), Mediarabatte (Mal-, Mengen-, Frequenz-, Malstaffel).\n"
+   }
+  }
+ ]
+}

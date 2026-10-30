@@ -1,0 +1,452 @@
+{
+ "demo": false,
+ "items": [
+  {
+   "topic": "mako-lf6-strategie",
+   "flashcards": [
+    {
+     "key": "mako-lf6-strategie-c01",
+     "front": "Was ist eine SWOT-Analyse?",
+     "back": "Bewertung von Stärken, Schwächen (intern), Chancen und Risiken (extern)."
+    },
+    {
+     "key": "mako-lf6-strategie-c02",
+     "front": "Intern vs. extern in der SWOT?",
+     "back": "Stärken/Schwächen sind intern, Chancen/Risiken extern."
+    },
+    {
+     "key": "mako-lf6-strategie-c03",
+     "front": "Was ist eine SO-Strategie?",
+     "back": "Mit Stärken Chancen nutzen (Wachstumsstrategie)."
+    },
+    {
+     "key": "mako-lf6-strategie-c04",
+     "front": "Was ist eine WO-Strategie?",
+     "back": "Schwächen abbauen, um Chancen zu nutzen."
+    },
+    {
+     "key": "mako-lf6-strategie-c05",
+     "front": "Was ist eine ST-Strategie?",
+     "back": "Mit Stärken Risiken abwehren."
+    },
+    {
+     "key": "mako-lf6-strategie-c06",
+     "front": "Was ist eine WT-Strategie?",
+     "back": "Schwächen und Risiken minimieren (Rückzug, Defensive)."
+    },
+    {
+     "key": "mako-lf6-strategie-c07",
+     "front": "Was ist die Ansoff-Matrix?",
+     "back": "Wachstumsmatrix aus Produkten und Märkten (neu/bestehend)."
+    },
+    {
+     "key": "mako-lf6-strategie-c08",
+     "front": "Marktdurchdringung?",
+     "back": "Bestehende Produkte in bestehenden Märkten stärker verkaufen."
+    },
+    {
+     "key": "mako-lf6-strategie-c09",
+     "front": "Marktentwicklung?",
+     "back": "Bestehende Produkte in neuen Märkten anbieten."
+    },
+    {
+     "key": "mako-lf6-strategie-c10",
+     "front": "Produktentwicklung?",
+     "back": "Neue Produkte für bestehende Märkte."
+    },
+    {
+     "key": "mako-lf6-strategie-c11",
+     "front": "Diversifikation?",
+     "back": "Neue Produkte in neuen Märkten."
+    },
+    {
+     "key": "mako-lf6-strategie-c12",
+     "front": "Was ist ein Star im BCG-Portfolio?",
+     "back": "Hohes Marktwachstum, hoher Marktanteil – investieren."
+    },
+    {
+     "key": "mako-lf6-strategie-c13",
+     "front": "Was ist eine Cash Cow?",
+     "back": "Niedriges Wachstum, hoher Marktanteil – liefert Gewinne zur Finanzierung."
+    },
+    {
+     "key": "mako-lf6-strategie-c14",
+     "front": "Was ist ein Question Mark?",
+     "back": "Hohes Wachstum, niedriger Marktanteil – selektiv investieren oder aufgeben."
+    },
+    {
+     "key": "mako-lf6-strategie-c15",
+     "front": "Was ist ein Poor Dog?",
+     "back": "Niedriges Wachstum, niedriger Marktanteil – desinvestieren."
+    },
+    {
+     "key": "mako-lf6-strategie-c16",
+     "front": "Phasen des Produktlebenszyklus?",
+     "back": "Einführung, Wachstum, Reife, Sättigung, Rückgang."
+    },
+    {
+     "key": "mako-lf6-strategie-c17",
+     "front": "Was ist Positionierung?",
+     "back": "Platzierung einer Marke im Bewusstsein der Zielgruppe gegenüber Wettbewerbern."
+    },
+    {
+     "key": "mako-lf6-strategie-c18",
+     "front": "Was ist Marktsegmentierung?",
+     "back": "Aufteilung des Marktes in homogene Käufergruppen."
+    },
+    {
+     "key": "mako-lf6-strategie-c19",
+     "front": "Porters Wettbewerbsstrategien?",
+     "back": "Kostenführerschaft, Differenzierung, Konzentration auf Nischen."
+    }
+   ],
+   "glossary": [
+    {
+     "key": "mako-lf6-strategie-g01",
+     "term": "SWOT",
+     "definition": "Strengths, Weaknesses, Opportunities, Threats."
+    },
+    {
+     "key": "mako-lf6-strategie-g02",
+     "term": "Ansoff-Matrix",
+     "definition": "Matrix der Wachstumsstrategien nach Produkt und Markt."
+    },
+    {
+     "key": "mako-lf6-strategie-g03",
+     "term": "Portfolio",
+     "definition": "Zusammenstellung der Produkte nach Marktwachstum und Marktanteil."
+    },
+    {
+     "key": "mako-lf6-strategie-g04",
+     "term": "Diversifikation",
+     "definition": "Eintritt mit neuen Produkten in neue Märkte."
+    },
+    {
+     "key": "mako-lf6-strategie-g05",
+     "term": "Positionierung",
+     "definition": "Platzierung im Kopf der Zielgruppe."
+    }
+   ],
+   "questions": [
+    {
+     "key": "mako-lf6-strategie-q01",
+     "type": "mc",
+     "exam_part": 1,
+     "difficulty": 2,
+     "source": "MaKo (Skripte Vaaßen/Kuhn, Unterricht, Prüfungsstil)",
+     "body": {
+      "prompt": "Eine Agentur hat ein hervorragendes Kreativteam (intern) und beobachtet einen wachsenden Markt für Podcasts (extern). Welche SWOT-Kategorien?",
+      "options": [
+       {
+        "text": "Stärke und Chance",
+        "correct": true
+       },
+       {
+        "text": "Schwäche und Risiko",
+        "correct": false
+       },
+       {
+        "text": "Stärke und Risiko",
+        "correct": false
+       },
+       {
+        "text": "Schwäche und Chance",
+        "correct": false
+       },
+       {
+        "text": "Chance und Risiko",
+        "correct": false
+       }
+      ]
+     }
+    },
+    {
+     "key": "mako-lf6-strategie-q02",
+     "type": "mc",
+     "exam_part": 1,
+     "difficulty": 2,
+     "source": "MaKo (Skripte Vaaßen/Kuhn, Unterricht, Prüfungsstil)",
+     "body": {
+      "prompt": "Ein Bio-Eisanbieter verkauft sein bestehendes Eis nun auch in Österreich. Welche Ansoff-Strategie?",
+      "options": [
+       {
+        "text": "Marktentwicklung",
+        "correct": true
+       },
+       {
+        "text": "Marktdurchdringung",
+        "correct": false
+       },
+       {
+        "text": "Produktentwicklung",
+        "correct": false
+       },
+       {
+        "text": "Diversifikation",
+        "correct": false
+       },
+       {
+        "text": "Rückzug",
+        "correct": false
+       }
+      ]
+     }
+    },
+    {
+     "key": "mako-lf6-strategie-q03",
+     "type": "mc",
+     "exam_part": 1,
+     "difficulty": 2,
+     "source": "MaKo (Skripte Vaaßen/Kuhn, Unterricht, Prüfungsstil)",
+     "body": {
+      "prompt": "Ein Getränkehersteller bringt eine neue Sorte im bestehenden Markt heraus. Welche Ansoff-Strategie?",
+      "options": [
+       {
+        "text": "Produktentwicklung",
+        "correct": true
+       },
+       {
+        "text": "Marktdurchdringung",
+        "correct": false
+       },
+       {
+        "text": "Marktentwicklung",
+        "correct": false
+       },
+       {
+        "text": "Diversifikation",
+        "correct": false
+       },
+       {
+        "text": "Kooperation",
+        "correct": false
+       }
+      ]
+     }
+    },
+    {
+     "key": "mako-lf6-strategie-q04",
+     "type": "mc",
+     "exam_part": 1,
+     "difficulty": 2,
+     "source": "MaKo (Skripte Vaaßen/Kuhn, Unterricht, Prüfungsstil)",
+     "body": {
+      "prompt": "Ein Produkt mit hohem Marktanteil in einem stagnierenden Markt ist im BCG-Portfolio eine…",
+      "options": [
+       {
+        "text": "Cash Cow",
+        "correct": true
+       },
+       {
+        "text": "Star",
+        "correct": false
+       },
+       {
+        "text": "Question Mark",
+        "correct": false
+       },
+       {
+        "text": "Poor Dog",
+        "correct": false
+       },
+       {
+        "text": "Newcomer",
+        "correct": false
+       }
+      ]
+     }
+    },
+    {
+     "key": "mako-lf6-strategie-q05",
+     "type": "mc",
+     "exam_part": 1,
+     "difficulty": 2,
+     "source": "MaKo (Skripte Vaaßen/Kuhn, Unterricht, Prüfungsstil)",
+     "body": {
+      "prompt": "Welche Phase des Produktlebenszyklus ist typischerweise mit hohen Werbeausgaben für Bekanntheit verbunden?",
+      "options": [
+       {
+        "text": "Einführungsphase",
+        "correct": true
+       },
+       {
+        "text": "Rückgangsphase",
+        "correct": false
+       },
+       {
+        "text": "Sättigungsphase",
+        "correct": false
+       },
+       {
+        "text": "Reifephase",
+        "correct": false
+       },
+       {
+        "text": "Niemals",
+        "correct": false
+       }
+      ]
+     }
+    },
+    {
+     "key": "mako-lf6-strategie-q06",
+     "type": "mc",
+     "exam_part": 1,
+     "difficulty": 2,
+     "source": "MaKo (Skripte Vaaßen/Kuhn, Unterricht, Prüfungsstil)",
+     "body": {
+      "prompt": "Welche Aussage zur SWOT-Analyse ist richtig?",
+      "options": [
+       {
+        "text": "Chancen und Risiken stammen aus dem Umfeld.",
+        "correct": true
+       },
+       {
+        "text": "Chancen sind interne Faktoren.",
+        "correct": false
+       },
+       {
+        "text": "Stärken sind externe Faktoren.",
+        "correct": false
+       },
+       {
+        "text": "Schwächen sind Marktchancen.",
+        "correct": false
+       },
+       {
+        "text": "Die SWOT betrachtet nur die Konkurrenz.",
+        "correct": false
+       }
+      ]
+     }
+    },
+    {
+     "key": "mako-lf6-strategie-q07",
+     "type": "match",
+     "exam_part": 1,
+     "difficulty": 2,
+     "source": "MaKo (Skripte Vaaßen/Kuhn, Unterricht, Prüfungsstil)",
+     "body": {
+      "prompt": "Ordnen Sie jede Ansoff-Strategie der Beschreibung zu.",
+      "items": [
+       {
+        "term": "Marktdurchdringung",
+        "match": "bestehende Produkte, bestehende Märkte"
+       },
+       {
+        "term": "Marktentwicklung",
+        "match": "bestehende Produkte, neue Märkte"
+       },
+       {
+        "term": "Produktentwicklung",
+        "match": "neue Produkte, bestehende Märkte"
+       },
+       {
+        "term": "Diversifikation",
+        "match": "neue Produkte, neue Märkte"
+       }
+      ],
+      "distractors": []
+     }
+    },
+    {
+     "key": "mako-lf6-strategie-q08",
+     "type": "match",
+     "exam_part": 1,
+     "difficulty": 2,
+     "source": "MaKo (Skripte Vaaßen/Kuhn, Unterricht, Prüfungsstil)",
+     "body": {
+      "prompt": "Ordnen Sie jede BCG-Kategorie der Normstrategie zu.",
+      "items": [
+       {
+        "term": "Star",
+        "match": "Investieren"
+       },
+       {
+        "term": "Cash Cow",
+        "match": "Gewinne abschöpfen"
+       },
+       {
+        "term": "Question Mark",
+        "match": "selektiv investieren"
+       },
+       {
+        "term": "Poor Dog",
+        "match": "Desinvestieren"
+       }
+      ],
+      "distractors": []
+     }
+    },
+    {
+     "key": "mako-lf6-strategie-q09",
+     "type": "match",
+     "exam_part": 1,
+     "difficulty": 2,
+     "source": "MaKo (Skripte Vaaßen/Kuhn, Unterricht, Prüfungsstil)",
+     "body": {
+      "prompt": "Ordnen Sie jeden Faktor der SWOT-Kategorie zu.",
+      "items": [
+       {
+        "term": "Starke Marke",
+        "match": "Stärke"
+       },
+       {
+        "term": "Veraltete IT",
+        "match": "Schwäche"
+       },
+       {
+        "term": "Neuer Trend in der Zielgruppe",
+        "match": "Chance"
+       },
+       {
+        "term": "Neuer Wettbewerber mit Preisdumping",
+        "match": "Risiko"
+       }
+      ],
+      "distractors": []
+     }
+    },
+    {
+     "key": "mako-lf6-strategie-q10",
+     "type": "tf",
+     "exam_part": 1,
+     "difficulty": 2,
+     "source": "MaKo (Skripte Vaaßen/Kuhn, Unterricht, Prüfungsstil)",
+     "body": {
+      "statement": "Chancen und Risiken sind interne Faktoren der SWOT-Analyse.",
+      "answer": false
+     }
+    },
+    {
+     "key": "mako-lf6-strategie-q11",
+     "type": "tf",
+     "exam_part": 1,
+     "difficulty": 2,
+     "source": "MaKo (Skripte Vaaßen/Kuhn, Unterricht, Prüfungsstil)",
+     "body": {
+      "statement": "Diversifikation bedeutet neue Produkte in neuen Märkten.",
+      "answer": true
+     }
+    },
+    {
+     "key": "mako-lf6-strategie-q12",
+     "type": "cloze",
+     "exam_part": 1,
+     "difficulty": 2,
+     "source": "MaKo (Skripte Vaaßen/Kuhn, Unterricht, Prüfungsstil)",
+     "body": {
+      "text": "Die SWOT-Analyse unterscheidet interne [[Stärken]] und [[Schwächen]] von externen [[Chancen]] und [[Risiken]]."
+     }
+    }
+   ],
+   "templates": [],
+   "cases": [],
+   "summary": {
+    "key": "mako-lf6-strategie-zettel",
+    "title": "Strategische Marketingplanung: SWOT, Ansoff, Portfolio",
+    "content_md": "\n**Marketingprozess**: Analyse (Markt, Wettbewerb, Unternehmen) → Ziele → Strategie → Marketing-Mix → Umsetzung → Kontrolle.\n**SWOT-Analyse**: intern **S**trengths (Stärken) / **W**eaknesses (Schwächen) · extern **O**pportunities (Chancen) / **T**hreats (Risiken). Daraus Strategien: SO (Stärken nutzen für Chancen), WO (Schwächen abbauen), ST (Risiken mit Stärken abwehren), WT (Rückzug/Vermeiden).\n**Ansoff-Matrix** (Produkt × Markt): *Marktdurchdringung* (bestehende Produkte/Märkte) · *Marktentwicklung* (bestehendes Produkt, neuer Markt) · *Produktentwicklung* (neues Produkt, bestehender Markt) · *Diversifikation* (neu/neu: horizontal, vertikal, lateral).\n**BCG-Portfolio** (Marktwachstum × relativer Marktanteil): **Stars** (hoch/hoch → investieren) · **Cash Cows** (niedrig/hoch → melken) · **Question Marks/Fragezeichen** (hoch/niedrig → selektiv investieren) · **Poor Dogs** (niedrig/niedrig → desinvestieren).\n**Produktlebenszyklus**: Einführung → Wachstum → Reife → Sättigung → Rückgang.\n**Marktsegmentierung**, **Positionierung**, **Wettbewerbsstrategien** (Kostenführerschaft, Differenzierung, Nische – Porter).\n"
+   }
+  }
+ ]
+}

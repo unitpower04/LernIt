@@ -1,0 +1,881 @@
+{
+ "demo": false,
+ "items": [
+  {
+   "topic": "mako-lf9-kennziffern",
+   "flashcards": [
+    {
+     "key": "mako-lf9-kennziffern-c01",
+     "front": "Druckauflage?",
+     "back": "Gesamtzahl der gedruckten Exemplare ohne Fehldrucke."
+    },
+    {
+     "key": "mako-lf9-kennziffern-c02",
+     "front": "Tatsächlich verbreitete Auflage?",
+     "back": "Druckauflage abzüglich Restexemplare, Archiv- und Belegexemplare, Remittenden – inkl. Freiexemplare."
+    },
+    {
+     "key": "mako-lf9-kennziffern-c03",
+     "front": "Verkaufte Auflage?",
+     "back": "Nur gegen Entgelt verbreitete Exemplare (Abo und Einzelverkauf)."
+    },
+    {
+     "key": "mako-lf9-kennziffern-c04",
+     "front": "Leser pro Nummer (LpN)?",
+     "back": "Personen, die eine durchschnittliche Ausgabe gelesen oder durchgeblättert haben."
+    },
+    {
+     "key": "mako-lf9-kennziffern-c05",
+     "front": "Leser pro Exemplar (LpE)?",
+     "back": "Wie viele Personen durchschnittlich dasselbe Exemplar lesen."
+    },
+    {
+     "key": "mako-lf9-kennziffern-c06",
+     "front": "Reichweite?",
+     "back": "Anteil/Zahl der Zielpersonen mit mindestens einem Kontakt."
+    },
+    {
+     "key": "mako-lf9-kennziffern-c07",
+     "front": "Bruttoreichweite?",
+     "back": "Summe aller Kontakte inkl. Mehrfachkontakte."
+    },
+    {
+     "key": "mako-lf9-kennziffern-c08",
+     "front": "Nettoreichweite?",
+     "back": "Erreichte Personen ohne Mehrfachzählung."
+    },
+    {
+     "key": "mako-lf9-kennziffern-c09",
+     "front": "Kumulierte Reichweite?",
+     "back": "Wachsende Reichweite über mehrere Schaltungen/Wochen."
+    },
+    {
+     "key": "mako-lf9-kennziffern-c10",
+     "front": "Wirksame Reichweite?",
+     "back": "Reichweite von Personen mit der zur Wirkung nötigen Kontaktzahl."
+    },
+    {
+     "key": "mako-lf9-kennziffern-c11",
+     "front": "Kontakte pro Nutzer?",
+     "back": "BRW : NRW – durchschnittliche Zahl der Kontakte je erreichter Person."
+    },
+    {
+     "key": "mako-lf9-kennziffern-c12",
+     "front": "Was sind GRP?",
+     "back": "Gross Rating Points: durchschnittliche Kontakte pro 100 Zielpersonen – Maß für Werbedruck."
+    },
+    {
+     "key": "mako-lf9-kennziffern-c13",
+     "front": "GRP berechnen?",
+     "back": "Reichweite in % × durchschnittliche Kontakte (oder Summe der Brutto-Reichweiten in %)."
+    },
+    {
+     "key": "mako-lf9-kennziffern-c14",
+     "front": "Was ist Affinität?",
+     "back": "Anteil der Zielgruppe an der Nutzerschaft eines Mediums – Streugenauigkeit."
+    },
+    {
+     "key": "mako-lf9-kennziffern-c15",
+     "front": "Affinitätsindex berechnen?",
+     "back": "(Anteil ZG im Medium : Anteil ZG in der Grundgesamtheit) × 100."
+    },
+    {
+     "key": "mako-lf9-kennziffern-c16",
+     "front": "Was bedeutet Affinitätsindex 150?",
+     "back": "Die Zielgruppe ist im Medium 50 % stärker vertreten als in der Bevölkerung."
+    },
+    {
+     "key": "mako-lf9-kennziffern-c17",
+     "front": "Interne Überschneidung?",
+     "back": "Mehrfacherreichung derselben Personen durch mehrere Schaltungen im selben Medium."
+    },
+    {
+     "key": "mako-lf9-kennziffern-c18",
+     "front": "Externe Überschneidung?",
+     "back": "Mehrfacherreichung derselben Personen durch verschiedene Medien."
+    },
+    {
+     "key": "mako-lf9-kennziffern-c19",
+     "front": "Formel 1000er-Seitenpreis?",
+     "back": "Seitenpreis × 1.000 : (verbreitete) Auflage."
+    },
+    {
+     "key": "mako-lf9-kennziffern-c20",
+     "front": "Formel 1000er-Kontaktpreis?",
+     "back": "Preis × 1.000 : Bruttoreichweite."
+    },
+    {
+     "key": "mako-lf9-kennziffern-c21",
+     "front": "Formel 1000er-Nutzerpreis?",
+     "back": "Preis × 1.000 : Nettoreichweite."
+    },
+    {
+     "key": "mako-lf9-kennziffern-c22",
+     "front": "Intermedial vs. intramedial?",
+     "back": "Inter: zwischen Gattungen (TV vs. Print). Intra: innerhalb einer Gattung (Spiegel vs. Stern)."
+    },
+    {
+     "key": "mako-lf9-kennziffern-c23",
+     "front": "Was ist ein Unique Visitor?",
+     "back": "Nettoreichweite online: einzelner Nutzer, einmal gezählt."
+    },
+    {
+     "key": "mako-lf9-kennziffern-c24",
+     "front": "Was ist eine Page Impression?",
+     "back": "Abruf einer Seite mit potenzieller Werbung."
+    },
+    {
+     "key": "mako-lf9-kennziffern-c25",
+     "front": "Was ist eine Ad Impression?",
+     "back": "Tatsächliche Einblendung eines Werbemittels."
+    },
+    {
+     "key": "mako-lf9-kennziffern-c26",
+     "front": "Was ist die CTR?",
+     "back": "Click-Through-Rate: Klicks geteilt durch Impressions mal 100."
+    },
+    {
+     "key": "mako-lf9-kennziffern-c27",
+     "front": "Was ist Retargeting?",
+     "back": "Erneute Ansprache von Website-Besuchern auf anderen Seiten."
+    },
+    {
+     "key": "mako-lf9-kennziffern-c28",
+     "front": "Was ist Behavioural Targeting?",
+     "back": "Auswahl der Werbung nach dem Nutzerverhalten (Cookies)."
+    },
+    {
+     "key": "mako-lf9-kennziffern-c29",
+     "front": "Was ist Geotargeting?",
+     "back": "Ausspielung nach geografischem Standort (IP/GPS)."
+    },
+    {
+     "key": "mako-lf9-kennziffern-c30",
+     "front": "Paid, Owned, Earned Media?",
+     "back": "Bezahlte Kanäle; eigene Kanäle; durch Nutzer verdiente Reichweite."
+    }
+   ],
+   "glossary": [
+    {
+     "key": "mako-lf9-kennziffern-g01",
+     "term": "Bruttoreichweite",
+     "definition": "Gesamtzahl aller Kontakte inklusive Mehrfachkontakte."
+    },
+    {
+     "key": "mako-lf9-kennziffern-g02",
+     "term": "Nettoreichweite",
+     "definition": "Zahl der erreichten Personen ohne Mehrfachkontakte."
+    },
+    {
+     "key": "mako-lf9-kennziffern-g03",
+     "term": "GRP",
+     "definition": "Gross Rating Points – Werbedruck."
+    },
+    {
+     "key": "mako-lf9-kennziffern-g04",
+     "term": "Affinitätsindex",
+     "definition": "Verhältnis des Zielgruppenanteils im Medium zum Anteil in der Bevölkerung."
+    },
+    {
+     "key": "mako-lf9-kennziffern-g05",
+     "term": "TKP",
+     "definition": "Tausenderkontaktpreis."
+    },
+    {
+     "key": "mako-lf9-kennziffern-g06",
+     "term": "CTR",
+     "definition": "Click-Through-Rate."
+    },
+    {
+     "key": "mako-lf9-kennziffern-g07",
+     "term": "Impression",
+     "definition": "Einblendung eines Werbemittels."
+    }
+   ],
+   "questions": [
+    {
+     "key": "mako-lf9-kennziffern-q01",
+     "type": "mc",
+     "exam_part": 3,
+     "difficulty": 2,
+     "source": "MaKo (Skripte Vaaßen/Kuhn, Unterricht, Prüfungsstil)",
+     "body": {
+      "prompt": "Welche Kennziffer zeigt die Zahl der erreichten Personen ohne Mehrfachzählung?",
+      "options": [
+       {
+        "text": "Nettoreichweite",
+        "correct": true
+       },
+       {
+        "text": "Bruttoreichweite",
+        "correct": false
+       },
+       {
+        "text": "GRP",
+        "correct": false
+       },
+       {
+        "text": "Affinität",
+        "correct": false
+       },
+       {
+        "text": "Auflage",
+        "correct": false
+       }
+      ]
+     }
+    },
+    {
+     "key": "mako-lf9-kennziffern-q02",
+     "type": "mc",
+     "exam_part": 3,
+     "difficulty": 2,
+     "source": "MaKo (Skripte Vaaßen/Kuhn, Unterricht, Prüfungsstil)",
+     "body": {
+      "prompt": "Wie berechnet sich der Tausender-Kontakt-Preis?",
+      "options": [
+       {
+        "text": "Preis · 1.000 : Bruttoreichweite",
+        "correct": true
+       },
+       {
+        "text": "Preis · 1.000 : Nettoreichweite",
+        "correct": false
+       },
+       {
+        "text": "Preis : Auflage",
+        "correct": false
+       },
+       {
+        "text": "Reichweite : Preis",
+        "correct": false
+       },
+       {
+        "text": "Preis · Reichweite",
+        "correct": false
+       }
+      ]
+     }
+    },
+    {
+     "key": "mako-lf9-kennziffern-q03",
+     "type": "mc",
+     "exam_part": 3,
+     "difficulty": 2,
+     "source": "MaKo (Skripte Vaaßen/Kuhn, Unterricht, Prüfungsstil)",
+     "body": {
+      "prompt": "Der Affinitätsindex eines Magazins beträgt 130. Was bedeutet das?",
+      "options": [
+       {
+        "text": "Die Zielgruppe ist im Medium überproportional vertreten.",
+        "correct": true
+       },
+       {
+        "text": "Die Zielgruppe ist unterproportional vertreten.",
+        "correct": false
+       },
+       {
+        "text": "Das Magazin hat 130 Leser.",
+        "correct": false
+       },
+       {
+        "text": "Die Reichweite liegt bei 130 %.",
+        "correct": false
+       },
+       {
+        "text": "Die Zielgruppe entspricht exakt der Bevölkerung.",
+        "correct": false
+       }
+      ]
+     }
+    },
+    {
+     "key": "mako-lf9-kennziffern-q04",
+     "type": "mc",
+     "exam_part": 3,
+     "difficulty": 2,
+     "source": "MaKo (Skripte Vaaßen/Kuhn, Unterricht, Prüfungsstil)",
+     "body": {
+      "prompt": "Eine Zielperson liest Ausgabe 1 und Ausgabe 2 derselben Zeitschrift. Was entsteht?",
+      "options": [
+       {
+        "text": "Interne Überschneidung (Mehrfachkontakt)",
+        "correct": true
+       },
+       {
+        "text": "Externe Überschneidung",
+        "correct": false
+       },
+       {
+        "text": "Kumulierte Streuung",
+        "correct": false
+       },
+       {
+        "text": "Affinität",
+        "correct": false
+       },
+       {
+        "text": "Marktanteil",
+        "correct": false
+       }
+      ]
+     }
+    },
+    {
+     "key": "mako-lf9-kennziffern-q05",
+     "type": "mc",
+     "exam_part": 3,
+     "difficulty": 2,
+     "source": "MaKo (Skripte Vaaßen/Kuhn, Unterricht, Prüfungsstil)",
+     "body": {
+      "prompt": "Die Anzeige läuft im Kölner Stadt-Anzeiger und im Express; einige lesen beide. Was entsteht?",
+      "options": [
+       {
+        "text": "Externe Überschneidung",
+        "correct": true
+       },
+       {
+        "text": "Interne Überschneidung",
+        "correct": false
+       },
+       {
+        "text": "GRP",
+        "correct": false
+       },
+       {
+        "text": "Marktforschung",
+        "correct": false
+       },
+       {
+        "text": "Fehlstreuung",
+        "correct": false
+       }
+      ]
+     }
+    },
+    {
+     "key": "mako-lf9-kennziffern-q06",
+     "type": "mc",
+     "exam_part": 3,
+     "difficulty": 2,
+     "source": "MaKo (Skripte Vaaßen/Kuhn, Unterricht, Prüfungsstil)",
+     "body": {
+      "prompt": "Was beschreibt den Werbedruck?",
+      "options": [
+       {
+        "text": "GRP",
+        "correct": true
+       },
+       {
+        "text": "Affinität",
+        "correct": false
+       },
+       {
+        "text": "LpN",
+        "correct": false
+       },
+       {
+        "text": "Druckauflage",
+        "correct": false
+       },
+       {
+        "text": "TNP",
+        "correct": false
+       }
+      ]
+     }
+    },
+    {
+     "key": "mako-lf9-kennziffern-q07",
+     "type": "mc",
+     "exam_part": 3,
+     "difficulty": 2,
+     "source": "MaKo (Skripte Vaaßen/Kuhn, Unterricht, Prüfungsstil)",
+     "body": {
+      "prompt": "Wie berechnet sich die CTR?",
+      "options": [
+       {
+        "text": "Klicks : Impressions · 100",
+        "correct": true
+       },
+       {
+        "text": "Impressions : Klicks",
+        "correct": false
+       },
+       {
+        "text": "Klicks · Impressions",
+        "correct": false
+       },
+       {
+        "text": "Budget : Klicks",
+        "correct": false
+       },
+       {
+        "text": "Reichweite : Klicks",
+        "correct": false
+       }
+      ]
+     }
+    },
+    {
+     "key": "mako-lf9-kennziffern-q08",
+     "type": "mc",
+     "exam_part": 3,
+     "difficulty": 2,
+     "source": "MaKo (Skripte Vaaßen/Kuhn, Unterricht, Prüfungsstil)",
+     "body": {
+      "prompt": "Welche Kennziffer ist der Online-Bruttokontakt?",
+      "options": [
+       {
+        "text": "Visits",
+        "correct": true
+       },
+       {
+        "text": "Unique Visitors",
+        "correct": false
+       },
+       {
+        "text": "Nettoreichweite",
+        "correct": false
+       },
+       {
+        "text": "Reichweite",
+        "correct": false
+       },
+       {
+        "text": "Affinität",
+        "correct": false
+       }
+      ]
+     }
+    },
+    {
+     "key": "mako-lf9-kennziffern-q09",
+     "type": "mc",
+     "exam_part": 3,
+     "difficulty": 2,
+     "source": "MaKo (Skripte Vaaßen/Kuhn, Unterricht, Prüfungsstil)",
+     "body": {
+      "prompt": "Welcher Vergleich liegt vor, wenn Spiegel und Stern verglichen werden?",
+      "options": [
+       {
+        "text": "Intramedialer Vergleich",
+        "correct": true
+       },
+       {
+        "text": "Intermedialer Vergleich",
+        "correct": false
+       },
+       {
+        "text": "Intermodaler Vergleich",
+        "correct": false
+       },
+       {
+        "text": "Kein Vergleich",
+        "correct": false
+       },
+       {
+        "text": "Cross-Media",
+        "correct": false
+       }
+      ]
+     }
+    },
+    {
+     "key": "mako-lf9-kennziffern-q10",
+     "type": "mc",
+     "exam_part": 3,
+     "difficulty": 2,
+     "source": "MaKo (Skripte Vaaßen/Kuhn, Unterricht, Prüfungsstil)",
+     "body": {
+      "prompt": "Welche Auflage ist höher oder gleich der verkauften Auflage?",
+      "options": [
+       {
+        "text": "Die tatsächlich verbreitete Auflage",
+        "correct": true
+       },
+       {
+        "text": "Die Druckauflage ist niedriger",
+        "correct": false
+       },
+       {
+        "text": "Die Leser pro Nummer",
+        "correct": false
+       },
+       {
+        "text": "Die Reichweite",
+        "correct": false
+       },
+       {
+        "text": "Keine",
+        "correct": false
+       }
+      ]
+     }
+    },
+    {
+     "key": "mako-lf9-kennziffern-q11",
+     "type": "match",
+     "exam_part": 3,
+     "difficulty": 2,
+     "source": "MaKo (Skripte Vaaßen/Kuhn, Unterricht, Prüfungsstil)",
+     "body": {
+      "prompt": "Ordnen Sie jede Kennziffer der Beschreibung zu.",
+      "items": [
+       {
+        "term": "Bruttoreichweite",
+        "match": "Kontakte inkl. Mehrfachkontakte"
+       },
+       {
+        "term": "Nettoreichweite",
+        "match": "Personen ohne Mehrfachkontakte"
+       },
+       {
+        "term": "Affinität",
+        "match": "Anteil der Zielgruppe in der Nutzerschaft"
+       },
+       {
+        "term": "GRP",
+        "match": "Werbedruck pro 100 Zielpersonen"
+       }
+      ],
+      "distractors": []
+     }
+    },
+    {
+     "key": "mako-lf9-kennziffern-q12",
+     "type": "match",
+     "exam_part": 3,
+     "difficulty": 2,
+     "source": "MaKo (Skripte Vaaßen/Kuhn, Unterricht, Prüfungsstil)",
+     "body": {
+      "prompt": "Ordnen Sie jede Online-Kennziffer der Erklärung zu.",
+      "items": [
+       {
+        "term": "Visit",
+        "match": "Bruttokontakt auf der Website"
+       },
+       {
+        "term": "Unique Visitor",
+        "match": "Nettoreichweite online"
+       },
+       {
+        "term": "Ad Impression",
+        "match": "Einblendung eines Banners"
+       },
+       {
+        "term": "Ad Click",
+        "match": "Weiterleitung auf die Werbetreibenden-Website"
+       }
+      ],
+      "distractors": []
+     }
+    },
+    {
+     "key": "mako-lf9-kennziffern-q13",
+     "type": "match",
+     "exam_part": 3,
+     "difficulty": 2,
+     "source": "MaKo (Skripte Vaaßen/Kuhn, Unterricht, Prüfungsstil)",
+     "body": {
+      "prompt": "Ordnen Sie das Mediabegriff dem Typ zu.",
+      "items": [
+       {
+        "term": "Unternehmenswebsite",
+        "match": "Owned Media"
+       },
+       {
+        "term": "Bannerwerbung",
+        "match": "Paid Media"
+       },
+       {
+        "term": "Nutzer teilen den Markenpost",
+        "match": "Earned Media"
+       },
+       {
+        "term": "Instagram-Anzeige",
+        "match": "Paid Media"
+       }
+      ],
+      "distractors": []
+     }
+    },
+    {
+     "key": "mako-lf9-kennziffern-q14",
+     "type": "tf",
+     "exam_part": 3,
+     "difficulty": 2,
+     "explanation": "BRW ≥ NRW, da Mehrfachkontakte mitgezählt werden.",
+     "source": "MaKo (Skripte Vaaßen/Kuhn, Unterricht, Prüfungsstil)",
+     "body": {
+      "statement": "Die Bruttoreichweite ist stets kleiner als die Nettoreichweite.",
+      "answer": false
+     }
+    },
+    {
+     "key": "mako-lf9-kennziffern-q15",
+     "type": "tf",
+     "exam_part": 3,
+     "difficulty": 2,
+     "source": "MaKo (Skripte Vaaßen/Kuhn, Unterricht, Prüfungsstil)",
+     "body": {
+      "statement": "Ein Affinitätsindex über 100 bedeutet überproportionale Zielgruppenstärke.",
+      "answer": true
+     }
+    },
+    {
+     "key": "mako-lf9-kennziffern-q16",
+     "type": "cloze",
+     "exam_part": 3,
+     "difficulty": 2,
+     "source": "MaKo (Skripte Vaaßen/Kuhn, Unterricht, Prüfungsstil)",
+     "body": {
+      "text": "Der Tausender-Kontaktpreis wird auf die [[Bruttoreichweite]] bezogen, der Tausender-Nutzerpreis auf die [[Nettoreichweite]]."
+     }
+    }
+   ],
+   "templates": [
+    {
+     "key": "mako-lf9-kennziffern-t01",
+     "type": "calc",
+     "exam_part": 3,
+     "difficulty": 2,
+     "source": "MaKo (Skripte Vaaßen/Kuhn, Unterricht, Prüfungsstil)",
+     "vars": {
+      "m": {
+       "type": "pick",
+       "options": [
+        "Spiegel",
+        "Stern",
+        "Focus",
+        "Brigitte",
+        "Tempo"
+       ]
+      },
+      "p": {
+       "type": "int",
+       "min": 20000,
+       "max": 80000,
+       "step": 1000
+      },
+      "a": {
+       "type": "dec",
+       "min": 0.4,
+       "max": 1.6,
+       "decimals": 1
+      }
+     },
+     "body": {
+      "prompt": "Eine 1/1-seitige Farbanzeige im Magazin „{m}“ kostet netto {p|eur}. Verbreitete Auflage {a} Mio. Stück. Berechnen Sie den 1000er-Seitenpreis.",
+      "answer": "p*1000/(a*1000000)",
+      "unit": "€",
+      "decimals": 2,
+      "steps": [
+       "1000er-Seitenpreis = Seitenpreis · 1.000 : Auflage",
+       "= {p|eur} · 1.000 : ({a} Mio.) = {result|eur}"
+      ]
+     }
+    },
+    {
+     "key": "mako-lf9-kennziffern-t02",
+     "type": "calc",
+     "exam_part": 3,
+     "difficulty": 2,
+     "source": "MaKo (Skripte Vaaßen/Kuhn, Unterricht, Prüfungsstil)",
+     "vars": {
+      "p": {
+       "type": "int",
+       "min": 20000,
+       "max": 80000,
+       "step": 1000
+      },
+      "brw": {
+       "type": "dec",
+       "min": 3,
+       "max": 8,
+       "decimals": 2
+      }
+     },
+     "body": {
+      "prompt": "Eine Anzeige kostet {p|eur}. Das Medium erreicht {brw} Mio. Kontakte (Bruttoreichweite). Berechnen Sie den Tausender-Kontaktpreis.",
+      "answer": "p*1000/(brw*1000000)",
+      "unit": "€",
+      "decimals": 2,
+      "steps": [
+       "TKP = Preis · 1.000 : BRW = {result|eur}"
+      ]
+     }
+    },
+    {
+     "key": "mako-lf9-kennziffern-t03",
+     "type": "calc",
+     "exam_part": 3,
+     "difficulty": 2,
+     "source": "MaKo (Skripte Vaaßen/Kuhn, Unterricht, Prüfungsstil)",
+     "vars": {
+      "p": {
+       "type": "int",
+       "min": 20000,
+       "max": 80000,
+       "step": 1000
+      },
+      "brw": {
+       "type": "dec",
+       "min": 5,
+       "max": 8,
+       "decimals": 2
+      },
+      "mk": {
+       "type": "dec",
+       "min": 0.5,
+       "max": 1.5,
+       "decimals": 2
+      }
+     },
+     "body": {
+      "prompt": "Eine Anzeige kostet {p|eur}. Bruttoreichweite {brw} Mio., davon {mk} Mio. Mehrfachkontakte. Berechnen Sie den Tausender-Nutzerpreis (bezogen auf die Nettoreichweite).",
+      "answer": "p*1000/((brw-mk)*1000000)",
+      "unit": "€",
+      "decimals": 2,
+      "steps": [
+       "Nettoreichweite = BRW − Mehrfachkontakte",
+       "TNP = Preis · 1.000 : NRW = {result|eur}"
+      ]
+     }
+    },
+    {
+     "key": "mako-lf9-kennziffern-t04",
+     "type": "calc",
+     "exam_part": 3,
+     "difficulty": 2,
+     "source": "MaKo (Skripte Vaaßen/Kuhn, Unterricht, Prüfungsstil)",
+     "vars": {
+      "zg": {
+       "type": "int",
+       "min": 1000000,
+       "max": 5000000,
+       "step": 500000
+      },
+      "n": {
+       "type": "int",
+       "min": 200000,
+       "max": 900000,
+       "step": 50000
+      },
+      "k": {
+       "type": "dec",
+       "min": 1.5,
+       "max": 4,
+       "decimals": 1
+      }
+     },
+     "body": {
+      "prompt": "Die Zielgruppe umfasst {zg|eur0} Personen. Ein Plan erreicht {n|eur0} Personen netto mit durchschnittlich {k} Kontakten. Berechnen Sie die GRP (Kontakte je 100 Zielpersonen).",
+      "answer": "n/zg*100*k",
+      "unit": "GRP",
+      "decimals": 2,
+      "steps": [
+       "Reichweite in % = {n|eur0} : {zg|eur0} · 100",
+       "GRP = Reichweite % · {k} Kontakte = {result}"
+      ]
+     }
+    },
+    {
+     "key": "mako-lf9-kennziffern-t05",
+     "type": "calc",
+     "exam_part": 3,
+     "difficulty": 2,
+     "source": "MaKo (Skripte Vaaßen/Kuhn, Unterricht, Prüfungsstil)",
+     "vars": {
+      "a": {
+       "type": "int",
+       "min": 20,
+       "max": 60,
+       "step": 2
+      },
+      "b": {
+       "type": "int",
+       "min": 10,
+       "max": 30,
+       "step": 2
+      }
+     },
+     "body": {
+      "prompt": "Im Medium sind {a} % der Nutzer Zielgruppenangehörige, in der Grundgesamtheit {b} %. Berechnen Sie den Affinitätsindex.",
+      "answer": "a/b*100",
+      "decimals": 0,
+      "steps": [
+       "Affinitätsindex = {a} : {b} · 100 = {result}"
+      ]
+     }
+    },
+    {
+     "key": "mako-lf9-kennziffern-t06",
+     "type": "calc",
+     "exam_part": 3,
+     "difficulty": 2,
+     "source": "MaKo (Skripte Vaaßen/Kuhn, Unterricht, Prüfungsstil)",
+     "vars": {
+      "i": {
+       "type": "int",
+       "min": 200000,
+       "max": 2000000,
+       "step": 100000
+      },
+      "c": {
+       "type": "int",
+       "min": 2000,
+       "max": 40000,
+       "step": 2000
+      }
+     },
+     "body": {
+      "prompt": "Eine Online-Kampagne erzielt {i|eur0} Ad Impressions und {c|eur0} Klicks. Berechnen Sie die Click-Through-Rate in Prozent.",
+      "answer": "c/i*100",
+      "unit": "%",
+      "decimals": 2,
+      "steps": [
+       "CTR = Klicks : Impressions · 100 = {result} %"
+      ]
+     }
+    },
+    {
+     "key": "mako-lf9-kennziffern-t07",
+     "type": "calc",
+     "exam_part": 3,
+     "difficulty": 2,
+     "source": "MaKo (Skripte Vaaßen/Kuhn, Unterricht, Prüfungsstil)",
+     "vars": {
+      "k": {
+       "type": "int",
+       "min": 2000,
+       "max": 20000,
+       "step": 1000
+      },
+      "i": {
+       "type": "int",
+       "min": 200000,
+       "max": 2000000,
+       "step": 100000
+      }
+     },
+     "body": {
+      "prompt": "Online-Kampagnenkosten {k|eur}, Ad Impressions {i|eur0}. Berechnen Sie den TKP (Kosten je 1.000 Impressions).",
+      "answer": "k/i*1000",
+      "unit": "€",
+      "decimals": 2,
+      "steps": [
+       "TKP = Kosten : Impressions · 1.000 = {result|eur}"
+      ]
+     }
+    }
+   ],
+   "cases": [],
+   "summary": {
+    "key": "mako-lf9-kennziffern-zettel",
+    "title": "Mediakennziffern & Mediaplanbewertung",
+    "content_md": "\n**Auflagen**: *Druckauflage* → *tatsächlich verbreitete Auflage* (ohne Restexemplare/Archiv/Beleg/Remittenden, mit Freiexemplaren) → *verkaufte Auflage* (nur gegen Entgelt: Abo + Einzelverkauf).\n**Leser**: **LpN** (Leser pro Nummer), **LpA** (Leser pro Ausgabe, statistisch), **LpE** (Leser pro Exemplar).\n**Reichweiten**: *Reichweite* (Zielpersonen mit ≥ 1 Kontakt, in % der Zielgruppe) · **Bruttoreichweite (BRW)** (alle Kontakte inkl. Mehrfachkontakte) · **Nettoreichweite (NRW)** (Personen ohne Mehrfachkontakte; NRW = BRW − Mehrfachkontakte) · **kumulierte** Reichweite · **wirksame** Reichweite.\n**Kontakte pro Nutzer** = BRW : NRW. **GRP** (Gross Rating Points) = Summe der Bruttoreichweiten in % der Zielgruppe = Reichweite % × Kontakte pro Nutzer (Werbedruck).\n**Affinität** = Anteil der Zielgruppe an der Mediennutzerschaft. **Affinitätsindex** = (Anteil ZG in Medium : Anteil ZG in Grundgesamtheit) × 100 (> 100 überproportional).\n**Überschneidung**: *interne* (verschiedene Ausgaben desselben Mediums), *externe* (verschiedene Medien).\n**Preise**: **1000er-Seitenpreis (TKP)** = Seitenpreis × 1.000 : verbreitete Auflage · **1000er-Kontaktpreis (TKP)** = Preis × 1.000 : BRW · **1000er-Nutzerpreis (TNP)** = Preis × 1.000 : NRW · 1000er-mm-Preis = mm-Preis × 1.000 : Auflage.\n**Intermedialer Vergleich** = verschiedene Mediengattungen; **intramedialer Vergleich** = Werbeträger innerhalb einer Gattung.\n**Online**: **Visits/Unique Visitors** (Brutto-/Nettokontakte), **Page Impression**, **Ad Impression**, **Ad Click**, **CTR** = Clicks : Impressions × 100 (1–3 % gut), Geo-/Behavioural-/Predictive-Behavioural-Targeting, Retargeting; **TKP** online = Kosten × 1.000 : Ad Impressions.\n**Paid / Owned / Earned Media**.\n"
+   }
+  }
+ ]
+}

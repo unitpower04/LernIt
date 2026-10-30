@@ -1,0 +1,433 @@
+{
+ "demo": false,
+ "items": [
+  {
+   "topic": "mako-lf7-instrumente",
+   "flashcards": [
+    {
+     "key": "mako-lf7-instrumente-c01",
+     "front": "Was ist ATL, BTL, TTL?",
+     "back": "ATL: klassische Mediawerbung. BTL: Verkaufsförderung, Direktmarketing, Events. TTL: integrierte Kombination."
+    },
+    {
+     "key": "mako-lf7-instrumente-c02",
+     "front": "Ziel der Verkaufsförderung?",
+     "back": "Kurzfristige Umsatzsteigerung durch Kaufanreize."
+    },
+    {
+     "key": "mako-lf7-instrumente-c03",
+     "front": "Was ist Consumer Promotion?",
+     "back": "VKF-Maßnahme für Endverbraucher (Gutschein, Gewinnspiel, Probierpackung)."
+    },
+    {
+     "key": "mako-lf7-instrumente-c04",
+     "front": "Was ist Trade Promotion?",
+     "back": "VKF-Maßnahme für Handelspartner (Schulung, Displays, Naturalrabatt)."
+    },
+    {
+     "key": "mako-lf7-instrumente-c05",
+     "front": "Was ist Staff Promotion?",
+     "back": "VKF-Maßnahme für eigene Mitarbeiter/Außendienst (Prämien, Wettbewerbe)."
+    },
+    {
+     "key": "mako-lf7-instrumente-c06",
+     "front": "Ziel der Public Relations?",
+     "back": "Vertrauen und positives Image in der Öffentlichkeit aufbauen."
+    },
+    {
+     "key": "mako-lf7-instrumente-c07",
+     "front": "Nenne PR-Maßnahmen.",
+     "back": "Pressemitteilung, Pressekonferenz, Tag der offenen Tür, Geschäftsbericht, Krisenkommunikation."
+    },
+    {
+     "key": "mako-lf7-instrumente-c08",
+     "front": "Was ist Sponsoring?",
+     "back": "Förderung von Personen/Organisationen mit Geld oder Sachleistungen gegen Kommunikationsleistungen."
+    },
+    {
+     "key": "mako-lf7-instrumente-c09",
+     "front": "Sponsoringarten?",
+     "back": "Sport-, Kultur-, Sozio-, Umwelt-, Mediensponsoring."
+    },
+    {
+     "key": "mako-lf7-instrumente-c10",
+     "front": "Was ist Eventmarketing?",
+     "back": "Inszenierung von Erlebnissen, um Zielgruppen emotional zu binden."
+    },
+    {
+     "key": "mako-lf7-instrumente-c11",
+     "front": "Was sind Messen?",
+     "back": "Branchenveranstaltungen zur Präsentation und Kontaktanbahnung (v. a. B2B)."
+    },
+    {
+     "key": "mako-lf7-instrumente-c12",
+     "front": "Was ist Direktmarketing?",
+     "back": "Direkte, individuelle Ansprache einzelner Zielpersonen mit Reaktionsmöglichkeit."
+    },
+    {
+     "key": "mako-lf7-instrumente-c13",
+     "front": "Was ist SEO?",
+     "back": "Suchmaschinenoptimierung – bessere organische Platzierung."
+    },
+    {
+     "key": "mako-lf7-instrumente-c14",
+     "front": "Was ist SEA?",
+     "back": "Suchmaschinenwerbung – bezahlte Anzeigen in Suchergebnissen."
+    },
+    {
+     "key": "mako-lf7-instrumente-c15",
+     "front": "Was ist Product Placement?",
+     "back": "Gezielte Platzierung von Marken/Produkten in Film, Serie, Video."
+    },
+    {
+     "key": "mako-lf7-instrumente-c16",
+     "front": "Was ist Ambush-Marketing?",
+     "back": "Trittbrettfahren: Nutzung eines Events ohne offizielle Sponsorenrechte."
+    },
+    {
+     "key": "mako-lf7-instrumente-c17",
+     "front": "Welche Maßnahme empfiehlt sich bei Ziel kurzfristiger Umsatzsteigerung?",
+     "back": "Consumer Promotion (Verkaufsförderung)."
+    },
+    {
+     "key": "mako-lf7-instrumente-c18",
+     "front": "Was ist Influencer-Marketing?",
+     "back": "Werbung durch reichweitenstarke Social-Media-Persönlichkeiten."
+    },
+    {
+     "key": "mako-lf7-instrumente-c19",
+     "front": "Was ist Affiliate-Marketing?",
+     "back": "Provisionsbasierte Partnerwerbung (Pay per Sale/Click)."
+    },
+    {
+     "key": "mako-lf7-instrumente-c20",
+     "front": "Was ist Content Marketing?",
+     "back": "Nützliche Inhalte statt direkter Werbung, um Zielgruppen zu binden."
+    }
+   ],
+   "glossary": [
+    {
+     "key": "mako-lf7-instrumente-g01",
+     "term": "Consumer Promotion",
+     "definition": "Verkaufsförderung für Endverbraucher."
+    },
+    {
+     "key": "mako-lf7-instrumente-g02",
+     "term": "Trade Promotion",
+     "definition": "Verkaufsförderung für den Handel."
+    },
+    {
+     "key": "mako-lf7-instrumente-g03",
+     "term": "Sponsoring",
+     "definition": "Förderung gegen Kommunikationsrechte."
+    },
+    {
+     "key": "mako-lf7-instrumente-g04",
+     "term": "PR",
+     "definition": "Public Relations – Öffentlichkeitsarbeit."
+    },
+    {
+     "key": "mako-lf7-instrumente-g05",
+     "term": "SEO",
+     "definition": "Suchmaschinenoptimierung."
+    },
+    {
+     "key": "mako-lf7-instrumente-g06",
+     "term": "SEA",
+     "definition": "Suchmaschinenwerbung."
+    }
+   ],
+   "questions": [
+    {
+     "key": "mako-lf7-instrumente-q01",
+     "type": "mc",
+     "exam_part": 1,
+     "difficulty": 2,
+     "source": "MaKo (Skripte Vaaßen/Kuhn, Unterricht, Prüfungsstil)",
+     "body": {
+      "prompt": "Ein Unternehmen möchte kurzfristig den Umsatz steigern. Welche Maßnahme ist am besten geeignet?",
+      "options": [
+       {
+        "text": "Consumer Promotion",
+        "correct": true
+       },
+       {
+        "text": "Public Relations",
+        "correct": false
+       },
+       {
+        "text": "Sponsoring",
+        "correct": false
+       },
+       {
+        "text": "Eventmarketing",
+        "correct": false
+       },
+       {
+        "text": "Corporate Design",
+        "correct": false
+       }
+      ]
+     }
+    },
+    {
+     "key": "mako-lf7-instrumente-q02",
+     "type": "mc",
+     "exam_part": 1,
+     "difficulty": 2,
+     "source": "MaKo (Skripte Vaaßen/Kuhn, Unterricht, Prüfungsstil)",
+     "body": {
+      "prompt": "Ein Getränkehersteller verteilt Probierpackungen und Coupons an Passanten. Welches Instrument?",
+      "options": [
+       {
+        "text": "Verkaufsförderung (Consumer Promotion)",
+        "correct": true
+       },
+       {
+        "text": "Public Relations",
+        "correct": false
+       },
+       {
+        "text": "Sponsoring",
+        "correct": false
+       },
+       {
+        "text": "Klassische Werbung",
+        "correct": false
+       },
+       {
+        "text": "Direktmarketing",
+        "correct": false
+       }
+      ]
+     }
+    },
+    {
+     "key": "mako-lf7-instrumente-q03",
+     "type": "mc",
+     "exam_part": 1,
+     "difficulty": 2,
+     "source": "MaKo (Skripte Vaaßen/Kuhn, Unterricht, Prüfungsstil)",
+     "body": {
+      "prompt": "Ein Sportartikelhersteller stattet einen Bundesligaverein aus und erhält Trikotwerbung. Welches Instrument?",
+      "options": [
+       {
+        "text": "Sponsoring",
+        "correct": true
+       },
+       {
+        "text": "Verkaufsförderung",
+        "correct": false
+       },
+       {
+        "text": "Public Relations",
+        "correct": false
+       },
+       {
+        "text": "Direktmarketing",
+        "correct": false
+       },
+       {
+        "text": "Product Placement",
+        "correct": false
+       }
+      ]
+     }
+    },
+    {
+     "key": "mako-lf7-instrumente-q04",
+     "type": "mc",
+     "exam_part": 1,
+     "difficulty": 2,
+     "source": "MaKo (Skripte Vaaßen/Kuhn, Unterricht, Prüfungsstil)",
+     "body": {
+      "prompt": "Eine Agentur versendet eine Pressemitteilung zur Neueröffnung. Welches Instrument?",
+      "options": [
+       {
+        "text": "Public Relations",
+        "correct": true
+       },
+       {
+        "text": "Sponsoring",
+        "correct": false
+       },
+       {
+        "text": "Verkaufsförderung",
+        "correct": false
+       },
+       {
+        "text": "Direktmarketing",
+        "correct": false
+       },
+       {
+        "text": "Eventmarketing",
+        "correct": false
+       }
+      ]
+     }
+    },
+    {
+     "key": "mako-lf7-instrumente-q05",
+     "type": "mc",
+     "exam_part": 1,
+     "difficulty": 2,
+     "source": "MaKo (Skripte Vaaßen/Kuhn, Unterricht, Prüfungsstil)",
+     "body": {
+      "prompt": "Welche Maßnahme zählt zu Trade Promotion?",
+      "options": [
+       {
+        "text": "Display und Händlerschulung",
+        "correct": true
+       },
+       {
+        "text": "Gewinnspiel für Endkunden",
+        "correct": false
+       },
+       {
+        "text": "Gutschein für Konsumenten",
+        "correct": false
+       },
+       {
+        "text": "Pressekonferenz",
+        "correct": false
+       },
+       {
+        "text": "Plakatwerbung",
+        "correct": false
+       }
+      ]
+     }
+    },
+    {
+     "key": "mako-lf7-instrumente-q06",
+     "type": "mc",
+     "exam_part": 1,
+     "difficulty": 2,
+     "source": "MaKo (Skripte Vaaßen/Kuhn, Unterricht, Prüfungsstil)",
+     "body": {
+      "prompt": "Was beschreibt SEA?",
+      "options": [
+       {
+        "text": "Bezahlte Anzeigen in Suchmaschinen",
+        "correct": true
+       },
+       {
+        "text": "Optimierung der organischen Platzierung",
+        "correct": false
+       },
+       {
+        "text": "Newsletter-Versand",
+        "correct": false
+       },
+       {
+        "text": "Social-Media-Beiträge",
+        "correct": false
+       },
+       {
+        "text": "Pressearbeit",
+        "correct": false
+       }
+      ]
+     }
+    },
+    {
+     "key": "mako-lf7-instrumente-q07",
+     "type": "match",
+     "exam_part": 1,
+     "difficulty": 2,
+     "source": "MaKo (Skripte Vaaßen/Kuhn, Unterricht, Prüfungsstil)",
+     "body": {
+      "prompt": "Ordnen Sie jedes Beispiel dem Kommunikationsinstrument zu.",
+      "items": [
+       {
+        "term": "Pressekonferenz",
+        "match": "Public Relations"
+       },
+       {
+        "term": "Gewinnspiel für Konsumenten",
+        "match": "Verkaufsförderung"
+       },
+       {
+        "term": "Namensrecht an einem Stadion",
+        "match": "Sponsoring"
+       },
+       {
+        "term": "Roadshow mit Produktpräsentation",
+        "match": "Eventmarketing"
+       },
+       {
+        "term": "Personalisiertes Mailing",
+        "match": "Direktmarketing"
+       }
+      ],
+      "distractors": []
+     }
+    },
+    {
+     "key": "mako-lf7-instrumente-q08",
+     "type": "match",
+     "exam_part": 1,
+     "difficulty": 2,
+     "source": "MaKo (Skripte Vaaßen/Kuhn, Unterricht, Prüfungsstil)",
+     "body": {
+      "prompt": "Ordnen Sie ATL, BTL und TTL zu.",
+      "items": [
+       {
+        "term": "TV-Spot",
+        "match": "ATL"
+       },
+       {
+        "term": "Sampling am POS",
+        "match": "BTL"
+       },
+       {
+        "term": "Kampagne aus Spot, Event und Online",
+        "match": "TTL"
+       }
+      ],
+      "distractors": []
+     }
+    },
+    {
+     "key": "mako-lf7-instrumente-q09",
+     "type": "tf",
+     "exam_part": 1,
+     "difficulty": 2,
+     "source": "MaKo (Skripte Vaaßen/Kuhn, Unterricht, Prüfungsstil)",
+     "body": {
+      "statement": "Public Relations dient vor allem der kurzfristigen Umsatzsteigerung.",
+      "answer": false
+     }
+    },
+    {
+     "key": "mako-lf7-instrumente-q10",
+     "type": "tf",
+     "exam_part": 1,
+     "difficulty": 2,
+     "source": "MaKo (Skripte Vaaßen/Kuhn, Unterricht, Prüfungsstil)",
+     "body": {
+      "statement": "Ambush-Marketing nutzt ein Event ohne offizielle Sponsorenrechte.",
+      "answer": true
+     }
+    },
+    {
+     "key": "mako-lf7-instrumente-q11",
+     "type": "cloze",
+     "exam_part": 1,
+     "difficulty": 2,
+     "source": "MaKo (Skripte Vaaßen/Kuhn, Unterricht, Prüfungsstil)",
+     "body": {
+      "text": "[[Sponsoring]] bedeutet Förderung gegen [[Kommunikationsrechte]]."
+     }
+    }
+   ],
+   "templates": [],
+   "cases": [],
+   "summary": {
+    "key": "mako-lf7-instrumente-zettel",
+    "title": "Kommunikationsinstrumente",
+    "content_md": "\n**Kommunikationsmix**\n- **Klassische Werbung** (ATL): Anzeigen, TV/Radio-Spots, Plakat, Kino, Online-Display – Reichweite, Imageaufbau\n- **Verkaufsförderung (Sales Promotion)** (kurzfristig Umsatz): **Consumer Promotion** (Gewinnspiel, Gutschein, Probierpackung, Coupon, Rabattaktion) · **Trade Promotion** (Händlerschulung, Displays, Naturalrabatte) · **Staff Promotion**\n- **Public Relations (PR)**: Pressearbeit, Pressemitteilung, Pressekonferenz, Krisenkommunikation, Corporate PR – Vertrauen, Image; Zielgruppe Öffentlichkeit\n- **Sponsoring**: Geld/Sachleistungen gegen Kommunikationsrechte (Sport, Kultur, Soziales, Umwelt, Medien) – Image-Transfer\n- **Eventmarketing**: inszenierte Erlebnisse (Messen, Roadshows, Produktpräsentation)\n- **Messen/Ausstellungen** (B2B-Kontakte)\n- **Direktmarketing/Dialogmarketing**: Mailing, E-Mail, Telefonmarketing\n- **Online-Marketing**: SEO, SEA, Social Media, Influencer, Newsletter, Affiliate, Content\n- **Product Placement**, **Guerilla**, **Ambient**, **Mobile**, **Ambush-Marketing**.\n**Above-the-line (ATL)** = klassische Mediawerbung; **Below-the-line (BTL)** = VKF, Direkt, Event; **Through-the-line (TTL)** = integriert.\n"
+   }
+  }
+ ]
+}

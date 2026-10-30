@@ -1,0 +1,582 @@
+{
+ "demo": false,
+ "items": [
+  {
+   "topic": "mako-lf10-produktion",
+   "flashcards": [
+    {
+     "key": "mako-lf10-produktion-c01",
+     "front": "Was bedeutet RGB?",
+     "back": "Rot-Grün-Blau – additives Farbmodell für Bildschirme."
+    },
+    {
+     "key": "mako-lf10-produktion-c02",
+     "front": "Was bedeutet CMYK?",
+     "back": "Cyan, Magenta, Yellow, Key (Schwarz) – subtraktives Farbmodell für den Druck."
+    },
+    {
+     "key": "mako-lf10-produktion-c03",
+     "front": "Was sind Sonderfarben?",
+     "back": "Gemischte Farben (Pantone, HKS), die nicht aus CMYK entstehen."
+    },
+    {
+     "key": "mako-lf10-produktion-c04",
+     "front": "Welche Auflösung für Druck?",
+     "back": "300 dpi."
+    },
+    {
+     "key": "mako-lf10-produktion-c05",
+     "front": "Welche Auflösung für Web?",
+     "back": "72 dpi (Bildschirm)."
+    },
+    {
+     "key": "mako-lf10-produktion-c06",
+     "front": "Was ist Beschnitt?",
+     "back": "Überstand der Gestaltung (meist 3 mm) über das Endformat, um weiße Ränder zu vermeiden."
+    },
+    {
+     "key": "mako-lf10-produktion-c07",
+     "front": "Was ist ein Proof?",
+     "back": "Farbverbindlicher Probedruck zur Freigabe."
+    },
+    {
+     "key": "mako-lf10-produktion-c08",
+     "front": "Was ist Preflight?",
+     "back": "Technische Prüfung der Druckdaten vor dem Druck."
+    },
+    {
+     "key": "mako-lf10-produktion-c09",
+     "front": "Was ist der Offsetdruck?",
+     "back": "Flachdruckverfahren für hohe Auflagen und Qualität."
+    },
+    {
+     "key": "mako-lf10-produktion-c10",
+     "front": "Wann Digitaldruck?",
+     "back": "Bei kleinen Auflagen, schnell, variabel (personalisiert)."
+    },
+    {
+     "key": "mako-lf10-produktion-c11",
+     "front": "Wann Siebdruck?",
+     "back": "Für Textilien, Schilder, Spezialfarben, besondere Oberflächen."
+    },
+    {
+     "key": "mako-lf10-produktion-c12",
+     "front": "Wann Tiefdruck?",
+     "back": "Für sehr hohe Auflagen (Zeitschriften, Kataloge, Verpackung)."
+    },
+    {
+     "key": "mako-lf10-produktion-c13",
+     "front": "Was ist Tampondruck?",
+     "back": "Druckverfahren für unebene Werbeartikel (Kugelschreiber, Tassen)."
+    },
+    {
+     "key": "mako-lf10-produktion-c14",
+     "front": "Was ist Grammatur?",
+     "back": "Papiergewicht in g/m²."
+    },
+    {
+     "key": "mako-lf10-produktion-c15",
+     "front": "Format DIN A4?",
+     "back": "210 × 297 mm."
+    },
+    {
+     "key": "mako-lf10-produktion-c16",
+     "front": "Format DIN A5?",
+     "back": "148 × 210 mm."
+    },
+    {
+     "key": "mako-lf10-produktion-c17",
+     "front": "Format DIN lang?",
+     "back": "99 × 210 mm."
+    },
+    {
+     "key": "mako-lf10-produktion-c18",
+     "front": "Wie entstehen die DIN-A-Formate?",
+     "back": "Durch Halbieren der längeren Seite des vorherigen Formats."
+    },
+    {
+     "key": "mako-lf10-produktion-c19",
+     "front": "Was ist UV-Lack?",
+     "back": "Hochglänzende, kratzfeste Veredelung."
+    },
+    {
+     "key": "mako-lf10-produktion-c20",
+     "front": "Was ist Kaschieren?",
+     "back": "Aufbringen einer Folie auf das Druckerzeugnis."
+    },
+    {
+     "key": "mako-lf10-produktion-c21",
+     "front": "Was bedeutet 4/4-farbig?",
+     "back": "Vorder- und Rückseite in vier Farben (CMYK)."
+    },
+    {
+     "key": "mako-lf10-produktion-c22",
+     "front": "Was bedeutet 4/0-farbig?",
+     "back": "Vorderseite vierfarbig, Rückseite unbedruckt."
+    },
+    {
+     "key": "mako-lf10-produktion-c23",
+     "front": "Was ist ein Leporello-Falz?",
+     "back": "Zickzackförmiger Falz."
+    },
+    {
+     "key": "mako-lf10-produktion-c24",
+     "front": "Was ist FSC?",
+     "back": "Zertifikat für Papier aus nachhaltiger Forstwirtschaft."
+    },
+    {
+     "key": "mako-lf10-produktion-c25",
+     "front": "Was ist Gut zum Druck?",
+     "back": "Schriftliche Druckfreigabe des Kunden."
+    }
+   ],
+   "glossary": [
+    {
+     "key": "mako-lf10-produktion-g01",
+     "term": "CMYK",
+     "definition": "Subtraktives Vierfarbmodell für den Druck."
+    },
+    {
+     "key": "mako-lf10-produktion-g02",
+     "term": "RGB",
+     "definition": "Additives Farbmodell für Bildschirme."
+    },
+    {
+     "key": "mako-lf10-produktion-g03",
+     "term": "Beschnitt",
+     "definition": "Zugabe über das Endformat hinaus."
+    },
+    {
+     "key": "mako-lf10-produktion-g04",
+     "term": "Proof",
+     "definition": "Farbverbindlicher Probedruck."
+    },
+    {
+     "key": "mako-lf10-produktion-g05",
+     "term": "Grammatur",
+     "definition": "Gewicht des Papiers pro Quadratmeter."
+    },
+    {
+     "key": "mako-lf10-produktion-g06",
+     "term": "Offsetdruck",
+     "definition": "Flachdruckverfahren für hohe Auflagen."
+    }
+   ],
+   "questions": [
+    {
+     "key": "mako-lf10-produktion-q01",
+     "type": "mc",
+     "exam_part": 3,
+     "difficulty": 2,
+     "source": "MaKo (Skripte Vaaßen/Kuhn, Unterricht, Prüfungsstil)",
+     "body": {
+      "prompt": "Welches Farbmodell wird für den Druck verwendet?",
+      "options": [
+       {
+        "text": "CMYK",
+        "correct": true
+       },
+       {
+        "text": "RGB",
+        "correct": false
+       },
+       {
+        "text": "HSB",
+        "correct": false
+       },
+       {
+        "text": "Lab-Bildschirm",
+        "correct": false
+       },
+       {
+        "text": "HEX",
+        "correct": false
+       }
+      ]
+     }
+    },
+    {
+     "key": "mako-lf10-produktion-q02",
+     "type": "mc",
+     "exam_part": 3,
+     "difficulty": 2,
+     "source": "MaKo (Skripte Vaaßen/Kuhn, Unterricht, Prüfungsstil)",
+     "body": {
+      "prompt": "Für 20 personalisierte Einladungen eignet sich am besten…",
+      "options": [
+       {
+        "text": "Digitaldruck",
+        "correct": true
+       },
+       {
+        "text": "Offsetdruck",
+        "correct": false
+       },
+       {
+        "text": "Tiefdruck",
+        "correct": false
+       },
+       {
+        "text": "Siebdruck",
+        "correct": false
+       },
+       {
+        "text": "Hochdruck",
+        "correct": false
+       }
+      ]
+     }
+    },
+    {
+     "key": "mako-lf10-produktion-q03",
+     "type": "mc",
+     "exam_part": 3,
+     "difficulty": 2,
+     "source": "MaKo (Skripte Vaaßen/Kuhn, Unterricht, Prüfungsstil)",
+     "body": {
+      "prompt": "Für eine Auflage von 100.000 Katalogen eignet sich meist…",
+      "options": [
+       {
+        "text": "Offset- oder Tiefdruck",
+        "correct": true
+       },
+       {
+        "text": "Digitaldruck",
+        "correct": false
+       },
+       {
+        "text": "Tampondruck",
+        "correct": false
+       },
+       {
+        "text": "Siebdruck",
+        "correct": false
+       },
+       {
+        "text": "Handschrift",
+        "correct": false
+       }
+      ]
+     }
+    },
+    {
+     "key": "mako-lf10-produktion-q04",
+     "type": "mc",
+     "exam_part": 3,
+     "difficulty": 2,
+     "source": "MaKo (Skripte Vaaßen/Kuhn, Unterricht, Prüfungsstil)",
+     "body": {
+      "prompt": "Welche Auflösung ist für Druckdaten üblich?",
+      "options": [
+       {
+        "text": "300 dpi",
+        "correct": true
+       },
+       {
+        "text": "72 dpi",
+        "correct": false
+       },
+       {
+        "text": "50 dpi",
+        "correct": false
+       },
+       {
+        "text": "10 dpi",
+        "correct": false
+       },
+       {
+        "text": "1 dpi",
+        "correct": false
+       }
+      ]
+     }
+    },
+    {
+     "key": "mako-lf10-produktion-q05",
+     "type": "mc",
+     "exam_part": 3,
+     "difficulty": 2,
+     "source": "MaKo (Skripte Vaaßen/Kuhn, Unterricht, Prüfungsstil)",
+     "body": {
+      "prompt": "Welches Verfahren eignet sich für das Bedrucken von Kugelschreibern?",
+      "options": [
+       {
+        "text": "Tampondruck",
+        "correct": true
+       },
+       {
+        "text": "Offsetdruck",
+        "correct": false
+       },
+       {
+        "text": "Tiefdruck",
+        "correct": false
+       },
+       {
+        "text": "Digitaldruck auf Rolle",
+        "correct": false
+       },
+       {
+        "text": "Fotosatz",
+        "correct": false
+       }
+      ]
+     }
+    },
+    {
+     "key": "mako-lf10-produktion-q06",
+     "type": "mc",
+     "exam_part": 3,
+     "difficulty": 2,
+     "source": "MaKo (Skripte Vaaßen/Kuhn, Unterricht, Prüfungsstil)",
+     "body": {
+      "prompt": "Wozu dient der Beschnitt?",
+      "options": [
+       {
+        "text": "Er verhindert weiße Ränder durch Schnittungenauigkeiten.",
+        "correct": true
+       },
+       {
+        "text": "Er erhöht die Auflösung.",
+        "correct": false
+       },
+       {
+        "text": "Er ersetzt die Druckfreigabe.",
+        "correct": false
+       },
+       {
+        "text": "Er reduziert die Farbmenge.",
+        "correct": false
+       },
+       {
+        "text": "Er verbessert die Papierqualität.",
+        "correct": false
+       }
+      ]
+     }
+    },
+    {
+     "key": "mako-lf10-produktion-q07",
+     "type": "mc",
+     "exam_part": 3,
+     "difficulty": 2,
+     "source": "MaKo (Skripte Vaaßen/Kuhn, Unterricht, Prüfungsstil)",
+     "body": {
+      "prompt": "Was bedeutet ‚4/0‘ bei einem Flyer?",
+      "options": [
+       {
+        "text": "Vorderseite vierfarbig, Rückseite unbedruckt",
+        "correct": true
+       },
+       {
+        "text": "Beide Seiten vierfarbig",
+        "correct": false
+       },
+       {
+        "text": "Vierfarbig plus Sonderfarbe",
+        "correct": false
+       },
+       {
+        "text": "Vier Seiten, ohne Farbe",
+        "correct": false
+       },
+       {
+        "text": "Schwarzweiß",
+        "correct": false
+       }
+      ]
+     }
+    },
+    {
+     "key": "mako-lf10-produktion-q08",
+     "type": "match",
+     "exam_part": 3,
+     "difficulty": 2,
+     "source": "MaKo (Skripte Vaaßen/Kuhn, Unterricht, Prüfungsstil)",
+     "body": {
+      "prompt": "Ordnen Sie jedes Druckverfahren dem typischen Einsatz zu.",
+      "items": [
+       {
+        "term": "Offsetdruck",
+        "match": "Hohe Auflagen, hohe Qualität"
+       },
+       {
+        "term": "Digitaldruck",
+        "match": "Kleine Auflagen, schnell, personalisiert"
+       },
+       {
+        "term": "Siebdruck",
+        "match": "Textilien und Schilder"
+       },
+       {
+        "term": "Tampondruck",
+        "match": "Unebene Werbeartikel"
+       }
+      ],
+      "distractors": []
+     }
+    },
+    {
+     "key": "mako-lf10-produktion-q09",
+     "type": "match",
+     "exam_part": 3,
+     "difficulty": 2,
+     "source": "MaKo (Skripte Vaaßen/Kuhn, Unterricht, Prüfungsstil)",
+     "body": {
+      "prompt": "Ordnen Sie das Format den Maßen zu.",
+      "items": [
+       {
+        "term": "DIN A4",
+        "match": "210 × 297 mm"
+       },
+       {
+        "term": "DIN A5",
+        "match": "148 × 210 mm"
+       },
+       {
+        "term": "DIN A6",
+        "match": "105 × 148 mm"
+       },
+       {
+        "term": "DIN lang",
+        "match": "99 × 210 mm"
+       }
+      ],
+      "distractors": []
+     }
+    },
+    {
+     "key": "mako-lf10-produktion-q10",
+     "type": "order",
+     "exam_part": 3,
+     "difficulty": 2,
+     "source": "MaKo (Skripte Vaaßen/Kuhn, Unterricht, Prüfungsstil)",
+     "body": {
+      "prompt": "Bringen Sie den Produktionsablauf in die richtige Reihenfolge.",
+      "items": [
+       "Datenerstellung",
+       "Preflight und Proof",
+       "Druckfreigabe durch den Kunden",
+       "Druck",
+       "Weiterverarbeitung und Versand"
+      ]
+     }
+    },
+    {
+     "key": "mako-lf10-produktion-q11",
+     "type": "tf",
+     "exam_part": 3,
+     "difficulty": 2,
+     "source": "MaKo (Skripte Vaaßen/Kuhn, Unterricht, Prüfungsstil)",
+     "body": {
+      "statement": "RGB ist das Farbmodell für den Druck.",
+      "answer": false
+     }
+    },
+    {
+     "key": "mako-lf10-produktion-q12",
+     "type": "tf",
+     "exam_part": 3,
+     "difficulty": 2,
+     "source": "MaKo (Skripte Vaaßen/Kuhn, Unterricht, Prüfungsstil)",
+     "body": {
+      "statement": "Der Digitaldruck eignet sich besonders für kleine Auflagen.",
+      "answer": true
+     }
+    },
+    {
+     "key": "mako-lf10-produktion-q13",
+     "type": "cloze",
+     "exam_part": 3,
+     "difficulty": 2,
+     "source": "MaKo (Skripte Vaaßen/Kuhn, Unterricht, Prüfungsstil)",
+     "body": {
+      "text": "Der [[Beschnitt]] beträgt üblicherweise [[3]] mm."
+     }
+    }
+   ],
+   "templates": [
+    {
+     "key": "mako-lf10-produktion-t01",
+     "type": "calc",
+     "exam_part": 3,
+     "difficulty": 2,
+     "source": "MaKo (Skripte Vaaßen/Kuhn, Unterricht, Prüfungsstil)",
+     "vars": {
+      "n": {
+       "type": "int",
+       "min": 2000,
+       "max": 20000,
+       "step": 1000
+      },
+      "k1": {
+       "type": "int",
+       "min": 20,
+       "max": 60,
+       "step": 5
+      },
+      "k2": {
+       "type": "int",
+       "min": 10,
+       "max": 30,
+       "step": 2
+      },
+      "r": {
+       "type": "int",
+       "min": 80,
+       "max": 300,
+       "step": 20
+      }
+     },
+     "body": {
+      "prompt": "Ein Druckauftrag: {n|eur0} Flyer. Druckkosten {k1|eur} je 1.000 Stück, Papier {k2|eur} je 1.000 Stück, einmalige Rüstkosten {r|eur}. Berechnen Sie die Gesamtkosten.",
+      "answer": "n/1000*(k1+k2)+r",
+      "unit": "€",
+      "decimals": 2,
+      "steps": [
+       "{n|eur0} : 1.000 · ({k1|eur} + {k2|eur}) + Rüstkosten {r|eur}",
+       "= {result|eur}"
+      ]
+     }
+    },
+    {
+     "key": "mako-lf10-produktion-t02",
+     "type": "calc",
+     "exam_part": 3,
+     "difficulty": 2,
+     "source": "MaKo (Skripte Vaaßen/Kuhn, Unterricht, Prüfungsstil)",
+     "vars": {
+      "n": {
+       "type": "int",
+       "min": 10,
+       "max": 100,
+       "step": 10
+      },
+      "pr": {
+       "type": "int",
+       "min": 8,
+       "max": 25,
+       "step": 1
+      }
+     },
+     "body": {
+      "prompt": "Ein Plakat im Format DIN A1 (594 × 841 mm) wird {n} Mal gedruckt. Der Preis je m² Druckfläche beträgt {pr|eur}. Wie hoch sind die Druckkosten? (Fläche in m² auf drei Nachkommastellen genau berechnen: 0,594 × 0,841.)",
+      "answer": "n*0.594*0.841*pr",
+      "unit": "€",
+      "decimals": 2,
+      "steps": [
+       "Fläche = 0,594 · 0,841 m²",
+       "Kosten = {n} · Fläche · {pr|eur} = {result|eur}"
+      ]
+     }
+    }
+   ],
+   "cases": [],
+   "summary": {
+    "key": "mako-lf10-produktion-zettel",
+    "title": "Druckverfahren, Papier & Produktionsablauf",
+    "content_md": "\n**Druckvorstufe**: Daten, Layout, Satz, **Farbmodelle** (**RGB** – Bildschirm, additiv; **CMYK** – Druck, subtraktiv; **Pantone/HKS** – Sonderfarben), **Auflösung** (300 dpi Druck, 72 dpi Web), Beschnitt (3 mm), Farbprofile, PDF/X, Proof, Freigabe (Druckfreigabe/Gut zum Druck).\n**Druckverfahren**: **Offset** (Flachdruck; Auflagen ab ca. 500 Stück; hohe Qualität; Platte/Gummituch) · **Digitaldruck** (kleine Auflagen, Variabel, schnell, teurer je Stück bei hoher Auflage) · **Tiefdruck** (große Auflagen, Zeitschriften, Verpackung) · **Siebdruck** (Textilien, Schilder, Sonderfarben) · **Flexodruck** (Verpackung) · **Hochdruck** (Buchdruck, Prägung) · **Tampondruck** (Werbeartikel).\n**Weiterverarbeitung**: Schneiden, Falzen (Wickel-, Leporello-, Zickzack-, Kreuzfalz), Heften, Klebebinden, Prägen, Lackieren (UV-Lack, Dispersionslack), Kaschieren, Stanzen, Veredelung.\n**Papier**: **Grammatur** (g/m²), Volumen, Oberfläche (matt, glänzend, ungestrichen/gestrichen), **Formate**: **DIN A**-Reihe (A4 210×297 mm; halbieren → nächste Stufe), **DIN lang** (99×210 mm), **Bogenformate**, Laufrichtung, Weißgrad, Umweltzeichen (FSC, Blauer Engel).\n**Produktionsablauf**: Auftrag/Angebot → Daten → Preflight → Proof → Freigabe → Druck → Weiterverarbeitung → Versand.\n**Kosten**: Auflage, Papier, Farben (4/0, 4/4), Veredelung, Weiterverarbeitung, Versand.\n"
+   }
+  }
+ ]
+}

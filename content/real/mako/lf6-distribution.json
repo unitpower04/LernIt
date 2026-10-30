@@ -1,0 +1,290 @@
+{
+ "demo": false,
+ "items": [
+  {
+   "topic": "mako-lf6-distribution",
+   "flashcards": [
+    {
+     "key": "mako-lf6-distribution-c01",
+     "front": "Direkter vs. indirekter Absatz?",
+     "back": "Direkt: Hersteller verkauft selbst an Endkunden. Indirekt: über Handelsstufen."
+    },
+    {
+     "key": "mako-lf6-distribution-c02",
+     "front": "Beispiele direkter Absatzwege?",
+     "back": "Eigener Onlineshop, Fabrikverkauf, Außendienst, Direktvertrieb."
+    },
+    {
+     "key": "mako-lf6-distribution-c03",
+     "front": "Beispiele indirekter Absatzwege?",
+     "back": "Großhandel, Einzelhandel, Handelsvertreter, Kommissionär."
+    },
+    {
+     "key": "mako-lf6-distribution-c04",
+     "front": "Was ist ein Handelsvertreter?",
+     "back": "Selbstständiger Vermittler im fremden Namen und auf fremde Rechnung; erhält Provision."
+    },
+    {
+     "key": "mako-lf6-distribution-c05",
+     "front": "Was ist ein Kommissionär?",
+     "back": "Verkauft im eigenen Namen für fremde Rechnung."
+    },
+    {
+     "key": "mako-lf6-distribution-c06",
+     "front": "Was ist ein Makler?",
+     "back": "Vermittelt Geschäftsabschlüsse, ohne ständig beauftragt zu sein."
+    },
+    {
+     "key": "mako-lf6-distribution-c07",
+     "front": "Was ist ein Reisender (Handlungsreisender)?",
+     "back": "Angestellter Außendienstmitarbeiter mit Gehalt (ggf. plus Provision)."
+    },
+    {
+     "key": "mako-lf6-distribution-c08",
+     "front": "Was ist Franchising?",
+     "back": "Franchisegeber überlässt gegen Gebühr Konzept, Marke und Know-how an selbstständige Franchisenehmer."
+    },
+    {
+     "key": "mako-lf6-distribution-c09",
+     "front": "Was ist intensive Distribution?",
+     "back": "Das Produkt ist an möglichst vielen Verkaufsstellen erhältlich."
+    },
+    {
+     "key": "mako-lf6-distribution-c10",
+     "front": "Was ist selektive Distribution?",
+     "back": "Nur ausgewählte Händler führen das Produkt."
+    },
+    {
+     "key": "mako-lf6-distribution-c11",
+     "front": "Was ist exklusive Distribution?",
+     "back": "Nur ein Händler pro Gebiet führt das Produkt (Luxusgüter)."
+    },
+    {
+     "key": "mako-lf6-distribution-c12",
+     "front": "Was bedeutet Multi-Channel?",
+     "back": "Verkauf über mehrere Kanäle (stationär, online, App)."
+    },
+    {
+     "key": "mako-lf6-distribution-c13",
+     "front": "Was ist Omni-Channel?",
+     "back": "Nahtlose Verknüpfung aller Kanäle für ein einheitliches Kundenerlebnis."
+    },
+    {
+     "key": "mako-lf6-distribution-c14",
+     "front": "Was ist Just-in-Time?",
+     "back": "Lieferung genau zum Bedarfszeitpunkt – geringe Lagerhaltung."
+    }
+   ],
+   "glossary": [
+    {
+     "key": "mako-lf6-distribution-g01",
+     "term": "Distribution",
+     "definition": "Alle Maßnahmen, die das Produkt zum Kunden bringen."
+    },
+    {
+     "key": "mako-lf6-distribution-g02",
+     "term": "Handelsvertreter",
+     "definition": "Selbstständiger Absatzmittler auf Provisionsbasis."
+    },
+    {
+     "key": "mako-lf6-distribution-g03",
+     "term": "Franchising",
+     "definition": "Vertriebssystem mit Konzept- und Markennutzung gegen Gebühr."
+    },
+    {
+     "key": "mako-lf6-distribution-g04",
+     "term": "Omni-Channel",
+     "definition": "Verknüpfung aller Vertriebskanäle."
+    }
+   ],
+   "questions": [
+    {
+     "key": "mako-lf6-distribution-q01",
+     "type": "mc",
+     "exam_part": 1,
+     "difficulty": 2,
+     "source": "MaKo (Skripte Vaaßen/Kuhn, Unterricht, Prüfungsstil)",
+     "body": {
+      "prompt": "Wer vermittelt im fremden Namen und auf fremde Rechnung und erhält Provision?",
+      "options": [
+       {
+        "text": "Handelsvertreter",
+        "correct": true
+       },
+       {
+        "text": "Kommissionär",
+        "correct": false
+       },
+       {
+        "text": "Reisender",
+        "correct": false
+       },
+       {
+        "text": "Eigenhändler",
+        "correct": false
+       },
+       {
+        "text": "Großhändler",
+        "correct": false
+       }
+      ]
+     }
+    },
+    {
+     "key": "mako-lf6-distribution-q02",
+     "type": "mc",
+     "exam_part": 1,
+     "difficulty": 2,
+     "source": "MaKo (Skripte Vaaßen/Kuhn, Unterricht, Prüfungsstil)",
+     "body": {
+      "prompt": "Ein Unternehmen verkauft ausschließlich über seinen Onlineshop. Welcher Absatzweg?",
+      "options": [
+       {
+        "text": "Direkter Absatzweg",
+        "correct": true
+       },
+       {
+        "text": "Indirekter Absatzweg",
+        "correct": false
+       },
+       {
+        "text": "Franchising",
+        "correct": false
+       },
+       {
+        "text": "Kommissionsgeschäft",
+        "correct": false
+       },
+       {
+        "text": "Großhandel",
+        "correct": false
+       }
+      ]
+     }
+    },
+    {
+     "key": "mako-lf6-distribution-q03",
+     "type": "mc",
+     "exam_part": 1,
+     "difficulty": 2,
+     "source": "MaKo (Skripte Vaaßen/Kuhn, Unterricht, Prüfungsstil)",
+     "body": {
+      "prompt": "Eine Luxusuhr ist nur bei einem Konzessionär pro Stadt erhältlich. Welche Distributionsintensität?",
+      "options": [
+       {
+        "text": "Exklusive Distribution",
+        "correct": true
+       },
+       {
+        "text": "Intensive Distribution",
+        "correct": false
+       },
+       {
+        "text": "Selektive Distribution",
+        "correct": false
+       },
+       {
+        "text": "Kein System",
+        "correct": false
+       },
+       {
+        "text": "Multi-Channel",
+        "correct": false
+       }
+      ]
+     }
+    },
+    {
+     "key": "mako-lf6-distribution-q04",
+     "type": "mc",
+     "exam_part": 1,
+     "difficulty": 2,
+     "source": "MaKo (Skripte Vaaßen/Kuhn, Unterricht, Prüfungsstil)",
+     "body": {
+      "prompt": "Ein Systemgastronom überlässt selbstständigen Partnern gegen Gebühr Marke und Konzept. Welche Form?",
+      "options": [
+       {
+        "text": "Franchising",
+        "correct": true
+       },
+       {
+        "text": "Kommissionsgeschäft",
+        "correct": false
+       },
+       {
+        "text": "Handelsvertretung",
+        "correct": false
+       },
+       {
+        "text": "Maklergeschäft",
+        "correct": false
+       },
+       {
+        "text": "Eigenhandel",
+        "correct": false
+       }
+      ]
+     }
+    },
+    {
+     "key": "mako-lf6-distribution-q05",
+     "type": "match",
+     "exam_part": 1,
+     "difficulty": 2,
+     "source": "MaKo (Skripte Vaaßen/Kuhn, Unterricht, Prüfungsstil)",
+     "body": {
+      "prompt": "Ordnen Sie jeden Absatzmittler der Beschreibung zu.",
+      "items": [
+       {
+        "term": "Handelsvertreter",
+        "match": "fremder Name, fremde Rechnung, Provision"
+       },
+       {
+        "term": "Kommissionär",
+        "match": "eigener Name, fremde Rechnung"
+       },
+       {
+        "term": "Reisender",
+        "match": "angestellter Außendienst"
+       },
+       {
+        "term": "Franchisenehmer",
+        "match": "selbstständig mit Marken- und Konzeptnutzung"
+       }
+      ],
+      "distractors": []
+     }
+    },
+    {
+     "key": "mako-lf6-distribution-q06",
+     "type": "tf",
+     "exam_part": 1,
+     "difficulty": 2,
+     "explanation": "Im eigenen Namen, aber auf fremde Rechnung.",
+     "source": "MaKo (Skripte Vaaßen/Kuhn, Unterricht, Prüfungsstil)",
+     "body": {
+      "statement": "Ein Kommissionär handelt im fremden Namen.",
+      "answer": false
+     }
+    },
+    {
+     "key": "mako-lf6-distribution-q07",
+     "type": "cloze",
+     "exam_part": 1,
+     "difficulty": 2,
+     "source": "MaKo (Skripte Vaaßen/Kuhn, Unterricht, Prüfungsstil)",
+     "body": {
+      "text": "Beim [[Franchising]] zahlt der Franchisenehmer eine Gebühr an den [[Franchisegeber]]."
+     }
+    }
+   ],
+   "templates": [],
+   "cases": [],
+   "summary": {
+    "key": "mako-lf6-distribution-zettel",
+    "title": "Distributionspolitik",
+    "content_md": "\n**Distribution** = Wege und Logistik, die das Produkt zum Kunden bringen.\n**Absatzwege**: **direkt** (Hersteller → Endkunde: Onlineshop, eigener Laden, Außendienst, Direktvertrieb) · **indirekt** (über Handel: Großhandel/Einzelhandel, Handelsvertreter, Kommissionär, Makler) · **Multi-Channel/Omni-Channel**.\n**Absatzmittler**: **Handelsvertreter** (selbstständig, vermittelt im fremden Namen auf fremde Rechnung, Provision) · **Kommissionär** (eigener Name, fremde Rechnung) · **Makler** (nur Vermittlung) · **Reisender/Handlungsreisender** (angestellt, Gehalt) · **Franchising** (Franchisegeber stellt Konzept, Franchisenehmer selbstständig, Gebühr) · Eigenhändler.\n**Logistik**: Lagerhaltung, Transport, Verpackung, Lieferservice, Just-in-Time.\n**Intensität**: intensive (überall), selektive (ausgewählte Händler), exklusive (nur ein Händler pro Gebiet) Distribution.\n**Marketing 7P-Dienstleistung**: People, Process, Physical Evidence.\n"
+   }
+  }
+ ]
+}
