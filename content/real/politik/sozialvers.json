@@ -42,7 +42,7 @@
     {
      "key": "politik-sozialvers-c08",
      "front": "Was ist ein Minijob?",
-     "back": "Geringfügige Beschäftigung bis zur Verdienstgrenze (556 € mtl. in 2025); pauschale Abgaben des Arbeitgebers."
+     "back": "Geringfügige Beschäftigung bis zur Verdienstgrenze (603 € mtl. in 2026); pauschale Abgaben des Arbeitgebers."
     },
     {
      "key": "politik-sozialvers-c09",
@@ -357,7 +357,7 @@
    "summary": {
     "key": "politik-sozialvers-zettel",
     "title": "Sozialversicherung & Künstlersozialkasse",
-    "content_md": "\n**5 Säulen**: **Kranken-** (14,6 % + Zusatzbeitrag), **Renten-** (18,6 %), **Arbeitslosen-** (2,6 %), **Pflege-** (3,6 % + Zuschlag Kinderlose), **Unfallversicherung** (nur Arbeitgeber, Berufsgenossenschaft).\n**Paritätisch** (je 50 %): Kranken-, Renten-, Arbeitslosen-, Pflegeversicherung; Unfall: 100 % Arbeitgeber.\n**Sozialversicherungspflicht** für Arbeitnehmer; **Beitragsbemessungsgrenzen** (bis dahin Beitragspflicht); **Versicherungspflichtgrenze** KV; Minijob (≤ 556 € [2025]) pauschal.\n**Prinzipien**: Solidarprinzip, Umlageverfahren (Rente: Generationenvertrag), Äquivalenzprinzip, Versicherungspflicht.\n**Künstlersozialkasse (KSK)**: Selbstständige Künstler/Publizisten (Grafiker, Texter, Fotografen) zahlen **50 % Beiträge**, 50 % **Bund (20 %) und Verwerter/Künstlersozialabgabe (30 %)**. **Verwerter** (Agenturen, Verlage, Werbefirmen, die Künstleraufträge vergeben) zahlen **Künstlersozialabgabe** auf **Honorare** an selbstständige Künstler (Satz jährlich, z. B. 5 %). Nicht auf Honorare an juristische Personen (GmbH).\n"
+    "content_md": "\n**5 Säulen**: **Kranken-** (14,6 % + Zusatzbeitrag), **Renten-** (18,6 %), **Arbeitslosen-** (2,6 %), **Pflege-** (3,6 % + Zuschlag Kinderlose), **Unfallversicherung** (nur Arbeitgeber, Berufsgenossenschaft).\n**Paritätisch** (je 50 %): Kranken-, Renten-, Arbeitslosen-, Pflegeversicherung; Unfall: 100 % Arbeitgeber.\n**Sozialversicherungspflicht** für Arbeitnehmer; **Beitragsbemessungsgrenzen** (bis dahin Beitragspflicht); **Versicherungspflichtgrenze** KV; Minijob (≤ 603 € [2026]) pauschal.\n**Prinzipien**: Solidarprinzip, Umlageverfahren (Rente: Generationenvertrag), Äquivalenzprinzip, Versicherungspflicht.\n**Künstlersozialkasse (KSK)**: Selbstständige Künstler/Publizisten (Grafiker, Texter, Fotografen) zahlen **50 % Beiträge**, 50 % **Bund (20 %) und Verwerter/Künstlersozialabgabe (30 %)**. **Verwerter** (Agenturen, Verlage, Werbefirmen, die Künstleraufträge vergeben) zahlen **Künstlersozialabgabe** auf **Honorare** an selbstständige Künstler (Satz jährlich, z. B. 5 %). Nicht auf Honorare an juristische Personen (GmbH).\n"
    }
   }
  ]

@@ -1,0 +1,356 @@
+{
+ "demo": false,
+ "items": [
+  {
+   "topic": "ficon-kalkulation",
+   "flashcards": [
+    {
+     "key": "ficon-kalkulation-c01",
+     "front": "Aufbau Angebotskalkulation Agentur?",
+     "back": "Agenturleistung (Std × Satz) + Fremdleistungen → Selbstkosten → + Gewinn/Handling Fee → Angebotspreis netto."
+    },
+    {
+     "key": "ficon-kalkulation-c02",
+     "front": "Was ist eine Handling Fee?",
+     "back": "Aufschlag auf Fremdleistungen für Beschaffung/Abwicklung (z. B. 10 %)."
+    },
+    {
+     "key": "ficon-kalkulation-c03",
+     "front": "Was sind Fremdleistungen?",
+     "back": "Leistungen Dritter (Foto, Druck, Mediabuchung), die die Agentur einkauft und weiterberechnet."
+    },
+    {
+     "key": "ficon-kalkulation-c04",
+     "front": "Wie wird ein Rabatt einkalkuliert?",
+     "back": "Preis vor Rabatt = gewünschter Preis : (1 − Rabatt %)."
+    },
+    {
+     "key": "ficon-kalkulation-c05",
+     "front": "Was sind Selbstkosten?",
+     "back": "Alle für den Auftrag entstehenden Kosten ohne Gewinn."
+    },
+    {
+     "key": "ficon-kalkulation-c06",
+     "front": "Wie wird der Angebotspreis brutto berechnet?",
+     "back": "Netto-Angebotspreis · 1,19."
+    },
+    {
+     "key": "ficon-kalkulation-c07",
+     "front": "Was ist die Differenzkalkulation?",
+     "back": "Vergleich Erlös − Selbstkosten, um den tatsächlichen Gewinn eines Auftrags zu prüfen."
+    },
+    {
+     "key": "ficon-kalkulation-c08",
+     "front": "Was kennzeichnet die Handelskalkulation?",
+     "back": "Vom Einkaufspreis über Handlungskosten und Gewinn bis zum Listenverkaufspreis."
+    },
+    {
+     "key": "ficon-kalkulation-c09",
+     "front": "Barverkaufspreis → Zielverkaufspreis?",
+     "back": "+ Kundenskonto (vom Hundert, im Zielverkaufspreis = 100 %)."
+    },
+    {
+     "key": "ficon-kalkulation-c10",
+     "front": "Zielverkaufspreis → Listenverkaufspreis?",
+     "back": "+ Kundenrabatt (im Listenpreis = 100 %)."
+    },
+    {
+     "key": "ficon-kalkulation-c11",
+     "front": "Warum Gewinn nur auf Agenturleistung?",
+     "back": "Fremdleistungen werden mit eigener Marge (Handling Fee) belegt."
+    }
+   ],
+   "glossary": [
+    {
+     "key": "ficon-kalkulation-g01",
+     "term": "Selbstkosten",
+     "definition": "Gesamte Kosten eines Auftrags vor Gewinn."
+    },
+    {
+     "key": "ficon-kalkulation-g02",
+     "term": "Handling Fee",
+     "definition": "Bearbeitungsaufschlag auf Fremdleistungen."
+    },
+    {
+     "key": "ficon-kalkulation-g03",
+     "term": "Fremdleistungen",
+     "definition": "Eingekaufte Leistungen Dritter."
+    }
+   ],
+   "questions": [
+    {
+     "key": "ficon-kalkulation-q01",
+     "type": "mc",
+     "exam_part": 3,
+     "difficulty": 2,
+     "source": "FiCon LF11 (Unterricht, Prüfungsstil)",
+     "body": {
+      "prompt": "Wie hoch ist der Angebotspreis brutto, wenn netto 10.000 € angeboten werden (19 % USt)?",
+      "options": [
+       {
+        "text": "11.900 €",
+        "correct": true
+       },
+       {
+        "text": "10.190 €",
+        "correct": false
+       },
+       {
+        "text": "11.000 €",
+        "correct": false
+       },
+       {
+        "text": "12.100 €",
+        "correct": false
+       },
+       {
+        "text": "10.900 €",
+        "correct": false
+       }
+      ]
+     }
+    },
+    {
+     "key": "ficon-kalkulation-q02",
+     "type": "mc",
+     "exam_part": 3,
+     "difficulty": 2,
+     "source": "FiCon LF11 (Unterricht, Prüfungsstil)",
+     "body": {
+      "prompt": "Wie wird ein Kundenrabatt von 10 % korrekt einkalkuliert, wenn der Agentur 9.000 € nach Rabatt bleiben sollen?",
+      "options": [
+       {
+        "text": "Vorher: 9.000 € : 0,9 = 10.000 €",
+        "correct": true
+       },
+       {
+        "text": "9.000 € · 1,1",
+        "correct": false
+       },
+       {
+        "text": "9.000 € + 10 %",
+        "correct": false
+       },
+       {
+        "text": "9.000 € − 10 %",
+        "correct": false
+       },
+       {
+        "text": "9.000 € · 0,9",
+        "correct": false
+       }
+      ]
+     }
+    },
+    {
+     "key": "ficon-kalkulation-q03",
+     "type": "tf",
+     "exam_part": 3,
+     "difficulty": 2,
+     "source": "FiCon LF11 (Unterricht, Prüfungsstil)",
+     "body": {
+      "statement": "Fremdleistungen werden meist mit einer Handling Fee belegt.",
+      "answer": true
+     }
+    },
+    {
+     "key": "ficon-kalkulation-q04",
+     "type": "cloze",
+     "exam_part": 3,
+     "difficulty": 2,
+     "source": "FiCon LF11 (Unterricht, Prüfungsstil)",
+     "body": {
+      "text": "Die [[Selbstkosten]] zuzüglich Gewinn ergeben den [[Angebotspreis]]."
+     }
+    }
+   ],
+   "templates": [
+    {
+     "key": "ficon-kalkulation-t01",
+     "type": "calc",
+     "exam_part": 3,
+     "difficulty": 2,
+     "source": "FiCon LF11 (Unterricht, Prüfungsstil)",
+     "vars": {
+      "h1": {
+       "type": "int",
+       "min": 3,
+       "max": 10,
+       "step": 1
+      },
+      "s1": {
+       "type": "int",
+       "min": 60,
+       "max": 85,
+       "step": 1
+      },
+      "h2": {
+       "type": "int",
+       "min": 20,
+       "max": 50,
+       "step": 2
+      },
+      "s2": {
+       "type": "int",
+       "min": 70,
+       "max": 95,
+       "step": 1
+      },
+      "f": {
+       "type": "int",
+       "min": 1500,
+       "max": 4500,
+       "step": 100
+      },
+      "g": {
+       "type": "pick",
+       "options": [
+        15,
+        20,
+        25
+       ]
+      },
+      "hf": {
+       "type": "pick",
+       "options": [
+        8,
+        10,
+        15
+       ]
+      }
+     },
+     "body": {
+      "prompt": "Kalkulieren Sie den Netto-Angebotspreis: {h1} Stunden Kontakt zu {s1|eur}, {h2} Stunden Text/Kreation zu {s2|eur} (interne Stundensätze). Fremdleistung {f|eur} netto. Aufschlag {g} % auf Agenturleistungen, {hf} % Handling Fee auf Fremdleistungen, kein Rabatt.",
+      "answer": "(h1*s1+h2*s2)*(1+g/100)+f*(1+hf/100)",
+      "unit": "€",
+      "decimals": 2,
+      "steps": [
+       "Agenturleistungen = {h1}·{s1|eur} + {h2}·{s2|eur}",
+       "+ {g} % Gewinn",
+       "+ Fremdleistungen {f|eur} + {hf} % Handling Fee",
+       "= {result|eur}"
+      ]
+     }
+    },
+    {
+     "key": "ficon-kalkulation-t02",
+     "type": "calc",
+     "exam_part": 3,
+     "difficulty": 2,
+     "source": "FiCon LF11 (Unterricht, Prüfungsstil)",
+     "vars": {
+      "sk": {
+       "type": "int",
+       "min": 4000,
+       "max": 15000,
+       "step": 500
+      },
+      "g": {
+       "type": "pick",
+       "options": [
+        15,
+        20,
+        25
+       ]
+      },
+      "r": {
+       "type": "pick",
+       "options": [
+        5,
+        8,
+        10
+       ]
+      }
+     },
+     "body": {
+      "prompt": "Die Selbstkosten eines Auftrags betragen {sk|eur}. Die Agentur möchte einen Gewinnaufschlag von {g} % und gewährt anschließend {r} % Kundenrabatt auf den Angebotspreis. Auf welchen Betrag muss der Preis vor Rabatt lauten, damit nach Rabatt Selbstkosten plus Gewinn erzielt werden?",
+      "answer": "sk*(1+g/100)/(1-r/100)",
+      "unit": "€",
+      "decimals": 2,
+      "steps": [
+       "Ziel nach Rabatt = {sk|eur} · (1 + {g} %)",
+       "Preis vor Rabatt = Ziel : (1 − {r} %) = {result|eur}"
+      ]
+     }
+    },
+    {
+     "key": "ficon-kalkulation-t03",
+     "type": "calc",
+     "exam_part": 3,
+     "difficulty": 2,
+     "source": "FiCon LF11 (Unterricht, Prüfungsstil)",
+     "vars": {
+      "e": {
+       "type": "int",
+       "min": 4000,
+       "max": 12000,
+       "step": 500
+      },
+      "k": {
+       "type": "int",
+       "min": 2500,
+       "max": 9500,
+       "step": 500
+      }
+     },
+     "body": {
+      "prompt": "Ein Auftrag erzielt einen Erlös von {e|eur} netto. Die intern angefallenen Kosten betragen {k|eur}. Wie hoch ist der Gewinn?",
+      "answer": "e-k",
+      "unit": "€",
+      "decimals": 2,
+      "steps": [
+       "Gewinn = Erlös − Kosten = {result|eur}"
+      ]
+     }
+    },
+    {
+     "key": "ficon-kalkulation-t04",
+     "type": "calc",
+     "exam_part": 3,
+     "difficulty": 2,
+     "source": "FiCon LF11 (Unterricht, Prüfungsstil)",
+     "vars": {
+      "bp": {
+       "type": "int",
+       "min": 20,
+       "max": 120,
+       "step": 5
+      },
+      "hk": {
+       "type": "pick",
+       "options": [
+        20,
+        25,
+        30
+       ]
+      },
+      "g": {
+       "type": "pick",
+       "options": [
+        10,
+        15,
+        20
+       ]
+      }
+     },
+     "body": {
+      "prompt": "Handelskalkulation: Bezugspreis {bp|eur}, Handlungskostenzuschlag {hk} %, Gewinnzuschlag {g} %. Berechnen Sie den Barverkaufspreis (netto).",
+      "answer": "bp*(1+hk/100)*(1+g/100)",
+      "unit": "€",
+      "decimals": 2,
+      "steps": [
+       "Selbstkosten = {bp|eur} · (1 + {hk} %)",
+       "Barverkaufspreis = Selbstkosten · (1 + {g} %) = {result|eur}"
+      ]
+     }
+    }
+   ],
+   "cases": [],
+   "summary": {
+    "key": "ficon-kalkulation-zettel",
+    "title": "Kostenträgerrechnung: Projektkalkulation",
+    "content_md": "\n**Angebotskalkulation (Agentur)**\nAgenturleistung: Stunden × interner Stundensatz = **Kosten Agenturleistung**\n+ **Fremdleistungen** (netto, durchgereicht: Foto, Druck, Media)\n= **Selbstkosten**\n+ **Gewinnzuschlag** auf Agenturleistung (z. B. 20 %) + **Handling Fee** auf Fremdleistungen (z. B. 10 %)\n= **Netto-Angebotspreis vor Rabatt**\n**Kundenrabatt**: Angebot soll nach Rabatt X € ergeben → Preis vorher = Ziel : (1 − Rabatt).\n+ 19 % USt = **Brutto**.\n**Differenzkalkulation**: Auftrag profitabel? → Erlös − Selbstkosten = Gewinn.\n**Handelskalkulation**: Bezugspreis + Handlungskosten = Selbstkosten + Gewinn = Barverkaufspreis + Skonto + Provision = Zielverkaufspreis + Rabatt = Listenverkaufspreis (netto) + USt.\n"
+   }
+  }
+ ]
+}

@@ -1,0 +1,550 @@
+{
+ "demo": false,
+ "items": [
+  {
+   "topic": "ficon-gehalt",
+   "flashcards": [
+    {
+     "key": "ficon-gehalt-c01",
+     "front": "Wie wird vom Brutto zum Netto gerechnet?",
+     "back": "Brutto − Lohnsteuer − Soli − Kirchensteuer − SV-Arbeitnehmeranteile = Netto."
+    },
+    {
+     "key": "ficon-gehalt-c02",
+     "front": "Was ist ein geldwerter Vorteil?",
+     "back": "Sachleistung des Arbeitgebers (Firmenwagen, Kantine), die steuer- und sozialversicherungspflichtig ist."
+    },
+    {
+     "key": "ficon-gehalt-c03",
+     "front": "Was sind vermögenswirksame Leistungen?",
+     "back": "Zahlungen für Sparverträge, die der Arbeitgeber (6,65–40 €) direkt überweist; staatlich förderbar."
+    },
+    {
+     "key": "ficon-gehalt-c04",
+     "front": "Wovon hängt die Lohnsteuer ab?",
+     "back": "Von Verdienst, Steuerklasse und Freibeträgen."
+    },
+    {
+     "key": "ficon-gehalt-c05",
+     "front": "Höhe der Kirchensteuer?",
+     "back": "9 % der Lohnsteuer (Bayern und Baden-Württemberg 8 %)."
+    },
+    {
+     "key": "ficon-gehalt-c06",
+     "front": "Höhe des Solidaritätszuschlags?",
+     "back": "5,5 % der Lohnsteuer – seit 2021 nur noch Besserverdiener."
+    },
+    {
+     "key": "ficon-gehalt-c07",
+     "front": "Steuerklasse I?",
+     "back": "Ledige, Geschiedene, Verwitwete."
+    },
+    {
+     "key": "ficon-gehalt-c08",
+     "front": "Steuerklasse II?",
+     "back": "Alleinerziehende."
+    },
+    {
+     "key": "ficon-gehalt-c09",
+     "front": "Steuerklasse III/V?",
+     "back": "Verheiratete – einer III (günstig), der andere V."
+    },
+    {
+     "key": "ficon-gehalt-c10",
+     "front": "Steuerklasse IV?",
+     "back": "Verheiratete ohne Antrag auf III/V."
+    },
+    {
+     "key": "ficon-gehalt-c11",
+     "front": "Steuerklasse VI?",
+     "back": "Zweites/weiteres Dienstverhältnis."
+    },
+    {
+     "key": "ficon-gehalt-c12",
+     "front": "AN-Anteil Rentenversicherung 2026?",
+     "back": "9,3 %."
+    },
+    {
+     "key": "ficon-gehalt-c13",
+     "front": "AN-Anteil Arbeitslosenversicherung 2026?",
+     "back": "1,3 %."
+    },
+    {
+     "key": "ficon-gehalt-c14",
+     "front": "AN-Anteil Pflegeversicherung 2026?",
+     "back": "1,8 % (kinderlose ab 23: 2,4 %)."
+    },
+    {
+     "key": "ficon-gehalt-c15",
+     "front": "Krankenversicherung AN-Anteil?",
+     "back": "7,3 % + halber Zusatzbeitrag."
+    },
+    {
+     "key": "ficon-gehalt-c16",
+     "front": "Wer trägt die Unfallversicherung?",
+     "back": "Allein der Arbeitgeber."
+    },
+    {
+     "key": "ficon-gehalt-c17",
+     "front": "Beitragsbemessungsgrenze KV/PV (mtl. 2026)?",
+     "back": "5.812,50 €."
+    },
+    {
+     "key": "ficon-gehalt-c18",
+     "front": "Beitragsbemessungsgrenze RV/AV (mtl. 2026)?",
+     "back": "8.450 €."
+    },
+    {
+     "key": "ficon-gehalt-c19",
+     "front": "Was passiert oberhalb der Beitragsbemessungsgrenze?",
+     "back": "Es werden keine weiteren Beiträge erhoben."
+    },
+    {
+     "key": "ficon-gehalt-c20",
+     "front": "Was ist die Versicherungspflichtgrenze?",
+     "back": "77.400 €/Jahr – wer mehr verdient, kann in die PKV wechseln."
+    },
+    {
+     "key": "ficon-gehalt-c21",
+     "front": "Was zahlt die Agentur zusätzlich zum Bruttogehalt?",
+     "back": "Arbeitgeberanteile zur Sozialversicherung (Arbeitgeberkosten)."
+    },
+    {
+     "key": "ficon-gehalt-c22",
+     "front": "Träger der Rentenversicherung?",
+     "back": "Deutsche Rentenversicherung."
+    },
+    {
+     "key": "ficon-gehalt-c23",
+     "front": "Träger der Arbeitslosenversicherung?",
+     "back": "Bundesagentur für Arbeit."
+    },
+    {
+     "key": "ficon-gehalt-c24",
+     "front": "Träger der Unfallversicherung?",
+     "back": "Berufsgenossenschaften."
+    }
+   ],
+   "glossary": [
+    {
+     "key": "ficon-gehalt-g01",
+     "term": "Bruttoentgelt",
+     "definition": "Gehalt vor Abzügen."
+    },
+    {
+     "key": "ficon-gehalt-g02",
+     "term": "Nettoentgelt",
+     "definition": "Gehalt nach Steuern und Sozialabgaben."
+    },
+    {
+     "key": "ficon-gehalt-g03",
+     "term": "Geldwerter Vorteil",
+     "definition": "Sachleistung des Arbeitgebers mit Entgeltcharakter."
+    },
+    {
+     "key": "ficon-gehalt-g04",
+     "term": "VL",
+     "definition": "Vermögenswirksame Leistungen."
+    },
+    {
+     "key": "ficon-gehalt-g05",
+     "term": "Beitragsbemessungsgrenze",
+     "definition": "Obergrenze des beitragspflichtigen Einkommens."
+    }
+   ],
+   "questions": [
+    {
+     "key": "ficon-gehalt-q01",
+     "type": "mc",
+     "exam_part": 3,
+     "difficulty": 2,
+     "source": "FiCon LF11 (Unterricht, Prüfungsstil)",
+     "body": {
+      "prompt": "Welche Aussage zur Unfallversicherung ist richtig?",
+      "options": [
+       {
+        "text": "Die Beiträge zahlt allein der Arbeitgeber.",
+        "correct": true
+       },
+       {
+        "text": "Beide zahlen je 50 %.",
+        "correct": false
+       },
+       {
+        "text": "Sie wird nur vom Arbeitnehmer gezahlt.",
+        "correct": false
+       },
+       {
+        "text": "Sie ist freiwillig.",
+        "correct": false
+       },
+       {
+        "text": "Sie gehört nicht zur Sozialversicherung.",
+        "correct": false
+       }
+      ]
+     }
+    },
+    {
+     "key": "ficon-gehalt-q02",
+     "type": "mc",
+     "exam_part": 3,
+     "difficulty": 2,
+     "source": "FiCon LF11 (Unterricht, Prüfungsstil)",
+     "body": {
+      "prompt": "Welche Steuerklasse gilt für Alleinerziehende?",
+      "options": [
+       {
+        "text": "II",
+        "correct": true
+       },
+       {
+        "text": "I",
+        "correct": false
+       },
+       {
+        "text": "III",
+        "correct": false
+       },
+       {
+        "text": "V",
+        "correct": false
+       },
+       {
+        "text": "VI",
+        "correct": false
+       }
+      ]
+     }
+    },
+    {
+     "key": "ficon-gehalt-q03",
+     "type": "mc",
+     "exam_part": 3,
+     "difficulty": 2,
+     "source": "FiCon LF11 (Unterricht, Prüfungsstil)",
+     "body": {
+      "prompt": "Welche Steuerklasse gilt für ein zweites Dienstverhältnis (Nebenjob)?",
+      "options": [
+       {
+        "text": "VI",
+        "correct": true
+       },
+       {
+        "text": "I",
+        "correct": false
+       },
+       {
+        "text": "II",
+        "correct": false
+       },
+       {
+        "text": "IV",
+        "correct": false
+       },
+       {
+        "text": "V",
+        "correct": false
+       }
+      ]
+     }
+    },
+    {
+     "key": "ficon-gehalt-q04",
+     "type": "mc",
+     "exam_part": 3,
+     "difficulty": 2,
+     "source": "FiCon LF11 (Unterricht, Prüfungsstil)",
+     "body": {
+      "prompt": "Was ist ein geldwerter Vorteil?",
+      "options": [
+       {
+        "text": "Ein vom Arbeitgeber gestellter Firmenwagen zur Privatnutzung",
+        "correct": true
+       },
+       {
+        "text": "Das Weihnachtsgeld in bar",
+        "correct": false
+       },
+       {
+        "text": "Der Nettolohn",
+        "correct": false
+       },
+       {
+        "text": "Die Lohnsteuer",
+        "correct": false
+       },
+       {
+        "text": "Die Krankenversicherung",
+        "correct": false
+       }
+      ]
+     }
+    },
+    {
+     "key": "ficon-gehalt-q05",
+     "type": "mc",
+     "exam_part": 3,
+     "difficulty": 2,
+     "source": "FiCon LF11 (Unterricht, Prüfungsstil)",
+     "body": {
+      "prompt": "Die Kirchensteuer beträgt (außer BY/BW)…",
+      "options": [
+       {
+        "text": "9 % der Lohnsteuer",
+        "correct": true
+       },
+       {
+        "text": "8 % des Bruttos",
+        "correct": false
+       },
+       {
+        "text": "9 % des Bruttos",
+        "correct": false
+       },
+       {
+        "text": "5,5 % der Lohnsteuer",
+        "correct": false
+       },
+       {
+        "text": "14 % des Nettos",
+        "correct": false
+       }
+      ]
+     }
+    },
+    {
+     "key": "ficon-gehalt-q06",
+     "type": "mc",
+     "exam_part": 3,
+     "difficulty": 2,
+     "source": "FiCon LF11 (Unterricht, Prüfungsstil)",
+     "body": {
+      "prompt": "Welche Leistung gehört zur Arbeitslosenversicherung?",
+      "options": [
+       {
+        "text": "Kurzarbeitergeld",
+        "correct": true
+       },
+       {
+        "text": "Altersrente",
+        "correct": false
+       },
+       {
+        "text": "Pflegegeld",
+        "correct": false
+       },
+       {
+        "text": "Verletztengeld",
+        "correct": false
+       },
+       {
+        "text": "Krankengeld",
+        "correct": false
+       }
+      ]
+     }
+    },
+    {
+     "key": "ficon-gehalt-q07",
+     "type": "match",
+     "exam_part": 3,
+     "difficulty": 2,
+     "source": "FiCon LF11 (Unterricht, Prüfungsstil)",
+     "body": {
+      "prompt": "Ordnen Sie jedem Sozialversicherungszweig den Träger zu.",
+      "items": [
+       {
+        "term": "Rentenversicherung",
+        "match": "Deutsche Rentenversicherung"
+       },
+       {
+        "term": "Arbeitslosenversicherung",
+        "match": "Agentur für Arbeit"
+       },
+       {
+        "term": "Unfallversicherung",
+        "match": "Berufsgenossenschaft"
+       },
+       {
+        "term": "Krankenversicherung",
+        "match": "Krankenkasse"
+       }
+      ],
+      "distractors": []
+     }
+    },
+    {
+     "key": "ficon-gehalt-q08",
+     "type": "match",
+     "exam_part": 3,
+     "difficulty": 2,
+     "source": "FiCon LF11 (Unterricht, Prüfungsstil)",
+     "body": {
+      "prompt": "Ordnen Sie jede Steuerklasse zu.",
+      "items": [
+       {
+        "term": "I",
+        "match": "Ledige"
+       },
+       {
+        "term": "II",
+        "match": "Alleinerziehende"
+       },
+       {
+        "term": "III",
+        "match": "Verheiratete (Partner in V)"
+       },
+       {
+        "term": "VI",
+        "match": "Zweites Dienstverhältnis"
+       }
+      ],
+      "distractors": []
+     }
+    },
+    {
+     "key": "ficon-gehalt-q09",
+     "type": "tf",
+     "exam_part": 3,
+     "difficulty": 2,
+     "source": "FiCon LF11 (Unterricht, Prüfungsstil)",
+     "body": {
+      "statement": "Die Beiträge zur Unfallversicherung teilen sich Arbeitgeber und Arbeitnehmer.",
+      "answer": false
+     }
+    },
+    {
+     "key": "ficon-gehalt-q10",
+     "type": "tf",
+     "exam_part": 3,
+     "difficulty": 2,
+     "source": "FiCon LF11 (Unterricht, Prüfungsstil)",
+     "body": {
+      "statement": "Oberhalb der Beitragsbemessungsgrenze steigen die Beiträge nicht weiter.",
+      "answer": true
+     }
+    },
+    {
+     "key": "ficon-gehalt-q11",
+     "type": "cloze",
+     "exam_part": 3,
+     "difficulty": 2,
+     "source": "FiCon LF11 (Unterricht, Prüfungsstil)",
+     "body": {
+      "text": "Der Soli beträgt [[5,5]] % der Lohnsteuer, die Kirchensteuer [[9]] %."
+     }
+    }
+   ],
+   "templates": [
+    {
+     "key": "ficon-gehalt-t01",
+     "type": "calc",
+     "exam_part": 3,
+     "difficulty": 2,
+     "source": "FiCon LF11 (Unterricht, Prüfungsstil)",
+     "vars": {
+      "b": {
+       "type": "int",
+       "min": 2400,
+       "max": 5200,
+       "step": 100
+      }
+     },
+     "body": {
+      "prompt": "Bruttogehalt {b|eur}. Sozialversicherung (AN-Anteil): Rente 9,3 %, Arbeitslosen 1,3 %, Kranken 8,1 % (7,3 % + halber Zusatzbeitrag 0,8 %), Pflege 1,8 %. Berechnen Sie die Summe der Sozialversicherungsbeiträge des Arbeitnehmers.",
+      "answer": "b*(0.093+0.013+0.081+0.018)",
+      "unit": "€",
+      "decimals": 2,
+      "steps": [
+       "9,3 % + 1,3 % + 8,1 % + 1,8 % = 20,5 %",
+       "{b|eur} · 20,5 % = {result|eur}"
+      ]
+     }
+    },
+    {
+     "key": "ficon-gehalt-t02",
+     "type": "calc",
+     "exam_part": 3,
+     "difficulty": 2,
+     "source": "FiCon LF11 (Unterricht, Prüfungsstil)",
+     "vars": {
+      "l": {
+       "type": "int",
+       "min": 200,
+       "max": 900,
+       "step": 50
+      }
+     },
+     "body": {
+      "prompt": "Die Lohnsteuer beträgt {l|eur}. Berechnen Sie Kirchensteuer (9 %) und Solidaritätszuschlag (5,5 %) zusammen.",
+      "answer": "l*(0.09+0.055)",
+      "unit": "€",
+      "decimals": 2,
+      "steps": [
+       "Kirchensteuer = {l|eur} · 9 %",
+       "Soli = {l|eur} · 5,5 %",
+       "Summe = {result|eur}"
+      ]
+     }
+    },
+    {
+     "key": "ficon-gehalt-t03",
+     "type": "calc",
+     "exam_part": 3,
+     "difficulty": 2,
+     "source": "FiCon LF11 (Unterricht, Prüfungsstil)",
+     "vars": {
+      "b": {
+       "type": "int",
+       "min": 2800,
+       "max": 4500,
+       "step": 100
+      },
+      "l": {
+       "type": "int",
+       "min": 300,
+       "max": 600,
+       "step": 50
+      },
+      "sv": {
+       "type": "int",
+       "min": 500,
+       "max": 900,
+       "step": 50
+      },
+      "k": {
+       "type": "int",
+       "min": 20,
+       "max": 50,
+       "step": 5
+      },
+      "vl": {
+       "type": "pick",
+       "options": [
+        6.65,
+        20,
+        40
+       ]
+      }
+     },
+     "body": {
+      "prompt": "Bruttogehalt {b|eur}, Abzüge: Lohnsteuer {l|eur}, Sozialversicherung {sv|eur}, Kirchensteuer {k|eur}. Der Arbeitgeber zahlt {vl|eur} VL, die direkt an den Sparvertrag überwiesen werden. Wie hoch ist das Nettogehalt (b − Abzüge)?",
+      "answer": "b-l-sv-k",
+      "unit": "€",
+      "decimals": 2,
+      "steps": [
+       "Netto = {b|eur} − {l|eur} − {sv|eur} − {k|eur} = {result|eur}"
+      ]
+     }
+    }
+   ],
+   "cases": [],
+   "summary": {
+    "key": "ficon-gehalt-zettel",
+    "title": "Gehaltsabrechnung",
+    "content_md": "\n**Brutto → Netto**: Bruttogehalt (+ geldwerter Vorteil) = **steuerpflichtiges Brutto** → − **Lohnsteuer** (Steuerklasse!) − **Solidaritätszuschlag** (5,5 % der LSt, nur Besserverdiener) − **Kirchensteuer** (9 %, BY/BW 8 % der LSt) − **Sozialversicherungsbeiträge AN** = **Nettogehalt** (− **VL-Eigenanteil**) = **Auszahlungsbetrag**.\n**Beiträge 2026** (AN / AG): KV 7,3 % + ½ Zusatzbeitrag · PV 1,8 % (+0,6 % Kinderlosenzuschlag ab 23, nur AN) · RV 9,3 % / 9,3 % · AV 1,3 % / 1,3 % · Unfallversicherung nur AG.\n**Beitragsbemessungsgrenzen (mtl.)**: KV/PV **5.812,50 €**, RV/AV **8.450 €**; Versicherungspflichtgrenze KV 77.400 €/Jahr.\n**Steuerklassen**: I ledig · II alleinerziehend · III verheiratet (Partner V) · IV verheiratet gleich · V verheiratet (Partner III) · VI Zweitjob.\n**VL (vermögenswirksame Leistungen)**: AG zahlt 6,65–40 € nach Tarif; Voraussetzung VL-Vertrag. **Geldwerter Vorteil**: Sachleistung (Firmenwagen, Kantine) – steuer-/sv-pflichtig.\n**Arbeitgeberkosten** = Brutto + AG-Anteile SV.\n"
+   }
+  }
+ ]
+}

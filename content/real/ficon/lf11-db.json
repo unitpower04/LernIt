@@ -1,0 +1,476 @@
+{
+ "demo": false,
+ "items": [
+  {
+   "topic": "ficon-db",
+   "flashcards": [
+    {
+     "key": "ficon-db-c01",
+     "front": "Vollkosten- vs. Teilkostenrechnung?",
+     "back": "Voll: alle Kosten auf Produkte. Teil: nur variable Kosten, Fixkosten als Block."
+    },
+    {
+     "key": "ficon-db-c02",
+     "front": "Deckungsbeitrag je Stück?",
+     "back": "Verkaufspreis − variable Stückkosten."
+    },
+    {
+     "key": "ficon-db-c03",
+     "front": "Gesamtdeckungsbeitrag?",
+     "back": "DB je Stück · Absatzmenge."
+    },
+    {
+     "key": "ficon-db-c04",
+     "front": "Gewinn in der Teilkostenrechnung?",
+     "back": "Gesamtdeckungsbeitrag − Fixkosten."
+    },
+    {
+     "key": "ficon-db-c05",
+     "front": "Break-Even-Point?",
+     "back": "Menge, bei der Erlöse gleich Gesamtkosten sind (Gewinnschwelle)."
+    },
+    {
+     "key": "ficon-db-c06",
+     "front": "Formel Break-Even-Menge?",
+     "back": "Fixkosten : Deckungsbeitrag je Stück."
+    },
+    {
+     "key": "ficon-db-c07",
+     "front": "Kurzfristige Preisuntergrenze?",
+     "back": "Variable Stückkosten."
+    },
+    {
+     "key": "ficon-db-c08",
+     "front": "Langfristige Preisuntergrenze?",
+     "back": "Selbstkosten (Vollkosten)."
+    },
+    {
+     "key": "ficon-db-c09",
+     "front": "Wie ermittelt man variable Stückkosten aus zwei Perioden?",
+     "back": "(Gesamtkosten2 − Gesamtkosten1) : (Menge2 − Menge1)."
+    },
+    {
+     "key": "ficon-db-c10",
+     "front": "Wie ermittelt man danach die Fixkosten?",
+     "back": "Gesamtkosten − variable Stückkosten · Menge."
+    },
+    {
+     "key": "ficon-db-c11",
+     "front": "Wann lohnt ein Zusatzauftrag unter Vollkosten?",
+     "back": "Wenn der Preis über den variablen Stückkosten liegt und freie Kapazität besteht."
+    },
+    {
+     "key": "ficon-db-c12",
+     "front": "Was passiert bei Menge unter BEP?",
+     "back": "Verlust."
+    },
+    {
+     "key": "ficon-db-c13",
+     "front": "Was passiert bei Menge über BEP?",
+     "back": "Gewinn."
+    },
+    {
+     "key": "ficon-db-c14",
+     "front": "Fixe Kosten?",
+     "back": "Fallen unabhängig von der Menge an (Miete, Gehälter)."
+    },
+    {
+     "key": "ficon-db-c15",
+     "front": "Variable Kosten?",
+     "back": "Ändern sich mit der Menge (Material, Druckkosten pro Stück)."
+    }
+   ],
+   "glossary": [
+    {
+     "key": "ficon-db-g01",
+     "term": "Deckungsbeitrag",
+     "definition": "Preis minus variable Stückkosten – deckt Fixkosten."
+    },
+    {
+     "key": "ficon-db-g02",
+     "term": "Break-Even-Point",
+     "definition": "Gewinnschwelle."
+    },
+    {
+     "key": "ficon-db-g03",
+     "term": "Preisuntergrenze",
+     "definition": "Mindestpreis, der noch Kosten deckt."
+    },
+    {
+     "key": "ficon-db-g04",
+     "term": "Teilkostenrechnung",
+     "definition": "Kostenrechnung nur mit variablen Kosten."
+    }
+   ],
+   "questions": [
+    {
+     "key": "ficon-db-q01",
+     "type": "mc",
+     "exam_part": 3,
+     "difficulty": 2,
+     "source": "FiCon LF11 (Unterricht, Prüfungsstil)",
+     "body": {
+      "prompt": "Wie berechnet sich der Deckungsbeitrag pro Stück?",
+      "options": [
+       {
+        "text": "Verkaufspreis − variable Stückkosten",
+        "correct": true
+       },
+       {
+        "text": "Verkaufspreis − Gesamtkosten",
+        "correct": false
+       },
+       {
+        "text": "Fixkosten : Menge",
+        "correct": false
+       },
+       {
+        "text": "Gesamtkosten : Menge",
+        "correct": false
+       },
+       {
+        "text": "Verkaufspreis + Fixkosten",
+        "correct": false
+       }
+      ]
+     }
+    },
+    {
+     "key": "ficon-db-q02",
+     "type": "mc",
+     "exam_part": 3,
+     "difficulty": 2,
+     "source": "FiCon LF11 (Unterricht, Prüfungsstil)",
+     "body": {
+      "prompt": "Wie lautet die Formel für die Break-Even-Menge?",
+      "options": [
+       {
+        "text": "Fixkosten : Deckungsbeitrag je Stück",
+        "correct": true
+       },
+       {
+        "text": "Variable Kosten : Preis",
+        "correct": false
+       },
+       {
+        "text": "Gesamtkosten : Preis",
+        "correct": false
+       },
+       {
+        "text": "Preis : Fixkosten",
+        "correct": false
+       },
+       {
+        "text": "Deckungsbeitrag : Fixkosten",
+        "correct": false
+       }
+      ]
+     }
+    },
+    {
+     "key": "ficon-db-q03",
+     "type": "mc",
+     "exam_part": 3,
+     "difficulty": 2,
+     "source": "FiCon LF11 (Unterricht, Prüfungsstil)",
+     "body": {
+      "prompt": "Welche kurzfristige Preisuntergrenze gilt?",
+      "options": [
+       {
+        "text": "Die variablen Stückkosten",
+        "correct": true
+       },
+       {
+        "text": "Die Selbstkosten",
+        "correct": false
+       },
+       {
+        "text": "Der Marktpreis",
+        "correct": false
+       },
+       {
+        "text": "Die Fixkosten",
+        "correct": false
+       },
+       {
+        "text": "Null",
+        "correct": false
+       }
+      ]
+     }
+    },
+    {
+     "key": "ficon-db-q04",
+     "type": "mc",
+     "exam_part": 3,
+     "difficulty": 2,
+     "source": "FiCon LF11 (Unterricht, Prüfungsstil)",
+     "body": {
+      "prompt": "Die tatsächliche Absatzmenge liegt unter der Break-Even-Menge. Was folgt?",
+      "options": [
+       {
+        "text": "Das Unternehmen macht Verlust.",
+        "correct": true
+       },
+       {
+        "text": "Gewinn",
+        "correct": false
+       },
+       {
+        "text": "Gewinnschwelle erreicht",
+        "correct": false
+       },
+       {
+        "text": "Fixkosten sind gedeckt",
+        "correct": false
+       },
+       {
+        "text": "Es entsteht Eigenkapital",
+        "correct": false
+       }
+      ]
+     }
+    },
+    {
+     "key": "ficon-db-q05",
+     "type": "match",
+     "exam_part": 3,
+     "difficulty": 2,
+     "source": "FiCon LF11 (Unterricht, Prüfungsstil)",
+     "body": {
+      "prompt": "Ordnen Sie zu.",
+      "items": [
+       {
+        "term": "Fixkosten",
+        "match": "Mietkosten des Büros"
+       },
+       {
+        "term": "Variable Kosten",
+        "match": "Druckkosten pro Stück"
+       },
+       {
+        "term": "Deckungsbeitrag",
+        "match": "Preis − variable Stückkosten"
+       },
+       {
+        "term": "Break-Even-Point",
+        "match": "Gewinn = 0"
+       }
+      ],
+      "distractors": []
+     }
+    },
+    {
+     "key": "ficon-db-q06",
+     "type": "tf",
+     "exam_part": 3,
+     "difficulty": 2,
+     "source": "FiCon LF11 (Unterricht, Prüfungsstil)",
+     "body": {
+      "statement": "Unterhalb der Break-even-Menge entsteht ein Verlust.",
+      "answer": true
+     }
+    },
+    {
+     "key": "ficon-db-q07",
+     "type": "tf",
+     "exam_part": 3,
+     "difficulty": 2,
+     "explanation": "Kurzfristig genügt die Deckung der variablen Stückkosten.",
+     "source": "FiCon LF11 (Unterricht, Prüfungsstil)",
+     "body": {
+      "statement": "Die kurzfristige Preisuntergrenze liegt bei den Selbstkosten.",
+      "answer": false
+     }
+    },
+    {
+     "key": "ficon-db-q08",
+     "type": "cloze",
+     "exam_part": 3,
+     "difficulty": 2,
+     "source": "FiCon LF11 (Unterricht, Prüfungsstil)",
+     "body": {
+      "text": "Der Break-even-Point ergibt sich aus [[Fixkosten]] geteilt durch den [[Deckungsbeitrag]] je Stück."
+     }
+    }
+   ],
+   "templates": [
+    {
+     "key": "ficon-db-t01",
+     "type": "calc",
+     "exam_part": 3,
+     "difficulty": 2,
+     "source": "FiCon LF11 (Unterricht, Prüfungsstil)",
+     "vars": {
+      "f": {
+       "type": "int",
+       "min": 100000,
+       "max": 700000,
+       "step": 50000
+      },
+      "kv": {
+       "type": "dec",
+       "min": 0.8,
+       "max": 2.5,
+       "decimals": 2
+      },
+      "p": {
+       "type": "dec",
+       "min": 6,
+       "max": 10,
+       "decimals": 2
+      }
+     },
+     "body": {
+      "prompt": "Fixkosten {f|eur}, variable Stückkosten pro Paar {kv|eur}, Verkaufspreis pro Paar netto {p|eur}. Berechnen Sie die Break-even-Menge (Paare, gerundet auf ganze Stück).",
+      "answer": "f/(p-kv)",
+      "unit": "Stück",
+      "decimals": 0,
+      "steps": [
+       "db = {p|eur} − {kv|eur}",
+       "Break-even = {f|eur} : db = {result} Stück"
+      ]
+     }
+    },
+    {
+     "key": "ficon-db-t02",
+     "type": "calc",
+     "exam_part": 3,
+     "difficulty": 2,
+     "source": "FiCon LF11 (Unterricht, Prüfungsstil)",
+     "vars": {
+      "p": {
+       "type": "int",
+       "min": 70,
+       "max": 100,
+       "step": 5
+      },
+      "kv": {
+       "type": "int",
+       "min": 40,
+       "max": 65,
+       "step": 5
+      },
+      "f": {
+       "type": "int",
+       "min": 900,
+       "max": 3000,
+       "step": 100
+      }
+     },
+     "body": {
+      "prompt": "Die FAMK verkauft Laptop-Taschen für {p|eur} netto. Variable Stückkosten {kv|eur}, fixe Gesamtkosten {f|eur}. Bei welcher Menge wird der Break-even-Point erreicht?",
+      "answer": "f/(p-kv)",
+      "unit": "Stück",
+      "decimals": 0,
+      "steps": [
+       "db = {p|eur} − {kv|eur}",
+       "BEP = {f|eur} : db"
+      ]
+     }
+    },
+    {
+     "key": "ficon-db-t03",
+     "type": "calc",
+     "exam_part": 3,
+     "difficulty": 2,
+     "source": "FiCon LF11 (Unterricht, Prüfungsstil)",
+     "vars": {
+      "p": {
+       "type": "int",
+       "min": 10,
+       "max": 25,
+       "step": 1
+      },
+      "kv": {
+       "type": "int",
+       "min": 2,
+       "max": 8,
+       "step": 1
+      },
+      "f": {
+       "type": "int",
+       "min": 1000,
+       "max": 4000,
+       "step": 500
+      },
+      "x": {
+       "type": "int",
+       "min": 300,
+       "max": 900,
+       "step": 50
+      }
+     },
+     "body": {
+      "prompt": "Ein Produkt hat Verkaufspreis {p|eur}, variable Stückkosten {kv|eur}, fixe Kosten {f|eur}. Es werden {x} Stück abgesetzt. Wie hoch ist der Gewinn (Verlust negativ)?",
+      "answer": "x*(p-kv)-f",
+      "unit": "€",
+      "decimals": 2,
+      "steps": [
+       "Gesamt-DB = {x} · ({p|eur} − {kv|eur})",
+       "Gewinn = Gesamt-DB − {f|eur} = {result|eur}"
+      ]
+     }
+    },
+    {
+     "key": "ficon-db-t04",
+     "type": "calc",
+     "exam_part": 3,
+     "difficulty": 2,
+     "source": "FiCon LF11 (Unterricht, Prüfungsstil)",
+     "vars": {
+      "x1": {
+       "type": "int",
+       "min": 2000,
+       "max": 3500,
+       "step": 100
+      },
+      "x2": {
+       "type": "int",
+       "min": 3600,
+       "max": 5000,
+       "step": 100
+      },
+      "kv": {
+       "type": "dec",
+       "min": 3,
+       "max": 9,
+       "decimals": 1
+      },
+      "fix": {
+       "type": "int",
+       "min": 15000,
+       "max": 30000,
+       "step": 1000
+      },
+      "k1": {
+       "type": "expr",
+       "expr": "fix+kv*x1",
+       "decimals": 2
+      },
+      "k2": {
+       "type": "expr",
+       "expr": "fix+kv*x2",
+       "decimals": 2
+      }
+     },
+     "body": {
+      "prompt": "Produktionsmenge Monat 1: {x1} Stück, Gesamtkosten {k1|eur}. Monat 2: {x2} Stück, Gesamtkosten {k2|eur}. Wie hoch sind die variablen Stückkosten?",
+      "answer": "(k2-k1)/(x2-x1)",
+      "unit": "€",
+      "decimals": 2,
+      "steps": [
+       "kv = ({k2|eur} − {k1|eur}) : ({x2} − {x1}) = {result|eur}"
+      ]
+     }
+    }
+   ],
+   "cases": [],
+   "summary": {
+    "key": "ficon-db-zettel",
+    "title": "Deckungsbeitragsrechnung & Break-Even",
+    "content_md": "\n**Vollkostenrechnung**: alle Kosten (fix + variabel) werden auf Produkte verteilt – **Preisuntergrenze langfristig = Selbstkosten**.\n**Teilkostenrechnung**: nur **variable Kosten** werden zugerechnet; Fixkosten als Block → **Deckungsbeitrag (DB)**.\n**DB je Stück** = Verkaufspreis (netto) − variable Stückkosten (kv). **Gesamt-DB** = db · Menge. **Gewinn** = Gesamt-DB − Fixkosten.\n**Break-Even-Point (Gewinnschwelle)**: Menge, bei der Erlöse = Gesamtkosten: **x = Kf : db**.\n**Preisuntergrenze kurzfristig** = variable Stückkosten · **langfristig** = Vollkosten.\n**Variable Stückkosten** aus zwei Perioden: **kv = (K₂ − K₁) : (x₂ − x₁)**; **Fixkosten** = K − kv·x.\n**Annahme zusätzlicher Auftrag**: lohnt sich, wenn Preis > kv (DB positiv) und Kapazität frei.\n"
+   }
+  }
+ ]
+}

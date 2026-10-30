@@ -1,0 +1,295 @@
+{
+ "demo": false,
+ "items": [
+  {
+   "topic": "ficon-stundensatz",
+   "flashcards": [
+    {
+     "key": "ficon-stundensatz-c01",
+     "front": "Interner Stundensatz – was ist das?",
+     "back": "Kosten je produktiver Stunde (Personal + Gemeinkosten)."
+    },
+    {
+     "key": "ficon-stundensatz-c02",
+     "front": "Externer Stundensatz?",
+     "back": "Preis für den Kunden: interner Satz plus Gewinnzuschlag."
+    },
+    {
+     "key": "ficon-stundensatz-c03",
+     "front": "Warum sind nicht alle Stunden abrechenbar?",
+     "back": "Urlaub, Krankheit, Feiertage, Weiterbildung, interne Projekte, Akquise."
+    },
+    {
+     "key": "ficon-stundensatz-c04",
+     "front": "Was ist der Auslastungsgrad?",
+     "back": "Anteil der produktiven Stunden an den Anwesenheitsstunden."
+    },
+    {
+     "key": "ficon-stundensatz-c05",
+     "front": "Wie berechnet man produktive Stunden?",
+     "back": "Anwesenheitsstunden · Auslastungsgrad."
+    },
+    {
+     "key": "ficon-stundensatz-c06",
+     "front": "Wie berechnet man Anwesenheitsstunden?",
+     "back": "Jahresstunden − Urlaub, Feiertage, Krankheit."
+    },
+    {
+     "key": "ficon-stundensatz-c07",
+     "front": "Interner Stundensatz berechnen?",
+     "back": "Jahreskosten der Stelle : produktive Stunden."
+    },
+    {
+     "key": "ficon-stundensatz-c08",
+     "front": "Warum ist ein Gewinnzuschlag nötig?",
+     "back": "Um Rücklagen, Risiko und Eigenkapitalverzinsung abzudecken."
+    },
+    {
+     "key": "ficon-stundensatz-c09",
+     "front": "Was passiert, wenn die Auslastung sinkt?",
+     "back": "Der interne Stundensatz steigt, weil die Fixkosten auf weniger Stunden verteilt werden."
+    },
+    {
+     "key": "ficon-stundensatz-c10",
+     "front": "Wofür braucht man Stundensätze?",
+     "back": "Für Angebots- und Projektkalkulationen."
+    }
+   ],
+   "glossary": [
+    {
+     "key": "ficon-stundensatz-g01",
+     "term": "Auslastungsgrad",
+     "definition": "Anteil der produktiven an den verfügbaren Stunden."
+    },
+    {
+     "key": "ficon-stundensatz-g02",
+     "term": "Produktive Stunden",
+     "definition": "Für Kunden abrechenbare Stunden."
+    }
+   ],
+   "questions": [
+    {
+     "key": "ficon-stundensatz-q01",
+     "type": "mc",
+     "exam_part": 3,
+     "difficulty": 2,
+     "source": "FiCon LF11 (Unterricht, Prüfungsstil)",
+     "body": {
+      "prompt": "Der interne Stundensatz beträgt 70 €. Mit 25 % Gewinnzuschlag ergibt sich der externe Satz von…",
+      "options": [
+       {
+        "text": "87,50 €",
+        "correct": true
+       },
+       {
+        "text": "70,00 €",
+        "correct": false
+       },
+       {
+        "text": "75,25 €",
+        "correct": false
+       },
+       {
+        "text": "95,00 €",
+        "correct": false
+       },
+       {
+        "text": "52,50 €",
+        "correct": false
+       }
+      ]
+     }
+    },
+    {
+     "key": "ficon-stundensatz-q02",
+     "type": "mc",
+     "exam_part": 3,
+     "difficulty": 2,
+     "source": "FiCon LF11 (Unterricht, Prüfungsstil)",
+     "body": {
+      "prompt": "Wie wirkt sich eine sinkende Auslastung auf den internen Stundensatz aus?",
+      "options": [
+       {
+        "text": "Er steigt.",
+        "correct": true
+       },
+       {
+        "text": "Er sinkt.",
+        "correct": false
+       },
+       {
+        "text": "Er bleibt gleich.",
+        "correct": false
+       },
+       {
+        "text": "Er wird null.",
+        "correct": false
+       },
+       {
+        "text": "Er entspricht dem Marktpreis.",
+        "correct": false
+       }
+      ]
+     }
+    },
+    {
+     "key": "ficon-stundensatz-q03",
+     "type": "mc",
+     "exam_part": 3,
+     "difficulty": 2,
+     "source": "FiCon LF11 (Unterricht, Prüfungsstil)",
+     "body": {
+      "prompt": "Welche Stunden zählen nicht zu den produktiven Stunden?",
+      "options": [
+       {
+        "text": "Urlaub und interne Weiterbildung",
+        "correct": true
+       },
+       {
+        "text": "Kundenberatung",
+        "correct": false
+       },
+       {
+        "text": "Textarbeit für Kunden",
+        "correct": false
+       },
+       {
+        "text": "Layout für Kunden",
+        "correct": false
+       },
+       {
+        "text": "Kundenpräsentation",
+        "correct": false
+       }
+      ]
+     }
+    },
+    {
+     "key": "ficon-stundensatz-q04",
+     "type": "tf",
+     "exam_part": 3,
+     "difficulty": 2,
+     "source": "FiCon LF11 (Unterricht, Prüfungsstil)",
+     "body": {
+      "statement": "Bei sinkender Auslastung steigt der interne Stundensatz.",
+      "answer": true
+     }
+    },
+    {
+     "key": "ficon-stundensatz-q05",
+     "type": "cloze",
+     "exam_part": 3,
+     "difficulty": 2,
+     "source": "FiCon LF11 (Unterricht, Prüfungsstil)",
+     "body": {
+      "text": "Der [[externe]] Stundensatz enthält im Gegensatz zum [[internen]] den Gewinnzuschlag."
+     }
+    }
+   ],
+   "templates": [
+    {
+     "key": "ficon-stundensatz-t01",
+     "type": "calc",
+     "exam_part": 3,
+     "difficulty": 2,
+     "source": "FiCon LF11 (Unterricht, Prüfungsstil)",
+     "vars": {
+      "k": {
+       "type": "int",
+       "min": 60000,
+       "max": 110000,
+       "step": 5000
+      },
+      "a": {
+       "type": "int",
+       "min": 1650,
+       "max": 1800,
+       "step": 50
+      },
+      "p": {
+       "type": "pick",
+       "options": [
+        65,
+        70,
+        75,
+        80
+       ]
+      }
+     },
+     "body": {
+      "prompt": "Eine Mitarbeiterin verursacht Jahreskosten (Personal + Gemeinkosten) von {k|eur}. Sie ist {a} Stunden anwesend, davon sind {p} % produktiv. Berechnen Sie den internen Stundensatz.",
+      "answer": "k/(a*p/100)",
+      "unit": "€",
+      "decimals": 2,
+      "steps": [
+       "Produktive Stunden = {a} · {p} %",
+       "Interner Satz = {k|eur} : produktive Stunden = {result|eur}"
+      ]
+     }
+    },
+    {
+     "key": "ficon-stundensatz-t02",
+     "type": "calc",
+     "exam_part": 3,
+     "difficulty": 2,
+     "source": "FiCon LF11 (Unterricht, Prüfungsstil)",
+     "vars": {
+      "w": {
+       "type": "pick",
+       "options": [
+        38,
+        39,
+        40
+       ]
+      },
+      "w2": {
+       "type": "expr",
+       "expr": "w/5",
+       "decimals": 1,
+       "fmt": "d1"
+      },
+      "u": {
+       "type": "pick",
+       "options": [
+        28,
+        30
+       ]
+      },
+      "f": {
+       "type": "pick",
+       "options": [
+        9,
+        10
+       ]
+      },
+      "kr": {
+       "type": "pick",
+       "options": [
+        5,
+        8,
+        10
+       ]
+      }
+     },
+     "body": {
+      "prompt": "Wochenarbeitszeit {w} Stunden, 52 Wochen. Abwesend: Urlaub {u} Tage, Feiertage {f} Tage, Krankheit {kr} Tage (je Tag {w2} Stunden, Tagesarbeitszeit = Wochenstunden : 5). Wie viele Anwesenheitsstunden verbleiben?",
+      "answer": "w*52-(u+f+kr)*w/5",
+      "unit": "h",
+      "decimals": 0,
+      "steps": [
+       "Jahresstunden = {w} · 52",
+       "Abwesenheit = ({u} + {f} + {kr}) · Tagesstunden",
+       "Anwesenheit = {result} h"
+      ]
+     }
+    }
+   ],
+   "cases": [],
+   "summary": {
+    "key": "ficon-stundensatz-zettel",
+    "title": "Agenturstundensatz",
+    "content_md": "\n**Interner Stundensatz** = (Personalkosten + anteilige Gemeinkosten) : produktive Stunden → **reiner Kostensatz**.\n**Externer Stundensatz** = interner Satz **+ Gewinnzuschlag** → **Preis** für den Kunden.\nProduktive (abrechenbare) Stunden: Jahresstunden − Urlaub, Feiertage, Krankheit, interne Projekte, Fortbildung (Auslastungsgrad ca. 60–80 %).\n**Rechenwege**\n1. Jahresarbeitsstunden = Wochenstunden × Wochen (z. B. 40 × 52 = 2.080 h)\n2. − Abwesenheit (Urlaub 30 Tage × 8 h, Feiertage, Krankheit)\n3. = Anwesenheitsstunden × Auslastung = produktive Stunden\n4. Jahreskosten der Stelle : produktive Stunden = interner Stundensatz\n5. + Gewinn → externer Stundensatz.\n**Mischkalkulation** mit Honorarsätzen verschiedener Level (Junior, Senior).\n"
+   }
+  }
+ ]
+}

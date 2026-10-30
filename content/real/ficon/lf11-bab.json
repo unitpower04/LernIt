@@ -1,0 +1,501 @@
+{
+ "demo": false,
+ "items": [
+  {
+   "topic": "ficon-bab",
+   "flashcards": [
+    {
+     "key": "ficon-bab-c01",
+     "front": "Aufgabe der Kostenstellenrechnung?",
+     "back": "Gemeinkosten verursachungsgerecht auf Kostenstellen verteilen und Zuschlagssätze bilden."
+    },
+    {
+     "key": "ficon-bab-c02",
+     "front": "Was ist der BAB?",
+     "back": "Betriebsabrechnungsbogen – Tabelle zur Verteilung der Gemeinkosten auf Kostenstellen."
+    },
+    {
+     "key": "ficon-bab-c03",
+     "front": "Nenne Kostenstellen einer Agentur.",
+     "back": "Beratung/Kontakt, Konzeption, Kreation/Text, Media, PR, Produktion, Neue Medien."
+    },
+    {
+     "key": "ficon-bab-c04",
+     "front": "Wie lautet der Gemeinkostenzuschlagssatz?",
+     "back": "Gemeinkosten der Stelle : direkte Personalkosten · 100."
+    },
+    {
+     "key": "ficon-bab-c05",
+     "front": "Wie berechnet man die Selbstkosten einer Kostenstelle?",
+     "back": "Direkte Personalkosten + Gemeinkosten."
+    },
+    {
+     "key": "ficon-bab-c06",
+     "front": "Wie berechnet man den internen Stundensatz?",
+     "back": "Selbstkosten : abgerechnete Stunden."
+    },
+    {
+     "key": "ficon-bab-c07",
+     "front": "Wie berechnet man den externen Stundensatz?",
+     "back": "Interner Stundensatz + Gewinnaufschlag (z. B. ×1,20)."
+    },
+    {
+     "key": "ficon-bab-c08",
+     "front": "Wie verteilt man Mietkosten auf Kostenstellen?",
+     "back": "Nach den genutzten Quadratmetern."
+    },
+    {
+     "key": "ficon-bab-c09",
+     "front": "Verteilungsschlüssel Strom?",
+     "back": "Nach kWh oder Anzahl Geräte/Arbeitsplätze."
+    },
+    {
+     "key": "ficon-bab-c10",
+     "front": "Reihenfolge der Kostenstellenrechnung?",
+     "back": "Gemeinkostenarten übernehmen → verteilen → Gesamtkosten der Stellen → Zuschlagssätze."
+    },
+    {
+     "key": "ficon-bab-c11",
+     "front": "Was sind direkte Personalkosten?",
+     "back": "Lohn-/Gehaltskosten, die direkt einem Auftrag zurechenbar sind (Einzelkosten)."
+    },
+    {
+     "key": "ficon-bab-c12",
+     "front": "Interner vs. externer Stundensatz?",
+     "back": "Intern = Kosten je Stunde; extern = Verkaufspreis je Stunde inkl. Gewinn."
+    },
+    {
+     "key": "ficon-bab-c13",
+     "front": "Wofür braucht man den Zuschlagssatz?",
+     "back": "Um bei Kalkulationen Gemeinkosten auf die Einzelkosten aufzuschlagen."
+    }
+   ],
+   "glossary": [
+    {
+     "key": "ficon-bab-g01",
+     "term": "BAB",
+     "definition": "Betriebsabrechnungsbogen."
+    },
+    {
+     "key": "ficon-bab-g02",
+     "term": "Kostenstelle",
+     "definition": "Betrieblicher Bereich, in dem Kosten anfallen."
+    },
+    {
+     "key": "ficon-bab-g03",
+     "term": "Gemeinkostenzuschlagssatz",
+     "definition": "Anteil der Gemeinkosten an den direkten Personalkosten."
+    },
+    {
+     "key": "ficon-bab-g04",
+     "term": "Interner Stundensatz",
+     "definition": "Kosten je abgerechneter Stunde."
+    },
+    {
+     "key": "ficon-bab-g05",
+     "term": "Externer Stundensatz",
+     "definition": "Preis je Stunde für den Kunden."
+    }
+   ],
+   "questions": [
+    {
+     "key": "ficon-bab-q01",
+     "type": "mc",
+     "exam_part": 3,
+     "difficulty": 2,
+     "source": "FiCon LF11 (Unterricht, Prüfungsstil)",
+     "body": {
+      "prompt": "Wie berechnet sich der Gemeinkostenzuschlagssatz?",
+      "options": [
+       {
+        "text": "Gemeinkosten : direkte Personalkosten · 100",
+        "correct": true
+       },
+       {
+        "text": "Selbstkosten : Gemeinkosten",
+        "correct": false
+       },
+       {
+        "text": "Gewinn : Umsatz",
+        "correct": false
+       },
+       {
+        "text": "Gemeinkosten : Stunden",
+        "correct": false
+       },
+       {
+        "text": "Direkte Personalkosten : Gemeinkosten",
+        "correct": false
+       }
+      ]
+     }
+    },
+    {
+     "key": "ficon-bab-q02",
+     "type": "mc",
+     "exam_part": 3,
+     "difficulty": 2,
+     "source": "FiCon LF11 (Unterricht, Prüfungsstil)",
+     "body": {
+      "prompt": "Wie wird die Miete im BAB üblicherweise verteilt?",
+      "options": [
+       {
+        "text": "Nach Quadratmetern",
+        "correct": true
+       },
+       {
+        "text": "Nach Mitarbeiterzahl",
+        "correct": false
+       },
+       {
+        "text": "Nach Umsatz",
+        "correct": false
+       },
+       {
+        "text": "Gar nicht",
+        "correct": false
+       },
+       {
+        "text": "Nach Gewinn",
+        "correct": false
+       }
+      ]
+     }
+    },
+    {
+     "key": "ficon-bab-q03",
+     "type": "mc",
+     "exam_part": 3,
+     "difficulty": 2,
+     "source": "FiCon LF11 (Unterricht, Prüfungsstil)",
+     "body": {
+      "prompt": "Bringen Sie in gedanklicher Ordnung: Was ist der erste Schritt der Kostenstellenrechnung?",
+      "options": [
+       {
+        "text": "Übernahme der Gemeinkostenarten in den BAB",
+        "correct": true
+       },
+       {
+        "text": "Ermittlung der Zuschlagssätze",
+        "correct": false
+       },
+       {
+        "text": "Gewinnaufschlag berechnen",
+        "correct": false
+       },
+       {
+        "text": "Angebotspreis festlegen",
+        "correct": false
+       },
+       {
+        "text": "Rabatt gewähren",
+        "correct": false
+       }
+      ]
+     }
+    },
+    {
+     "key": "ficon-bab-q04",
+     "type": "mc",
+     "exam_part": 3,
+     "difficulty": 2,
+     "source": "FiCon LF11 (Unterricht, Prüfungsstil)",
+     "body": {
+      "prompt": "Wofür steht der interne Stundensatz?",
+      "options": [
+       {
+        "text": "Kosten je abgerechneter Stunde",
+        "correct": true
+       },
+       {
+        "text": "Verkaufspreis je Stunde",
+        "correct": false
+       },
+       {
+        "text": "Gewinn je Stunde",
+        "correct": false
+       },
+       {
+        "text": "Lohn je Stunde brutto",
+        "correct": false
+       },
+       {
+        "text": "Marktpreis",
+        "correct": false
+       }
+      ]
+     }
+    },
+    {
+     "key": "ficon-bab-q05",
+     "type": "order",
+     "exam_part": 3,
+     "difficulty": 2,
+     "source": "FiCon LF11 (Unterricht, Prüfungsstil)",
+     "body": {
+      "prompt": "Wie erfolgt die Kostenstellenrechnung? Bringen Sie die Schritte in die richtige Reihenfolge.",
+      "items": [
+       "Übernahme der Gemeinkostenarten in den BAB",
+       "Verteilung der Gemeinkosten auf die einzelnen Kostenstellen",
+       "Ermittlung der Gesamtkosten der Kostenstellen",
+       "Ermittlung der Zuschlagssätze für die Kostenstellen"
+      ]
+     }
+    },
+    {
+     "key": "ficon-bab-q06",
+     "type": "match",
+     "exam_part": 3,
+     "difficulty": 2,
+     "source": "FiCon LF11 (Unterricht, Prüfungsstil)",
+     "body": {
+      "prompt": "Ordnen Sie die Formel zu.",
+      "items": [
+       {
+        "term": "Gemeinkostenzuschlagssatz",
+        "match": "Gemeinkosten : direkte Personalkosten"
+       },
+       {
+        "term": "Selbstkosten Stelle",
+        "match": "direkte Personalkosten + Gemeinkosten"
+       },
+       {
+        "term": "interner Stundensatz",
+        "match": "Selbstkosten : Stunden"
+       },
+       {
+        "term": "externer Stundensatz",
+        "match": "interner Stundensatz + Gewinnaufschlag"
+       }
+      ],
+      "distractors": []
+     }
+    },
+    {
+     "key": "ficon-bab-q07",
+     "type": "tf",
+     "exam_part": 3,
+     "difficulty": 2,
+     "explanation": "Er bezieht sich auf die direkten Personalkosten.",
+     "source": "FiCon LF11 (Unterricht, Prüfungsstil)",
+     "body": {
+      "statement": "Der Gemeinkostenzuschlagssatz wird auf die Selbstkosten bezogen.",
+      "answer": false
+     }
+    },
+    {
+     "key": "ficon-bab-q08",
+     "type": "cloze",
+     "exam_part": 3,
+     "difficulty": 2,
+     "source": "FiCon LF11 (Unterricht, Prüfungsstil)",
+     "body": {
+      "text": "Der [[BAB]] verteilt die [[Gemeinkosten]] auf die Kostenstellen."
+     }
+    }
+   ],
+   "templates": [
+    {
+     "key": "ficon-bab-t01",
+     "type": "calc",
+     "exam_part": 3,
+     "difficulty": 2,
+     "source": "FiCon LF11 (Unterricht, Prüfungsstil)",
+     "vars": {
+      "st": {
+       "type": "pick",
+       "options": [
+        "Beratung/Kontakt",
+        "Kreation/Text",
+        "Neue Medien",
+        "Produktion",
+        "Media"
+       ]
+      },
+      "dp": {
+       "type": "int",
+       "min": 12000,
+       "max": 40000,
+       "step": 1000
+      },
+      "gk": {
+       "type": "int",
+       "min": 5000,
+       "max": 30000,
+       "step": 500
+      }
+     },
+     "body": {
+      "prompt": "Die Kostenstelle „{st}“ hat direkte Personalkosten von {dp|eur} und Gemeinkosten von {gk|eur}. Berechnen Sie den Gemeinkostenzuschlagssatz in Prozent.",
+      "answer": "gk/dp*100",
+      "unit": "%",
+      "decimals": 2,
+      "steps": [
+       "{gk|eur} : {dp|eur} · 100 = {result} %"
+      ]
+     }
+    },
+    {
+     "key": "ficon-bab-t02",
+     "type": "calc",
+     "exam_part": 3,
+     "difficulty": 2,
+     "source": "FiCon LF11 (Unterricht, Prüfungsstil)",
+     "vars": {
+      "dp": {
+       "type": "int",
+       "min": 15000,
+       "max": 40000,
+       "step": 1000
+      },
+      "gk": {
+       "type": "int",
+       "min": 8000,
+       "max": 30000,
+       "step": 1000
+      },
+      "h": {
+       "type": "int",
+       "min": 400,
+       "max": 700,
+       "step": 20
+      }
+     },
+     "body": {
+      "prompt": "Die Kostenstelle hat direkte Personalkosten von {dp|eur}, Gemeinkosten von {gk|eur} und {h} abgerechnete Stunden. Wie hoch ist der interne Stundensatz?",
+      "answer": "(dp+gk)/h",
+      "unit": "€",
+      "decimals": 2,
+      "steps": [
+       "Selbstkosten = {dp|eur} + {gk|eur}",
+       "Stundensatz = Selbstkosten : {h} Stunden = {result|eur}"
+      ]
+     }
+    },
+    {
+     "key": "ficon-bab-t03",
+     "type": "calc",
+     "exam_part": 3,
+     "difficulty": 2,
+     "source": "FiCon LF11 (Unterricht, Prüfungsstil)",
+     "vars": {
+      "i": {
+       "type": "int",
+       "min": 55,
+       "max": 95,
+       "step": 1
+      },
+      "g": {
+       "type": "pick",
+       "options": [
+        10,
+        15,
+        20,
+        25
+       ]
+      }
+     },
+     "body": {
+      "prompt": "Der interne Stundensatz beträgt {i|eur}. Die Agentur kalkuliert mit {g} % Gewinnaufschlag. Wie hoch ist der externe Stundensatz?",
+      "answer": "i*(1+g/100)",
+      "unit": "€",
+      "decimals": 2,
+      "steps": [
+       "{i|eur} · (1 + {g} %) = {result|eur}"
+      ]
+     }
+    },
+    {
+     "key": "ficon-bab-t04",
+     "type": "calc",
+     "exam_part": 3,
+     "difficulty": 2,
+     "source": "FiCon LF11 (Unterricht, Prüfungsstil)",
+     "vars": {
+      "h": {
+       "type": "int",
+       "min": 6,
+       "max": 30,
+       "step": 1
+      },
+      "p": {
+       "type": "int",
+       "min": 35,
+       "max": 60,
+       "step": 1
+      },
+      "z": {
+       "type": "pick",
+       "options": [
+        100,
+        105,
+        110,
+        120,
+        125
+       ]
+      }
+     },
+     "body": {
+      "prompt": "Für einen Auftrag fallen {h} Stunden in der Kostenstelle Layout an. Direkte Personalkosten je Stunde {p|eur}, Gemeinkostenzuschlagssatz {z} %. Berechnen Sie die Kosten dieser Stelle für den Auftrag.",
+      "answer": "h*p*(1+z/100)",
+      "unit": "€",
+      "decimals": 2,
+      "steps": [
+       "Stundenkosten = {p|eur} · (1 + {z} %)",
+       "× {h} Stunden = {result|eur}"
+      ]
+     }
+    },
+    {
+     "key": "ficon-bab-t05",
+     "type": "calc",
+     "exam_part": 3,
+     "difficulty": 2,
+     "source": "FiCon LF11 (Unterricht, Prüfungsstil)",
+     "vars": {
+      "m": {
+       "type": "int",
+       "min": 4000,
+       "max": 8000,
+       "step": 400
+      },
+      "a": {
+       "type": "int",
+       "min": 60,
+       "max": 120,
+       "step": 10
+      },
+      "b": {
+       "type": "int",
+       "min": 100,
+       "max": 220,
+       "step": 10
+      },
+      "c": {
+       "type": "int",
+       "min": 80,
+       "max": 160,
+       "step": 10
+      }
+     },
+     "body": {
+      "prompt": "Die Mietkosten von {m|eur} werden nach Fläche auf drei Teams verteilt (Team 1 {a} m², Team 2 {b} m², Team 3 {c} m²). Wie viel entfällt auf Team 1?",
+      "answer": "m*a/(a+b+c)",
+      "unit": "€",
+      "decimals": 2,
+      "steps": [
+       "Gesamtfläche = {a} + {b} + {c} m²",
+       "Anteil Team 1 = {m|eur} · {a} : Gesamtfläche = {result|eur}"
+      ]
+     }
+    }
+   ],
+   "cases": [],
+   "summary": {
+    "key": "ficon-bab-zettel",
+    "title": "Kostenstellenrechnung & BAB",
+    "content_md": "\n**Kostenstellen** in der Agentur: Beratung/Kontakt, Konzeption, Kreation/Text, Media, PR, Produktion, Neue Medien (je nach Agentur) und Verwaltung.\n**BAB (Betriebsabrechnungsbogen)**: Verteilung der **Gemeinkosten** auf Kostenstellen.\n**Ablauf**: (1) Gemeinkostenarten in den BAB übernehmen · (2) Verteilung auf Kostenstellen (nach Verteilungsschlüssel, z. B. Miete nach m²) · (3) Summe Gemeinkosten je Kostenstelle · (4) **Zuschlagssatz** ermitteln.\n**Gemeinkostenzuschlagssatz** = Gemeinkosten der Stelle : **direkte Personalkosten** × 100.\n**Selbstkosten** der Stelle = direkte Personalkosten + Gemeinkosten.\n**Interner Stundensatz** = Selbstkosten : abgerechnete Stunden (**Kosten**).\n**Externer Stundensatz** = interner Stundensatz × (1 + Gewinnzuschlag) (**Preis**).\n**Auftragskosten** intern: Stunden × (direkte Personalkosten je Stunde × (1 + Zuschlagssatz)).\n"
+   }
+  }
+ ]
+}

@@ -191,7 +191,7 @@ const sv = T("politik-sozialvers")
   .summary("Sozialversicherung & Künstlersozialkasse", `
 **5 Säulen**: **Kranken-** (14,6 % + Zusatzbeitrag), **Renten-** (18,6 %), **Arbeitslosen-** (2,6 %), **Pflege-** (3,6 % + Zuschlag Kinderlose), **Unfallversicherung** (nur Arbeitgeber, Berufsgenossenschaft).
 **Paritätisch** (je 50 %): Kranken-, Renten-, Arbeitslosen-, Pflegeversicherung; Unfall: 100 % Arbeitgeber.
-**Sozialversicherungspflicht** für Arbeitnehmer; **Beitragsbemessungsgrenzen** (bis dahin Beitragspflicht); **Versicherungspflichtgrenze** KV; Minijob (≤ 556 € [2025]) pauschal.
+**Sozialversicherungspflicht** für Arbeitnehmer; **Beitragsbemessungsgrenzen** (bis dahin Beitragspflicht); **Versicherungspflichtgrenze** KV; Minijob (≤ 603 € [2026]) pauschal.
 **Prinzipien**: Solidarprinzip, Umlageverfahren (Rente: Generationenvertrag), Äquivalenzprinzip, Versicherungspflicht.
 **Künstlersozialkasse (KSK)**: Selbstständige Künstler/Publizisten (Grafiker, Texter, Fotografen) zahlen **50 % Beiträge**, 50 % **Bund (20 %) und Verwerter/Künstlersozialabgabe (30 %)**. **Verwerter** (Agenturen, Verlage, Werbefirmen, die Künstleraufträge vergeben) zahlen **Künstlersozialabgabe** auf **Honorare** an selbstständige Künstler (Satz jährlich, z. B. 5 %). Nicht auf Honorare an juristische Personen (GmbH).
 `)
@@ -203,7 +203,7 @@ const sv = T("politik-sozialvers")
     ["Was ist das Umlageverfahren?", "Die laufenden Beiträge der Erwerbstätigen finanzieren die aktuellen Renten (Generationenvertrag)."],
     ["Was ist die Beitragsbemessungsgrenze?", "Bis zu diesem Einkommen werden Beiträge erhoben; darüber hinaus nicht."],
     ["Wer meldet Arbeitnehmer zur Sozialversicherung an?", "Der Arbeitgeber."],
-    ["Was ist ein Minijob?", "Geringfügige Beschäftigung bis zur Verdienstgrenze (556 € mtl. in 2025); pauschale Abgaben des Arbeitgebers."],
+    ["Was ist ein Minijob?", "Geringfügige Beschäftigung bis zur Verdienstgrenze (603 € mtl. in 2026); pauschale Abgaben des Arbeitgebers."],
     ["Was ist die KSK?", "Künstlersozialkasse – Sozialversicherung für selbstständige Künstler und Publizisten."],
     ["Wer zahlt die Beiträge zur KSK?", "50 % der Versicherte, 50 % Verwerter (Künstlersozialabgabe) und Bund."],
     ["Wer ist Verwerter im Sinne der KSK?", "Unternehmen, die Aufträge an selbstständige Künstler vergeben (Agenturen, Verlage, Werbetreibende)."],

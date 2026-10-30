@@ -1,0 +1,366 @@
+{
+ "demo": false,
+ "items": [
+  {
+   "topic": "ficon-kostenarten",
+   "flashcards": [
+    {
+     "key": "ficon-kostenarten-c01",
+     "front": "Wozu dient die Ergebnistabelle?",
+     "back": "Abgrenzung von Aufwendungen/Erträgen der FiBu zu Kosten/Leistungen der KLR."
+    },
+    {
+     "key": "ficon-kostenarten-c02",
+     "front": "Was sind neutrale Aufwendungen?",
+     "back": "Betriebsfremde, periodenfremde oder außerordentliche Aufwendungen – nicht in der KLR."
+    },
+    {
+     "key": "ficon-kostenarten-c03",
+     "front": "Was sind Grundkosten?",
+     "back": "Aufwendungen, die in FiBu und KLR in gleicher Höhe anfallen (Zweckaufwand)."
+    },
+    {
+     "key": "ficon-kostenarten-c04",
+     "front": "Was sind Anderskosten?",
+     "back": "Kosten, die in der KLR mit anderem Wert angesetzt werden als in der FiBu (z. B. kalkulatorische Abschreibung)."
+    },
+    {
+     "key": "ficon-kostenarten-c05",
+     "front": "Was sind Zusatzkosten?",
+     "back": "Kosten ohne Aufwand in der FiBu, z. B. kalkulatorischer Unternehmerlohn, Eigenkapitalzinsen."
+    },
+    {
+     "key": "ficon-kostenarten-c06",
+     "front": "Warum kalkulatorischer Unternehmerlohn?",
+     "back": "Einzelunternehmer/Gesellschafter erhalten kein Gehalt, ihre Arbeit muss aber kalkuliert werden."
+    },
+    {
+     "key": "ficon-kostenarten-c07",
+     "front": "Warum kalkulatorische Zinsen?",
+     "back": "Auch Eigenkapital hat Opportunitätskosten – Zins auf das betriebsnotwendige Kapital."
+    },
+    {
+     "key": "ficon-kostenarten-c08",
+     "front": "Warum kalkulatorische Abschreibung?",
+     "back": "Sie orientiert sich am Wiederbeschaffungswert und der tatsächlichen Nutzung."
+    },
+    {
+     "key": "ficon-kostenarten-c09",
+     "front": "Wie berechnet man die kalkulatorische Abschreibung?",
+     "back": "Wiederbeschaffungswert : Nutzungsdauer."
+    },
+    {
+     "key": "ficon-kostenarten-c10",
+     "front": "Einzelkosten vs. Gemeinkosten?",
+     "back": "Einzelkosten direkt einem Auftrag zuordenbar, Gemeinkosten nur über BAB/Schlüssel."
+    },
+    {
+     "key": "ficon-kostenarten-c11",
+     "front": "Beispiele Einzelkosten in einer Agentur?",
+     "back": "Fremdleistungen (Fotograf, Druck), direkte Personalkosten (Stunden)."
+    },
+    {
+     "key": "ficon-kostenarten-c12",
+     "front": "Beispiele Gemeinkosten in einer Agentur?",
+     "back": "Miete, Strom, Verwaltung, Versicherung, Abschreibungen."
+    },
+    {
+     "key": "ficon-kostenarten-c13",
+     "front": "Fixe vs. variable Kosten?",
+     "back": "Fixe fallen unabhängig von der Menge an, variable ändern sich mit der Menge."
+    },
+    {
+     "key": "ficon-kostenarten-c14",
+     "front": "Beispiel neutraler Aufwand?",
+     "back": "Spende, Verlust aus Anlagenverkauf, Steuernachzahlung für Vorjahre."
+    },
+    {
+     "key": "ficon-kostenarten-c15",
+     "front": "Was sind kalkulatorische Wagnisse?",
+     "back": "Einkalkulierte Risiken (z. B. Forderungsausfälle) als Anderskosten."
+    }
+   ],
+   "glossary": [
+    {
+     "key": "ficon-kostenarten-g01",
+     "term": "Grundkosten",
+     "definition": "Kosten mit gleichem Aufwand in der FiBu."
+    },
+    {
+     "key": "ficon-kostenarten-g02",
+     "term": "Anderskosten",
+     "definition": "Kosten, die in der KLR anders bewertet werden als in der FiBu."
+    },
+    {
+     "key": "ficon-kostenarten-g03",
+     "term": "Zusatzkosten",
+     "definition": "Kosten ohne korrespondierenden Aufwand."
+    },
+    {
+     "key": "ficon-kostenarten-g04",
+     "term": "Einzelkosten",
+     "definition": "Direkt einem Kostenträger zurechenbare Kosten."
+    },
+    {
+     "key": "ficon-kostenarten-g05",
+     "term": "Gemeinkosten",
+     "definition": "Nicht direkt zurechenbare Kosten."
+    }
+   ],
+   "questions": [
+    {
+     "key": "ficon-kostenarten-q01",
+     "type": "mc",
+     "exam_part": 3,
+     "difficulty": 2,
+     "source": "FiCon LF11 (Unterricht, Prüfungsstil)",
+     "body": {
+      "prompt": "Der Geschäftsführer-Gesellschafter erhält kein Gehalt, in der Kalkulation wird aber ein Betrag angesetzt. Wie nennt man das?",
+      "options": [
+       {
+        "text": "Kalkulatorischer Unternehmerlohn (Zusatzkosten)",
+        "correct": true
+       },
+       {
+        "text": "Neutraler Aufwand",
+        "correct": false
+       },
+       {
+        "text": "Grundkosten",
+        "correct": false
+       },
+       {
+        "text": "Anderskosten",
+        "correct": false
+       },
+       {
+        "text": "Zweckaufwand",
+        "correct": false
+       }
+      ]
+     }
+    },
+    {
+     "key": "ficon-kostenarten-q02",
+     "type": "mc",
+     "exam_part": 3,
+     "difficulty": 2,
+     "source": "FiCon LF11 (Unterricht, Prüfungsstil)",
+     "body": {
+      "prompt": "Die Agentur spendet 1.000 € an ein Tierheim. Wie wird das in der KLR behandelt?",
+      "options": [
+       {
+        "text": "Als neutraler Aufwand – nicht in der KLR",
+        "correct": true
+       },
+       {
+        "text": "Als Grundkosten",
+        "correct": false
+       },
+       {
+        "text": "Als Zusatzkosten",
+        "correct": false
+       },
+       {
+        "text": "Als Anderskosten",
+        "correct": false
+       },
+       {
+        "text": "Als Einzelkosten",
+        "correct": false
+       }
+      ]
+     }
+    },
+    {
+     "key": "ficon-kostenarten-q03",
+     "type": "mc",
+     "exam_part": 3,
+     "difficulty": 2,
+     "source": "FiCon LF11 (Unterricht, Prüfungsstil)",
+     "body": {
+      "prompt": "Welche Aussage zu den Anderskosten ist richtig?",
+      "options": [
+       {
+        "text": "Sie unterscheiden sich in der Höhe von den Aufwendungen der FiBu.",
+        "correct": true
+       },
+       {
+        "text": "Sie sind betriebsfremd.",
+        "correct": false
+       },
+       {
+        "text": "Sie fallen nur in der KLR an.",
+        "correct": false
+       },
+       {
+        "text": "Sie sind immer gleich dem Aufwand.",
+        "correct": false
+       },
+       {
+        "text": "Sie sind neutrale Erträge.",
+        "correct": false
+       }
+      ]
+     }
+    },
+    {
+     "key": "ficon-kostenarten-q04",
+     "type": "mc",
+     "exam_part": 3,
+     "difficulty": 2,
+     "source": "FiCon LF11 (Unterricht, Prüfungsstil)",
+     "body": {
+      "prompt": "Welche Kosten sind Gemeinkosten?",
+      "options": [
+       {
+        "text": "Büromiete",
+        "correct": true
+       },
+       {
+        "text": "Fremdleistung Fotograf (einem Auftrag zuordenbar)",
+        "correct": false
+       },
+       {
+        "text": "Direkte Stunden eines Projekts",
+        "correct": false
+       },
+       {
+        "text": "Druckkosten eines bestimmten Flyers",
+        "correct": false
+       },
+       {
+        "text": "Material für ein Kundenprojekt",
+        "correct": false
+       }
+      ]
+     }
+    },
+    {
+     "key": "ficon-kostenarten-q05",
+     "type": "match",
+     "exam_part": 3,
+     "difficulty": 2,
+     "source": "FiCon LF11 (Unterricht, Prüfungsstil)",
+     "body": {
+      "prompt": "Ordnen Sie jede Position der Kostenart zu.",
+      "items": [
+       {
+        "term": "Gehälter in FiBu und KLR gleich",
+        "match": "Grundkosten"
+       },
+       {
+        "term": "Kalkulatorische Abschreibung zum Wiederbeschaffungswert",
+        "match": "Anderskosten"
+       },
+       {
+        "term": "Kalkulatorischer Unternehmerlohn",
+        "match": "Zusatzkosten"
+       },
+       {
+        "term": "Spende an Verein",
+        "match": "neutraler Aufwand"
+       }
+      ],
+      "distractors": []
+     }
+    },
+    {
+     "key": "ficon-kostenarten-q06",
+     "type": "tf",
+     "exam_part": 3,
+     "difficulty": 2,
+     "source": "FiCon LF11 (Unterricht, Prüfungsstil)",
+     "body": {
+      "statement": "Zusatzkosten haben in der Finanzbuchhaltung keinen Aufwand als Gegenstück.",
+      "answer": true
+     }
+    },
+    {
+     "key": "ficon-kostenarten-q07",
+     "type": "cloze",
+     "exam_part": 3,
+     "difficulty": 2,
+     "source": "FiCon LF11 (Unterricht, Prüfungsstil)",
+     "body": {
+      "text": "Kosten setzen sich zusammen aus [[Grundkosten]], [[Anderskosten]] und [[Zusatzkosten]]."
+     }
+    }
+   ],
+   "templates": [
+    {
+     "key": "ficon-kostenarten-t01",
+     "type": "calc",
+     "exam_part": 3,
+     "difficulty": 2,
+     "source": "FiCon LF11 (Unterricht, Prüfungsstil)",
+     "vars": {
+      "w": {
+       "type": "int",
+       "min": 9000,
+       "max": 30000,
+       "step": 1500
+      },
+      "n": {
+       "type": "pick",
+       "options": [
+        3,
+        4,
+        5,
+        6
+       ]
+      }
+     },
+     "body": {
+      "prompt": "Ein Kamerasystem (Wiederbeschaffungswert {w|eur}) wird kalkulatorisch über {n} Jahre abgeschrieben. Wie hoch ist die kalkulatorische Abschreibung pro Jahr?",
+      "answer": "w/n",
+      "unit": "€",
+      "decimals": 2,
+      "steps": [
+       "{w|eur} : {n} = {result|eur}"
+      ]
+     }
+    },
+    {
+     "key": "ficon-kostenarten-t02",
+     "type": "calc",
+     "exam_part": 3,
+     "difficulty": 2,
+     "source": "FiCon LF11 (Unterricht, Prüfungsstil)",
+     "vars": {
+      "k": {
+       "type": "int",
+       "min": 60000,
+       "max": 300000,
+       "step": 20000
+      },
+      "z": {
+       "type": "pick",
+       "options": [
+        3,
+        4,
+        5,
+        6
+       ]
+      }
+     },
+     "body": {
+      "prompt": "Das betriebsnotwendige Eigenkapital beträgt {k|eur}. Kalkulatorischer Zinssatz {z} %. Berechnen Sie die kalkulatorischen Zinsen pro Jahr.",
+      "answer": "k*z/100",
+      "unit": "€",
+      "decimals": 2,
+      "steps": [
+       "{k|eur} · {z} % = {result|eur}"
+      ]
+     }
+    }
+   ],
+   "cases": [],
+   "summary": {
+    "key": "ficon-kostenarten-zettel",
+    "title": "Kostenartenrechnung (Ergebnistabelle)",
+    "content_md": "\n**Ergebnistabelle**: Abgrenzung der **Finanzbuchhaltung** (Aufwand/Ertrag) von der **KLR** (Kosten/Leistungen).\n- **neutrale Aufwendungen** (nicht betriebsbedingt, betriebsfremd, periodenfremd, außerordentlich: Spenden, Verluste aus Anlageverkauf, Steuernachzahlungen) → nicht in KLR\n- **Zweckaufwand = Grundkosten**: gleicher Betrag in FiBu und KLR (z. B. Gehälter, Miete)\n- **Anderskosten**: andere Beträge, z. B. **kalkulatorische Abschreibung** (Wiederbeschaffungswert) statt bilanzielle AfA; kalkulatorische Wagnisse\n- **Zusatzkosten**: nur in der KLR, kein Aufwand: **kalk. Unternehmerlohn** (Einzelunternehmer/Gesellschafter), **kalk. Eigenkapitalzinsen**, **kalk. Miete**\n- **Kosten** = Grundkosten + Anderskosten + Zusatzkosten\n- **Kalk. Abschreibung** = Wiederbeschaffungswert : Nutzungsdauer · **Kalk. Zinsen** = ½ (Anschaffung+Restwert) · Zinssatz / (betriebsnotwendiges Kapital · Zins) · **Kalk. Unternehmerlohn** = Gehalt vergleichbarer Angestellter.\n**Einzelkosten** (direkt zurechenbar: Fremdleistungen, Fertigungslohn) vs. **Gemeinkosten** (indirekt: Miete, Verwaltung). **Fixe** und **variable** Kosten.\n"
+   }
+  }
+ ]
+}
