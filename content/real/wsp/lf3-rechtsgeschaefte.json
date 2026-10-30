@@ -1,0 +1,618 @@
+{
+ "demo": false,
+ "items": [
+  {
+   "topic": "wsp-lf3-rechtsgeschaefte",
+   "flashcards": [
+    {
+     "key": "wsp-lf3-rechtsgeschaefte-c01",
+     "front": "Was ist ein Rechtsgeschäft?",
+     "back": "Ein Tatbestand aus mindestens einer Willenserklärung, der eine Rechtsfolge herbeiführen soll."
+    },
+    {
+     "key": "wsp-lf3-rechtsgeschaefte-c02",
+     "front": "Was ist ein einseitiges Rechtsgeschäft?",
+     "back": "Es kommt durch die Willenserklärung nur einer Person zustande (z. B. Kündigung, Testament)."
+    },
+    {
+     "key": "wsp-lf3-rechtsgeschaefte-c03",
+     "front": "Was ist ein zweiseitiges Rechtsgeschäft?",
+     "back": "Es kommt durch zwei übereinstimmende Willenserklärungen (Antrag und Annahme) zustande – der Vertrag."
+    },
+    {
+     "key": "wsp-lf3-rechtsgeschaefte-c04",
+     "front": "Beispiel empfangsbedürftige Willenserklärung?",
+     "back": "Kündigung, Mahnung, Anfechtung – sie muss dem Empfänger zugehen."
+    },
+    {
+     "key": "wsp-lf3-rechtsgeschaefte-c05",
+     "front": "Beispiel nicht empfangsbedürftige Willenserklärung?",
+     "back": "Das Testament."
+    },
+    {
+     "key": "wsp-lf3-rechtsgeschaefte-c06",
+     "front": "Beispiel einseitig verpflichtender Vertrag?",
+     "back": "Schenkung, Leihe (nur eine Seite hat Pflichten)."
+    },
+    {
+     "key": "wsp-lf3-rechtsgeschaefte-c07",
+     "front": "Beispiel zweiseitig verpflichtender Vertrag?",
+     "back": "Kaufvertrag, Mietvertrag, Werkvertrag (beide haben Pflichten)."
+    },
+    {
+     "key": "wsp-lf3-rechtsgeschaefte-c08",
+     "front": "Was besagt der Grundsatz der Formfreiheit?",
+     "back": "Rechtsgeschäfte sind grundsätzlich an keine Form gebunden (mündlich, schriftlich, konkludent)."
+    },
+    {
+     "key": "wsp-lf3-rechtsgeschaefte-c09",
+     "front": "Was ist konkludentes Verhalten?",
+     "back": "Eine Willenserklärung durch schlüssiges Verhalten, z. B. Einsteigen in den Bus oder Ware aufs Band legen."
+    },
+    {
+     "key": "wsp-lf3-rechtsgeschaefte-c10",
+     "front": "Was bedeutet Abschlussfreiheit?",
+     "back": "Jeder darf frei entscheiden, ob und mit wem er einen Vertrag schließt."
+    },
+    {
+     "key": "wsp-lf3-rechtsgeschaefte-c11",
+     "front": "Was bedeutet Inhaltsfreiheit?",
+     "back": "Verträge dürfen im Rahmen der Gesetze frei gestaltet werden."
+    },
+    {
+     "key": "wsp-lf3-rechtsgeschaefte-c12",
+     "front": "Beispiel gesetzliche Schriftform?",
+     "back": "Darlehensvertrag, Kündigung des Arbeitsvertrags, Ausbildungsvertrag."
+    },
+    {
+     "key": "wsp-lf3-rechtsgeschaefte-c13",
+     "front": "Was ist eine öffentliche Beglaubigung?",
+     "back": "Ein Notar bestätigt die Echtheit der Unterschrift (z. B. Handelsregisteranmeldung, Erbausschlagung)."
+    },
+    {
+     "key": "wsp-lf3-rechtsgeschaefte-c14",
+     "front": "Was ist eine notarielle Beurkundung?",
+     "back": "Strengste Form: Der Notar beurkundet den gesamten Inhalt (z. B. Grundstückskauf, GmbH-Gründung)."
+    },
+    {
+     "key": "wsp-lf3-rechtsgeschaefte-c15",
+     "front": "Was bedeutet Nichtigkeit?",
+     "back": "Das Rechtsgeschäft ist von Anfang an unwirksam."
+    },
+    {
+     "key": "wsp-lf3-rechtsgeschaefte-c16",
+     "front": "Nenne Nichtigkeitsgründe.",
+     "back": "Formmangel (§ 125), Geschäftsunfähigkeit (§ 105), gesetzliches Verbot (§ 134), Sittenwidrigkeit/Wucher (§ 138), Scheingeschäft (§ 117), Scherzgeschäft (§ 118)."
+    },
+    {
+     "key": "wsp-lf3-rechtsgeschaefte-c17",
+     "front": "Beispiel Nichtigkeit wegen Formmangels?",
+     "back": "Ein Grundstückskauf ohne notarielle Beurkundung."
+    },
+    {
+     "key": "wsp-lf3-rechtsgeschaefte-c18",
+     "front": "Beispiel Verstoß gegen ein gesetzliches Verbot (§ 134)?",
+     "back": "Kauf von Betäubungsmitteln."
+    },
+    {
+     "key": "wsp-lf3-rechtsgeschaefte-c19",
+     "front": "Beispiel Wucher (§ 138)?",
+     "back": "Ausnutzen einer Zwangslage zu einem auffälligen Missverhältnis von Leistung und Gegenleistung."
+    },
+    {
+     "key": "wsp-lf3-rechtsgeschaefte-c20",
+     "front": "Was bedeutet Anfechtbarkeit?",
+     "back": "Das Geschäft ist zunächst wirksam, kann aber rückwirkend durch Anfechtung vernichtet werden."
+    },
+    {
+     "key": "wsp-lf3-rechtsgeschaefte-c21",
+     "front": "Anfechtungsgründe?",
+     "back": "Irrtum (§ 119) sowie arglistige Täuschung oder widerrechtliche Drohung (§ 123)."
+    },
+    {
+     "key": "wsp-lf3-rechtsgeschaefte-c22",
+     "front": "Nenne die Arten des Irrtums.",
+     "back": "Inhaltsirrtum, Erklärungsirrtum, Übermittlungsirrtum, Eigenschaftsirrtum."
+    },
+    {
+     "key": "wsp-lf3-rechtsgeschaefte-c23",
+     "front": "Beispiel Erklärungsirrtum?",
+     "back": "Versehentlich 121,30 € statt 12,31 € im Angebot geschrieben."
+    },
+    {
+     "key": "wsp-lf3-rechtsgeschaefte-c24",
+     "front": "Beispiel Eigenschaftsirrtum?",
+     "back": "Ein Kunstinteressierter hält eine Kopie für ein Original."
+    },
+    {
+     "key": "wsp-lf3-rechtsgeschaefte-c25",
+     "front": "Beispiel Übermittlungsirrtum?",
+     "back": "Ein Bote richtet eine Erklärung falsch aus."
+    },
+    {
+     "key": "wsp-lf3-rechtsgeschaefte-c26",
+     "front": "Frist für die Anfechtung wegen Irrtums?",
+     "back": "Unverzüglich (ohne schuldhaftes Zögern) nach Kenntnis des Irrtums."
+    },
+    {
+     "key": "wsp-lf3-rechtsgeschaefte-c27",
+     "front": "Frist für die Anfechtung wegen Täuschung oder Drohung?",
+     "back": "Binnen 1 Jahr nach Entdeckung der Täuschung bzw. Ende der Zwangslage."
+    },
+    {
+     "key": "wsp-lf3-rechtsgeschaefte-c28",
+     "front": "Wann ist eine Anfechtung endgültig ausgeschlossen?",
+     "back": "Zehn Jahre nach Abgabe der Willenserklärung."
+    },
+    {
+     "key": "wsp-lf3-rechtsgeschaefte-c29",
+     "front": "Nichtigkeit vs. Anfechtbarkeit?",
+     "back": "Nichtig: von Anfang an unwirksam. Anfechtbar: wirksam, bis angefochten – dann rückwirkend nichtig."
+    }
+   ],
+   "glossary": [
+    {
+     "key": "wsp-lf3-rechtsgeschaefte-g01",
+     "term": "Willenserklärung",
+     "definition": "Äußerung eines Rechtsfolgewillens (z. B. Angebot, Annahme)."
+    },
+    {
+     "key": "wsp-lf3-rechtsgeschaefte-g02",
+     "term": "Konkludentes Verhalten",
+     "definition": "Willenserklärung durch schlüssiges Handeln, ohne Worte."
+    },
+    {
+     "key": "wsp-lf3-rechtsgeschaefte-g03",
+     "term": "Nichtigkeit",
+     "definition": "Von Anfang an bestehende Unwirksamkeit eines Rechtsgeschäfts."
+    },
+    {
+     "key": "wsp-lf3-rechtsgeschaefte-g04",
+     "term": "Anfechtung",
+     "definition": "Erklärung, mit der ein wirksames Rechtsgeschäft rückwirkend vernichtet wird."
+    },
+    {
+     "key": "wsp-lf3-rechtsgeschaefte-g05",
+     "term": "Notarielle Beurkundung",
+     "definition": "Form, bei der ein Notar den Inhalt eines Vertrags beurkundet."
+    }
+   ],
+   "questions": [
+    {
+     "key": "wsp-lf3-rechtsgeschaefte-q01",
+     "type": "mc",
+     "exam_part": 2,
+     "difficulty": 2,
+     "source": "WSP LF3 (Unterricht)",
+     "body": {
+      "prompt": "Welches Rechtsgeschäft bedarf zu seiner Wirksamkeit der notariellen Beurkundung?",
+      "options": [
+       {
+        "text": "Kauf eines Grundstücks",
+        "correct": true
+       },
+       {
+        "text": "Kauf einer Kaffeemaschine",
+        "correct": false
+       },
+       {
+        "text": "Mietvertrag über ein Büro für 6 Monate",
+        "correct": false
+       },
+       {
+        "text": "Ausbildungsvertrag",
+        "correct": false
+       },
+       {
+        "text": "Bestellung von Büromaterial",
+        "correct": false
+       }
+      ]
+     }
+    },
+    {
+     "key": "wsp-lf3-rechtsgeschaefte-q02",
+     "type": "mc",
+     "exam_part": 2,
+     "difficulty": 2,
+     "source": "WSP LF3 (Unterricht)",
+     "body": {
+      "prompt": "Wie ist ein Grundstückskaufvertrag ohne notarielle Beurkundung zu beurteilen?",
+      "options": [
+       {
+        "text": "Er ist wegen Formmangels nichtig.",
+        "correct": true
+       },
+       {
+        "text": "Er ist anfechtbar.",
+        "correct": false
+       },
+       {
+        "text": "Er ist voll wirksam.",
+        "correct": false
+       },
+       {
+        "text": "Er ist schwebend unwirksam.",
+        "correct": false
+       },
+       {
+        "text": "Er ist nur gegenüber Minderjährigen nichtig.",
+        "correct": false
+       }
+      ]
+     }
+    },
+    {
+     "key": "wsp-lf3-rechtsgeschaefte-q03",
+     "type": "mc",
+     "exam_part": 2,
+     "difficulty": 2,
+     "source": "WSP LF3 (Unterricht)",
+     "body": {
+      "prompt": "Eine Sekretärin schreibt versehentlich 121,30 € statt 12,31 € in ein Angebot. Welcher Irrtum liegt vor?",
+      "options": [
+       {
+        "text": "Erklärungsirrtum",
+        "correct": true
+       },
+       {
+        "text": "Inhaltsirrtum",
+        "correct": false
+       },
+       {
+        "text": "Übermittlungsirrtum",
+        "correct": false
+       },
+       {
+        "text": "Eigenschaftsirrtum",
+        "correct": false
+       },
+       {
+        "text": "Motivirrtum (unbeachtlich)",
+        "correct": false
+       }
+      ]
+     }
+    },
+    {
+     "key": "wsp-lf3-rechtsgeschaefte-q04",
+     "type": "mc",
+     "exam_part": 2,
+     "difficulty": 2,
+     "source": "WSP LF3 (Unterricht)",
+     "body": {
+      "prompt": "Ein Bote übermittelt eine Bestellung falsch. Welche Irrtumsart liegt vor?",
+      "options": [
+       {
+        "text": "Übermittlungsirrtum",
+        "correct": true
+       },
+       {
+        "text": "Erklärungsirrtum",
+        "correct": false
+       },
+       {
+        "text": "Inhaltsirrtum",
+        "correct": false
+       },
+       {
+        "text": "Eigenschaftsirrtum",
+        "correct": false
+       },
+       {
+        "text": "Kein Irrtum",
+        "correct": false
+       }
+      ]
+     }
+    },
+    {
+     "key": "wsp-lf3-rechtsgeschaefte-q05",
+     "type": "mc",
+     "exam_part": 2,
+     "difficulty": 2,
+     "source": "WSP LF3 (Unterricht)",
+     "body": {
+      "prompt": "Ein Kunde kauft ein „Originalgemälde“ und erhält eine Kopie. Welche Anfechtung ist möglich?",
+      "options": [
+       {
+        "text": "Anfechtung wegen Eigenschaftsirrtums",
+        "correct": true
+       },
+       {
+        "text": "Anfechtung wegen Drohung",
+        "correct": false
+       },
+       {
+        "text": "Nichtigkeit wegen Formmangels",
+        "correct": false
+       },
+       {
+        "text": "Nichtigkeit wegen Scheingeschäfts",
+        "correct": false
+       },
+       {
+        "text": "Keine Anfechtung möglich",
+        "correct": false
+       }
+      ]
+     }
+    },
+    {
+     "key": "wsp-lf3-rechtsgeschaefte-q06",
+     "type": "mc",
+     "exam_part": 2,
+     "difficulty": 2,
+     "source": "WSP LF3 (Unterricht)",
+     "body": {
+      "prompt": "Innerhalb welcher Frist muss eine Anfechtung wegen arglistiger Täuschung erfolgen?",
+      "options": [
+       {
+        "text": "Innerhalb eines Jahres nach Entdeckung",
+        "correct": true
+       },
+       {
+        "text": "Unverzüglich",
+        "correct": false
+       },
+       {
+        "text": "Innerhalb von 2 Wochen",
+        "correct": false
+       },
+       {
+        "text": "Innerhalb von 3 Jahren",
+        "correct": false
+       },
+       {
+        "text": "Innerhalb von 6 Monaten",
+        "correct": false
+       }
+      ]
+     }
+    },
+    {
+     "key": "wsp-lf3-rechtsgeschaefte-q07",
+     "type": "mc",
+     "exam_part": 2,
+     "difficulty": 2,
+     "source": "WSP LF3 (Unterricht)",
+     "body": {
+      "prompt": "Welche Aussage zu Willenserklärungen ist richtig?",
+      "options": [
+       {
+        "text": "Willenserklärungen sind grundsätzlich formfrei und können auch durch schlüssiges Verhalten abgegeben werden.",
+        "correct": true
+       },
+       {
+        "text": "Jede Willenserklärung muss schriftlich erfolgen.",
+        "correct": false
+       },
+       {
+        "text": "Nur mündliche Erklärungen sind gültig.",
+        "correct": false
+       },
+       {
+        "text": "Schweigen ist immer eine Zustimmung.",
+        "correct": false
+       },
+       {
+        "text": "Willenserklärungen sind immer notariell zu beurkunden.",
+        "correct": false
+       }
+      ]
+     }
+    },
+    {
+     "key": "wsp-lf3-rechtsgeschaefte-q08",
+     "type": "mc",
+     "exam_part": 2,
+     "difficulty": 2,
+     "source": "WSP LF3 (Unterricht)",
+     "body": {
+      "prompt": "Wie wird eine Gestaltung bezeichnet, die zu einem auffälligen Missverhältnis von Leistung und Gegenleistung unter Ausnutzung einer Zwangslage führt?",
+      "options": [
+       {
+        "text": "Wucher – das Geschäft ist sittenwidrig und nichtig (§ 138 BGB).",
+        "correct": true
+       },
+       {
+        "text": "Scheingeschäft",
+        "correct": false
+       },
+       {
+        "text": "Irrtum",
+        "correct": false
+       },
+       {
+        "text": "Anfechtung",
+        "correct": false
+       },
+       {
+        "text": "Genehmigung",
+        "correct": false
+       }
+      ]
+     }
+    },
+    {
+     "key": "wsp-lf3-rechtsgeschaefte-q09",
+     "type": "match",
+     "exam_part": 2,
+     "difficulty": 2,
+     "source": "WSP LF3 (Unterricht)",
+     "body": {
+      "prompt": "Ordnen Sie den Beispielen die Art des Rechtsgeschäfts zu.",
+      "items": [
+       {
+        "term": "Kündigung eines Mietvertrags",
+        "match": "einseitige empfangsbedürftige Willenserklärung"
+       },
+       {
+        "term": "Testament",
+        "match": "einseitige nicht empfangsbedürftige Willenserklärung"
+       },
+       {
+        "term": "Kaufvertrag über ein Notebook",
+        "match": "zweiseitig verpflichtender Vertrag"
+       },
+       {
+        "term": "Schenkung von 10.000 € ohne Gegenleistung",
+        "match": "einseitig verpflichtender Vertrag"
+       }
+      ],
+      "distractors": []
+     }
+    },
+    {
+     "key": "wsp-lf3-rechtsgeschaefte-q10",
+     "type": "match",
+     "exam_part": 2,
+     "difficulty": 2,
+     "source": "WSP LF3 (Unterricht)",
+     "body": {
+      "prompt": "Ordnen Sie jede Formvorschrift dem passenden Beispiel zu.",
+      "items": [
+       {
+        "term": "gesetzliche Schriftform",
+        "match": "Darlehensvertrag"
+       },
+       {
+        "term": "öffentliche Beglaubigung",
+        "match": "Anmeldung zum Handelsregister"
+       },
+       {
+        "term": "notarielle Beurkundung",
+        "match": "Grundstückskaufvertrag"
+       },
+       {
+        "term": "Formfreiheit",
+        "match": "Kauf eines Kaffees"
+       }
+      ],
+      "distractors": []
+     }
+    },
+    {
+     "key": "wsp-lf3-rechtsgeschaefte-q11",
+     "type": "match",
+     "exam_part": 2,
+     "difficulty": 2,
+     "source": "WSP LF3 (Unterricht)",
+     "body": {
+      "prompt": "Ordnen Sie jeder Rechtsfolge den Grund zu.",
+      "items": [
+       {
+        "term": "nichtig wegen Formmangels",
+        "match": "Wohnungskauf ohne Notar"
+       },
+       {
+        "term": "nichtig wegen Geschäftsunfähigkeit",
+        "match": "Vertragsabschluss durch ein 5-jähriges Kind"
+       },
+       {
+        "term": "anfechtbar wegen Täuschung",
+        "match": "Gebrauchtwagen mit verschwiegenem Unfallschaden"
+       },
+       {
+        "term": "anfechtbar wegen Irrtums",
+        "match": "Preisangabe versehentlich um eine Stelle verrutscht"
+       }
+      ],
+      "distractors": []
+     }
+    },
+    {
+     "key": "wsp-lf3-rechtsgeschaefte-q12",
+     "type": "tf",
+     "exam_part": 2,
+     "difficulty": 2,
+     "explanation": "Es ist wirksam, bis es angefochten wird.",
+     "source": "WSP LF3 (Unterricht)",
+     "body": {
+      "statement": "Ein anfechtbares Rechtsgeschäft ist von Anfang an unwirksam.",
+      "answer": false
+     }
+    },
+    {
+     "key": "wsp-lf3-rechtsgeschaefte-q13",
+     "type": "tf",
+     "exam_part": 2,
+     "difficulty": 2,
+     "source": "WSP LF3 (Unterricht)",
+     "body": {
+      "statement": "Für den Abschluss eines Kaufvertrags über Büromaterial ist keine Form vorgeschrieben.",
+      "answer": true
+     }
+    },
+    {
+     "key": "wsp-lf3-rechtsgeschaefte-q14",
+     "type": "tf",
+     "exam_part": 2,
+     "difficulty": 2,
+     "source": "WSP LF3 (Unterricht)",
+     "body": {
+      "statement": "Die Anfechtung wegen Irrtums muss unverzüglich nach Kenntnis erfolgen.",
+      "answer": true
+     }
+    },
+    {
+     "key": "wsp-lf3-rechtsgeschaefte-q15",
+     "type": "cloze",
+     "exam_part": 2,
+     "difficulty": 2,
+     "source": "WSP LF3 (Unterricht)",
+     "body": {
+      "text": "Die [[Nichtigkeit]] eines Rechtsgeschäfts besteht von Anfang an; eine [[Anfechtung]] wirkt rückwirkend."
+     }
+    },
+    {
+     "key": "wsp-lf3-rechtsgeschaefte-q16",
+     "type": "cloze",
+     "exam_part": 2,
+     "difficulty": 2,
+     "source": "WSP LF3 (Unterricht)",
+     "body": {
+      "text": "Die strengste Form eines Rechtsgeschäfts ist die [[notarielle Beurkundung]]."
+     }
+    },
+    {
+     "key": "wsp-lf3-rechtsgeschaefte-q17",
+     "type": "error",
+     "exam_part": 2,
+     "difficulty": 2,
+     "source": "WSP LF3 (Unterricht)",
+     "body": {
+      "prompt": "Welche Aussagen zu Rechtsgeschäften sind fehlerhaft?",
+      "items": [
+       {
+        "text": "Ein Darlehensvertrag bedarf der gesetzlichen Schriftform.",
+        "wrong": false
+       },
+       {
+        "text": "Ein Scheingeschäft ist anfechtbar.",
+        "wrong": true,
+        "fix": "Es ist nichtig (§ 117 BGB)."
+       },
+       {
+        "text": "Die Kündigung ist eine einseitige, empfangsbedürftige Willenserklärung.",
+        "wrong": false
+       },
+       {
+        "text": "Verträge dürfen grundsätzlich nicht von den Gesetzen abweichen.",
+        "wrong": true,
+        "fix": "Es gilt Inhaltsfreiheit im Rahmen der Gesetze."
+       }
+      ]
+     }
+    }
+   ],
+   "templates": [],
+   "cases": [],
+   "summary": {
+    "key": "wsp-lf3-rechtsgeschaefte-zettel",
+    "title": "Rechtsgeschäfte, Form, Nichtigkeit & Anfechtung",
+    "content_md": "\n**Rechtsgeschäft** = mindestens eine Willenserklärung, die eine Rechtswirkung herbeiführen soll.\n- **Einseitig**: *empfangsbedürftig* (Kündigung, Anfechtung, Mahnung) · *nicht empfangsbedürftig* (Testament)\n- **Zweiseitig** (Vertrag): zwei übereinstimmende Willenserklärungen (Antrag + Annahme) – *zweiseitig verpflichtend* (Kauf, Miete, Werk) oder *einseitig verpflichtend* (Schenkung, Leihe)\n\n**Form**: Grundsatz der **Formfreiheit** (mündlich, schriftlich, schlüssiges = konkludentes Verhalten). Vorgeschrieben ist Form z. B. bei: **gesetzliche Schriftform** (Darlehensvertrag, Bürgschaft*, Kündigung Arbeitsvertrag) · **öffentliche Beglaubigung** (Unterschrift vom Notar bestätigt: Anmeldung zum Handelsregister, Erbausschlagung) · **notarielle Beurkundung** (Grundstückskauf, GmbH-Gründung).\nWeitere Freiheiten: Abschluss- und Inhaltsfreiheit.\n\n**Nichtig** (von Anfang an unwirksam): Formmangel (§ 125) · Geschäftsunfähigkeit (§ 105) · Verstoß gegen ein gesetzliches Verbot (§ 134) · Sittenwidrigkeit/Wucher (§ 138) · Scheingeschäft (§ 117) · Scherzgeschäft (§ 118).\n\n**Anfechtbar** (zunächst wirksam, kann rückwirkend vernichtet werden):\n- **Irrtum** (§ 119): Inhalts-, Erklärungs-, Übermittlungs-, Eigenschaftsirrtum – Anfechtung **unverzüglich** nach Kenntnis\n- **arglistige Täuschung / widerrechtliche Drohung** (§ 123) – Anfechtung **binnen 1 Jahr**\n- Anfechtung ist ausgeschlossen nach **10 Jahren**.\n"
+   }
+  }
+ ]
+}

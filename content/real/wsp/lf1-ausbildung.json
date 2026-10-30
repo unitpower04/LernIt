@@ -1,0 +1,801 @@
+{
+ "demo": false,
+ "items": [
+  {
+   "topic": "wsp-lf1-ausbildung",
+   "flashcards": [
+    {
+     "key": "wsp-lf1-ausbildung-c01",
+     "front": "Welches Gesetz regelt die duale Berufsausbildung?",
+     "back": "Das Berufsbildungsgesetz (BBiG)."
+    },
+    {
+     "key": "wsp-lf1-ausbildung-c02",
+     "front": "Was ist die „zuständige Stelle“ für Kaufleute für Marketingkommunikation?",
+     "back": "Die Industrie- und Handelskammer (IHK)."
+    },
+    {
+     "key": "wsp-lf1-ausbildung-c03",
+     "front": "Was enthält die Ausbildungsordnung?",
+     "back": "Ausbildungsdauer, Berufsbild, Ausbildungsrahmenplan, Prüfungsanforderungen."
+    },
+    {
+     "key": "wsp-lf1-ausbildung-c04",
+     "front": "Wo stehen die Lerninhalte der Berufsschule?",
+     "back": "Im Rahmenlehrplan (Länderebene), nicht in der Ausbildungsordnung."
+    },
+    {
+     "key": "wsp-lf1-ausbildung-c05",
+     "front": "Wie lang ist die Probezeit im Ausbildungsverhältnis?",
+     "back": "Mindestens 1, höchstens 4 Monate."
+    },
+    {
+     "key": "wsp-lf1-ausbildung-c06",
+     "front": "Wie kann in der Probezeit gekündigt werden?",
+     "back": "Jederzeit ohne Frist und ohne Angabe von Gründen (schriftlich)."
+    },
+    {
+     "key": "wsp-lf1-ausbildung-c07",
+     "front": "Wie kann nach der Probezeit gekündigt werden?",
+     "back": "Ausbildender nur aus wichtigem Grund (fristlos). Azubi mit 4 Wochen Frist bei Berufsaufgabe/-wechsel."
+    },
+    {
+     "key": "wsp-lf1-ausbildung-c08",
+     "front": "Muss der Ausbildungsvertrag schriftlich sein?",
+     "back": "Ja. Er ist wirksam, auch wenn die IHK-Eintragung noch fehlt."
+    },
+    {
+     "key": "wsp-lf1-ausbildung-c09",
+     "front": "Nenne vier Rechte eines Auszubildenden.",
+     "back": "Vergütung, kostenlose Ausbildungsmittel, Freistellung für Berufsschule/Prüfungen, Zeugnis, Urlaub."
+    },
+    {
+     "key": "wsp-lf1-ausbildung-c10",
+     "front": "Nenne vier Pflichten eines Auszubildenden.",
+     "back": "Lernpflicht, Weisungsgebundenheit, Schweigepflicht, Berufsschulbesuch, Berichtsheft führen."
+    },
+    {
+     "key": "wsp-lf1-ausbildung-c11",
+     "front": "Darf ein Azubi zum Putzen der Büros eingeteilt werden?",
+     "back": "Nein – nur Aufgaben, die dem Ausbildungszweck dienen."
+    },
+    {
+     "key": "wsp-lf1-ausbildung-c12",
+     "front": "Wann endet das Ausbildungsverhältnis?",
+     "back": "Mit Ablauf der Ausbildungszeit – bei früherem Bestehen der Abschlussprüfung mit deren Bestehen."
+    },
+    {
+     "key": "wsp-lf1-ausbildung-c13",
+     "front": "Was gilt, wenn der Azubi die Abschlussprüfung nicht besteht?",
+     "back": "Auf Verlangen verlängert sich das Ausbildungsverhältnis bis zur Wiederholungsprüfung (max. 1 Jahr)."
+    },
+    {
+     "key": "wsp-lf1-ausbildung-c14",
+     "front": "Wer ist Jugendlicher nach dem JArbSchG?",
+     "back": "15 bis unter 18 Jahre. Unter 15 = Kind."
+    },
+    {
+     "key": "wsp-lf1-ausbildung-c15",
+     "front": "Maximale tägliche und wöchentliche Arbeitszeit Jugendlicher?",
+     "back": "8 Stunden pro Tag, 40 Stunden pro Woche (5-Tage-Woche)."
+    },
+    {
+     "key": "wsp-lf1-ausbildung-c16",
+     "front": "Ruhepausen nach JArbSchG?",
+     "back": "30 Minuten bei mehr als 4,5 bis 6 Stunden, 60 Minuten bei mehr als 6 Stunden. Eine Pause dauert mind. 15 Minuten."
+    },
+    {
+     "key": "wsp-lf1-ausbildung-c17",
+     "front": "Mindestruhezeit nach Arbeitsende (Jugendliche)?",
+     "back": "12 Stunden."
+    },
+    {
+     "key": "wsp-lf1-ausbildung-c18",
+     "front": "Nachtarbeitsverbot für Jugendliche?",
+     "back": "Keine Beschäftigung zwischen 20 und 6 Uhr (Ausnahmen in bestimmten Branchen)."
+    },
+    {
+     "key": "wsp-lf1-ausbildung-c19",
+     "front": "Urlaub nach JArbSchG?",
+     "back": "30 Werktage (unter 16), 27 Werktage (unter 17), 25 Werktage (unter 18)."
+    },
+    {
+     "key": "wsp-lf1-ausbildung-c20",
+     "front": "Berufsschule und Jugendliche: Was gilt am Schultag?",
+     "back": "Bei mindestens 5 Unterrichtsstunden (à 45 Min) dürfen Jugendliche danach nicht mehr im Betrieb beschäftigt werden."
+    },
+    {
+     "key": "wsp-lf1-ausbildung-c21",
+     "front": "Wer trägt die Kosten für Ausbildungsmittel (Werkzeug, Fachliteratur für Prüfungen)?",
+     "back": "Der Ausbildende – kostenlos für den Azubi."
+    },
+    {
+     "key": "wsp-lf1-ausbildung-c22",
+     "front": "Voraussetzungen der Zulassung zur Abschlussprüfung?",
+     "back": "Ausbildungszeit zurückgelegt, Teilnahme an der Zwischenprüfung, Ausbildungsnachweis geführt, Eintrag im Verzeichnis der Berufsausbildungsverhältnisse."
+    },
+    {
+     "key": "wsp-lf1-ausbildung-c23",
+     "front": "Spielt der Leistungsstand im Betrieb eine Rolle für die Zulassung zur Abschlussprüfung?",
+     "back": "Nein."
+    },
+    {
+     "key": "wsp-lf1-ausbildung-c24",
+     "front": "Muss ein Jugendlicher ärztlich untersucht werden?",
+     "back": "Ja – Erstuntersuchung vor Beginn, Nachuntersuchung nach einem Jahr."
+    }
+   ],
+   "glossary": [
+    {
+     "key": "wsp-lf1-ausbildung-g01",
+     "term": "Ausbildungsordnung",
+     "definition": "Verordnung, die Dauer, Berufsbild, Ausbildungsrahmenplan und Prüfung eines Ausbildungsberufs regelt."
+    },
+    {
+     "key": "wsp-lf1-ausbildung-g02",
+     "term": "Probezeit",
+     "definition": "Erste Zeit des Ausbildungsverhältnisses (1–4 Monate), in der jederzeit ohne Frist gekündigt werden kann."
+    },
+    {
+     "key": "wsp-lf1-ausbildung-g03",
+     "term": "Ausbildungsnachweis",
+     "definition": "Berichtsheft: Dokumentation der Ausbildungsinhalte; Voraussetzung für die Prüfungszulassung."
+    },
+    {
+     "key": "wsp-lf1-ausbildung-g04",
+     "term": "Jugendlicher (JArbSchG)",
+     "definition": "Person von 15 bis unter 18 Jahren."
+    },
+    {
+     "key": "wsp-lf1-ausbildung-g05",
+     "term": "Zuständige Stelle",
+     "definition": "Stelle, die Ausbildung überwacht und Prüfungen abnimmt – hier die IHK."
+    }
+   ],
+   "questions": [
+    {
+     "key": "wsp-lf1-ausbildung-q01",
+     "type": "mc",
+     "exam_part": 2,
+     "difficulty": 2,
+     "source": "WSP LF1 (Unterricht)",
+     "body": {
+      "prompt": "Welche Aussage zur Probezeit im Berufsausbildungsvertrag entspricht der gesetzlichen Bestimmung?",
+      "options": [
+       {
+        "text": "Die Probezeit muss mindestens einen und darf höchstens vier Monate betragen.",
+        "correct": true
+       },
+       {
+        "text": "Die Probezeit beträgt ausnahmslos vier Monate.",
+        "correct": false
+       },
+       {
+        "text": "Die Probezeit kann bis zu sechs Monate betragen.",
+        "correct": false
+       },
+       {
+        "text": "Die Probezeit beträgt 28 Tage.",
+        "correct": false
+       },
+       {
+        "text": "Die Probezeit ist freiwillig und kann entfallen.",
+        "correct": false
+       }
+      ]
+     }
+    },
+    {
+     "key": "wsp-lf1-ausbildung-q02",
+     "type": "mc",
+     "exam_part": 2,
+     "difficulty": 2,
+     "source": "WSP LF1 (Unterricht)",
+     "body": {
+      "prompt": "Welche Aussage zum Berufsausbildungsvertrag trifft zu?",
+      "options": [
+       {
+        "text": "Dauer der Probezeit und Art/Umfang des Berufsschulunterrichts sind Bestandteil des Vertrags.",
+        "correct": true
+       },
+       {
+        "text": "Der Vertrag ist erst rechtskräftig, wenn er bei der IHK eingetragen ist.",
+        "correct": false
+       },
+       {
+        "text": "Der Vertrag muss eine Probezeit von sechs Monaten ausweisen.",
+        "correct": false
+       },
+       {
+        "text": "Der Auszubildende stellt dem Ausbilder am Ende ein Zeugnis aus.",
+        "correct": false
+       },
+       {
+        "text": "Der Vertrag regelt auch alle Rechtsverhältnisse nach der Arbeitszeit.",
+        "correct": false
+       }
+      ]
+     }
+    },
+    {
+     "key": "wsp-lf1-ausbildung-q03",
+     "type": "mc",
+     "exam_part": 2,
+     "difficulty": 2,
+     "explanation": "Der Rahmenlehrplan der Schule ist Ländersache.",
+     "source": "WSP LF1 (Unterricht)",
+     "body": {
+      "prompt": "Welche Regelung ist in der Ausbildungsordnung nicht zu finden?",
+      "options": [
+       {
+        "text": "Der Rahmenlehrplan der Berufsschule",
+        "correct": true
+       },
+       {
+        "text": "Die Ausbildungsdauer",
+        "correct": false
+       },
+       {
+        "text": "Das Ausbildungsberufsbild",
+        "correct": false
+       },
+       {
+        "text": "Der Ausbildungsrahmenplan",
+        "correct": false
+       },
+       {
+        "text": "Die Prüfungsanforderungen",
+        "correct": false
+       }
+      ]
+     }
+    },
+    {
+     "key": "wsp-lf1-ausbildung-q04",
+     "type": "mc",
+     "exam_part": 2,
+     "difficulty": 2,
+     "source": "WSP LF1 (Unterricht)",
+     "body": {
+      "prompt": "Welche Institution ist die „zuständige Stelle“ im Sinne des BBiG für Kaufleute für Marketingkommunikation?",
+      "options": [
+       {
+        "text": "Die Industrie- und Handelskammer",
+        "correct": true
+       },
+       {
+        "text": "Die Berufsgenossenschaft",
+        "correct": false
+       },
+       {
+        "text": "Die Agentur für Arbeit",
+        "correct": false
+       },
+       {
+        "text": "Die Berufsschule",
+        "correct": false
+       },
+       {
+        "text": "Der Betriebsrat",
+        "correct": false
+       }
+      ]
+     }
+    },
+    {
+     "key": "wsp-lf1-ausbildung-q05",
+     "type": "mc",
+     "exam_part": 2,
+     "difficulty": 2,
+     "source": "WSP LF1 (Unterricht)",
+     "body": {
+      "prompt": "In welchem Fall wird einem Auszubildenden die Zulassung zur Abschlussprüfung nicht gewährt?",
+      "options": [
+       {
+        "text": "Er hat nicht an der Zwischenprüfung teilgenommen.",
+        "correct": true
+       },
+       {
+        "text": "Die Leistungen im Betrieb sind unterdurchschnittlich.",
+        "correct": false
+       },
+       {
+        "text": "Die Berufsschulnoten im Rechnungswesen sind mangelhaft.",
+        "correct": false
+       },
+       {
+        "text": "Er war vier Wochen vor der Prüfung krank.",
+        "correct": false
+       },
+       {
+        "text": "Die Zwischenprüfung wurde nach 24 Monaten abgelegt.",
+        "correct": false
+       }
+      ]
+     }
+    },
+    {
+     "key": "wsp-lf1-ausbildung-q06",
+     "type": "mc",
+     "exam_part": 2,
+     "difficulty": 2,
+     "explanation": "Mindestprobezeit = 1 Monat.",
+     "source": "WSP LF1 (Unterricht)",
+     "body": {
+      "prompt": "Maja Müller beginnt am 1. August eine Ausbildung. Der Vertrag sieht die kürzestmögliche gesetzliche Probezeit vor. Wann endet sie?",
+      "options": [
+       {
+        "text": "Am 31. August (Ablauf des ersten Monats)",
+        "correct": true
+       },
+       {
+        "text": "Am 30. November",
+        "correct": false
+       },
+       {
+        "text": "Am 14. August",
+        "correct": false
+       },
+       {
+        "text": "Am 31. Dezember",
+        "correct": false
+       },
+       {
+        "text": "Am 31. Januar des Folgejahres",
+        "correct": false
+       }
+      ]
+     }
+    },
+    {
+     "key": "wsp-lf1-ausbildung-q07",
+     "type": "mc",
+     "exam_part": 2,
+     "difficulty": 2,
+     "explanation": "Für Jugendliche gelten 8 h/Tag und 40 h/Woche.",
+     "source": "WSP LF1 (Unterricht)",
+     "body": {
+      "prompt": "Eine 17-jährige Auszubildende wird 12 Stunden täglich auf einer Messe eingesetzt. Welche Aussage ist richtig?",
+      "options": [
+       {
+        "text": "Das ist unzulässig: Jugendliche dürfen höchstens 8 Stunden täglich beschäftigt werden.",
+        "correct": true
+       },
+       {
+        "text": "Das ist zulässig, wenn der Betrieb es anordnet.",
+        "correct": false
+       },
+       {
+        "text": "Das ist zulässig bis 10 Stunden mit Ausgleich in 6 Monaten.",
+        "correct": false
+       },
+       {
+        "text": "Das ist zulässig, wenn die Berufsschule zustimmt.",
+        "correct": false
+       },
+       {
+        "text": "Das ist zulässig bei Messen immer.",
+        "correct": false
+       }
+      ]
+     }
+    },
+    {
+     "key": "wsp-lf1-ausbildung-q08",
+     "type": "mc",
+     "exam_part": 2,
+     "difficulty": 2,
+     "source": "WSP LF1 (Unterricht)",
+     "body": {
+      "prompt": "Ein 17-jähriger Azubi hat Berufsschule mit 7 Unterrichtsstunden. Darf er danach in den Betrieb gerufen werden?",
+      "options": [
+       {
+        "text": "Nein – nach mindestens 5 Unterrichtsstunden darf er nicht mehr im Betrieb beschäftigt werden.",
+        "correct": true
+       },
+       {
+        "text": "Ja, der Betrieb darf ihn noch 4 Stunden einsetzen.",
+        "correct": false
+       },
+       {
+        "text": "Ja, wenn er zustimmt.",
+        "correct": false
+       },
+       {
+        "text": "Ja, bis 22 Uhr.",
+        "correct": false
+       },
+       {
+        "text": "Nur an Samstagen nachzuholen.",
+        "correct": false
+       }
+      ]
+     }
+    },
+    {
+     "key": "wsp-lf1-ausbildung-q09",
+     "type": "mc",
+     "exam_part": 2,
+     "difficulty": 2,
+     "source": "WSP LF1 (Unterricht)",
+     "body": {
+      "prompt": "Welche der folgenden Handlungen gehört nicht zu den Pflichten des Auszubildenden?",
+      "options": [
+       {
+        "text": "Die Ausbildungsmittel für die Prüfungen selbst zu bezahlen",
+        "correct": true
+       },
+       {
+        "text": "Aufgetragene Aufgaben sorgfältig auszuführen",
+        "correct": false
+       },
+       {
+        "text": "Weisungen des Ausbilders zu befolgen",
+        "correct": false
+       },
+       {
+        "text": "Die Betriebsordnung zu beachten",
+        "correct": false
+       },
+       {
+        "text": "Über Betriebsgeheimnisse zu schweigen",
+        "correct": false
+       }
+      ]
+     }
+    },
+    {
+     "key": "wsp-lf1-ausbildung-q10",
+     "type": "mc",
+     "exam_part": 2,
+     "difficulty": 2,
+     "source": "WSP LF1 (Unterricht)",
+     "body": {
+      "prompt": "Eine Auszubildende bemängelt, dass sie 14 Tage am Empfang eingesetzt wird. Welche Aussage ist richtig?",
+      "options": [
+       {
+        "text": "Der Einsatz ist zulässig, wenn er dem Ausbildungszweck dient (Kennenlernen des Betriebs).",
+        "correct": true
+       },
+       {
+        "text": "Der Einsatz ist unzulässig, weil Empfang nicht zum Beruf gehört.",
+        "correct": false
+       },
+       {
+        "text": "Der Einsatz ist nur mit Zustimmung der IHK zulässig.",
+        "correct": false
+       },
+       {
+        "text": "Der Einsatz ist nur bei Volljährigen erlaubt.",
+        "correct": false
+       },
+       {
+        "text": "Der Einsatz muss unbezahlt bleiben.",
+        "correct": false
+       }
+      ]
+     }
+    },
+    {
+     "key": "wsp-lf1-ausbildung-q11",
+     "type": "match",
+     "exam_part": 2,
+     "difficulty": 2,
+     "source": "WSP LF1 (Unterricht)",
+     "body": {
+      "prompt": "Ordnen Sie jede Regelung der zutreffenden Altersgruppe/Regel zu.",
+      "items": [
+       {
+        "term": "Maximale Tagesarbeitszeit",
+        "match": "8 Stunden"
+       },
+       {
+        "term": "Pause bei mehr als 6 Stunden Arbeit",
+        "match": "60 Minuten"
+       },
+       {
+        "term": "Mindestruhezeit nach Arbeitsende",
+        "match": "12 Stunden"
+       },
+       {
+        "term": "Probezeit im Ausbildungsverhältnis",
+        "match": "1 bis 4 Monate"
+       }
+      ],
+      "distractors": [
+       "30 Minuten",
+       "10 Stunden",
+       "6 Monate"
+      ]
+     }
+    },
+    {
+     "key": "wsp-lf1-ausbildung-q12",
+     "type": "match",
+     "exam_part": 2,
+     "difficulty": 2,
+     "source": "WSP LF1 (Unterricht)",
+     "body": {
+      "prompt": "Ordnen Sie jedem Jugendlichen den Urlaubsanspruch (Werktage) zu.",
+      "items": [
+       {
+        "term": "15 Jahre alt",
+        "match": "30 Werktage"
+       },
+       {
+        "term": "16 Jahre alt",
+        "match": "27 Werktage"
+       },
+       {
+        "term": "17 Jahre alt",
+        "match": "25 Werktage"
+       }
+      ],
+      "distractors": [
+       "24 Werktage"
+      ]
+     }
+    },
+    {
+     "key": "wsp-lf1-ausbildung-q13",
+     "type": "match",
+     "exam_part": 2,
+     "difficulty": 2,
+     "source": "WSP LF1 (Unterricht)",
+     "body": {
+      "prompt": "Ordnen Sie Ereignis und Kündigungsregel zu.",
+      "items": [
+       {
+        "term": "Kündigung in der Probezeit",
+        "match": "jederzeit ohne Frist und Grund"
+       },
+       {
+        "term": "Azubi will Beruf wechseln (nach der Probezeit)",
+        "match": "4 Wochen Frist"
+       },
+       {
+        "term": "Ausbildender kündigt nach der Probezeit",
+        "match": "nur aus wichtigem Grund"
+       }
+      ],
+      "distractors": []
+     }
+    },
+    {
+     "key": "wsp-lf1-ausbildung-q14",
+     "type": "tf",
+     "exam_part": 2,
+     "difficulty": 2,
+     "explanation": "Er ist ab Unterschrift wirksam; die Eintragung ist für die Prüfungszulassung nötig.",
+     "source": "WSP LF1 (Unterricht)",
+     "body": {
+      "statement": "Ein Ausbildungsvertrag ist erst wirksam, wenn er bei der IHK eingetragen wurde.",
+      "answer": false
+     }
+    },
+    {
+     "key": "wsp-lf1-ausbildung-q15",
+     "type": "tf",
+     "exam_part": 2,
+     "difficulty": 2,
+     "source": "WSP LF1 (Unterricht)",
+     "body": {
+      "statement": "Der Ausbildende darf in der Probezeit ohne Einhaltung einer Frist kündigen.",
+      "answer": true
+     }
+    },
+    {
+     "key": "wsp-lf1-ausbildung-q16",
+     "type": "tf",
+     "exam_part": 2,
+     "difficulty": 2,
+     "source": "WSP LF1 (Unterricht)",
+     "body": {
+      "statement": "Jugendliche dürfen grundsätzlich von 20 bis 6 Uhr nicht beschäftigt werden.",
+      "answer": true
+     }
+    },
+    {
+     "key": "wsp-lf1-ausbildung-q17",
+     "type": "tf",
+     "exam_part": 2,
+     "difficulty": 2,
+     "explanation": "Auf Verlangen verlängert es sich bis zur Wiederholungsprüfung (max. 1 Jahr).",
+     "source": "WSP LF1 (Unterricht)",
+     "body": {
+      "statement": "Nach dem Nichtbestehen der Abschlussprüfung endet das Ausbildungsverhältnis sofort.",
+      "answer": false
+     }
+    },
+    {
+     "key": "wsp-lf1-ausbildung-q18",
+     "type": "cloze",
+     "exam_part": 2,
+     "difficulty": 1,
+     "source": "WSP LF1 (Unterricht)",
+     "body": {
+      "text": "Die Probezeit beträgt mindestens [[1]] und höchstens [[4]] Monate."
+     }
+    },
+    {
+     "key": "wsp-lf1-ausbildung-q19",
+     "type": "cloze",
+     "exam_part": 2,
+     "difficulty": 1,
+     "source": "WSP LF1 (Unterricht)",
+     "body": {
+      "text": "Jugendliche dürfen höchstens [[8]] Stunden täglich und [[40]] Stunden wöchentlich arbeiten."
+     }
+    },
+    {
+     "key": "wsp-lf1-ausbildung-q20",
+     "type": "cloze",
+     "exam_part": 2,
+     "difficulty": 2,
+     "source": "WSP LF1 (Unterricht)",
+     "body": {
+      "text": "Bei einer Arbeitszeit von mehr als 6 Stunden müssen Jugendlichen mindestens [[60]] Minuten Pause gewährt werden."
+     }
+    },
+    {
+     "key": "wsp-lf1-ausbildung-q21",
+     "type": "error",
+     "exam_part": 2,
+     "difficulty": 2,
+     "source": "WSP LF1 (Unterricht)",
+     "body": {
+      "prompt": "Welche Aussagen zum Ausbildungsverhältnis sind fehlerhaft?",
+      "items": [
+       {
+        "text": "Die Probezeit beträgt mindestens einen Monat.",
+        "wrong": false
+       },
+       {
+        "text": "Auszubildende müssen ihre Ausbildungsmittel selbst bezahlen.",
+        "wrong": true,
+        "fix": "Der Ausbildende stellt sie kostenlos zur Verfügung."
+       },
+       {
+        "text": "Der Ausbildungsvertrag muss schriftlich abgeschlossen werden.",
+        "wrong": false
+       },
+       {
+        "text": "Auszubildende dürfen als billige Arbeitskräfte für Reinigungsarbeiten eingesetzt werden.",
+        "wrong": true,
+        "fix": "Nur ausbildungsdienliche Tätigkeiten sind erlaubt."
+       }
+      ]
+     }
+    },
+    {
+     "key": "wsp-lf1-ausbildung-q22",
+     "type": "order",
+     "exam_part": 2,
+     "difficulty": 1,
+     "source": "WSP LF1 (Unterricht)",
+     "body": {
+      "prompt": "Bringen Sie den Ablauf eines Ausbildungsverhältnisses in die richtige Reihenfolge.",
+      "items": [
+       "Abschluss des Ausbildungsvertrags",
+       "Probezeit",
+       "Zwischenprüfung",
+       "Zulassung zur Abschlussprüfung",
+       "Abschlussprüfung und Ende der Ausbildung"
+      ]
+     }
+    }
+   ],
+   "templates": [
+    {
+     "key": "wsp-lf1-ausbildung-t01",
+     "type": "calc",
+     "exam_part": 2,
+     "difficulty": 2,
+     "source": "WSP LF1 (Unterricht)",
+     "vars": {
+      "firma": {
+       "type": "pick",
+       "options": [
+        "FAMK",
+        "Kreativ-Kontor",
+        "Mediahaus Rhein",
+        "Pixelwerk GmbH"
+       ]
+      },
+      "tage": {
+       "type": "int",
+       "min": 5,
+       "max": 5,
+       "step": 1
+      },
+      "name": {
+       "type": "pick",
+       "options": [
+        "Frau Edel",
+        "Herr Yilmaz",
+        "Frau Rademacher",
+        "Herr Sander"
+       ]
+      },
+      "alter": {
+       "type": "int",
+       "min": 18,
+       "max": 25,
+       "step": 1
+      },
+      "pct": {
+       "type": "pick",
+       "options": [
+        10,
+        20,
+        25,
+        30,
+        40,
+        50
+       ]
+      }
+     },
+     "body": {
+      "prompt": "In der {firma} gilt eine {tage}-Tage-Woche. Im Ausbildungsvertrag von {name} ({alter} Jahre) soll vereinbart werden, dass {name} {pct} % mehr Urlaub als den gesetzlichen Mindesturlaub (Bundesurlaubsgesetz: 24 Werktage bei 6-Tage-Woche) erhält. Wie viele Urlaubstage pro Jahr erhält {name}?",
+      "answer": "(24/6*tage)*(1+pct/100)",
+      "unit": "Urlaubstage",
+      "decimals": 1,
+      "steps": [
+       "Gesetzlicher Mindesturlaub bei {tage}-Tage-Woche: 24 ÷ 6 × {tage} = 20 Tage",
+       "Aufschlag {pct} % auf 20 Tage",
+       "Urlaubsanspruch = {result} Tage"
+      ]
+     }
+    },
+    {
+     "key": "wsp-lf1-ausbildung-t02",
+     "type": "calc",
+     "exam_part": 2,
+     "difficulty": 2,
+     "source": "WSP LF1 (Unterricht)",
+     "vars": {
+      "alter": {
+       "type": "int",
+       "min": 16,
+       "max": 17,
+       "step": 1
+      },
+      "von": {
+       "type": "int",
+       "min": 8,
+       "max": 9,
+       "step": 1
+      },
+      "bis": {
+       "type": "int",
+       "min": 14,
+       "max": 16,
+       "step": 1
+      },
+      "pause": {
+       "type": "expr",
+       "expr": "30+30*floor((bis-von)/6.01)"
+      }
+     },
+     "body": {
+      "prompt": "Eine Auszubildende ({alter} Jahre) arbeitet laut Plan von {von} bis {bis} Uhr. Wie viele Stunden Nettoarbeitszeit entstehen, wenn die nach dem Jugendarbeitsschutzgesetz mindestens vorgeschriebene Ruhepause abgezogen wird? (Keine zusätzlichen Pausen.)",
+      "answer": "(bis-von)-pause/60",
+      "unit": "Stunden",
+      "decimals": 2,
+      "steps": [
+       "Arbeitszeit von {von} bis {bis} Uhr = {bis}-{von} Stunden",
+       "Mindestpause nach JArbSchG: > 6 h → 60 min, > 4,5 bis 6 h → 30 min",
+       "Nettoarbeitszeit = {result} Stunden"
+      ]
+     }
+    }
+   ],
+   "cases": [],
+   "summary": {
+    "key": "wsp-lf1-ausbildung-zettel",
+    "title": "Ausbildungsvertrag, BBiG & JArbSchG",
+    "content_md": "\n**Rechtsgrundlagen der dualen Ausbildung**: Berufsbildungsgesetz (**BBiG**), **Ausbildungsordnung** (Verordnung über die Berufsausbildung: Dauer, Berufsbild, Ausbildungsrahmenplan, Prüfungsanforderungen), Jugendarbeitsschutzgesetz (**JArbSchG**), Rahmenlehrplan der Berufsschule (Ländersache). *Zuständige Stelle* für Kaufleute für Marketingkommunikation: **IHK**.\n\n**Ausbildungsvertrag** (schriftlich, wirksam auch ohne IHK-Eintragung – die Eintragung ins Verzeichnis ist aber Voraussetzung für die Prüfungszulassung). Inhalt u. a.: Art, sachliche/zeitliche Gliederung, Beginn und Dauer, Ausbildungsstätte, tägliche Arbeitszeit, **Probezeit (1–4 Monate)**, Vergütung (jährlich steigend), Urlaub, Kündigungsvoraussetzungen.\n\n**Kündigung**\n- *Probezeit*: jederzeit **ohne Frist und ohne Grund**\n- *danach*: Ausbildender nur **aus wichtigem Grund** (fristlos); Azubi mit **4 Wochen Frist**, wenn er die Ausbildung aufgibt oder wechselt\n- *Nichtbestehen der Prüfung*: Verlängerung auf Verlangen bis zur Wiederholungsprüfung (max. 1 Jahr)\n\n**Rechte des Azubis**: Ausbildungsvergütung, kostenlose Ausbildungsmittel, Freistellung (Berufsschule, Prüfungen), Urlaub, Zeugnis, nur ausbildungsgemäße Aufgaben.\n**Pflichten des Azubis**: Lernpflicht, Weisungen befolgen, Ordnung beachten, Sorgfalt, Schweigepflicht, Berufsschule besuchen, Ausbildungsnachweis (Berichtsheft) führen, an Prüfungen teilnehmen.\n\n**Jugendarbeitsschutz (15–17 Jahre)**\n| Regel | Wert |\n|---|---|\n| Arbeitszeit | max. **8 h/Tag**, **40 h/Woche**, 5-Tage-Woche |\n| Ruhepausen | **30 min** bei > 4,5 bis 6 h, **60 min** bei > 6 h (Pause mind. 15 min) |\n| Ruhezeit | mind. **12 Stunden** zwischen Arbeitsende und -beginn |\n| Nachtruhe | keine Arbeit **20–6 Uhr** |\n| Urlaub | 30 / 27 / 25 Werktage (unter 16 / 17 / 18 Jahren) |\n| Berufsschule | Freistellung; Schultag mit mind. 5 Unterrichtsstunden (à 45 Min) → danach keine Beschäftigung im Betrieb |\n"
+   }
+  }
+ ]
+}

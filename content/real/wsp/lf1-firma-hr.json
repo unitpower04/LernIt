@@ -1,0 +1,541 @@
+{
+ "demo": false,
+ "items": [
+  {
+   "topic": "wsp-lf1-firma-hr",
+   "flashcards": [
+    {
+     "key": "wsp-lf1-firma-hr-c01",
+     "front": "Was ist ein Ist-Kaufmann?",
+     "back": "Wer ein Handelsgewerbe betreibt, das nach Art und Umfang einen kaufmännischen Geschäftsbetrieb erfordert – Kaufmann kraft Gesetzes."
+    },
+    {
+     "key": "wsp-lf1-firma-hr-c02",
+     "front": "Was ist ein Kannkaufmann?",
+     "back": "Kleingewerbetreibende oder Land-/Forstwirte, die sich freiwillig ins Handelsregister eintragen lassen und dadurch Kaufmann werden."
+    },
+    {
+     "key": "wsp-lf1-firma-hr-c03",
+     "front": "Was ist ein Formkaufmann?",
+     "back": "Kapitalgesellschaften (GmbH, UG, AG) – sie sind Kaufmann aufgrund ihrer Rechtsform."
+    },
+    {
+     "key": "wsp-lf1-firma-hr-c04",
+     "front": "Was ist die Firma im Sinne des HGB?",
+     "back": "Der Name, unter dem ein Kaufmann seine Geschäfte betreibt und unterschreibt."
+    },
+    {
+     "key": "wsp-lf1-firma-hr-c05",
+     "front": "Nenne die vier Firmenarten.",
+     "back": "Personenfirma, Sachfirma, Fantasiefirma, gemischte Firma."
+    },
+    {
+     "key": "wsp-lf1-firma-hr-c06",
+     "front": "Beispiel Personenfirma?",
+     "back": "„Peter Heyer e. K.“"
+    },
+    {
+     "key": "wsp-lf1-firma-hr-c07",
+     "front": "Beispiel Sachfirma?",
+     "back": "„Werbeagentur Süd GmbH“ (benennt den Gegenstand des Unternehmens)."
+    },
+    {
+     "key": "wsp-lf1-firma-hr-c08",
+     "front": "Beispiel Fantasiefirma?",
+     "back": "„Pixelwerk GmbH“ – frei erfundener Name."
+    },
+    {
+     "key": "wsp-lf1-firma-hr-c09",
+     "front": "Was besagt der Grundsatz der Firmenwahrheit?",
+     "back": "Die Firma darf nicht irreführen (z. B. nicht über Art, Größe oder Rechtsform täuschen)."
+    },
+    {
+     "key": "wsp-lf1-firma-hr-c10",
+     "front": "Was besagt der Grundsatz der Firmenausschließlichkeit?",
+     "back": "Jede Firma muss sich von anderen am selben Ort eingetragenen Firmen deutlich unterscheiden."
+    },
+    {
+     "key": "wsp-lf1-firma-hr-c11",
+     "front": "Was besagt der Grundsatz der Firmenbeständigkeit?",
+     "back": "Bei Inhaberwechsel oder Namensänderung darf die bisherige Firma beibehalten werden."
+    },
+    {
+     "key": "wsp-lf1-firma-hr-c12",
+     "front": "Was besagt die Firmenöffentlichkeit?",
+     "back": "Die Firma wird im Handelsregister eingetragen und ist öffentlich einsehbar."
+    },
+    {
+     "key": "wsp-lf1-firma-hr-c13",
+     "front": "Wer führt das Handelsregister?",
+     "back": "Das Amtsgericht (Registergericht)."
+    },
+    {
+     "key": "wsp-lf1-firma-hr-c14",
+     "front": "Was wird in Abteilung A des Handelsregisters eingetragen?",
+     "back": "Einzelunternehmen, Personengesellschaften (OHG, KG)."
+    },
+    {
+     "key": "wsp-lf1-firma-hr-c15",
+     "front": "Was wird in Abteilung B eingetragen?",
+     "back": "Kapitalgesellschaften (GmbH, UG, AG)."
+    },
+    {
+     "key": "wsp-lf1-firma-hr-c16",
+     "front": "Deklaratorische Eintragung – was heißt das?",
+     "back": "Rechtsbekundend: Die Eintragung gibt nur wieder, was schon gilt (z. B. Ist-Kaufmann, Prokura)."
+    },
+    {
+     "key": "wsp-lf1-firma-hr-c17",
+     "front": "Konstitutive Eintragung – was heißt das?",
+     "back": "Rechtserzeugend: Erst durch die Eintragung entsteht die Rechtslage (z. B. GmbH, AG, Kannkaufmann)."
+    },
+    {
+     "key": "wsp-lf1-firma-hr-c18",
+     "front": "Nenne eintragungspflichtige Tatsachen.",
+     "back": "Firma, Sitz, Inhaber/Gesellschafter, Rechtsform, Vertretungsbefugnis, Prokura, Insolvenz, Auflösung."
+    },
+    {
+     "key": "wsp-lf1-firma-hr-c19",
+     "front": "Wie lange müssen Handels- und Geschäftsbriefe aufbewahrt werden?",
+     "back": "6 Jahre (Bücher, Inventare und Jahresabschlüsse 10 Jahre)."
+    },
+    {
+     "key": "wsp-lf1-firma-hr-c20",
+     "front": "Welche Pflichten hat ein Kaufmann?",
+     "back": "Registerpflicht, Firmenführung, Geschäftsbriefpublizität (Mindestangaben auf Briefen), Rechnungslegung/Buchführung, Aufbewahrung, Kontrollpflicht für Waren."
+    },
+    {
+     "key": "wsp-lf1-firma-hr-c21",
+     "front": "Wer meldet ein Unternehmen zum Handelsregister an?",
+     "back": "Ein Notar (elektronisch, beglaubigt) beim Amtsgericht."
+    },
+    {
+     "key": "wsp-lf1-firma-hr-c22",
+     "front": "Was wird im Handelsregister veröffentlicht?",
+     "back": "Firma, Rechtsform, Sitz, Gegenstand des Unternehmens, Prokura, Vertretungsberechtigung, Stamm-/Grund-/Kommanditkapital, Geschäftsführung."
+    },
+    {
+     "key": "wsp-lf1-firma-hr-c23",
+     "front": "Werden Freiberufler ins Handelsregister eingetragen?",
+     "back": "Nein – Freie Berufe (z. B. selbstständige Fotografen, Texter) sind kein Handelsgewerbe."
+    },
+    {
+     "key": "wsp-lf1-firma-hr-c24",
+     "front": "Erlischt eine eingetragene Firma durch den Tod des Inhabers?",
+     "back": "Nein – sie muss aktiv gelöscht werden."
+    },
+    {
+     "key": "wsp-lf1-firma-hr-c25",
+     "front": "Was bedeutet „öffentlicher Glaube“ des Handelsregisters?",
+     "back": "Wer auf eine Eintragung vertraut, wird geschützt (Rechtssicherheit im Geschäftsverkehr)."
+    },
+    {
+     "key": "wsp-lf1-firma-hr-c26",
+     "front": "Wo wird ein Gewerbe angemeldet?",
+     "back": "Beim Gewerbeamt der Stadt; außerdem Finanzamt (Steuernummer), IHK (Mitgliedschaft), Berufsgenossenschaft (Unfallversicherung), Betriebsnummer bei der Bundesagentur für Arbeit (wenn Mitarbeiter)."
+    },
+    {
+     "key": "wsp-lf1-firma-hr-c27",
+     "front": "Wer ist bei Gründung einer Kapitalgesellschaft zuerst dran: Handelsregister oder Gewerbeamt?",
+     "back": "Zuerst Notar/Handelsregister, danach die Gewerbeanmeldung."
+    },
+    {
+     "key": "wsp-lf1-firma-hr-c28",
+     "front": "Welche Rechtsformzusätze sind Pflicht?",
+     "back": "e. K., OHG, KG, GmbH, UG (haftungsbeschränkt), AG – je nach Rechtsform."
+    }
+   ],
+   "glossary": [
+    {
+     "key": "wsp-lf1-firma-hr-g01",
+     "term": "Handelsregister",
+     "definition": "Öffentliches Verzeichnis beim Amtsgericht über Kaufleute und ihre rechtlichen Verhältnisse (Abteilung A und B)."
+    },
+    {
+     "key": "wsp-lf1-firma-hr-g02",
+     "term": "Firma",
+     "definition": "Name, unter dem ein Kaufmann seine Geschäfte betreibt."
+    },
+    {
+     "key": "wsp-lf1-firma-hr-g03",
+     "term": "Deklaratorisch",
+     "definition": "Rechtsbekundend – die Eintragung gibt eine schon bestehende Rechtslage nur wieder."
+    },
+    {
+     "key": "wsp-lf1-firma-hr-g04",
+     "term": "Konstitutiv",
+     "definition": "Rechtserzeugend – erst die Eintragung begründet die Rechtslage."
+    },
+    {
+     "key": "wsp-lf1-firma-hr-g05",
+     "term": "Kaufmann",
+     "definition": "Wer ein Handelsgewerbe betreibt (Ist-, Kann- oder Formkaufmann)."
+    }
+   ],
+   "questions": [
+    {
+     "key": "wsp-lf1-firma-hr-q01",
+     "type": "mc",
+     "exam_part": 2,
+     "difficulty": 2,
+     "source": "WSP LF1 (Unterricht)",
+     "body": {
+      "prompt": "In welcher Abteilung des Handelsregisters wird eine GmbH eingetragen?",
+      "options": [
+       {
+        "text": "Abteilung B",
+        "correct": true
+       },
+       {
+        "text": "Abteilung A",
+        "correct": false
+       },
+       {
+        "text": "Abteilung C",
+        "correct": false
+       },
+       {
+        "text": "Vereinsregister",
+        "correct": false
+       },
+       {
+        "text": "Grundbuch",
+        "correct": false
+       }
+      ]
+     }
+    },
+    {
+     "key": "wsp-lf1-firma-hr-q02",
+     "type": "mc",
+     "exam_part": 2,
+     "difficulty": 2,
+     "source": "WSP LF1 (Unterricht)",
+     "body": {
+      "prompt": "In welcher Abteilung des Handelsregisters wird eine OHG eingetragen?",
+      "options": [
+       {
+        "text": "Abteilung A",
+        "correct": true
+       },
+       {
+        "text": "Abteilung B",
+        "correct": false
+       },
+       {
+        "text": "Genossenschaftsregister",
+        "correct": false
+       },
+       {
+        "text": "Abteilung C",
+        "correct": false
+       },
+       {
+        "text": "Das Gewerberegister",
+        "correct": false
+       }
+      ]
+     }
+    },
+    {
+     "key": "wsp-lf1-firma-hr-q03",
+     "type": "mc",
+     "exam_part": 2,
+     "difficulty": 2,
+     "source": "WSP LF1 (Unterricht)",
+     "body": {
+      "prompt": "Welcher der folgenden Kaufleute ist Kaufmann durch seine Rechtsform?",
+      "options": [
+       {
+        "text": "Die Pixelwerk GmbH (Formkaufmann)",
+        "correct": true
+       },
+       {
+        "text": "Der Kleingewerbetreibende ohne Eintragung",
+        "correct": false
+       },
+       {
+        "text": "Der Landwirt ohne Eintragung",
+        "correct": false
+       },
+       {
+        "text": "Der Freiberufler (Fotograf)",
+        "correct": false
+       },
+       {
+        "text": "Der Kleingärtner",
+        "correct": false
+       }
+      ]
+     }
+    },
+    {
+     "key": "wsp-lf1-firma-hr-q04",
+     "type": "mc",
+     "exam_part": 2,
+     "difficulty": 2,
+     "explanation": "Die GmbH entsteht erst mit der Eintragung.",
+     "source": "WSP LF1 (Unterricht)",
+     "body": {
+      "prompt": "Welche Eintragung ins Handelsregister ist konstitutiv (rechtserzeugend)?",
+      "options": [
+       {
+        "text": "Die Eintragung einer GmbH",
+        "correct": true
+       },
+       {
+        "text": "Die Eintragung eines Ist-Kaufmanns",
+        "correct": false
+       },
+       {
+        "text": "Die Eintragung einer Prokura",
+        "correct": false
+       },
+       {
+        "text": "Die Eintragung einer Änderung der Geschäftsanschrift",
+        "correct": false
+       },
+       {
+        "text": "Die Eintragung des Inhaberwechsels einer OHG",
+        "correct": false
+       }
+      ]
+     }
+    },
+    {
+     "key": "wsp-lf1-firma-hr-q05",
+     "type": "mc",
+     "exam_part": 2,
+     "difficulty": 2,
+     "source": "WSP LF1 (Unterricht)",
+     "body": {
+      "prompt": "Welche Aussage zur deklaratorischen Wirkung der Eintragung ist richtig?",
+      "options": [
+       {
+        "text": "Die Eintragung bestätigt nur, dass der Betreiber eines Handelsgewerbes bereits Kaufmann ist.",
+        "correct": true
+       },
+       {
+        "text": "Sie begründet erst die Kaufmannseigenschaft.",
+        "correct": false
+       },
+       {
+        "text": "Sie ist bei einer AG verpflichtend deklaratorisch.",
+        "correct": false
+       },
+       {
+        "text": "Sie gilt nur für Kleingewerbetreibende.",
+        "correct": false
+       },
+       {
+        "text": "Sie hat keinerlei Wirkung.",
+        "correct": false
+       }
+      ]
+     }
+    },
+    {
+     "key": "wsp-lf1-firma-hr-q06",
+     "type": "mc",
+     "exam_part": 2,
+     "difficulty": 2,
+     "explanation": "Entscheidend sind Art und Umfang des Geschäftsbetriebs, nicht der Gründungsort.",
+     "source": "WSP LF1 (Unterricht)",
+     "body": {
+      "prompt": "Welches der folgenden Kriterien wird bei der Frage, ob ein Einzelunternehmen eingetragen werden muss, nicht herangezogen?",
+      "options": [
+       {
+        "text": "Der Ort der Firmengründung",
+        "correct": true
+       },
+       {
+        "text": "Der Jahresumsatz",
+        "correct": false
+       },
+       {
+        "text": "Art und Anzahl der Geschäftsvorgänge",
+        "correct": false
+       },
+       {
+        "text": "Die Anzahl der Beschäftigten",
+        "correct": false
+       },
+       {
+        "text": "Die Notwendigkeit einer kaufmännischen Buchführung",
+        "correct": false
+       }
+      ]
+     }
+    },
+    {
+     "key": "wsp-lf1-firma-hr-q07",
+     "type": "mc",
+     "exam_part": 2,
+     "difficulty": 2,
+     "source": "WSP LF1 (Unterricht)",
+     "body": {
+      "prompt": "Der Grundsatz der Firmenwahrheit besagt, dass …",
+      "options": [
+       {
+        "text": "die Firma nicht irreführen darf.",
+        "correct": true
+       },
+       {
+        "text": "die Firma immer den Namen des Inhabers enthalten muss.",
+        "correct": false
+       },
+       {
+        "text": "jede Firma einmalig in Deutschland sein muss.",
+        "correct": false
+       },
+       {
+        "text": "die Firma nie geändert werden darf.",
+        "correct": false
+       },
+       {
+        "text": "die Firma nicht eingetragen werden muss.",
+        "correct": false
+       }
+      ]
+     }
+    },
+    {
+     "key": "wsp-lf1-firma-hr-q08",
+     "type": "match",
+     "exam_part": 2,
+     "difficulty": 2,
+     "source": "WSP LF1 (Unterricht)",
+     "body": {
+      "prompt": "Ordnen Sie jeder Firma die Firmenart zu.",
+      "items": [
+       {
+        "term": "Johanna Lindner e. K.",
+        "match": "Personenfirma"
+       },
+       {
+        "term": "Süddeutsche Werbeagentur GmbH",
+        "match": "Sachfirma"
+       },
+       {
+        "term": "Zukunftswerk UG (haftungsbeschränkt)",
+        "match": "Fantasiefirma"
+       },
+       {
+        "term": "Lindner Media Service GmbH",
+        "match": "gemischte Firma"
+       }
+      ],
+      "distractors": []
+     }
+    },
+    {
+     "key": "wsp-lf1-firma-hr-q09",
+     "type": "match",
+     "exam_part": 2,
+     "difficulty": 3,
+     "source": "WSP LF1 (Unterricht)",
+     "body": {
+      "prompt": "Ordnen Sie zu: konstitutiv oder deklaratorisch?",
+      "items": [
+       {
+        "term": "Eintragung einer Aktiengesellschaft",
+        "match": "konstitutiv"
+       },
+       {
+        "term": "Eintragung eines Kleingewerbes (Kannkaufmann)",
+        "match": "konstitutiv"
+       },
+       {
+        "term": "Eintragung eines Ist-Kaufmanns",
+        "match": "deklaratorisch"
+       },
+       {
+        "term": "Eintragung der Erteilung einer Prokura",
+        "match": "deklaratorisch"
+       }
+      ],
+      "distractors": []
+     }
+    },
+    {
+     "key": "wsp-lf1-firma-hr-q10",
+     "type": "tf",
+     "exam_part": 2,
+     "difficulty": 2,
+     "explanation": "Sie dürfen (Kannkaufmann), müssen aber nicht.",
+     "source": "WSP LF1 (Unterricht)",
+     "body": {
+      "statement": "Kleingewerbetreibende müssen sich ins Handelsregister eintragen lassen.",
+      "answer": false
+     }
+    },
+    {
+     "key": "wsp-lf1-firma-hr-q11",
+     "type": "tf",
+     "exam_part": 2,
+     "difficulty": 2,
+     "source": "WSP LF1 (Unterricht)",
+     "body": {
+      "statement": "Das Handelsregister wird beim Amtsgericht geführt und ist öffentlich.",
+      "answer": true
+     }
+    },
+    {
+     "key": "wsp-lf1-firma-hr-q12",
+     "type": "tf",
+     "exam_part": 2,
+     "difficulty": 2,
+     "source": "WSP LF1 (Unterricht)",
+     "body": {
+      "statement": "Die Aufbewahrungsfrist für Handelsbriefe beträgt 6 Jahre.",
+      "answer": true
+     }
+    },
+    {
+     "key": "wsp-lf1-firma-hr-q13",
+     "type": "cloze",
+     "exam_part": 2,
+     "difficulty": 2,
+     "source": "WSP LF1 (Unterricht)",
+     "body": {
+      "text": "Die Firma einer GmbH muss den Zusatz [[GmbH]] enthalten; ein Einzelunternehmen führt den Zusatz [[e. K.]]."
+     }
+    },
+    {
+     "key": "wsp-lf1-firma-hr-q14",
+     "type": "cloze",
+     "exam_part": 2,
+     "difficulty": 2,
+     "source": "WSP LF1 (Unterricht)",
+     "body": {
+      "text": "Das Handelsregister wird vom [[Amtsgericht]] geführt. In Abteilung [[A]] stehen Einzelunternehmen und Personengesellschaften."
+     }
+    },
+    {
+     "key": "wsp-lf1-firma-hr-q15",
+     "type": "order",
+     "exam_part": 2,
+     "difficulty": 2,
+     "source": "WSP LF1 (Unterricht)",
+     "body": {
+      "prompt": "Bringen Sie die Schritte der Gründung einer GmbH in die richtige Reihenfolge.",
+      "items": [
+       "Gesellschaftsvertrag notariell beurkunden",
+       "Stammkapital einzahlen",
+       "Geschäftsführer bestellen",
+       "Anmeldung zum Handelsregister",
+       "Eintragung – die GmbH entsteht"
+      ]
+     }
+    }
+   ],
+   "templates": [],
+   "cases": [],
+   "summary": {
+    "key": "wsp-lf1-firma-hr-zettel",
+    "title": "Firma, Kaufmann & Handelsregister",
+    "content_md": "\n**Kaufmann (HGB)**\n- **Ist-Kaufmann**: betreibt ein Handelsgewerbe (Gewerbebetrieb mit kaufmännisch eingerichtetem Geschäftsbetrieb nach Art und Umfang) – Kaufmann *kraft Gesetzes*\n- **Kannkaufmann**: Kleingewerbe oder Land-/Forstwirtschaft – wird Kaufmann erst *durch Eintragung*\n- **Formkaufmann**: Kapitalgesellschaften (GmbH, UG, AG) – Kaufmann durch ihre *Rechtsform*\n\n**Firma** = der Name, unter dem der Kaufmann seine Geschäfte betreibt und unterschreibt. Arten: *Personenfirma*, *Sachfirma*, *Fantasiefirma*, *gemischte Firma* (jeweils mit Rechtsformzusatz).\n\n**Firmengrundsätze**: Firmenwahrheit und -klarheit · Firmenausschließlichkeit/Unterscheidbarkeit · Firmenbeständigkeit · Firmenöffentlichkeit\n\n**Handelsregister** (beim Amtsgericht, öffentlich einsehbar)\n- **Abteilung A**: Einzelunternehmen, OHG, KG\n- **Abteilung B**: Kapitalgesellschaften (GmbH, UG, AG)\n- *deklaratorisch* (rechtsbekundend): Eintragung bestätigt nur eine bereits bestehende Tatsache (z. B. Ist-Kaufmann, Prokura)\n- *konstitutiv* (rechtserzeugend): Eintragung begründet erst die Rechtslage (z. B. GmbH, AG, Kannkaufmann)\n\n**Pflichten des Kaufmanns**: Firma führen, Handelsregister-Anmeldung, **Buchführung**, Inventar, Jahresabschluss, Aufbewahrung (Bücher/Jahresabschluss 10 Jahre, Handels- und Geschäftsbriefe 6 Jahre), Schriftverkehr mit Firmenbezeichnung.\n"
+   }
+  }
+ ]
+}

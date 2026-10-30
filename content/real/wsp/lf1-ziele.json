@@ -1,0 +1,459 @@
+{
+ "demo": false,
+ "items": [
+  {
+   "topic": "wsp-lf1-ziele",
+   "flashcards": [
+    {
+     "key": "wsp-lf1-ziele-c01",
+     "front": "Was besagt das ökonomische Prinzip?",
+     "back": "Knappe Mittel möglichst wirtschaftlich einsetzen: Entweder ein Ziel mit möglichst wenig Mitteln (Minimalprinzip) oder mit gegebenen Mitteln den größten Erfolg (Maximalprinzip) erreichen."
+    },
+    {
+     "key": "wsp-lf1-ziele-c02",
+     "front": "Minimalprinzip – Merksatz?",
+     "back": "Gegebenes Ziel, möglichst geringer Mitteleinsatz.",
+     "hint": "Auch Sparprinzip genannt"
+    },
+    {
+     "key": "wsp-lf1-ziele-c03",
+     "front": "Maximalprinzip – Merksatz?",
+     "back": "Gegebene Mittel, möglichst großer Erfolg.",
+     "hint": "Auch Ergiebigkeitsprinzip genannt"
+    },
+    {
+     "key": "wsp-lf1-ziele-c04",
+     "front": "Beispiel Minimalprinzip in der Agentur?",
+     "back": "Ein Plakatmotiv soll in 3 Städten hängen – die Agentur holt Angebote ein und wählt das günstigste."
+    },
+    {
+     "key": "wsp-lf1-ziele-c05",
+     "front": "Beispiel Maximalprinzip in der Agentur?",
+     "back": "Mit 20.000 € Mediabudget sollen möglichst viele Personen der Zielgruppe erreicht werden."
+    },
+    {
+     "key": "wsp-lf1-ziele-c06",
+     "front": "Wann liegt eine Zielharmonie vor?",
+     "back": "Wenn die Erreichung eines Ziels die Erreichung eines anderen Ziels fördert (z. B. mehr Umsatz → mehr Gewinn)."
+    },
+    {
+     "key": "wsp-lf1-ziele-c07",
+     "front": "Wann liegt ein Zielkonflikt vor?",
+     "back": "Wenn die Erreichung eines Ziels die Erreichung eines anderen Ziels behindert (z. B. Kostensenkung ↔ Umweltschutz)."
+    },
+    {
+     "key": "wsp-lf1-ziele-c08",
+     "front": "Wann liegt Zielneutralität vor?",
+     "back": "Wenn sich zwei Ziele gegenseitig nicht beeinflussen."
+    },
+    {
+     "key": "wsp-lf1-ziele-c09",
+     "front": "Nenne die drei Zielarten eines Unternehmens.",
+     "back": "Ökonomische, soziale und ökologische Ziele."
+    },
+    {
+     "key": "wsp-lf1-ziele-c10",
+     "front": "Beispiele für ökonomische Unternehmensziele?",
+     "back": "Gewinnmaximierung, Umsatzsteigerung, Marktanteil, Rentabilität, Wirtschaftlichkeit."
+    },
+    {
+     "key": "wsp-lf1-ziele-c11",
+     "front": "Beispiele für soziale Unternehmensziele?",
+     "back": "Sichere Arbeitsplätze, faire Bezahlung, Gesundheitsschutz, Mitarbeiterzufriedenheit, Weiterbildung."
+    },
+    {
+     "key": "wsp-lf1-ziele-c12",
+     "front": "Beispiele für ökologische Unternehmensziele?",
+     "back": "Energie und Rohstoffe sparen, Abfall und Emissionen reduzieren, nachhaltige Materialien."
+    },
+    {
+     "key": "wsp-lf1-ziele-c13",
+     "front": "Was ist das Optimumprinzip?",
+     "back": "Das günstigste Verhältnis von Mitteleinsatz und Ergebnis – weder Mittel noch Ergebnis sind fest vorgegeben."
+    },
+    {
+     "key": "wsp-lf1-ziele-c14",
+     "front": "Warum muss gewirtschaftet werden?",
+     "back": "Weil die Bedürfnisse unbegrenzt, die Mittel (Güter, Zeit, Geld) aber knapp sind."
+    }
+   ],
+   "glossary": [
+    {
+     "key": "wsp-lf1-ziele-g01",
+     "term": "Ökonomisches Prinzip",
+     "definition": "Grundsatz, knappe Mittel möglichst wirtschaftlich einzusetzen (Minimal-, Maximal- oder Optimumprinzip)."
+    },
+    {
+     "key": "wsp-lf1-ziele-g02",
+     "term": "Zielkonflikt",
+     "definition": "Beziehung zwischen Zielen, bei der die Verwirklichung des einen Ziels die des anderen beeinträchtigt."
+    },
+    {
+     "key": "wsp-lf1-ziele-g03",
+     "term": "Zielharmonie",
+     "definition": "Beziehung zwischen Zielen, bei der sich die Ziele gegenseitig fördern."
+    },
+    {
+     "key": "wsp-lf1-ziele-g04",
+     "term": "Nachhaltigkeit",
+     "definition": "Wirtschaften so, dass ökonomische, soziale und ökologische Ziele langfristig im Gleichgewicht bleiben."
+    }
+   ],
+   "questions": [
+    {
+     "key": "wsp-lf1-ziele-q01",
+     "type": "mc",
+     "exam_part": 2,
+     "difficulty": 2,
+     "explanation": "Das Ziel (Reichweite) ist vorgegeben, die Mittel sollen minimiert werden.",
+     "source": "WSP LF1 (Unterricht)",
+     "body": {
+      "prompt": "Eine Agentur soll eine Kampagne mit festgelegter Reichweite umsetzen und sucht dafür den günstigsten Medienmix. Welches Prinzip wendet sie an?",
+      "options": [
+       {
+        "text": "Minimalprinzip",
+        "correct": true
+       },
+       {
+        "text": "Maximalprinzip",
+        "correct": false
+       },
+       {
+        "text": "Optimumprinzip",
+        "correct": false
+       },
+       {
+        "text": "Subsidiaritätsprinzip",
+        "correct": false
+       },
+       {
+        "text": "Kostendeckungsprinzip",
+        "correct": false
+       }
+      ]
+     }
+    },
+    {
+     "key": "wsp-lf1-ziele-q02",
+     "type": "mc",
+     "exam_part": 2,
+     "difficulty": 2,
+     "explanation": "Die Mittel sind fest, das Ergebnis soll maximiert werden.",
+     "source": "WSP LF1 (Unterricht)",
+     "body": {
+      "prompt": "Mit einem festen Budget von 15.000 € soll eine möglichst große Zahl an Kontakten erzielt werden. Welches Prinzip liegt vor?",
+      "options": [
+       {
+        "text": "Maximalprinzip",
+        "correct": true
+       },
+       {
+        "text": "Minimalprinzip",
+        "correct": false
+       },
+       {
+        "text": "Konzentrationsprinzip",
+        "correct": false
+       },
+       {
+        "text": "Personalprinzip",
+        "correct": false
+       },
+       {
+        "text": "Kongruenzprinzip",
+        "correct": false
+       }
+      ]
+     }
+    },
+    {
+     "key": "wsp-lf1-ziele-q03",
+     "type": "mc",
+     "exam_part": 2,
+     "difficulty": 2,
+     "explanation": "Ökonomische und ökologische Ziele stehen häufig im Konflikt.",
+     "source": "WSP LF1 (Unterricht)",
+     "body": {
+      "prompt": "Welche der folgenden Aussagen zum Zielkonflikt trifft zu?",
+      "options": [
+       {
+        "text": "Eine Kostensenkung durch billigeres Verpackungsmaterial kann dem Umweltziel widersprechen.",
+        "correct": true
+       },
+       {
+        "text": "Mehr Umsatz führt automatisch zu mehr Gewinn – das ist ein Zielkonflikt.",
+        "correct": false
+       },
+       {
+        "text": "Ein Zielkonflikt liegt vor, wenn sich zwei Ziele nicht beeinflussen.",
+        "correct": false
+       },
+       {
+        "text": "Zielkonflikte treten nur in Staatsbetrieben auf.",
+        "correct": false
+       },
+       {
+        "text": "Ein Zielkonflikt lässt sich durch Gesetze immer vermeiden.",
+        "correct": false
+       }
+      ]
+     }
+    },
+    {
+     "key": "wsp-lf1-ziele-q04",
+     "type": "mc",
+     "exam_part": 2,
+     "difficulty": 2,
+     "explanation": "Beide Ziele (Zufriedenheit, Kostensenkung) fördern sich gegenseitig.",
+     "source": "WSP LF1 (Unterricht)",
+     "body": {
+      "prompt": "Welche der folgenden Aussagen beschreibt eine Zielharmonie?",
+      "options": [
+       {
+        "text": "Höhere Mitarbeiterzufriedenheit führt zu weniger Krankheitstagen und senkt die Kosten.",
+        "correct": true
+       },
+       {
+        "text": "Höhere Löhne senken den Gewinn.",
+        "correct": false
+       },
+       {
+        "text": "Umweltauflagen verteuern die Produktion.",
+        "correct": false
+       },
+       {
+        "text": "Die Farbe des Firmenlogos beeinflusst die Umsatzrendite nicht.",
+        "correct": false
+       },
+       {
+        "text": "Kürzere Lieferzeiten erhöhen die Lagerkosten.",
+        "correct": false
+       }
+      ]
+     }
+    },
+    {
+     "key": "wsp-lf1-ziele-q05",
+     "type": "match",
+     "exam_part": 2,
+     "difficulty": 2,
+     "source": "WSP LF1 (Unterricht)",
+     "body": {
+      "prompt": "Ordnen Sie jedes Beispiel der Zielart zu.",
+      "items": [
+       {
+        "term": "Gewinn um 8 % steigern",
+        "match": "ökonomisches Ziel"
+       },
+       {
+        "term": "Alle Mitarbeiter erhalten eine Gesundheitsprämie",
+        "match": "soziales Ziel"
+       },
+       {
+        "term": "Die Agentur stellt auf Ökostrom um",
+        "match": "ökologisches Ziel"
+       }
+      ],
+      "distractors": [
+       "Zielneutralität"
+      ]
+     }
+    },
+    {
+     "key": "wsp-lf1-ziele-q06",
+     "type": "match",
+     "exam_part": 2,
+     "difficulty": 2,
+     "source": "WSP LF1 (Unterricht)",
+     "body": {
+      "prompt": "Ordnen Sie die Zielbeziehungen zu.",
+      "items": [
+       {
+        "term": "Mehr Umsatz führt zu mehr Gewinn",
+        "match": "Zielharmonie"
+       },
+       {
+        "term": "Gewinnmaximierung führt zu Stellenabbau",
+        "match": "Zielkonflikt"
+       },
+       {
+        "term": "Ein neues Logo hat keinen Einfluss auf die Lieferzeit",
+        "match": "Zielneutralität"
+       }
+      ],
+      "distractors": []
+     }
+    },
+    {
+     "key": "wsp-lf1-ziele-q07",
+     "type": "tf",
+     "exam_part": 2,
+     "difficulty": 2,
+     "source": "WSP LF1 (Unterricht)",
+     "body": {
+      "statement": "Beim Maximalprinzip sind die Mittel gegeben und der Erfolg soll möglichst groß sein.",
+      "answer": true
+     }
+    },
+    {
+     "key": "wsp-lf1-ziele-q08",
+     "type": "tf",
+     "exam_part": 2,
+     "difficulty": 2,
+     "explanation": "Das beschreibt das Maximalprinzip. Beim Minimalprinzip ist das Ziel gegeben.",
+     "source": "WSP LF1 (Unterricht)",
+     "body": {
+      "statement": "Beim Minimalprinzip soll mit gegebenen Mitteln ein möglichst hoher Ertrag erwirtschaftet werden.",
+      "answer": false
+     }
+    },
+    {
+     "key": "wsp-lf1-ziele-q09",
+     "type": "tf",
+     "exam_part": 2,
+     "difficulty": 2,
+     "explanation": "Auch soziale und ökologische Ziele gehören zum Zielsystem.",
+     "source": "WSP LF1 (Unterricht)",
+     "body": {
+      "statement": "Ein Unternehmen verfolgt nur ökonomische Ziele.",
+      "answer": false
+     }
+    },
+    {
+     "key": "wsp-lf1-ziele-q10",
+     "type": "cloze",
+     "exam_part": 2,
+     "difficulty": 1,
+     "source": "WSP LF1 (Unterricht)",
+     "body": {
+      "text": "Beim [[Minimalprinzip]] ist das Ziel vorgegeben, beim [[Maximalprinzip]] sind die Mittel vorgegeben."
+     }
+    },
+    {
+     "key": "wsp-lf1-ziele-q11",
+     "type": "cloze",
+     "exam_part": 2,
+     "difficulty": 1,
+     "source": "WSP LF1 (Unterricht)",
+     "body": {
+      "text": "Fördern sich zwei Ziele gegenseitig, spricht man von [[Zielharmonie]]; behindern sie sich, von einem [[Zielkonflikt]]."
+     }
+    },
+    {
+     "key": "wsp-lf1-ziele-q12",
+     "type": "order",
+     "exam_part": 2,
+     "difficulty": 1,
+     "source": "WSP LF1 (Unterricht)",
+     "body": {
+      "prompt": "Bringen Sie die Schritte des wirtschaftlichen Handelns in eine sinnvolle Reihenfolge.",
+      "items": [
+       "Bedürfnisse erkennen",
+       "Knappe Mittel feststellen",
+       "Ökonomisches Prinzip wählen",
+       "Mittel einsetzen und Ziel verfolgen",
+       "Ergebnis überprüfen"
+      ]
+     }
+    },
+    {
+     "key": "wsp-lf1-ziele-q13",
+     "type": "error",
+     "exam_part": 2,
+     "difficulty": 2,
+     "source": "WSP LF1 (Unterricht)",
+     "body": {
+      "prompt": "Welche Aussagen zu Unternehmenszielen sind fehlerhaft?",
+      "items": [
+       {
+        "text": "Ökonomische Ziele sind z. B. Gewinn und Umsatz.",
+        "wrong": false
+       },
+       {
+        "text": "Zielkonflikte treten nie in Unternehmen auf.",
+        "wrong": true,
+        "fix": "Zielkonflikte sind alltäglich, z. B. Kosten vs. Umweltschutz."
+       },
+       {
+        "text": "Ökologische Ziele betreffen den Umgang mit der Umwelt.",
+        "wrong": false
+       },
+       {
+        "text": "Soziale Ziele sind für den Unternehmenserfolg ohne Bedeutung.",
+        "wrong": true,
+        "fix": "Mitarbeiterzufriedenheit beeinflusst Leistung und Bindung."
+       }
+      ]
+     }
+    }
+   ],
+   "templates": [
+    {
+     "key": "wsp-lf1-ziele-t01",
+     "type": "mc",
+     "exam_part": 2,
+     "difficulty": 1,
+     "source": "WSP LF1 (Unterricht)",
+     "vars": {
+      "ctx": {
+       "type": "pick",
+       "options": [
+        {
+         "sit": "Ein Radiospot soll 400.000 Hörer erreichen; verglichen werden die Preise dreier Sender",
+         "p": "Minimalprinzip",
+         "w1": "Maximalprinzip",
+         "w2": "Schwerpunktprinzip"
+        },
+        {
+         "sit": "Für eine Promotion stehen genau 8.000 € bereit; es sollen möglichst viele Kontakte entstehen",
+         "p": "Maximalprinzip",
+         "w1": "Minimalprinzip",
+         "w2": "Kostendeckungsprinzip"
+        },
+        {
+         "sit": "Ein Flyer muss bis Freitag gedruckt sein; die Druckerei mit dem geringsten Preis wird gesucht",
+         "p": "Minimalprinzip",
+         "w1": "Maximalprinzip",
+         "w2": "Verursachungsprinzip"
+        },
+        {
+         "sit": "Ein Etat von 25.000 € soll den größtmöglichen Bekanntheitszuwachs erzielen",
+         "p": "Maximalprinzip",
+         "w1": "Minimalprinzip",
+         "w2": "Äquivalenzprinzip"
+        }
+       ]
+      }
+     },
+     "body": {
+      "prompt": "Eine Agentur plant: {ctx.sit}. Welches ökonomische Prinzip wendet sie an?",
+      "options": [
+       {
+        "text": "{ctx.p}",
+        "correct": true
+       },
+       {
+        "text": "{ctx.w1}",
+        "correct": false
+       },
+       {
+        "text": "{ctx.w2}",
+        "correct": false
+       },
+       {
+        "text": "Optimumprinzip",
+        "correct": false
+       }
+      ]
+     }
+    }
+   ],
+   "cases": [],
+   "summary": {
+    "key": "wsp-lf1-ziele-zettel",
+    "title": "Ökonomisches Prinzip & Ziele",
+    "content_md": "\n**Wirtschaften** heißt, knappe Güter zur Bedürfnisbefriedigung einzusetzen. Weil Mittel knapp sind, handeln Unternehmen nach dem **ökonomischen Prinzip**:\n\n| Prinzip | Idee | Beispiel |\n|---|---|---|\n| **Minimalprinzip** (Sparprinzip) | gegebenes Ziel mit *möglichst wenig* Mitteln | Kampagne soll 500.000 Kontakte erreichen – zu minimalen Kosten |\n| **Maximalprinzip** (Ergiebigkeitsprinzip) | gegebene Mittel für *möglichst großen* Erfolg | Mit 10.000 € Budget möglichst viele Kontakte |\n| **Optimumprinzip** | günstigstes Verhältnis von Mitteln und Ergebnis | Mittel *und* Ziel sind variabel |\n\n**Unternehmensziele**\n- **ökonomisch**: Gewinn, Umsatz, Marktanteil, Wirtschaftlichkeit\n- **sozial**: Arbeitsplätze, Mitarbeiterzufriedenheit, faire Bezahlung\n- **ökologisch**: Ressourcenschonung, Emissionen senken, Recycling\n\n**Zielbeziehungen**\n- **Zielharmonie** (komplementär): Ziel A fördert Ziel B – z. B. mehr Umsatz → mehr Gewinn\n- **Zielkonflikt** (konkurrierend): Ziel A behindert Ziel B – z. B. Gewinnmaximierung ↔ hohe Löhne / Umweltschutz\n- **Zielneutralität** (indifferent): Ziele beeinflussen sich nicht\n"
+   }
+  }
+ ]
+}

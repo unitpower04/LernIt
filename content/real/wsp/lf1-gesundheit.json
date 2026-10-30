@@ -1,0 +1,312 @@
+{
+ "demo": false,
+ "items": [
+  {
+   "topic": "wsp-lf1-gesundheit",
+   "flashcards": [
+    {
+     "key": "wsp-lf1-gesundheit-c01",
+     "front": "Verbotszeichen – Farbe und Form?",
+     "back": "Rot und rund (z. B. Durchfahrt verboten)."
+    },
+    {
+     "key": "wsp-lf1-gesundheit-c02",
+     "front": "Warnzeichen – Farbe und Form?",
+     "back": "Gelb und dreieckig (z. B. Rutschgefahr)."
+    },
+    {
+     "key": "wsp-lf1-gesundheit-c03",
+     "front": "Gebotszeichen – Farbe und Form?",
+     "back": "Blau und rund (z. B. Gehörschutz tragen)."
+    },
+    {
+     "key": "wsp-lf1-gesundheit-c04",
+     "front": "Rettungszeichen – Farbe und Form?",
+     "back": "Grün und viereckig (z. B. Notausgang, Erste Hilfe)."
+    },
+    {
+     "key": "wsp-lf1-gesundheit-c05",
+     "front": "Brandschutzzeichen – Farbe und Form?",
+     "back": "Rot und viereckig (z. B. Feuerlöscher)."
+    },
+    {
+     "key": "wsp-lf1-gesundheit-c06",
+     "front": "Wer ist für die Organisation der Erste-Hilfe-Ausbildung im Betrieb verantwortlich?",
+     "back": "Der Arbeitgeber."
+    },
+    {
+     "key": "wsp-lf1-gesundheit-c07",
+     "front": "Wer ist Träger der gesetzlichen Unfallversicherung?",
+     "back": "Die Berufsgenossenschaft (bzw. Unfallkasse)."
+    },
+    {
+     "key": "wsp-lf1-gesundheit-c08",
+     "front": "Wofür steht das Siegel „Blauer Engel“?",
+     "back": "Umweltfreundliche Produkte und Dienstleistungen."
+    },
+    {
+     "key": "wsp-lf1-gesundheit-c09",
+     "front": "Wofür steht GOTS?",
+     "back": "Global Organic Textile Standard – Textilien aus Bio-Fasern, ökologisch und sozial produziert."
+    },
+    {
+     "key": "wsp-lf1-gesundheit-c10",
+     "front": "Wofür stehen FSC und PEFC?",
+     "back": "Holz- und Papierprodukte aus nachhaltig bewirtschafteten Wäldern."
+    },
+    {
+     "key": "wsp-lf1-gesundheit-c11",
+     "front": "Was bedeutet der Grüne Punkt?",
+     "back": "Der Hersteller beteiligt sich an einem dualen System zur Verpackungsentsorgung (kein Hinweis auf Recyclingmaterial)."
+    },
+    {
+     "key": "wsp-lf1-gesundheit-c12",
+     "front": "Woran erkennt man Einwegpfand-Flaschen?",
+     "back": "Am Pfandlogo (DPG-Zeichen)."
+    },
+    {
+     "key": "wsp-lf1-gesundheit-c13",
+     "front": "Was bedeutet das CE-Zeichen?",
+     "back": "Der Hersteller erklärt die Konformität mit EU-Vorschriften – kein Qualitäts- oder Umweltsiegel."
+    },
+    {
+     "key": "wsp-lf1-gesundheit-c14",
+     "front": "Wohin gehören Toner und Batterien?",
+     "back": "Zu Sammelstellen für Sonderabfall/Elektroaltgeräte, nicht in den Hausmüll."
+    },
+    {
+     "key": "wsp-lf1-gesundheit-c15",
+     "front": "Abfallhierarchie – Reihenfolge?",
+     "back": "Vermeiden, Wiederverwenden, Recyceln, sonstige Verwertung, Beseitigen."
+    },
+    {
+     "key": "wsp-lf1-gesundheit-c16",
+     "front": "Was ist eine Gefährdungsbeurteilung?",
+     "back": "Systematische Ermittlung der Gefahren am Arbeitsplatz und Festlegung von Schutzmaßnahmen (Pflicht des Arbeitgebers)."
+    },
+    {
+     "key": "wsp-lf1-gesundheit-c17",
+     "front": "Wer unterstützt den Arbeitgeber beim Arbeitsschutz?",
+     "back": "Betriebsarzt, Fachkraft für Arbeitssicherheit, Sicherheitsbeauftragte."
+    }
+   ],
+   "glossary": [
+    {
+     "key": "wsp-lf1-gesundheit-g01",
+     "term": "Berufsgenossenschaft",
+     "definition": "Träger der gesetzlichen Unfallversicherung; zuständig für Arbeitsunfälle und Berufskrankheiten."
+    },
+    {
+     "key": "wsp-lf1-gesundheit-g02",
+     "term": "Gefährdungsbeurteilung",
+     "definition": "Pflichtanalyse der Gefahren am Arbeitsplatz."
+    },
+    {
+     "key": "wsp-lf1-gesundheit-g03",
+     "term": "Ersthelfer",
+     "definition": "Betriebsangehöriger mit Erste-Hilfe-Ausbildung."
+    }
+   ],
+   "questions": [
+    {
+     "key": "wsp-lf1-gesundheit-q01",
+     "type": "match",
+     "exam_part": 2,
+     "difficulty": 2,
+     "source": "WSP LF1 – Betriebe (Unterricht)",
+     "body": {
+      "prompt": "Ordnen Sie jedem Sicherheitszeichen die Farb-/Formvariante zu.",
+      "items": [
+       {
+        "term": "Rettungszeichen: Notausgang",
+        "match": "grün und viereckig"
+       },
+       {
+        "term": "Verbotszeichen: Durchfahrt verboten",
+        "match": "rot und rund"
+       },
+       {
+        "term": "Brandschutzzeichen: Feuerlöscher",
+        "match": "rot und viereckig"
+       },
+       {
+        "term": "Warnzeichen: Rutschgefahr",
+        "match": "gelb und dreieckig"
+       }
+      ],
+      "distractors": [
+       "blau und rund"
+      ]
+     }
+    },
+    {
+     "key": "wsp-lf1-gesundheit-q02",
+     "type": "match",
+     "exam_part": 2,
+     "difficulty": 2,
+     "source": "WSP LF1 – Betriebe (Unterricht)",
+     "body": {
+      "prompt": "Ordnen Sie jedem Siegel seine Bedeutung zu.",
+      "items": [
+       {
+        "term": "Blauer Engel",
+        "match": "umweltfreundliches Produkt"
+       },
+       {
+        "term": "GOTS",
+        "match": "Bio-Textilien"
+       },
+       {
+        "term": "FSC",
+        "match": "Holz aus nachhaltiger Forstwirtschaft"
+       },
+       {
+        "term": "Pfandlogo",
+        "match": "Einwegpfandsystem für Getränkeverpackungen"
+       }
+      ],
+      "distractors": [
+       "geprüfte Sicherheit (GS)"
+      ]
+     }
+    },
+    {
+     "key": "wsp-lf1-gesundheit-q03",
+     "type": "mc",
+     "exam_part": 2,
+     "difficulty": 2,
+     "source": "WSP LF1 – Betriebe (Unterricht)",
+     "body": {
+      "prompt": "Welches Siegel kennzeichnet umweltschonend produzierte Textilien?",
+      "options": [
+       {
+        "text": "GOTS",
+        "correct": true
+       },
+       {
+        "text": "Grüner Punkt",
+        "correct": false
+       },
+       {
+        "text": "Pfandlogo",
+        "correct": false
+       },
+       {
+        "text": "CE-Zeichen",
+        "correct": false
+       },
+       {
+        "text": "Energielabel",
+        "correct": false
+       }
+      ]
+     }
+    },
+    {
+     "key": "wsp-lf1-gesundheit-q04",
+     "type": "mc",
+     "exam_part": 2,
+     "difficulty": 2,
+     "source": "WSP LF1 – Betriebe (Unterricht)",
+     "body": {
+      "prompt": "Wer ist rechtlich verpflichtet, die betriebliche Ersthelfer-Ausbildung zu organisieren?",
+      "options": [
+       {
+        "text": "Der Arbeitgeber",
+        "correct": true
+       },
+       {
+        "text": "Die IHK",
+        "correct": false
+       },
+       {
+        "text": "Die Berufsgenossenschaft",
+        "correct": false
+       },
+       {
+        "text": "Die Personalabteilung",
+        "correct": false
+       },
+       {
+        "text": "Der Betriebsrat",
+        "correct": false
+       }
+      ]
+     }
+    },
+    {
+     "key": "wsp-lf1-gesundheit-q05",
+     "type": "mc",
+     "exam_part": 2,
+     "difficulty": 2,
+     "source": "WSP LF1 – Betriebe (Unterricht)",
+     "body": {
+      "prompt": "Eine Veranstaltung verkauft Getränke nur in Pfandflaschen. Wodurch wird ein Pfandsystem gekennzeichnet?",
+      "options": [
+       {
+        "text": "Durch das Pfandlogo auf der Flasche",
+        "correct": true
+       },
+       {
+        "text": "Durch den Grünen Punkt",
+        "correct": false
+       },
+       {
+        "text": "Durch das CE-Zeichen",
+        "correct": false
+       },
+       {
+        "text": "Durch das Recyclingdreieck",
+        "correct": false
+       },
+       {
+        "text": "Durch den Blauen Engel",
+        "correct": false
+       }
+      ]
+     }
+    },
+    {
+     "key": "wsp-lf1-gesundheit-q06",
+     "type": "tf",
+     "exam_part": 2,
+     "difficulty": 2,
+     "explanation": "Er zeigt die Beteiligung am dualen System – nicht das Material.",
+     "source": "WSP LF1 – Betriebe (Unterricht)",
+     "body": {
+      "statement": "Der Grüne Punkt bedeutet, dass eine Verpackung aus Recyclingmaterial besteht.",
+      "answer": false
+     }
+    },
+    {
+     "key": "wsp-lf1-gesundheit-q07",
+     "type": "tf",
+     "exam_part": 2,
+     "difficulty": 2,
+     "source": "WSP LF1 – Betriebe (Unterricht)",
+     "body": {
+      "statement": "Warnzeichen sind gelb und dreieckig.",
+      "answer": true
+     }
+    },
+    {
+     "key": "wsp-lf1-gesundheit-q08",
+     "type": "cloze",
+     "exam_part": 2,
+     "difficulty": 2,
+     "source": "WSP LF1 – Betriebe (Unterricht)",
+     "body": {
+      "text": "Verbotszeichen sind [[rot]] und [[rund]], Rettungszeichen [[grün]] und viereckig."
+     }
+    }
+   ],
+   "templates": [],
+   "cases": [],
+   "summary": {
+    "key": "wsp-lf1-gesundheit-zettel",
+    "title": "Gesundheits- & Umweltschutz im Betrieb",
+    "content_md": "\n**Sicherheitszeichen** (Farbe + Form)\n| Art | Farbe/Form | Beispiel |\n|---|---|---|\n| **Verbot** | rot, **rund** | Durchfahrt verboten, Rauchen verboten |\n| **Gebot** | blau, rund | Helm tragen |\n| **Warnung** | gelb, **dreieckig** | Rutschgefahr |\n| **Rettung** | grün, **viereckig** | Notausgang, Erste Hilfe |\n| **Brandschutz** | rot, **viereckig** | Feuerlöscher |\n\n**Erste Hilfe**: Der **Arbeitgeber** ist verpflichtet, Erste Hilfe zu organisieren (Ersthelfer, Material). Ersthelferanteil: 1 Ersthelfer bei 2–20 Anwesenden, darüber 5 % (Verwaltung) bzw. 10 %. Unfälle: Meldung an die **Berufsgenossenschaft** (gesetzliche Unfallversicherung).\n\n**Siegel & Kennzeichen**\n- **Blauer Engel**: umweltfreundliche Produkte\n- **GOTS**: Bio-Textilien (Global Organic Textile Standard)\n- **FSC / PEFC**: Holz und Papier aus nachhaltiger Forstwirtschaft\n- **Grüner Punkt**: Beteiligung am dualen System (Verpackungsrecycling)\n- **Pfandlogo (DPG)**: Einwegpfand\n- **EU-Bio-Siegel**, **Fairtrade**, **EU-Energielabel**\n\n**Abfall**: vermeiden → wiederverwenden → recyceln → verwerten → beseitigen. Sondermüll (Toner, Batterien, Leuchtstoffröhren) gehört an Sammelstellen.\n"
+   }
+  }
+ ]
+}

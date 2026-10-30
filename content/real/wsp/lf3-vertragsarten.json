@@ -1,0 +1,387 @@
+{
+ "demo": false,
+ "items": [
+  {
+   "topic": "wsp-lf3-vertragsarten",
+   "flashcards": [
+    {
+     "key": "wsp-lf3-vertragsarten-c01",
+     "front": "Merkmal des Mietvertrags?",
+     "back": "Entgeltliche Überlassung zum Gebrauch auf Zeit – das Eigentum bleibt beim Vermieter."
+    },
+    {
+     "key": "wsp-lf3-vertragsarten-c02",
+     "front": "Merkmal des Leihvertrags?",
+     "back": "Unentgeltliche Überlassung einer Sache zum Gebrauch; dieselbe Sache wird zurückgegeben."
+    },
+    {
+     "key": "wsp-lf3-vertragsarten-c03",
+     "front": "Merkmal des Pachtvertrags?",
+     "back": "Überlassung zum Gebrauch und zur Fruchtziehung gegen Entgelt."
+    },
+    {
+     "key": "wsp-lf3-vertragsarten-c04",
+     "front": "Merkmal des Darlehensvertrags?",
+     "back": "Überlassung von Geld (oder vertretbaren Sachen); zurückzugeben ist Gleichartiges, meist mit Zinsen."
+    },
+    {
+     "key": "wsp-lf3-vertragsarten-c05",
+     "front": "Merkmal des Leasingvertrags?",
+     "back": "Langfristige Gebrauchsüberlassung gegen Leasingraten; wird wie Miete behandelt, oft mit Kaufoption zum Restwert."
+    },
+    {
+     "key": "wsp-lf3-vertragsarten-c06",
+     "front": "Merkmal des Dienstvertrags?",
+     "back": "Geschuldet wird eine Tätigkeit, nicht ein Erfolg (z. B. Beratung)."
+    },
+    {
+     "key": "wsp-lf3-vertragsarten-c07",
+     "front": "Merkmal des Werkvertrags?",
+     "back": "Geschuldet wird ein bestimmter Erfolg (Werk), der abgenommen wird (z. B. Druck von 20 Steel Pans)."
+    },
+    {
+     "key": "wsp-lf3-vertragsarten-c08",
+     "front": "Merkmal des Arbeitsvertrags?",
+     "back": "Weisungsgebundene Arbeit in persönlicher Abhängigkeit gegen Arbeitsentgelt."
+    },
+    {
+     "key": "wsp-lf3-vertragsarten-c09",
+     "front": "Dienstvertrag vs. Werkvertrag?",
+     "back": "Dienstvertrag: Tätigkeit geschuldet. Werkvertrag: Erfolg geschuldet."
+    },
+    {
+     "key": "wsp-lf3-vertragsarten-c10",
+     "front": "Dienstvertrag vs. Arbeitsvertrag?",
+     "back": "Der Arbeitnehmer ist weisungsgebunden und persönlich abhängig; der freie Dienstnehmer arbeitet selbstständig."
+    },
+    {
+     "key": "wsp-lf3-vertragsarten-c11",
+     "front": "Was ist ein Agenturvertrag rechtlich?",
+     "back": "Meist ein gemischter Vertrag: Beratung = Dienstvertrag, Konzeption/Produktion = Werkvertrag."
+    },
+    {
+     "key": "wsp-lf3-vertragsarten-c12",
+     "front": "Was ist ein Honorarvertrag?",
+     "back": "Vertrag mit einem freien Mitarbeiter (meist Dienstvertrag) – kein Arbeitsverhältnis."
+    },
+    {
+     "key": "wsp-lf3-vertragsarten-c13",
+     "front": "Beispiel Werkvertrag in einer Agentur?",
+     "back": "Produktion und Branding von Werbetrommeln zu einem Festpreis; Druck von Plakaten."
+    },
+    {
+     "key": "wsp-lf3-vertragsarten-c14",
+     "front": "Beispiel Dienstvertrag in einer Agentur?",
+     "back": "Ein freischaffender Musiker unterrichtet gegen Honorar."
+    },
+    {
+     "key": "wsp-lf3-vertragsarten-c15",
+     "front": "Was ist eine Werklieferung?",
+     "back": "Der Unternehmer stellt ein Werk aus eigenem Material her (z. B. gebrandete Produkte) – Mischform mit Kaufrecht."
+    }
+   ],
+   "glossary": [
+    {
+     "key": "wsp-lf3-vertragsarten-g01",
+     "term": "Werkvertrag",
+     "definition": "Vertrag, bei dem der Unternehmer zur Herstellung eines Werks (Erfolg) und der Besteller zur Vergütung verpflichtet ist."
+    },
+    {
+     "key": "wsp-lf3-vertragsarten-g02",
+     "term": "Dienstvertrag",
+     "definition": "Vertrag über die Leistung von Diensten (Tätigkeit) gegen Vergütung."
+    },
+    {
+     "key": "wsp-lf3-vertragsarten-g03",
+     "term": "Mietvertrag",
+     "definition": "Entgeltliche Gebrauchsüberlassung einer Sache auf Zeit."
+    },
+    {
+     "key": "wsp-lf3-vertragsarten-g04",
+     "term": "Leasing",
+     "definition": "Langfristige Gebrauchsüberlassung gegen Leasingraten, oft mit Kaufoption."
+    },
+    {
+     "key": "wsp-lf3-vertragsarten-g05",
+     "term": "Honorar",
+     "definition": "Vergütung freiberuflicher Tätigkeit."
+    }
+   ],
+   "questions": [
+    {
+     "key": "wsp-lf3-vertragsarten-q01",
+     "type": "mc",
+     "exam_part": 2,
+     "difficulty": 2,
+     "source": "WSP LF3 (Unterricht)",
+     "body": {
+      "prompt": "Die FAMK beauftragt einen Hersteller, 20 Steel Pans mit dem Slogan „Trommeln für Vintage“ zu einem Festpreis zu produzieren und zu branden. Um welche Vertragsart handelt es sich?",
+      "options": [
+       {
+        "text": "Werkvertrag",
+        "correct": true
+       },
+       {
+        "text": "Mietvertrag",
+        "correct": false
+       },
+       {
+        "text": "Dienstvertrag",
+        "correct": false
+       },
+       {
+        "text": "Leasingvertrag",
+        "correct": false
+       },
+       {
+        "text": "Arbeitsvertrag",
+        "correct": false
+       }
+      ]
+     }
+    },
+    {
+     "key": "wsp-lf3-vertragsarten-q02",
+     "type": "mc",
+     "exam_part": 2,
+     "difficulty": 2,
+     "source": "WSP LF3 (Unterricht)",
+     "body": {
+      "prompt": "Die FAMK bucht einen freischaffenden Musiker auf Honorarbasis, der Studenten ausbildet. Welche Vertragsart liegt vor?",
+      "options": [
+       {
+        "text": "Dienstvertrag",
+        "correct": true
+       },
+       {
+        "text": "Werkvertrag",
+        "correct": false
+       },
+       {
+        "text": "Arbeitsvertrag",
+        "correct": false
+       },
+       {
+        "text": "Mietvertrag",
+        "correct": false
+       },
+       {
+        "text": "Kaufvertrag",
+        "correct": false
+       }
+      ]
+     }
+    },
+    {
+     "key": "wsp-lf3-vertragsarten-q03",
+     "type": "mc",
+     "exam_part": 2,
+     "difficulty": 2,
+     "explanation": "Für die Beauftragung selbstständiger Künstler und Publizisten zahlen Verwerter (z. B. Agenturen) die Künstlersozialabgabe.",
+     "source": "WSP LF3 (Unterricht)",
+     "body": {
+      "prompt": "An wen müssen bei der Beauftragung eines selbstständigen Künstlers/Musikers für Verwertung seiner Leistungen u. U. Abgaben gezahlt werden?",
+      "options": [
+       {
+        "text": "An die Künstlersozialkasse",
+        "correct": true
+       },
+       {
+        "text": "An die Krankenkasse",
+        "correct": false
+       },
+       {
+        "text": "An die Arbeitslosenversicherung",
+        "correct": false
+       },
+       {
+        "text": "An die Berufsunfähigkeitsversicherung",
+        "correct": false
+       },
+       {
+        "text": "An die Rentenversicherung als Arbeitgeberanteil",
+        "correct": false
+       }
+      ]
+     }
+    },
+    {
+     "key": "wsp-lf3-vertragsarten-q04",
+     "type": "mc",
+     "exam_part": 2,
+     "difficulty": 2,
+     "source": "WSP LF3 (Unterricht)",
+     "body": {
+      "prompt": "Welche Aussage zum Leihvertrag ist richtig?",
+      "options": [
+       {
+        "text": "Er ist unentgeltlich.",
+        "correct": true
+       },
+       {
+        "text": "Er ist entgeltlich.",
+        "correct": false
+       },
+       {
+        "text": "Der Entleiher wird Eigentümer.",
+        "correct": false
+       },
+       {
+        "text": "Er muss notariell beurkundet werden.",
+        "correct": false
+       },
+       {
+        "text": "Er ist nur zwischen Kaufleuten möglich.",
+        "correct": false
+       }
+      ]
+     }
+    },
+    {
+     "key": "wsp-lf3-vertragsarten-q05",
+     "type": "mc",
+     "exam_part": 2,
+     "difficulty": 2,
+     "source": "WSP LF3 (Unterricht)",
+     "body": {
+      "prompt": "Wodurch unterscheidet sich ein Werkvertrag vom Dienstvertrag?",
+      "options": [
+       {
+        "text": "Beim Werkvertrag wird ein Erfolg geschuldet, beim Dienstvertrag die Tätigkeit.",
+        "correct": true
+       },
+       {
+        "text": "Beim Werkvertrag wird nur die Tätigkeit geschuldet.",
+        "correct": false
+       },
+       {
+        "text": "Der Werkvertrag ist immer unentgeltlich.",
+        "correct": false
+       },
+       {
+        "text": "Der Dienstvertrag verlangt eine Abnahme.",
+        "correct": false
+       },
+       {
+        "text": "Es gibt keinen Unterschied.",
+        "correct": false
+       }
+      ]
+     }
+    },
+    {
+     "key": "wsp-lf3-vertragsarten-q06",
+     "type": "match",
+     "exam_part": 2,
+     "difficulty": 2,
+     "source": "WSP LF3 (Unterricht)",
+     "body": {
+      "prompt": "Ordnen Sie jedem Fall die Vertragsart zu.",
+      "items": [
+       {
+        "term": "Eine Agentur lässt 5.000 Flyer drucken",
+        "match": "Werkvertrag"
+       },
+       {
+        "term": "Ein Berater analysiert gegen Stundenhonorar die Markenstrategie",
+        "match": "Dienstvertrag"
+       },
+       {
+        "term": "Die Agentur nutzt gegen monatliche Raten über 4 Jahre ein Kamerasystem und kann es am Ende kaufen",
+        "match": "Leasingvertrag"
+       },
+       {
+        "term": "Ein Freund überlässt der Agentur unentgeltlich eine Kamera",
+        "match": "Leihvertrag"
+       },
+       {
+        "term": "Die Agentur überlässt Büroräume gegen monatliche Zahlung",
+        "match": "Mietvertrag"
+       }
+      ],
+      "distractors": []
+     }
+    },
+    {
+     "key": "wsp-lf3-vertragsarten-q07",
+     "type": "match",
+     "exam_part": 2,
+     "difficulty": 2,
+     "source": "WSP LF3 (Unterricht)",
+     "body": {
+      "prompt": "Ordnen Sie jeder Vertragsart den Kern der Leistung zu.",
+      "items": [
+       {
+        "term": "Kaufvertrag",
+        "match": "Eigentumsübertragung gegen Kaufpreis"
+       },
+       {
+        "term": "Darlehensvertrag",
+        "match": "Überlassung von Geld auf Zeit mit Rückzahlung"
+       },
+       {
+        "term": "Arbeitsvertrag",
+        "match": "weisungsgebundene Arbeit gegen Entgelt"
+       },
+       {
+        "term": "Pachtvertrag",
+        "match": "Gebrauch und Fruchtziehung gegen Entgelt"
+       }
+      ],
+      "distractors": []
+     }
+    },
+    {
+     "key": "wsp-lf3-vertragsarten-q08",
+     "type": "tf",
+     "exam_part": 2,
+     "difficulty": 2,
+     "source": "WSP LF3 (Unterricht)",
+     "body": {
+      "statement": "Beim Werkvertrag ist ein bestimmter Erfolg geschuldet.",
+      "answer": true
+     }
+    },
+    {
+     "key": "wsp-lf3-vertragsarten-q09",
+     "type": "tf",
+     "exam_part": 2,
+     "difficulty": 2,
+     "source": "WSP LF3 (Unterricht)",
+     "body": {
+      "statement": "Bei einem Mietvertrag wird der Mieter Eigentümer der Sache.",
+      "answer": false
+     }
+    },
+    {
+     "key": "wsp-lf3-vertragsarten-q10",
+     "type": "tf",
+     "exam_part": 2,
+     "difficulty": 2,
+     "source": "WSP LF3 (Unterricht)",
+     "body": {
+      "statement": "Ein Agenturvertrag kann Dienst- und Werkvertragsanteile enthalten.",
+      "answer": true
+     }
+    },
+    {
+     "key": "wsp-lf3-vertragsarten-q11",
+     "type": "cloze",
+     "exam_part": 2,
+     "difficulty": 1,
+     "source": "WSP LF3 (Unterricht)",
+     "body": {
+      "text": "Beim [[Dienstvertrag]] schuldet man die Tätigkeit, beim [[Werkvertrag]] den Erfolg."
+     }
+    }
+   ],
+   "templates": [],
+   "cases": [],
+   "summary": {
+    "key": "wsp-lf3-vertragsarten-zettel",
+    "title": "Vertragsarten im Überblick",
+    "content_md": "\n| Vertrag | Kern | Merkmal |\n|---|---|---|\n| **Kaufvertrag** | Eigentum gegen Kaufpreis | Verkäufer: Ware + Eigentum, Käufer: Zahlung + Annahme |\n| **Mietvertrag** | Gebrauchsüberlassung **gegen Entgelt** | Eigentum bleibt beim Vermieter |\n| **Leihvertrag** | Gebrauchsüberlassung **unentgeltlich** | Rückgabe derselben Sache |\n| **Pachtvertrag** | Gebrauch **und Fruchtziehung** gegen Entgelt | z. B. Gaststätte, Acker |\n| **Darlehensvertrag** | Geld/vertretbare Sachen **auf Zeit**, Rückgabe gleicher Art, i. d. R. mit Zins | Schriftform bei Verbraucherdarlehen |\n| **Leasingvertrag** | Miete + Kaufoption, Grundmietzeit, Restwert | mietrechtlich behandelt |\n| **Dienstvertrag** | geschuldet ist die **Tätigkeit** (kein Erfolg) | z. B. Beratung, freiberufliche Honorarkraft |\n| **Werkvertrag** | geschuldet ist ein **Erfolg/Werk** (Abnahme) | z. B. Flyerproduktion, Film, Website |\n| **Arbeitsvertrag** | abhängige, **weisungsgebundene** Arbeit gegen Lohn | Sonderform des Dienstvertrags |\n\n**Agenturvertrag**: gemischter Vertrag – Beratung/Betreuung = **Dienstvertrag**, Konzeption/Produktion eines konkreten Ergebnisses = **Werkvertrag**.\n"
+   }
+  }
+ ]
+}

@@ -1,0 +1,458 @@
+{
+ "demo": false,
+ "items": [
+  {
+   "topic": "wsp-lf1-vollmachten",
+   "flashcards": [
+    {
+     "key": "wsp-lf1-vollmachten-c01",
+     "front": "Wer kann Prokura erteilen?",
+     "back": "Nur der Inhaber oder sein gesetzlicher Vertreter (z. B. Geschäftsführer, Vorstand)."
+    },
+    {
+     "key": "wsp-lf1-vollmachten-c02",
+     "front": "Wie wird die Prokura erteilt?",
+     "back": "Ausdrücklich (mündlich oder schriftlich) und wird ins Handelsregister eingetragen (deklaratorisch)."
+    },
+    {
+     "key": "wsp-lf1-vollmachten-c03",
+     "front": "Mit welchem Zusatz zeichnet ein Prokurist?",
+     "back": "„ppa.“ (per procura)."
+    },
+    {
+     "key": "wsp-lf1-vollmachten-c04",
+     "front": "Mit welchem Zusatz zeichnet ein Handlungsbevollmächtigter?",
+     "back": "„i. V.“ (in Vertretung) bzw. „i. A.“ (im Auftrag)."
+    },
+    {
+     "key": "wsp-lf1-vollmachten-c05",
+     "front": "Nenne die drei Arten der Prokura.",
+     "back": "Einzelprokura, Gesamtprokura, Filialprokura."
+    },
+    {
+     "key": "wsp-lf1-vollmachten-c06",
+     "front": "Was ist eine Gesamtprokura?",
+     "back": "Mehrere Prokuristen dürfen nur gemeinsam handeln."
+    },
+    {
+     "key": "wsp-lf1-vollmachten-c07",
+     "front": "Nenne die drei Arten der Handlungsvollmacht.",
+     "back": "Generalhandlungsvollmacht, Arthandlungsvollmacht, Einzelhandlungsvollmacht."
+    },
+    {
+     "key": "wsp-lf1-vollmachten-c08",
+     "front": "Beispiel Arthandlungsvollmacht?",
+     "back": "Der Einkaufsleiter darf alle Einkäufe für das Unternehmen tätigen."
+    },
+    {
+     "key": "wsp-lf1-vollmachten-c09",
+     "front": "Beispiel Einzelhandlungsvollmacht?",
+     "back": "Ein Praktikant wird beauftragt, für ein Shooting Hotelzimmer zu buchen."
+    },
+    {
+     "key": "wsp-lf1-vollmachten-c10",
+     "front": "Beispiel Generalhandlungsvollmacht?",
+     "back": "Ein Abteilungsleiter darf alle gewöhnlichen Geschäfte seines Bereichs abschließen."
+    },
+    {
+     "key": "wsp-lf1-vollmachten-c11",
+     "front": "Was darf ein Prokurist nicht ohne besondere Befugnis?",
+     "back": "Grundstücke veräußern oder belasten, Prokura erteilen, Bilanz unterschreiben, Insolvenz anmelden, das Geschäft verkaufen."
+    },
+    {
+     "key": "wsp-lf1-vollmachten-c12",
+     "front": "Darf ein Prokurist ein Grundstück kaufen?",
+     "back": "Ja – der Erwerb ist von der Prokura gedeckt. Nur Veräußerung und Belastung brauchen eine besondere Befugnis."
+    },
+    {
+     "key": "wsp-lf1-vollmachten-c13",
+     "front": "Darf ein Prokurist Mitarbeiter einstellen?",
+     "back": "Ja – das gehört zum gewöhnlichen Geschäftsbetrieb."
+    },
+    {
+     "key": "wsp-lf1-vollmachten-c14",
+     "front": "Darf ein Prokurist einem anderen Prokura erteilen?",
+     "back": "Nein – das darf nur der Inhaber."
+    },
+    {
+     "key": "wsp-lf1-vollmachten-c15",
+     "front": "Wie erlischt die Prokura?",
+     "back": "Durch Widerruf, Ende des Arbeitsverhältnisses, Geschäftsaufgabe oder Tod des Prokuristen."
+    },
+    {
+     "key": "wsp-lf1-vollmachten-c16",
+     "front": "Erlischt die Prokura beim Tod des Inhabers?",
+     "back": "Nein."
+    },
+    {
+     "key": "wsp-lf1-vollmachten-c17",
+     "front": "Wird die Handlungsvollmacht ins Handelsregister eingetragen?",
+     "back": "Nein."
+    },
+    {
+     "key": "wsp-lf1-vollmachten-c18",
+     "front": "Wofür braucht ein Handlungsbevollmächtigter eine besondere Vollmacht?",
+     "back": "Grundstücksgeschäfte, Darlehensaufnahme, Prozessführung, Wechselverbindlichkeiten."
+    }
+   ],
+   "glossary": [
+    {
+     "key": "wsp-lf1-vollmachten-g01",
+     "term": "Prokura",
+     "definition": "Umfassende handelsrechtliche Vollmacht, die ins Handelsregister eingetragen wird (§§ 48 ff. HGB)."
+    },
+    {
+     "key": "wsp-lf1-vollmachten-g02",
+     "term": "Handlungsvollmacht",
+     "definition": "Vollmacht für Geschäfte, die ein Handelsgewerbe gewöhnlich mit sich bringt (§ 54 HGB)."
+    },
+    {
+     "key": "wsp-lf1-vollmachten-g03",
+     "term": "ppa.",
+     "definition": "Zeichnungszusatz des Prokuristen (per procura)."
+    },
+    {
+     "key": "wsp-lf1-vollmachten-g04",
+     "term": "i. V.",
+     "definition": "Zeichnungszusatz bei Handlungsvollmacht (in Vertretung)."
+    }
+   ],
+   "questions": [
+    {
+     "key": "wsp-lf1-vollmachten-q01",
+     "type": "mc",
+     "exam_part": 2,
+     "difficulty": 2,
+     "source": "WSP LF1 (Unterricht)",
+     "body": {
+      "prompt": "Welche Aussage zur Erteilung der Prokura ist richtig?",
+      "options": [
+       {
+        "text": "Sie darf nur vom Inhaber oder seinem gesetzlichen Vertreter erteilt werden.",
+        "correct": true
+       },
+       {
+        "text": "Jeder Abteilungsleiter darf Prokura erteilen.",
+        "correct": false
+       },
+       {
+        "text": "Ein Prokurist darf anderen Prokura erteilen.",
+        "correct": false
+       },
+       {
+        "text": "Sie erlischt mit dem Tod des Inhabers.",
+        "correct": false
+       },
+       {
+        "text": "Sie wird nicht ins Handelsregister eingetragen.",
+        "correct": false
+       }
+      ]
+     }
+    },
+    {
+     "key": "wsp-lf1-vollmachten-q02",
+     "type": "mc",
+     "exam_part": 2,
+     "difficulty": 2,
+     "source": "WSP LF1 (Unterricht)",
+     "body": {
+      "prompt": "Welche der folgenden Handlungen darf ein Prokurist ohne besondere Befugnis vornehmen?",
+      "options": [
+       {
+        "text": "Einen neuen Mitarbeiter einstellen",
+        "correct": true
+       },
+       {
+        "text": "Ein Betriebsgrundstück verkaufen",
+        "correct": false
+       },
+       {
+        "text": "Einem Kollegen Prokura erteilen",
+        "correct": false
+       },
+       {
+        "text": "Den Jahresabschluss für den Inhaber unterschreiben",
+        "correct": false
+       },
+       {
+        "text": "Das gesamte Unternehmen verkaufen",
+        "correct": false
+       }
+      ]
+     }
+    },
+    {
+     "key": "wsp-lf1-vollmachten-q03",
+     "type": "mc",
+     "exam_part": 2,
+     "difficulty": 2,
+     "source": "WSP LF1 (Unterricht)",
+     "body": {
+      "prompt": "Welche Vollmacht ist notwendig, wenn ein Praktikant beauftragt wird, ein einziges Mal Hotels für das Fotoshooting zu buchen?",
+      "options": [
+       {
+        "text": "Einzelvollmacht",
+        "correct": true
+       },
+       {
+        "text": "Prokura",
+        "correct": false
+       },
+       {
+        "text": "Generalhandlungsvollmacht",
+        "correct": false
+       },
+       {
+        "text": "Gesamtprokura",
+        "correct": false
+       },
+       {
+        "text": "Keine Vollmacht",
+        "correct": false
+       }
+      ]
+     }
+    },
+    {
+     "key": "wsp-lf1-vollmachten-q04",
+     "type": "mc",
+     "exam_part": 2,
+     "difficulty": 2,
+     "explanation": "Alle gewöhnlichen Geschäfte = Generalhandlungsvollmacht.",
+     "source": "WSP LF1 (Unterricht)",
+     "body": {
+      "prompt": "Welche Vollmacht benötigt der Etat Director, der alle laufenden, gewöhnlichen Geschäfte abschließen darf?",
+      "options": [
+       {
+        "text": "Generalhandlungsvollmacht",
+        "correct": true
+       },
+       {
+        "text": "Einzelvollmacht",
+        "correct": false
+       },
+       {
+        "text": "Arthandlungsvollmacht",
+        "correct": false
+       },
+       {
+        "text": "Prokura",
+        "correct": false
+       },
+       {
+        "text": "Keine",
+        "correct": false
+       }
+      ]
+     }
+    },
+    {
+     "key": "wsp-lf1-vollmachten-q05",
+     "type": "mc",
+     "exam_part": 2,
+     "difficulty": 2,
+     "source": "WSP LF1 (Unterricht)",
+     "body": {
+      "prompt": "Wie zeichnet ein Prokurist?",
+      "options": [
+       {
+        "text": "ppa.",
+        "correct": true
+       },
+       {
+        "text": "i. V.",
+        "correct": false
+       },
+       {
+        "text": "i. A.",
+        "correct": false
+       },
+       {
+        "text": "e. K.",
+        "correct": false
+       },
+       {
+        "text": "z. K.",
+        "correct": false
+       }
+      ]
+     }
+    },
+    {
+     "key": "wsp-lf1-vollmachten-q06",
+     "type": "mc",
+     "exam_part": 2,
+     "difficulty": 2,
+     "source": "WSP LF1 (Unterricht)",
+     "body": {
+      "prompt": "Wodurch erlischt die Prokura nicht?",
+      "options": [
+       {
+        "text": "Tod des Inhabers",
+        "correct": true
+       },
+       {
+        "text": "Widerruf durch den Inhaber",
+        "correct": false
+       },
+       {
+        "text": "Beendigung des Arbeitsverhältnisses",
+        "correct": false
+       },
+       {
+        "text": "Aufgabe des Handelsgeschäfts",
+        "correct": false
+       },
+       {
+        "text": "Tod des Prokuristen",
+        "correct": false
+       }
+      ]
+     }
+    },
+    {
+     "key": "wsp-lf1-vollmachten-q07",
+     "type": "match",
+     "exam_part": 2,
+     "difficulty": 2,
+     "source": "WSP LF1 (Unterricht)",
+     "body": {
+      "prompt": "Ordnen Sie jedem Fall die notwendige Vollmacht zu.",
+      "items": [
+       {
+        "term": "Der Einkaufsleiter bestellt regelmäßig Druckpapier",
+        "match": "Arthandlungsvollmacht"
+       },
+       {
+        "term": "Die Assistentin der Geschäftsführung stellt selbstständig Mitarbeiter ein und unterschreibt mit ppa.",
+        "match": "Prokura"
+       },
+       {
+        "term": "Ein Werkstudent soll einmalig ein Paket bei der Post aufgeben",
+        "match": "Einzelvollmacht"
+       },
+       {
+        "term": "Ein Abteilungsleiter schließt alle üblichen Geschäfte seines Bereichs ab",
+        "match": "Generalhandlungsvollmacht"
+       }
+      ],
+      "distractors": [
+       "Gesamtprokura",
+       "Filialprokura"
+      ]
+     }
+    },
+    {
+     "key": "wsp-lf1-vollmachten-q08",
+     "type": "match",
+     "exam_part": 2,
+     "difficulty": 3,
+     "source": "WSP LF1 (Unterricht)",
+     "body": {
+      "prompt": "Dürfen Prokurist/Handlungsbevollmächtigte das Geschäft vornehmen? (Prokura = ja/nein)",
+      "items": [
+       {
+        "term": "Mitarbeiter einstellen",
+        "match": "Ja – Prokura reicht"
+       },
+       {
+        "term": "Ein Grundstück für die Agentur kaufen",
+        "match": "Ja – Prokura reicht"
+       },
+       {
+        "term": "Ein Betriebsgrundstück verkaufen",
+        "match": "Nein – besondere Befugnis nötig"
+       },
+       {
+        "term": "Einem Kollegen Prokura erteilen",
+        "match": "Nein – nur der Inhaber"
+       }
+      ],
+      "distractors": []
+     }
+    },
+    {
+     "key": "wsp-lf1-vollmachten-q09",
+     "type": "tf",
+     "exam_part": 2,
+     "difficulty": 2,
+     "source": "WSP LF1 (Unterricht)",
+     "body": {
+      "statement": "Die Prokura wird ins Handelsregister eingetragen.",
+      "answer": true
+     }
+    },
+    {
+     "key": "wsp-lf1-vollmachten-q10",
+     "type": "tf",
+     "exam_part": 2,
+     "difficulty": 2,
+     "source": "WSP LF1 (Unterricht)",
+     "body": {
+      "statement": "Die Handlungsvollmacht muss ins Handelsregister eingetragen werden.",
+      "answer": false
+     }
+    },
+    {
+     "key": "wsp-lf1-vollmachten-q11",
+     "type": "tf",
+     "exam_part": 2,
+     "difficulty": 2,
+     "source": "WSP LF1 (Unterricht)",
+     "body": {
+      "statement": "Ein Prokurist darf ohne besondere Befugnis Grundstücke des Unternehmens veräußern.",
+      "answer": false
+     }
+    },
+    {
+     "key": "wsp-lf1-vollmachten-q12",
+     "type": "cloze",
+     "exam_part": 2,
+     "difficulty": 2,
+     "source": "WSP LF1 (Unterricht)",
+     "body": {
+      "text": "Die Prokura wird mit dem Zusatz [[ppa.]] gezeichnet, die Handlungsvollmacht mit [[i. V.]]."
+     }
+    },
+    {
+     "key": "wsp-lf1-vollmachten-q13",
+     "type": "error",
+     "exam_part": 2,
+     "difficulty": 2,
+     "source": "WSP LF1 (Unterricht)",
+     "body": {
+      "prompt": "Welche Aussagen zu Vollmachten sind fehlerhaft?",
+      "items": [
+       {
+        "text": "Die Prokura wird ins Handelsregister eingetragen.",
+        "wrong": false
+       },
+       {
+        "text": "Eine Handlungsvollmacht darf nur schriftlich erteilt werden.",
+        "wrong": true,
+        "fix": "Die Handlungsvollmacht ist formfrei und kann auch stillschweigend erteilt werden."
+       },
+       {
+        "text": "Ein Prokurist darf Grundstücke erwerben.",
+        "wrong": false
+       },
+       {
+        "text": "Ein Prokurist darf die Prokura auf einen Kollegen übertragen.",
+        "wrong": true,
+        "fix": "Nur der Inhaber darf Prokura erteilen."
+       }
+      ]
+     }
+    }
+   ],
+   "templates": [],
+   "cases": [],
+   "summary": {
+    "key": "wsp-lf1-vollmachten-zettel",
+    "title": "Prokura & Handlungsvollmacht",
+    "content_md": "\n| | **Prokura** (§§ 48 ff. HGB) | **Handlungsvollmacht** (§ 54 HGB) |\n|---|---|---|\n| **Erteilung** | nur durch Inhaber/gesetzl. Vertreter, ausdrücklich (mündlich/schriftlich) | durch Inhaber, Prokurist oder Handlungsbevollmächtigten, formlos (auch stillschweigend) |\n| **Handelsregister** | wird eingetragen (deklaratorisch) | keine Eintragung |\n| **Zeichnung** | *ppa.* (per procura) | *i. V.* (Generalhandlungsvollmacht) bzw. *i. A.* |\n| **Umfang** | alle gerichtlichen und außergerichtlichen Geschäfte, die ein Handelsgewerbe gewöhnlich mit sich bringt | je nach Art: alle gewöhnlichen Geschäfte (Generalvollmacht), Geschäfte einer bestimmten Art (Arthandlungsvollmacht) oder ein einzelnes Geschäft (Einzelvollmacht) |\n| **Arten** | Einzel-, Gesamt-, Filialprokura | General-, Art-, Einzelhandlungsvollmacht |\n\n**Ein Prokurist darf nicht** (ohne besondere Befugnis): Grundstücke **veräußern oder belasten** · **Prokura erteilen** · Bilanz/Steuererklärung unterschreiben · Insolvenzantrag stellen · das Geschäft verkaufen · Gesellschafter aufnehmen · Privatgeschäfte des Inhabers tätigen.\n*Grundstücke erwerben* darf er!\n\n**Handlungsbevollmächtigte** benötigen besondere Befugnis für: Grundstücksgeschäfte, Darlehen aufnehmen, Prozesse führen, Wechsel ausstellen.\n\n**Erlöschen der Prokura**: Widerruf (jederzeit), Beendigung des Arbeitsverhältnisses, Geschäftsaufgabe, Tod des Prokuristen. *Nicht* durch Tod des Inhabers oder Inhaberwechsel.\n"
+   }
+  }
+ ]
+}

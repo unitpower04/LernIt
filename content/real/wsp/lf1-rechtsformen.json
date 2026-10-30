@@ -1,0 +1,1027 @@
+{
+ "demo": false,
+ "items": [
+  {
+   "topic": "wsp-lf1-rechtsformen",
+   "flashcards": [
+    {
+     "key": "wsp-lf1-rechtsformen-c01",
+     "front": "Haftung beim Einzelunternehmen (e. K.)?",
+     "back": "Unbeschränkt mit Privat- und Geschäftsvermögen. Der Inhaber vertritt das Unternehmen allein."
+    },
+    {
+     "key": "wsp-lf1-rechtsformen-c02",
+     "front": "Mindestgesellschafter einer OHG?",
+     "back": "Zwei."
+    },
+    {
+     "key": "wsp-lf1-rechtsformen-c03",
+     "front": "Haftung der OHG-Gesellschafter?",
+     "back": "Unbeschränkt, unmittelbar und solidarisch (jeder haftet für alle Schulden mit dem gesamten Vermögen)."
+    },
+    {
+     "key": "wsp-lf1-rechtsformen-c04",
+     "front": "Vertretung in der OHG?",
+     "back": "Jeder Gesellschafter ist einzeln zur Vertretung berechtigt."
+    },
+    {
+     "key": "wsp-lf1-rechtsformen-c05",
+     "front": "Gewinnverteilung bei der OHG – aktuelle gesetzliche Regel?",
+     "back": "Seit 1.1.2024 (MoPeG): nach dem Verhältnis der Anteile (Einlagen). Der Gesellschaftsvertrag kann abweichen."
+    },
+    {
+     "key": "wsp-lf1-rechtsformen-c06",
+     "front": "Gewinnverteilung bei der OHG – frühere gesetzliche Regel?",
+     "back": "4 % auf den Kapitalanteil vorab, der Rest nach Köpfen (so noch in älteren IHK-Aufgaben).",
+     "hint": "Achtung: Aufgabentext beachten!"
+    },
+    {
+     "key": "wsp-lf1-rechtsformen-c07",
+     "front": "Wann erlangt eine OHG/KG Rechtsfähigkeit?",
+     "back": "Mit der Aufnahme der Geschäfte – spätestens mit der Eintragung ins Handelsregister."
+    },
+    {
+     "key": "wsp-lf1-rechtsformen-c08",
+     "front": "Welche Gesellschafter hat eine KG?",
+     "back": "Komplementäre (Vollhafter) und Kommanditisten (Teilhafter)."
+    },
+    {
+     "key": "wsp-lf1-rechtsformen-c09",
+     "front": "Haftung der Kommanditisten?",
+     "back": "Nur mit ihrer Kapitaleinlage."
+    },
+    {
+     "key": "wsp-lf1-rechtsformen-c10",
+     "front": "Wer führt und vertritt die KG?",
+     "back": "Die Komplementäre. Kommanditisten sind von der Vertretung ausgeschlossen."
+    },
+    {
+     "key": "wsp-lf1-rechtsformen-c11",
+     "front": "Was ist eine GmbH & Co. KG?",
+     "back": "Eine KG, bei der die GmbH Komplementär ist – dadurch ist die Haftung faktisch beschränkt. Es bleibt eine Personengesellschaft."
+    },
+    {
+     "key": "wsp-lf1-rechtsformen-c12",
+     "front": "Stammkapital der GmbH?",
+     "back": "Mindestens 25.000 €, bei Gründung mindestens die Hälfte (12.500 €) einzuzahlen."
+    },
+    {
+     "key": "wsp-lf1-rechtsformen-c13",
+     "front": "Wer vertritt die GmbH?",
+     "back": "Der Geschäftsführer."
+    },
+    {
+     "key": "wsp-lf1-rechtsformen-c14",
+     "front": "Mindestkapital der UG (haftungsbeschränkt)?",
+     "back": "Ab 1 €. Dafür müssen 25 % des Jahresüberschusses in die gesetzliche Rücklage."
+    },
+    {
+     "key": "wsp-lf1-rechtsformen-c15",
+     "front": "Grundkapital der AG?",
+     "back": "Mindestens 50.000 €, aufgeteilt in Aktien."
+    },
+    {
+     "key": "wsp-lf1-rechtsformen-c16",
+     "front": "Nenne die drei Organe der AG.",
+     "back": "Vorstand, Aufsichtsrat, Hauptversammlung."
+    },
+    {
+     "key": "wsp-lf1-rechtsformen-c17",
+     "front": "Aufgabe des Aufsichtsrats?",
+     "back": "Bestellt und überwacht den Vorstand."
+    },
+    {
+     "key": "wsp-lf1-rechtsformen-c18",
+     "front": "Aufgabe des Vorstands?",
+     "back": "Leitet die AG in eigener Verantwortung und vertritt sie nach außen."
+    },
+    {
+     "key": "wsp-lf1-rechtsformen-c19",
+     "front": "Was ist der Unterschied zwischen Personen- und Kapitalgesellschaft?",
+     "back": "Personengesellschaft: Gesellschafter haften persönlich (i. d. R.), Mitarbeit üblich. Kapitalgesellschaft: juristische Person, Haftung beschränkt auf das Gesellschaftsvermögen."
+    },
+    {
+     "key": "wsp-lf1-rechtsformen-c20",
+     "front": "In welche Abteilung des Handelsregisters kommen GmbH und AG?",
+     "back": "Abteilung B."
+    },
+    {
+     "key": "wsp-lf1-rechtsformen-c21",
+     "front": "In welche Abteilung kommen e. K., OHG, KG?",
+     "back": "Abteilung A."
+    },
+    {
+     "key": "wsp-lf1-rechtsformen-c22",
+     "front": "Gewinnverteilung bei der GmbH?",
+     "back": "Nach dem Verhältnis der Geschäftsanteile."
+    },
+    {
+     "key": "wsp-lf1-rechtsformen-c23",
+     "front": "Wann erlangt eine GmbH ihre Rechtsfähigkeit?",
+     "back": "Mit der Eintragung ins Handelsregister."
+    },
+    {
+     "key": "wsp-lf1-rechtsformen-c24",
+     "front": "Welche Rechtsform kann ein Einzelunternehmer wählen, wenn eine zweite Person als Vollhafter einsteigt?",
+     "back": "Die OHG (zwei Vollhafter ohne weitere Gesellschafter)."
+    }
+   ],
+   "glossary": [
+    {
+     "key": "wsp-lf1-rechtsformen-g01",
+     "term": "Komplementär",
+     "definition": "Vollhafter einer KG; führt die Geschäfte und vertritt die Gesellschaft."
+    },
+    {
+     "key": "wsp-lf1-rechtsformen-g02",
+     "term": "Kommanditist",
+     "definition": "Teilhafter einer KG; haftet nur mit seiner Einlage und ist von der Geschäftsführung ausgeschlossen."
+    },
+    {
+     "key": "wsp-lf1-rechtsformen-g03",
+     "term": "Juristische Person",
+     "definition": "Rechtsgebilde (z. B. GmbH, AG), das selbst Träger von Rechten und Pflichten ist."
+    },
+    {
+     "key": "wsp-lf1-rechtsformen-g04",
+     "term": "Stammkapital",
+     "definition": "Summe der Stammeinlagen der Gesellschafter einer GmbH (mind. 25.000 €)."
+    },
+    {
+     "key": "wsp-lf1-rechtsformen-g05",
+     "term": "Grundkapital",
+     "definition": "In Aktien zerlegtes Eigenkapital einer AG (mind. 50.000 €)."
+    },
+    {
+     "key": "wsp-lf1-rechtsformen-g06",
+     "term": "Solidarische Haftung",
+     "definition": "Jeder Gesellschafter haftet für die gesamte Schuld; der Gläubiger kann sich einen aussuchen."
+    }
+   ],
+   "questions": [
+    {
+     "key": "wsp-lf1-rechtsformen-q01",
+     "type": "mc",
+     "exam_part": 2,
+     "difficulty": 2,
+     "source": "WSP LF1 (Unterricht)",
+     "body": {
+      "prompt": "Welche Person hat bei einem Einzelunternehmen die Vertretungsbefugnis?",
+      "options": [
+       {
+        "text": "Der Inhaber",
+        "correct": true
+       },
+       {
+        "text": "Der Vorstand",
+        "correct": false
+       },
+       {
+        "text": "Der Aufsichtsrat",
+        "correct": false
+       },
+       {
+        "text": "Der Geschäftsführer",
+        "correct": false
+       },
+       {
+        "text": "Der Komplementär",
+        "correct": false
+       }
+      ]
+     }
+    },
+    {
+     "key": "wsp-lf1-rechtsformen-q02",
+     "type": "mc",
+     "exam_part": 2,
+     "difficulty": 2,
+     "source": "WSP LF1 (Unterricht)",
+     "body": {
+      "prompt": "Wie haftet der Inhaber eines Einzelunternehmens?",
+      "options": [
+       {
+        "text": "Mit seinem Privat- und Geschäftsvermögen",
+        "correct": true
+       },
+       {
+        "text": "Nur mit dem Geschäftsvermögen",
+        "correct": false
+       },
+       {
+        "text": "Nur in Höhe der Stammeinlage",
+        "correct": false
+       },
+       {
+        "text": "Der Geschäftsführer haftet an seiner Stelle",
+        "correct": false
+       },
+       {
+        "text": "Gar nicht – das Unternehmen haftet",
+        "correct": false
+       }
+      ]
+     }
+    },
+    {
+     "key": "wsp-lf1-rechtsformen-q03",
+     "type": "mc",
+     "exam_part": 2,
+     "difficulty": 2,
+     "source": "WSP LF1 (Unterricht)",
+     "body": {
+      "prompt": "Welche der folgenden Rechtsformen ist eine Kapitalgesellschaft?",
+      "options": [
+       {
+        "text": "AG",
+        "correct": true
+       },
+       {
+        "text": "OHG",
+        "correct": false
+       },
+       {
+        "text": "KG",
+        "correct": false
+       },
+       {
+        "text": "GbR",
+        "correct": false
+       },
+       {
+        "text": "Einzelunternehmen (e. K.)",
+        "correct": false
+       }
+      ]
+     }
+    },
+    {
+     "key": "wsp-lf1-rechtsformen-q04",
+     "type": "mc",
+     "exam_part": 2,
+     "difficulty": 2,
+     "source": "WSP LF1 (Unterricht)",
+     "body": {
+      "prompt": "Wer hat bei der Kommanditgesellschaft (KG) die Vertretungsbefugnis?",
+      "options": [
+       {
+        "text": "Jeder einzelne Komplementär",
+        "correct": true
+       },
+       {
+        "text": "Jeder einzelne Kommanditist",
+        "correct": false
+       },
+       {
+        "text": "Alle Kommanditisten nur gemeinsam",
+        "correct": false
+       },
+       {
+        "text": "Der Gesellschafter mit der größten Einlage",
+        "correct": false
+       },
+       {
+        "text": "Der Aufsichtsrat",
+        "correct": false
+       }
+      ]
+     }
+    },
+    {
+     "key": "wsp-lf1-rechtsformen-q05",
+     "type": "mc",
+     "exam_part": 2,
+     "difficulty": 2,
+     "source": "WSP LF1 (Unterricht)",
+     "body": {
+      "prompt": "Welche Aussage zur Haftung bei der KG ist richtig?",
+      "options": [
+       {
+        "text": "Kommanditisten haften mit ihrer Einlage, Komplementäre mit Privat- und Geschäftsvermögen.",
+        "correct": true
+       },
+       {
+        "text": "Alle Gesellschafter haften nur mit ihrer Einlage.",
+        "correct": false
+       },
+       {
+        "text": "Komplementäre haften nur mit der Einlage.",
+        "correct": false
+       },
+       {
+        "text": "Kommanditisten haften unbeschränkt und solidarisch.",
+        "correct": false
+       },
+       {
+        "text": "Die KG haftet nicht – nur die Gesellschafter persönlich.",
+        "correct": false
+       }
+      ]
+     }
+    },
+    {
+     "key": "wsp-lf1-rechtsformen-q06",
+     "type": "mc",
+     "exam_part": 2,
+     "difficulty": 2,
+     "source": "WSP LF1 (Unterricht)",
+     "body": {
+      "prompt": "Bei welcher Gesellschaftsform haften alle Gesellschafter solidarisch, unmittelbar und unbeschränkt?",
+      "options": [
+       {
+        "text": "Offene Handelsgesellschaft (OHG)",
+        "correct": true
+       },
+       {
+        "text": "Aktiengesellschaft (AG)",
+        "correct": false
+       },
+       {
+        "text": "GmbH",
+        "correct": false
+       },
+       {
+        "text": "UG (haftungsbeschränkt)",
+        "correct": false
+       },
+       {
+        "text": "Kommanditgesellschaft – Kommanditisten",
+        "correct": false
+       }
+      ]
+     }
+    },
+    {
+     "key": "wsp-lf1-rechtsformen-q07",
+     "type": "mc",
+     "exam_part": 2,
+     "difficulty": 2,
+     "source": "WSP LF1 (Unterricht)",
+     "body": {
+      "prompt": "Welche Organe hat eine Aktiengesellschaft? Wählen Sie die zwei zutreffenden Organe.",
+      "options": [
+       {
+        "text": "Vorstand",
+        "correct": true
+       },
+       {
+        "text": "Aufsichtsrat",
+        "correct": true
+       },
+       {
+        "text": "Geschäftsführer",
+        "correct": false
+       },
+       {
+        "text": "Gesellschafterversammlung",
+        "correct": false
+       },
+       {
+        "text": "Genossenschaftsversammlung",
+        "correct": false
+       },
+       {
+        "text": "Betriebsversammlung",
+        "correct": false
+       }
+      ]
+     }
+    },
+    {
+     "key": "wsp-lf1-rechtsformen-q08",
+     "type": "mc",
+     "exam_part": 2,
+     "difficulty": 2,
+     "source": "WSP LF1 (Unterricht)",
+     "body": {
+      "prompt": "Welche Aussage zur Gründung einer GmbH ist richtig?",
+      "options": [
+       {
+        "text": "Der Gesellschaftsvertrag muss notariell beurkundet werden.",
+        "correct": true
+       },
+       {
+        "text": "Eine GmbH entsteht schon mit dem Gesellschaftsvertrag ohne Eintragung.",
+        "correct": false
+       },
+       {
+        "text": "Mindestens drei Gründer sind erforderlich.",
+        "correct": false
+       },
+       {
+        "text": "Das Stammkapital beträgt mindestens 50.000 €.",
+        "correct": false
+       },
+       {
+        "text": "Die Gründung ist nur mit Sacheinlagen möglich.",
+        "correct": false
+       }
+      ]
+     }
+    },
+    {
+     "key": "wsp-lf1-rechtsformen-q09",
+     "type": "mc",
+     "exam_part": 2,
+     "difficulty": 2,
+     "source": "WSP LF1 (Unterricht)",
+     "body": {
+      "prompt": "Welche Aussage zur Aktiengesellschaft trifft zu?",
+      "options": [
+       {
+        "text": "Die Eintragung erfolgt in Abteilung B des Handelsregisters.",
+        "correct": true
+       },
+       {
+        "text": "Die AG ist eine Personengesellschaft.",
+        "correct": false
+       },
+       {
+        "text": "Das Grundkapital beträgt mindestens 20.000 €.",
+        "correct": false
+       },
+       {
+        "text": "Die Gründung ist ohne Satzung möglich.",
+        "correct": false
+       },
+       {
+        "text": "Die Aktionäre haften unbeschränkt.",
+        "correct": false
+       }
+      ]
+     }
+    },
+    {
+     "key": "wsp-lf1-rechtsformen-q10",
+     "type": "mc",
+     "exam_part": 2,
+     "difficulty": 2,
+     "source": "WSP LF1 (Unterricht)",
+     "body": {
+      "prompt": "Welchen Nachteil hat das Einzelunternehmen (e. K.)?",
+      "options": [
+       {
+        "text": "Der Einzelunternehmer haftet allein und unbeschränkt.",
+        "correct": true
+       },
+       {
+        "text": "Das Mindestkapital von 25.000 € muss eingezahlt werden.",
+        "correct": false
+       },
+       {
+        "text": "Ein Geschäftsführer muss bestellt werden.",
+        "correct": false
+       },
+       {
+        "text": "Die Gewinnverteilung ist kompliziert.",
+        "correct": false
+       },
+       {
+        "text": "Es muss jährlich eine Körperschaftsteuererklärung abgegeben werden.",
+        "correct": false
+       }
+      ]
+     }
+    },
+    {
+     "key": "wsp-lf1-rechtsformen-q11",
+     "type": "mc",
+     "exam_part": 2,
+     "difficulty": 2,
+     "source": "WSP LF1 (Unterricht)",
+     "body": {
+      "prompt": "Welche Aussage zur UG (haftungsbeschränkt) ist richtig?",
+      "options": [
+       {
+        "text": "Sie kann bereits mit einem Stammkapital ab 1 € gegründet werden.",
+        "correct": true
+       },
+       {
+        "text": "Sie benötigt 25.000 € Stammkapital.",
+        "correct": false
+       },
+       {
+        "text": "Sie ist eine Personengesellschaft.",
+        "correct": false
+       },
+       {
+        "text": "Ihre Gesellschafter haften unbeschränkt.",
+        "correct": false
+       },
+       {
+        "text": "Sie wird in Abteilung A des Handelsregisters eingetragen.",
+        "correct": false
+       }
+      ]
+     }
+    },
+    {
+     "key": "wsp-lf1-rechtsformen-q12",
+     "type": "mc",
+     "exam_part": 2,
+     "difficulty": 2,
+     "explanation": "Zwei Vollhafter ohne Teilhafter = OHG.",
+     "source": "WSP LF1 (Unterricht)",
+     "body": {
+      "prompt": "Ein Einzelunternehmer nimmt seine Ehefrau als weitere Vollhafterin auf; weitere Gesellschafter sind nicht geplant. In welche Rechtsform muss er zwangsläufig wechseln?",
+      "options": [
+       {
+        "text": "OHG",
+        "correct": true
+       },
+       {
+        "text": "KG",
+        "correct": false
+       },
+       {
+        "text": "GmbH",
+        "correct": false
+       },
+       {
+        "text": "AG",
+        "correct": false
+       },
+       {
+        "text": "eG",
+        "correct": false
+       }
+      ]
+     }
+    },
+    {
+     "key": "wsp-lf1-rechtsformen-q13",
+     "type": "match",
+     "exam_part": 2,
+     "difficulty": 2,
+     "source": "WSP LF1 (Unterricht)",
+     "body": {
+      "prompt": "Ordnen Sie jedem Merkmal die passende Rechtsform zu.",
+      "items": [
+       {
+        "term": "Vorstand, Aufsichtsrat und Hauptversammlung",
+        "match": "AG"
+       },
+       {
+        "term": "Komplementäre und Kommanditisten",
+        "match": "KG"
+       },
+       {
+        "term": "Alle Gesellschafter haften unbeschränkt und vertreten einzeln",
+        "match": "OHG"
+       },
+       {
+        "term": "Stammkapital mindestens 25.000 €",
+        "match": "GmbH"
+       },
+       {
+        "term": "Alleiniger Inhaber, Zusatz e. K.",
+        "match": "Einzelunternehmen"
+       }
+      ],
+      "distractors": [
+       "Genossenschaft",
+       "Verein"
+      ]
+     }
+    },
+    {
+     "key": "wsp-lf1-rechtsformen-q14",
+     "type": "match",
+     "exam_part": 2,
+     "difficulty": 2,
+     "source": "WSP LF1 (Unterricht)",
+     "body": {
+      "prompt": "Ordnen Sie die Organe/Personen der richtigen Rechtsform zu.",
+      "items": [
+       {
+        "term": "Geschäftsführer",
+        "match": "GmbH"
+       },
+       {
+        "term": "Vorstand",
+        "match": "AG"
+       },
+       {
+        "term": "Komplementär",
+        "match": "KG"
+       },
+       {
+        "term": "Inhaber",
+        "match": "e. K."
+       }
+      ],
+      "distractors": []
+     }
+    },
+    {
+     "key": "wsp-lf1-rechtsformen-q15",
+     "type": "tf",
+     "exam_part": 2,
+     "difficulty": 2,
+     "source": "WSP LF1 (Unterricht)",
+     "body": {
+      "statement": "Kommanditisten sind von der Vertretung der KG ausgeschlossen.",
+      "answer": true
+     }
+    },
+    {
+     "key": "wsp-lf1-rechtsformen-q16",
+     "type": "tf",
+     "exam_part": 2,
+     "difficulty": 2,
+     "explanation": "Eine OHG braucht mindestens zwei Gesellschafter.",
+     "source": "WSP LF1 (Unterricht)",
+     "body": {
+      "statement": "Eine OHG kann von einer einzelnen Person gegründet werden.",
+      "answer": false
+     }
+    },
+    {
+     "key": "wsp-lf1-rechtsformen-q17",
+     "type": "tf",
+     "exam_part": 2,
+     "difficulty": 2,
+     "explanation": "Sie ist eine Personengesellschaft (KG) mit einer GmbH als Komplementär.",
+     "source": "WSP LF1 (Unterricht)",
+     "body": {
+      "statement": "Die GmbH & Co. KG ist eine Kapitalgesellschaft.",
+      "answer": false
+     }
+    },
+    {
+     "key": "wsp-lf1-rechtsformen-q18",
+     "type": "tf",
+     "exam_part": 2,
+     "difficulty": 2,
+     "source": "WSP LF1 (Unterricht)",
+     "body": {
+      "statement": "Die Rechtsfähigkeit einer GmbH beginnt mit der Eintragung ins Handelsregister.",
+      "answer": true
+     }
+    },
+    {
+     "key": "wsp-lf1-rechtsformen-q19",
+     "type": "cloze",
+     "exam_part": 2,
+     "difficulty": 2,
+     "source": "WSP LF1 (Unterricht)",
+     "body": {
+      "text": "Die GmbH wird durch den [[Geschäftsführer]] vertreten, die AG durch den [[Vorstand]]."
+     }
+    },
+    {
+     "key": "wsp-lf1-rechtsformen-q20",
+     "type": "cloze",
+     "exam_part": 2,
+     "difficulty": 2,
+     "source": "WSP LF1 (Unterricht)",
+     "body": {
+      "text": "Das Mindestgrundkapital einer AG beträgt [[50.000]] Euro; das Mindeststammkapital einer GmbH [[25.000]] Euro."
+     }
+    },
+    {
+     "key": "wsp-lf1-rechtsformen-q21",
+     "type": "error",
+     "exam_part": 2,
+     "difficulty": 2,
+     "source": "WSP LF1 (Unterricht)",
+     "body": {
+      "prompt": "Welche Aussagen zu Rechtsformen sind fehlerhaft?",
+      "items": [
+       {
+        "text": "Der Aufsichtsrat der AG kontrolliert den Vorstand.",
+        "wrong": false
+       },
+       {
+        "text": "Die Gesellschafter einer GmbH haften unbeschränkt mit ihrem Privatvermögen.",
+        "wrong": true,
+        "fix": "Die Haftung ist auf das Gesellschaftsvermögen beschränkt."
+       },
+       {
+        "text": "Eine KG besteht aus Komplementären und Kommanditisten.",
+        "wrong": false
+       },
+       {
+        "text": "Die OHG wird in Abteilung B des Handelsregisters eingetragen.",
+        "wrong": true,
+        "fix": "OHG und KG gehören in Abteilung A."
+       }
+      ]
+     }
+    }
+   ],
+   "templates": [
+    {
+     "key": "wsp-lf1-rechtsformen-t01",
+     "type": "calc",
+     "exam_part": 2,
+     "difficulty": 3,
+     "source": "WSP LF1 (Unterricht)",
+     "vars": {
+      "firma": {
+       "type": "pick",
+       "options": [
+        "Müller",
+        "Lindner",
+        "Rieder & Fertig",
+        "Kreativ-Kontor",
+        "Neumann"
+       ]
+      },
+      "a": {
+       "type": "pick",
+       "options": [
+        "Jule Rieder",
+        "Anna Beck",
+        "Sven Aydin"
+       ]
+      },
+      "b": {
+       "type": "pick",
+       "options": [
+        "Jonas Rieder",
+        "Tom Schulze",
+        "Kai Demir"
+       ]
+      },
+      "c": {
+       "type": "pick",
+       "options": [
+        "Tim Fertig",
+        "Mia Kaya",
+        "Lena Roth"
+       ]
+      },
+      "ea": {
+       "type": "int",
+       "min": 30000,
+       "max": 80000,
+       "step": 5000
+      },
+      "eb": {
+       "type": "int",
+       "min": 20000,
+       "max": 60000,
+       "step": 5000
+      },
+      "ec": {
+       "type": "int",
+       "min": 20000,
+       "max": 60000,
+       "step": 5000
+      },
+      "g": {
+       "type": "int",
+       "min": 24000,
+       "max": 60000,
+       "step": 1000
+      }
+     },
+     "body": {
+      "prompt": "Die {firma} OHG besteht aus {a}, {b} und {c}. Die Kapitaleinlagen betragen {ea|eur0} ({a}), {eb|eur0} ({b}) und {ec|eur0} ({c}). Im vergangenen Jahr wurde ein Gewinn von {g|eur0} erwirtschaftet. Ermitteln Sie nach der früheren gesetzlichen Regelung (4 % auf den Kapitalanteil vorab, Rest nach Köpfen) den Gewinnanteil von {c}.",
+      "answer": "ec*0.04+(g-(ea+eb+ec)*0.04)/3",
+      "unit": "€",
+      "decimals": 2,
+      "steps": [
+       "Kapitaleinlagen: {ea|eur0} + {eb|eur0} + {ec|eur0}",
+       "4 % Vorab-Verzinsung des Kapitalanteils von {c}: {ec|eur0} × 4 %",
+       "Restgewinn = Gewinn − Summe der 4 %-Anteile; Rest geteilt durch 3 (nach Köpfen)",
+       "Gewinnanteil = Vorab + Restgewinnanteil = {result|eur}"
+      ]
+     }
+    },
+    {
+     "key": "wsp-lf1-rechtsformen-t02",
+     "type": "calc",
+     "exam_part": 2,
+     "difficulty": 2,
+     "source": "WSP LF1 (Unterricht)",
+     "vars": {
+      "firma": {
+       "type": "pick",
+       "options": [
+        "Pixelwerk",
+        "Klangbild",
+        "Textkontor",
+        "Mediahaus Rhein"
+       ]
+      },
+      "a": {
+       "type": "pick",
+       "options": [
+        "Frau Wagner",
+        "Frau Öztürk",
+        "Herr Brandt"
+       ]
+      },
+      "b": {
+       "type": "pick",
+       "options": [
+        "Herr Sommer",
+        "Frau Lehmann",
+        "Herr Petrov"
+       ]
+      },
+      "c": {
+       "type": "pick",
+       "options": [
+        "Frau Keller",
+        "Herr Nowak",
+        "Frau Dietrich"
+       ]
+      },
+      "ea": {
+       "type": "int",
+       "min": 10000,
+       "max": 40000,
+       "step": 5000
+      },
+      "eb": {
+       "type": "int",
+       "min": 10000,
+       "max": 40000,
+       "step": 5000
+      },
+      "ec": {
+       "type": "int",
+       "min": 10000,
+       "max": 40000,
+       "step": 5000
+      },
+      "g": {
+       "type": "int",
+       "min": 20000,
+       "max": 90000,
+       "step": 1000
+      }
+     },
+     "body": {
+      "prompt": "An der {firma} GmbH sind beteiligt: {a} mit {ea|eur0}, {b} mit {eb|eur0} und {c} mit {ec|eur0}. Der Jahresgewinn von {g|eur0} wird nach Geschäftsanteilen verteilt. Wie hoch ist der Gewinnanteil von {b}?",
+      "answer": "g*eb/(ea+eb+ec)",
+      "unit": "€",
+      "decimals": 2,
+      "steps": [
+       "Summe der Geschäftsanteile: {ea|eur0} + {eb|eur0} + {ec|eur0}",
+       "Anteil von {b}: {eb|eur0} ÷ Gesamtkapital",
+       "Gewinnanteil = {g|eur0} × Anteil = {result|eur}"
+      ]
+     }
+    },
+    {
+     "key": "wsp-lf1-rechtsformen-t03",
+     "type": "calc",
+     "exam_part": 2,
+     "difficulty": 2,
+     "source": "WSP LF1 (Unterricht)",
+     "vars": {
+      "firma": {
+       "type": "pick",
+       "options": [
+        "Fortune",
+        "Nordwind",
+        "Kreativkontor",
+        "Blaupause"
+       ]
+      },
+      "a": {
+       "type": "pick",
+       "options": [
+        "Katrin",
+        "Mara",
+        "Elif"
+       ]
+      },
+      "b": {
+       "type": "pick",
+       "options": [
+        "Tobias",
+        "Jonas",
+        "Deniz"
+       ]
+      },
+      "c": {
+       "type": "pick",
+       "options": [
+        "Fridolin",
+        "Henrik",
+        "Paul"
+       ]
+      },
+      "ea": {
+       "type": "int",
+       "min": 25000,
+       "max": 50000,
+       "step": 5000
+      },
+      "eb": {
+       "type": "int",
+       "min": 25000,
+       "max": 50000,
+       "step": 5000
+      },
+      "ec": {
+       "type": "int",
+       "min": 25000,
+       "max": 80000,
+       "step": 5000
+      },
+      "g": {
+       "type": "int",
+       "min": 60000,
+       "max": 240000,
+       "step": 10000
+      }
+     },
+     "body": {
+      "prompt": "An der {firma} OHG sind {a} mit {ea|eur0}, {b} mit {eb|eur0} und {c} mit {ec|eur0} beteiligt. Der Gesellschaftsvertrag enthält keine Gewinnregelung. Der Jahresgewinn beträgt {g|eur0}. Wie hoch ist der Gewinnanteil von {a} nach der aktuellen gesetzlichen Regelung (Verteilung nach Anteilen, seit 1.1.2024)?",
+      "answer": "g*ea/(ea+eb+ec)",
+      "unit": "€",
+      "decimals": 2,
+      "steps": [
+       "Gesamteinlagen: {ea|eur0} + {eb|eur0} + {ec|eur0}",
+       "Anteil von {a} = {ea|eur0} ÷ Gesamteinlagen",
+       "Gewinnanteil = {g|eur0} × Anteil = {result|eur}"
+      ]
+     }
+    },
+    {
+     "key": "wsp-lf1-rechtsformen-t04",
+     "type": "mc",
+     "exam_part": 2,
+     "difficulty": 2,
+     "source": "WSP LF1 (Unterricht)",
+     "vars": {
+      "firma": {
+       "type": "pick",
+       "options": [
+        "Zukunftswerk",
+        "Nordlicht Media",
+        "Kreativ-Kontor"
+       ]
+      },
+      "ctx": {
+       "type": "pick",
+       "options": [
+        {
+         "anf": "Die Gründer wollen nur mit dem Gesellschaftsvermögen haften und 25.000 € Stammkapital einbringen.",
+         "r": "GmbH",
+         "w1": "OHG",
+         "w2": "e. K.",
+         "w3": "KG"
+        },
+        {
+         "anf": "Zwei Gründer wollen beide unbeschränkt haften und das Geschäft gleichberechtigt führen.",
+         "r": "OHG",
+         "w1": "GmbH",
+         "w2": "AG",
+         "w3": "UG (haftungsbeschränkt)"
+        },
+        {
+         "anf": "Das Unternehmen soll Aktien an der Börse ausgeben.",
+         "r": "AG",
+         "w1": "KG",
+         "w2": "GmbH",
+         "w3": "OHG"
+        },
+        {
+         "anf": "Ein Investor möchte nur mit seiner Einlage haften und nicht mitarbeiten.",
+         "r": "KG (als Kommanditist)",
+         "w1": "OHG",
+         "w2": "e. K.",
+         "w3": "GbR"
+        }
+       ]
+      }
+     },
+     "body": {
+      "prompt": "Die {firma} plant eine Rechtsform für ihr neues Unternehmen. {ctx.anf} Welche Rechtsform erfüllt diese Anforderung?",
+      "options": [
+       {
+        "text": "{ctx.r}",
+        "correct": true
+       },
+       {
+        "text": "{ctx.w1}",
+        "correct": false
+       },
+       {
+        "text": "{ctx.w2}",
+        "correct": false
+       },
+       {
+        "text": "{ctx.w3}",
+        "correct": false
+       }
+      ]
+     }
+    }
+   ],
+   "cases": [],
+   "summary": {
+    "key": "wsp-lf1-rechtsformen-zettel",
+    "title": "Unternehmensformen im Überblick",
+    "content_md": "\n| Merkmal | e. K. | OHG | KG | GmbH | UG (haftungsb.) | AG |\n|---|---|---|---|---|---|---|\n| **Typ** | Einzelunternehmen | Personengesellschaft | Personengesellschaft | Kapitalgesellschaft | Kapitalgesellschaft | Kapitalgesellschaft |\n| **Gründer** | 1 Person | mind. 2 | mind. 2 (Komplementär + Kommanditist) | 1 oder mehr | 1 oder mehr | 1 oder mehr |\n| **Mindestkapital** | keins | keins | keins | 25.000 € Stammkapital | ab 1 € | 50.000 € Grundkapital |\n| **Haftung** | unbeschränkt, mit Privat- und Geschäftsvermögen | alle Gesellschafter unbeschränkt, unmittelbar, solidarisch | Komplementäre unbeschränkt; Kommanditisten nur mit Einlage | nur Gesellschaftsvermögen | nur Gesellschaftsvermögen | nur Gesellschaftsvermögen |\n| **Geschäftsführung/Vertretung** | Inhaber | jeder Gesellschafter einzeln | Komplementäre | Geschäftsführer | Geschäftsführer | Vorstand (Aufsichtsrat überwacht) |\n| **Handelsregister** | Abt. A | Abt. A | Abt. A | Abt. B | Abt. B | Abt. B |\n| **Firmenzusatz** | e. K. | OHG | KG | GmbH | UG (haftungsbeschränkt) | AG |\n\n**Gewinnverteilung**\n- **OHG/KG – seit 1.1.2024 (MoPeG)**: Gewinn und Verlust nach dem Verhältnis der Anteile (Einlagen), sofern der Gesellschaftsvertrag nichts anderes regelt\n- **OHG/KG – frühere gesetzliche Regel** (steht noch in älteren IHK-Aufgaben): 4 % auf den Kapitalanteil vorab, Rest nach Köpfen (KG: „angemessenes Verhältnis“)\n- **GmbH**: nach Geschäftsanteilen\n- **AG**: Dividende je Aktie, beschlossen von der Hauptversammlung\n\n⚠️ *In Aufgaben steht meist dabei, welche Regel gilt – genau lesen!*\n\n**Entstehung**: Personengesellschaften sind rechtsfähig mit **Aufnahme der Geschäfte** (spätestens mit Eintragung); Kapitalgesellschaften erst mit **Eintragung ins Handelsregister**.\n\n**Organe der AG**: *Vorstand* (leitet und vertritt), *Aufsichtsrat* (bestellt und kontrolliert den Vorstand), *Hauptversammlung* (Aktionäre; Dividende, Entlastung).\n\n**Kapitalgesellschaften sind juristische Personen**: Rechtsfähigkeit mit Eintragung ins Handelsregister.\n"
+   }
+  }
+ ]
+}

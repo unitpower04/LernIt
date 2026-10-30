@@ -1,0 +1,816 @@
+{
+ "demo": false,
+ "items": [
+  {
+   "topic": "wsp-lf3-stoerungen",
+   "flashcards": [
+    {
+     "key": "wsp-lf3-stoerungen-c01",
+     "front": "Was sind die vier Kaufvertragsstörungen?",
+     "back": "Mangelhafte Lieferung (Schlechtleistung), Lieferungsverzug, Annahmeverzug, Zahlungsverzug."
+    },
+    {
+     "key": "wsp-lf3-stoerungen-c02",
+     "front": "Wann ist eine Sache mangelfrei?",
+     "back": "Wenn sie bei Übergabe die vereinbarte, vorausgesetzte oder übliche Beschaffenheit hat."
+    },
+    {
+     "key": "wsp-lf3-stoerungen-c03",
+     "front": "Nenne Mangelarten.",
+     "back": "Mangel in der Beschaffenheit, Montagemangel, Falschlieferung (Aliud), Mengenmangel (Zuwenig/Zuviel), Rechtsmangel."
+    },
+    {
+     "key": "wsp-lf3-stoerungen-c04",
+     "front": "Welche Rechte hat der Käufer bei Mängeln – in welcher Reihenfolge?",
+     "back": "Zuerst Nacherfüllung (Nachbesserung oder Ersatzlieferung), danach Rücktritt oder Minderung und ggf. Schadensersatz."
+    },
+    {
+     "key": "wsp-lf3-stoerungen-c05",
+     "front": "Was heißt Nacherfüllung?",
+     "back": "Der Verkäufer beseitigt den Mangel (Nachbesserung) oder liefert mangelfreie Ware (Ersatzlieferung)."
+    },
+    {
+     "key": "wsp-lf3-stoerungen-c06",
+     "front": "Was ist die Rügepflicht beim zweiseitigen Handelskauf?",
+     "back": "Offene Mängel müssen unverzüglich gerügt werden; versteckte Mängel unverzüglich nach Entdeckung."
+    },
+    {
+     "key": "wsp-lf3-stoerungen-c07",
+     "front": "Gilt die Rügepflicht bei Verbrauchern?",
+     "back": "Nein – nur beim Handelskauf unter Kaufleuten."
+    },
+    {
+     "key": "wsp-lf3-stoerungen-c08",
+     "front": "Verjährungsfrist für Mängelansprüche?",
+     "back": "2 Jahre bei neuen beweglichen Sachen, 5 Jahre bei Bauwerken; bei arglistig verschwiegenen Mängeln gilt die regelmäßige Frist (3 Jahre)."
+    },
+    {
+     "key": "wsp-lf3-stoerungen-c09",
+     "front": "Voraussetzungen des Lieferungsverzugs?",
+     "back": "Fälligkeit der Lieferung, Mahnung (außer bei Fixgeschäft/kalendermäßig bestimmtem Termin), Verschulden."
+    },
+    {
+     "key": "wsp-lf3-stoerungen-c10",
+     "front": "Rechte des Käufers im Lieferungsverzug?",
+     "back": "Lieferung verlangen; nach Nachfrist vom Vertrag zurücktreten und/oder Schadensersatz verlangen."
+    },
+    {
+     "key": "wsp-lf3-stoerungen-c11",
+     "front": "Voraussetzungen des Annahmeverzugs?",
+     "back": "Fällige Leistung, ordnungsgemäß angeboten (richtige Zeit/Ort/Ware), Käufer nimmt nicht an."
+    },
+    {
+     "key": "wsp-lf3-stoerungen-c12",
+     "front": "Rechte des Verkäufers im Annahmeverzug?",
+     "back": "Annahme und Zahlung verlangen, Ware auf Kosten des Käufers lagern, Selbsthilfeverkauf, ggf. Rücktritt/Schadensersatz."
+    },
+    {
+     "key": "wsp-lf3-stoerungen-c13",
+     "front": "Was ist ein Selbsthilfeverkauf?",
+     "back": "Der Verkäufer verkauft die nicht angenommene Ware öffentlich (Versteigerung) und rechnet mit dem Käufer ab."
+    },
+    {
+     "key": "wsp-lf3-stoerungen-c14",
+     "front": "Voraussetzungen des Zahlungsverzugs?",
+     "back": "Fälligkeit, Mahnung (außer bei kalendermäßig bestimmter Zahlungsfrist oder 30 Tage nach Fälligkeit und Rechnungszugang), Verschulden."
+    },
+    {
+     "key": "wsp-lf3-stoerungen-c15",
+     "front": "Wann gerät der Schuldner ohne Mahnung in Zahlungsverzug?",
+     "back": "Bei kalendermäßig bestimmtem Zahlungstermin („zahlbar bis 15.03.“) mit Ablauf des Termins; oder 30 Tage nach Fälligkeit und Zugang der Rechnung."
+    },
+    {
+     "key": "wsp-lf3-stoerungen-c16",
+     "front": "Rechte des Verkäufers im Zahlungsverzug?",
+     "back": "Zahlung plus Verzugszinsen und Mahnkosten; nach Nachfrist Rücktritt und/oder Schadensersatz."
+    },
+    {
+     "key": "wsp-lf3-stoerungen-c17",
+     "front": "Verzugszinsen (gesetzlich)?",
+     "back": "Verbraucher: 5 Prozentpunkte, Unternehmer: 9 Prozentpunkte über dem Basiszinssatz."
+    },
+    {
+     "key": "wsp-lf3-stoerungen-c18",
+     "front": "Stufen des außergerichtlichen Mahnverfahrens?",
+     "back": "Zahlungserinnerung, 1., 2. und 3. Mahnung (mit Androhung gerichtlicher Schritte)."
+    },
+    {
+     "key": "wsp-lf3-stoerungen-c19",
+     "front": "Stufen des gerichtlichen Mahnverfahrens?",
+     "back": "Antrag auf Mahnbescheid → Mahnbescheid → (Widerspruch) → Vollstreckungsbescheid → Zwangsvollstreckung."
+    },
+    {
+     "key": "wsp-lf3-stoerungen-c20",
+     "front": "Frist für den Widerspruch gegen den Mahnbescheid?",
+     "back": "2 Wochen."
+    },
+    {
+     "key": "wsp-lf3-stoerungen-c21",
+     "front": "Was prüft das Gericht beim Mahnbescheid?",
+     "back": "Nicht, ob die Forderung berechtigt ist – nur formale Voraussetzungen."
+    },
+    {
+     "key": "wsp-lf3-stoerungen-c22",
+     "front": "Wer führt die Zwangsvollstreckung durch?",
+     "back": "Der Gerichtsvollzieher (Pfändung)."
+    },
+    {
+     "key": "wsp-lf3-stoerungen-c23",
+     "front": "Was ist das Pfandsiegel („Kuckuck“)?",
+     "back": "Kennzeichnung gepfändeter Sachen, die vorerst beim Schuldner bleiben."
+    },
+    {
+     "key": "wsp-lf3-stoerungen-c24",
+     "front": "Regelmäßige Verjährungsfrist?",
+     "back": "3 Jahre; sie beginnt mit Ablauf des Jahres, in dem der Anspruch entstanden ist."
+    },
+    {
+     "key": "wsp-lf3-stoerungen-c25",
+     "front": "Verjährungsfrist Bauwerke?",
+     "back": "5 Jahre."
+    },
+    {
+     "key": "wsp-lf3-stoerungen-c26",
+     "front": "Was bedeutet Hemmung der Verjährung?",
+     "back": "Die Frist läuft für die Dauer des Hemmungsgrundes nicht weiter (z. B. Verhandlungen, Klage, höhere Gewalt)."
+    },
+    {
+     "key": "wsp-lf3-stoerungen-c27",
+     "front": "Frist für die Kündigungsschutzklage?",
+     "back": "3 Wochen."
+    },
+    {
+     "key": "wsp-lf3-stoerungen-c28",
+     "front": "Widerrufsrecht bei Fernabsatz/Verbraucherverträgen?",
+     "back": "14 Tage (verlängert sich bei fehlender Belehrung)."
+    }
+   ],
+   "glossary": [
+    {
+     "key": "wsp-lf3-stoerungen-g01",
+     "term": "Lieferungsverzug",
+     "definition": "Verkäufer liefert trotz Fälligkeit und Mahnung nicht rechtzeitig."
+    },
+    {
+     "key": "wsp-lf3-stoerungen-g02",
+     "term": "Annahmeverzug",
+     "definition": "Käufer nimmt die ordnungsgemäß angebotene Ware nicht an."
+    },
+    {
+     "key": "wsp-lf3-stoerungen-g03",
+     "term": "Zahlungsverzug",
+     "definition": "Käufer zahlt trotz Fälligkeit und Mahnung nicht rechtzeitig."
+    },
+    {
+     "key": "wsp-lf3-stoerungen-g04",
+     "term": "Nacherfüllung",
+     "definition": "Nachbesserung oder Ersatzlieferung bei mangelhafter Ware."
+    },
+    {
+     "key": "wsp-lf3-stoerungen-g05",
+     "term": "Mahnbescheid",
+     "definition": "Gerichtlicher Zahlungsbefehl im Mahnverfahren."
+    },
+    {
+     "key": "wsp-lf3-stoerungen-g06",
+     "term": "Verjährung",
+     "definition": "Der Schuldner darf nach Fristablauf die Leistung verweigern."
+    },
+    {
+     "key": "wsp-lf3-stoerungen-g07",
+     "term": "Hemmung",
+     "definition": "Unterbrechung des Fristenlaufs der Verjährung."
+    }
+   ],
+   "questions": [
+    {
+     "key": "wsp-lf3-stoerungen-q01",
+     "type": "mc",
+     "exam_part": 2,
+     "difficulty": 2,
+     "source": "WSP LF3 (Unterricht)",
+     "body": {
+      "prompt": "Eine Agentur bestellt Bürolampen. Vier von zehn sind defekt. Welches Recht steht der Agentur vorrangig zu?",
+      "options": [
+       {
+        "text": "Nacherfüllung (Nachbesserung oder Ersatzlieferung)",
+        "correct": true
+       },
+       {
+        "text": "Sofortiger Rücktritt vom Vertrag",
+        "correct": false
+       },
+       {
+        "text": "Minderung des Kaufpreises",
+        "correct": false
+       },
+       {
+        "text": "Schadensersatz neben der Leistung",
+        "correct": false
+       },
+       {
+        "text": "Kein Recht, da der Mangel offen war",
+        "correct": false
+       }
+      ]
+     }
+    },
+    {
+     "key": "wsp-lf3-stoerungen-q02",
+     "type": "mc",
+     "exam_part": 2,
+     "difficulty": 2,
+     "source": "WSP LF3 (Unterricht)",
+     "body": {
+      "prompt": "Die FAMK lässt Schriftzüge aus Edelstahltrommeln lasern; einige Buchstaben verbiegen sich. Welches Recht steht ihr vorrangig zu?",
+      "options": [
+       {
+        "text": "Die Beseitigung des Mangels (Nacherfüllung)",
+        "correct": true
+       },
+       {
+        "text": "Der sofortige Rücktritt und Schadensersatz statt der Leistung",
+        "correct": false
+       },
+       {
+        "text": "Die Minderung des Kaufpreises",
+        "correct": false
+       },
+       {
+        "text": "Kein Recht, weil nicht gerügt wurde",
+        "correct": false
+       },
+       {
+        "text": "Schadensersatz neben der Leistung",
+        "correct": false
+       }
+      ]
+     }
+    },
+    {
+     "key": "wsp-lf3-stoerungen-q03",
+     "type": "mc",
+     "exam_part": 2,
+     "difficulty": 2,
+     "explanation": "Kalendermäßig bestimmter Zahlungstermin: Verzug mit Fristablauf.",
+     "source": "WSP LF3 (Unterricht)",
+     "body": {
+      "prompt": "Wann gerät ein Schuldner in Zahlungsverzug, wenn die Rechnung „zahlbar bis 15.03.2026“ lautet?",
+      "options": [
+       {
+        "text": "Nach Ablauf des 15.03.2026 – ohne weitere Mahnung",
+        "correct": true
+       },
+       {
+        "text": "Erst nach Zugang einer Mahnung und Ablauf der Nachfrist",
+        "correct": false
+       },
+       {
+        "text": "30 Tage nach Rechnungszugang",
+        "correct": false
+       },
+       {
+        "text": "Sofort nach Zugang der Rechnung",
+        "correct": false
+       },
+       {
+        "text": "Erst nach Zugang eines Mahnbescheids",
+        "correct": false
+       }
+      ]
+     }
+    },
+    {
+     "key": "wsp-lf3-stoerungen-q04",
+     "type": "mc",
+     "exam_part": 2,
+     "difficulty": 3,
+     "source": "WSP LF3 (Unterricht)",
+     "body": {
+      "prompt": "Der Lieferer liefert fälschlich an die Adresse eines Dritten, der niemanden antrifft. Die Ware wird dort abgestellt und gestohlen. Wer trägt die Schuld an der fehlerhaften Lieferung?",
+      "options": [
+       {
+        "text": "Der Verkäufer – er hat nicht am richtigen Ort geleistet.",
+        "correct": true
+       },
+       {
+        "text": "Der Käufer",
+        "correct": false
+       },
+       {
+        "text": "Der Dritte",
+        "correct": false
+       },
+       {
+        "text": "Beide je zur Hälfte",
+        "correct": false
+       },
+       {
+        "text": "Niemand",
+        "correct": false
+       }
+      ]
+     }
+    },
+    {
+     "key": "wsp-lf3-stoerungen-q05",
+     "type": "mc",
+     "exam_part": 2,
+     "difficulty": 2,
+     "source": "WSP LF3 (Unterricht)",
+     "body": {
+      "prompt": "Wer gerät in Annahmeverzug?",
+      "options": [
+       {
+        "text": "Der Käufer, der ordnungsgemäß gelieferte Ware nicht annimmt",
+        "correct": true
+       },
+       {
+        "text": "Der Verkäufer, der zu spät liefert",
+        "correct": false
+       },
+       {
+        "text": "Der Käufer, der nicht zahlt",
+        "correct": false
+       },
+       {
+        "text": "Der Verkäufer, der Mängel hat",
+        "correct": false
+       },
+       {
+        "text": "Der Spediteur",
+        "correct": false
+       }
+      ]
+     }
+    },
+    {
+     "key": "wsp-lf3-stoerungen-q06",
+     "type": "mc",
+     "exam_part": 2,
+     "difficulty": 2,
+     "source": "WSP LF3 (Unterricht)",
+     "body": {
+      "prompt": "Welche Aussage zum gerichtlichen Mahnverfahren ist richtig?",
+      "options": [
+       {
+        "text": "Das Gericht prüft nicht, ob die Forderung zu Recht besteht.",
+        "correct": true
+       },
+       {
+        "text": "Es können auch Warenschulden eingefordert werden.",
+        "correct": false
+       },
+       {
+        "text": "Der Gerichtsvollzieher erlässt den Mahnbescheid.",
+        "correct": false
+       },
+       {
+        "text": "Es ist teurer und langsamer als eine Klage.",
+        "correct": false
+       },
+       {
+        "text": "Es gilt nur für Verbraucher.",
+        "correct": false
+       }
+      ]
+     }
+    },
+    {
+     "key": "wsp-lf3-stoerungen-q07",
+     "type": "mc",
+     "exam_part": 2,
+     "difficulty": 2,
+     "source": "WSP LF3 (Unterricht)",
+     "body": {
+      "prompt": "Welche Aussage zur Verjährung ist richtig?",
+      "options": [
+       {
+        "text": "Die regelmäßige Verjährungsfrist beträgt 3 Jahre ab Ende des Entstehungsjahres.",
+        "correct": true
+       },
+       {
+        "text": "Alle Ansprüche verjähren nach 30 Tagen.",
+        "correct": false
+       },
+       {
+        "text": "Die Frist beginnt am Tag des Vertragsschlusses.",
+        "correct": false
+       },
+       {
+        "text": "Eine Hemmung verlängert die Frist um 1 Jahr.",
+        "correct": false
+       },
+       {
+        "text": "Mängelansprüche verjähren immer nach 5 Jahren.",
+        "correct": false
+       }
+      ]
+     }
+    },
+    {
+     "key": "wsp-lf3-stoerungen-q08",
+     "type": "mc",
+     "exam_part": 2,
+     "difficulty": 2,
+     "source": "WSP LF3 (Unterricht)",
+     "body": {
+      "prompt": "Welche Frist gilt für Mängelansprüche bei einem neu gekauften beweglichen Gegenstand?",
+      "options": [
+       {
+        "text": "2 Jahre",
+        "correct": true
+       },
+       {
+        "text": "6 Monate",
+        "correct": false
+       },
+       {
+        "text": "1 Jahr",
+        "correct": false
+       },
+       {
+        "text": "3 Jahre",
+        "correct": false
+       },
+       {
+        "text": "5 Jahre",
+        "correct": false
+       }
+      ]
+     }
+    },
+    {
+     "key": "wsp-lf3-stoerungen-q09",
+     "type": "mc",
+     "exam_part": 2,
+     "difficulty": 2,
+     "source": "WSP LF3 (Unterricht)",
+     "body": {
+      "prompt": "Welche Mängelrüge ist beim zweiseitigen Handelskauf vorgeschrieben?",
+      "options": [
+       {
+        "text": "Unverzügliche Rüge offener Mängel",
+        "correct": true
+       },
+       {
+        "text": "Rüge innerhalb von 6 Monaten",
+        "correct": false
+       },
+       {
+        "text": "Keine Rüge nötig",
+        "correct": false
+       },
+       {
+        "text": "Rüge innerhalb von 2 Jahren",
+        "correct": false
+       },
+       {
+        "text": "Rüge nur durch Anwalt",
+        "correct": false
+       }
+      ]
+     }
+    },
+    {
+     "key": "wsp-lf3-stoerungen-q10",
+     "type": "match",
+     "exam_part": 2,
+     "difficulty": 2,
+     "source": "WSP LF3 (Unterricht)",
+     "body": {
+      "prompt": "Ordnen Sie jeder Störung die richtige Beschreibung zu.",
+      "items": [
+       {
+        "term": "Lieferungsverzug",
+        "match": "Verkäufer liefert nicht rechtzeitig"
+       },
+       {
+        "term": "Annahmeverzug",
+        "match": "Käufer nimmt Ware nicht an"
+       },
+       {
+        "term": "Zahlungsverzug",
+        "match": "Käufer zahlt nicht rechtzeitig"
+       },
+       {
+        "term": "Schlechtleistung",
+        "match": "Ware ist mangelhaft"
+       }
+      ],
+      "distractors": []
+     }
+    },
+    {
+     "key": "wsp-lf3-stoerungen-q11",
+     "type": "match",
+     "exam_part": 2,
+     "difficulty": 2,
+     "source": "WSP LF3 (Unterricht)",
+     "body": {
+      "prompt": "Ordnen Sie die Rechtsfolge der Störung zu.",
+      "items": [
+       {
+        "term": "Selbsthilfeverkauf",
+        "match": "Annahmeverzug"
+       },
+       {
+        "term": "Ersatzlieferung",
+        "match": "Mangelhafte Lieferung"
+       },
+       {
+        "term": "Verzugszinsen",
+        "match": "Zahlungsverzug"
+       },
+       {
+        "term": "Rücktritt nach Nachfrist wegen Nichtlieferung",
+        "match": "Lieferungsverzug"
+       }
+      ],
+      "distractors": []
+     }
+    },
+    {
+     "key": "wsp-lf3-stoerungen-q12",
+     "type": "match",
+     "exam_part": 2,
+     "difficulty": 2,
+     "source": "WSP LF3 (Unterricht)",
+     "body": {
+      "prompt": "Ordnen Sie jedem Zeitraum den Sachverhalt zu.",
+      "items": [
+       {
+        "term": "2 Wochen",
+        "match": "Einspruch gegen den Mahnbescheid"
+       },
+       {
+        "term": "3 Wochen",
+        "match": "Klage gegen eine sozial ungerechtfertigte Kündigung"
+       },
+       {
+        "term": "30 Tage",
+        "match": "Zahlungsverzug nach Fälligkeit und Rechnungszugang"
+       },
+       {
+        "term": "3 Jahre",
+        "match": "Regelmäßige Verjährungsfrist"
+       }
+      ],
+      "distractors": [
+       "10 Tage"
+      ]
+     }
+    },
+    {
+     "key": "wsp-lf3-stoerungen-q13",
+     "type": "order",
+     "exam_part": 2,
+     "difficulty": 2,
+     "source": "WSP LF3 (Unterricht)",
+     "body": {
+      "prompt": "Bringen Sie die Stufen des gerichtlichen Mahnverfahrens in die richtige Reihenfolge.",
+      "items": [
+       "Antrag auf Mahnbescheid beim Amtsgericht",
+       "Erlass des Mahnbescheids",
+       "Vollstreckungsbescheid",
+       "Zwangsvollstreckung durch den Gerichtsvollzieher"
+      ]
+     }
+    },
+    {
+     "key": "wsp-lf3-stoerungen-q14",
+     "type": "order",
+     "exam_part": 2,
+     "difficulty": 1,
+     "source": "WSP LF3 (Unterricht)",
+     "body": {
+      "prompt": "Bringen Sie die außergerichtlichen Mahnstufen in die richtige Reihenfolge.",
+      "items": [
+       "Zahlungserinnerung",
+       "1. Mahnung",
+       "2. Mahnung",
+       "3. Mahnung mit Androhung gerichtlicher Schritte"
+      ]
+     }
+    },
+    {
+     "key": "wsp-lf3-stoerungen-q15",
+     "type": "tf",
+     "exam_part": 2,
+     "difficulty": 2,
+     "explanation": "Vorrangig ist die Nacherfüllung.",
+     "source": "WSP LF3 (Unterricht)",
+     "body": {
+      "statement": "Der Käufer hat bei Mängeln vorrangig das Recht zum sofortigen Rücktritt.",
+      "answer": false
+     }
+    },
+    {
+     "key": "wsp-lf3-stoerungen-q16",
+     "type": "tf",
+     "exam_part": 2,
+     "difficulty": 2,
+     "source": "WSP LF3 (Unterricht)",
+     "body": {
+      "statement": "Das gerichtliche Mahnverfahren eignet sich nur für Geldforderungen.",
+      "answer": true
+     }
+    },
+    {
+     "key": "wsp-lf3-stoerungen-q17",
+     "type": "tf",
+     "exam_part": 2,
+     "difficulty": 2,
+     "explanation": "Sie beginnt mit Ablauf des Jahres der Anspruchsentstehung.",
+     "source": "WSP LF3 (Unterricht)",
+     "body": {
+      "statement": "Die Verjährung beginnt bei der regelmäßigen Frist mit dem Tag der Entstehung des Anspruchs.",
+      "answer": false
+     }
+    },
+    {
+     "key": "wsp-lf3-stoerungen-q18",
+     "type": "cloze",
+     "exam_part": 2,
+     "difficulty": 1,
+     "source": "WSP LF3 (Unterricht)",
+     "body": {
+      "text": "Bei Verbrauchsgüterkäufen verjähren Mängelansprüche nach [[2]] Jahren."
+     }
+    },
+    {
+     "key": "wsp-lf3-stoerungen-q19",
+     "type": "cloze",
+     "exam_part": 2,
+     "difficulty": 2,
+     "source": "WSP LF3 (Unterricht)",
+     "body": {
+      "text": "Das gerichtliche Mahnverfahren beginnt mit dem Antrag auf [[Mahnbescheid]] und endet ggf. mit der [[Zwangsvollstreckung]]."
+     }
+    },
+    {
+     "key": "wsp-lf3-stoerungen-q20",
+     "type": "error",
+     "exam_part": 2,
+     "difficulty": 2,
+     "source": "WSP LF3 (Unterricht)",
+     "body": {
+      "prompt": "Welche Aussagen zu Kaufvertragsstörungen sind fehlerhaft?",
+      "items": [
+       {
+        "text": "Beim Lieferungsverzug muss in der Regel gemahnt werden.",
+        "wrong": false
+       },
+       {
+        "text": "Bei Annahmeverzug darf der Käufer Selbsthilfeverkauf durchführen.",
+        "wrong": true,
+        "fix": "Der Verkäufer hat dieses Recht."
+       },
+       {
+        "text": "Verzugszinsen können bei Zahlungsverzug verlangt werden.",
+        "wrong": false
+       },
+       {
+        "text": "Mängelansprüche verjähren bei neuen Sachen nach 5 Jahren.",
+        "wrong": true,
+        "fix": "Regelfall: 2 Jahre (5 Jahre nur bei Bauwerken)."
+       }
+      ]
+     }
+    }
+   ],
+   "templates": [
+    {
+     "key": "wsp-lf3-stoerungen-t01",
+     "type": "mc",
+     "exam_part": 2,
+     "difficulty": 2,
+     "explanation": "Regelverjährung: 3 Jahre ab Ende des Entstehungsjahres.",
+     "source": "WSP LF3 (Unterricht)",
+     "vars": {
+      "y": {
+       "type": "int",
+       "min": 2021,
+       "max": 2025,
+       "step": 1,
+       "fmt": "raw"
+      },
+      "y2": {
+       "type": "expr",
+       "expr": "y+2",
+       "decimals": 0,
+       "fmt": "raw"
+      },
+      "y3": {
+       "type": "expr",
+       "expr": "y+3",
+       "decimals": 0,
+       "fmt": "raw"
+      },
+      "y5": {
+       "type": "expr",
+       "expr": "y+5",
+       "decimals": 0,
+       "fmt": "raw"
+      }
+     },
+     "body": {
+      "prompt": "Ein Anspruch aus einem Kaufvertrag über Werbematerial entsteht im Jahr {y}. Wann verjährt er nach der regelmäßigen Verjährungsfrist, wenn keine Hemmung eintritt?",
+      "options": [
+       {
+        "text": "Mit Ablauf des 31.12.{y3}",
+        "correct": true
+       },
+       {
+        "text": "Mit Ablauf des 31.12.{y2}",
+        "correct": false
+       },
+       {
+        "text": "Mit Ablauf des 31.12.{y5}",
+        "correct": false
+       },
+       {
+        "text": "Mit Ablauf des Tages der Entstehung des Anspruchs im Jahr {y3}",
+        "correct": false
+       }
+      ]
+     }
+    },
+    {
+     "key": "wsp-lf3-stoerungen-t02",
+     "type": "mc",
+     "exam_part": 2,
+     "difficulty": 3,
+     "source": "WSP LF3 (Unterricht)",
+     "vars": {
+      "firma": {
+       "type": "pick",
+       "options": [
+        "FAMK",
+        "Kreativ-Kontor",
+        "Mediahaus Rhein",
+        "Pixelwerk GmbH"
+       ]
+      },
+      "ctx": {
+       "type": "pick",
+       "options": [
+        {
+         "zugang": "01.03.2026",
+         "zb": "zahlbar bis 15.03.2026",
+         "richtig": "Mit Ablauf des 15.03.2026, ohne Mahnung",
+         "w1": "Erst nach Zugang einer Mahnung und fruchtlosem Ablauf der Nachfrist",
+         "w2": "30 Tage nach Zugang, also am 31.03.2026",
+         "w3": "Sofort mit Zugang der Rechnung"
+        },
+        {
+         "zugang": "10.04.2026",
+         "zb": "zahlbar bis 30.04.2026",
+         "richtig": "Mit Ablauf des 30.04.2026, ohne Mahnung",
+         "w1": "Nach der ersten Mahnung",
+         "w2": "30 Tage nach Zugang, also am 10.05.2026",
+         "w3": "Sofort mit Zugang der Rechnung"
+        },
+        {
+         "zugang": "05.05.2026",
+         "zb": "zahlbar innerhalb von 14 Tagen nach Rechnungszugang (kalendermäßig nicht bestimmt, kein Zahlungstermin genannt)",
+         "richtig": "30 Tage nach Fälligkeit und Zugang der Rechnung – bei Fälligkeit mit Zugang also am 04.06.2026 (Ablauf)",
+         "w1": "Mit Ablauf von 14 Tagen am 19.05.2026 automatisch",
+         "w2": "Sofort mit Zugang der Rechnung",
+         "w3": "Erst nach Zugang eines Mahnbescheids"
+        }
+       ]
+      }
+     },
+     "body": {
+      "prompt": "Die {firma} erhält am {ctx.zugang} eine Rechnung über 4.800 EUR. Zahlungsbedingung: {ctx.zb}. Wann gerät sie in Zahlungsverzug?",
+      "options": [
+       {
+        "text": "{ctx.richtig}",
+        "correct": true
+       },
+       {
+        "text": "{ctx.w1}",
+        "correct": false
+       },
+       {
+        "text": "{ctx.w2}",
+        "correct": false
+       },
+       {
+        "text": "{ctx.w3}",
+        "correct": false
+       }
+      ]
+     }
+    }
+   ],
+   "cases": [],
+   "summary": {
+    "key": "wsp-lf3-stoerungen-zettel",
+    "title": "Kaufvertragsstörungen, Mahnverfahren & Verjährung",
+    "content_md": "\n| Störung | Voraussetzungen | Rechte |\n|---|---|---|\n| **Mangelhafte Lieferung** (Sach-/Rechtsmangel) | Mangel bei Übergabe; bei Handelskauf **unverzügliche Rüge** | zuerst **Nacherfüllung** (Nachbesserung/Ersatzlieferung), dann **Rücktritt**, **Minderung**, **Schadensersatz** |\n| **Lieferungsverzug** | fällig + **Mahnung** (entfällt bei Fixgeschäft/Kalendertermin) + Verschulden | auf Lieferung bestehen · nach Nachfrist: Rücktritt und/oder Schadensersatz |\n| **Annahmeverzug** | fällig + ordnungsgemäß angeboten + Käufer nimmt nicht an | Annahme verlangen · Lagerung auf Kosten des Käufers · **Selbsthilfeverkauf** · Rücktritt/Schadensersatz nach Nachfrist |\n| **Zahlungsverzug** | fällig + **Mahnung** (entfällt bei kalendermäßig bestimmtem Zahlungstermin) oder **30 Tage nach Fälligkeit und Rechnungszugang** + Verschulden | Zahlung + Verzugszinsen · nach Nachfrist: Rücktritt/Schadensersatz |\n\n**Verjährung**: Mängelansprüche **2 Jahre** (neue Sachen; **5 Jahre** Bauwerke); regelmäßige Verjährung **3 Jahre** (Beginn mit Ablauf des Entstehungsjahres, z. B. Forderung aus 2023 → 31.12.2026); **10 Jahre** Aufbewahrung; **30 Jahre** Titel (Urteile). **Hemmung** = Frist läuft für die Dauer des Hemmungsgrundes nicht (Verhandlungen, Klage, Mahnbescheid, höhere Gewalt).\n\n**Mahnverfahren**\n- *außergerichtlich*: Zahlungserinnerung → 1. Mahnung → 2. Mahnung → 3. Mahnung (mit Androhung rechtlicher Schritte)\n- *gerichtlich*: Antrag auf **Mahnbescheid** (Amtsgericht) → Widerspruch (2 Wochen) → **Vollstreckungsbescheid** → **Zwangsvollstreckung** (Gerichtsvollzieher, Pfändung) → eidesstattliche Versicherung\n"
+   }
+  }
+ ]
+}

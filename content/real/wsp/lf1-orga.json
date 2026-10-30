@@ -1,0 +1,487 @@
+{
+ "demo": false,
+ "items": [
+  {
+   "topic": "wsp-lf1-orga",
+   "flashcards": [
+    {
+     "key": "wsp-lf1-orga-c01",
+     "front": "Was beschreibt die Aufbauorganisation?",
+     "back": "Die Struktur eines Unternehmens: Stellen, Abteilungen, Hierarchien und Weisungswege – dargestellt im Organigramm."
+    },
+    {
+     "key": "wsp-lf1-orga-c02",
+     "front": "Was beschreibt die Ablauforganisation?",
+     "back": "Die zeitliche und räumliche Abfolge der Arbeitsprozesse: wer macht wann was in welcher Reihenfolge."
+    },
+    {
+     "key": "wsp-lf1-orga-c03",
+     "front": "Was ist ein Organigramm?",
+     "back": "Grafische Darstellung der Aufbauorganisation (Stellen, Abteilungen, Über-/Unterordnung)."
+    },
+    {
+     "key": "wsp-lf1-orga-c04",
+     "front": "Merkmal des Einliniensystems?",
+     "back": "Jeder Mitarbeiter hat genau einen Vorgesetzten; Anweisungen laufen über den Instanzenweg."
+    },
+    {
+     "key": "wsp-lf1-orga-c05",
+     "front": "Nachteil des Einliniensystems?",
+     "back": "Lange Dienstwege, Überlastung der Leitung, geringe Flexibilität."
+    },
+    {
+     "key": "wsp-lf1-orga-c06",
+     "front": "Merkmal des Mehrliniensystems?",
+     "back": "Mitarbeiter erhalten Weisungen von mehreren spezialisierten Vorgesetzten."
+    },
+    {
+     "key": "wsp-lf1-orga-c07",
+     "front": "Nachteil des Mehrliniensystems?",
+     "back": "Kompetenzkonflikte, widersprüchliche Anweisungen."
+    },
+    {
+     "key": "wsp-lf1-orga-c08",
+     "front": "Was ist eine Stabsstelle?",
+     "back": "Eine beratende Stelle ohne Weisungsbefugnis, die die Leitung unterstützt."
+    },
+    {
+     "key": "wsp-lf1-orga-c09",
+     "front": "Was ist das Stabliniensystem?",
+     "back": "Einliniensystem, ergänzt durch Stabsstellen, die beraten, aber nicht anweisen."
+    },
+    {
+     "key": "wsp-lf1-orga-c10",
+     "front": "Was kennzeichnet die Matrixorganisation?",
+     "back": "Zwei Gliederungsdimensionen (z. B. Funktion und Projekt/Kunde) – Mitarbeiter haben zwei Vorgesetzte."
+    },
+    {
+     "key": "wsp-lf1-orga-c11",
+     "front": "Was ist eine Full-Service-Agentur?",
+     "back": "Eine Agentur, die alle Leistungen von Beratung über Konzeption und Kreation bis Media und Produktion anbietet."
+    },
+    {
+     "key": "wsp-lf1-orga-c12",
+     "front": "Was ist eine Spezialagentur?",
+     "back": "Eine Agentur, die sich auf einen Bereich konzentriert (z. B. Digital, PR, Event, Dialogmarketing)."
+    },
+    {
+     "key": "wsp-lf1-orga-c13",
+     "front": "Was macht eine Mediaagentur?",
+     "back": "Plant, kauft und kontrolliert Werbeplätze (Mediaplanung/-einkauf)."
+    },
+    {
+     "key": "wsp-lf1-orga-c14",
+     "front": "Aufgabe der Kundenberatung (Kontakt)?",
+     "back": "Hauptansprechpartner des Kunden: Briefing aufnehmen, Kreationsbriefing erstellen, Projekt steuern, Präsentationen."
+    },
+    {
+     "key": "wsp-lf1-orga-c15",
+     "front": "Aufgabe des Produktioners?",
+     "back": "Setzt Entwürfe technisch um: Dienstleister beauftragen, Druckabnahme, Qualitätssicherung."
+    },
+    {
+     "key": "wsp-lf1-orga-c16",
+     "front": "Aufgabe des Texters?",
+     "back": "Texte und Konzepte formulieren (z. B. Mailings, Claims, Anzeigentexte)."
+    },
+    {
+     "key": "wsp-lf1-orga-c17",
+     "front": "Aufgabe des Grafikers/Art Directors?",
+     "back": "Visuelle Gestaltung: Layout, Moodboards, Anzeigengestaltung."
+    },
+    {
+     "key": "wsp-lf1-orga-c18",
+     "front": "Aufgabe des Traffic-Managers?",
+     "back": "Terminplanung und Steuerung der Projektabläufe (Ressourcen, Fristen)."
+    },
+    {
+     "key": "wsp-lf1-orga-c19",
+     "front": "Aufgabe des Mediaplaners?",
+     "back": "Auswahl und Planung der Werbeträger, Budgetverteilung, Mediaeinkauf."
+    },
+    {
+     "key": "wsp-lf1-orga-c20",
+     "front": "Aufgabe der Strategischen Planung (Planner)?",
+     "back": "Markt-, Zielgruppen- und Markenanalyse; Entwicklung der Kommunikationsstrategie."
+    },
+    {
+     "key": "wsp-lf1-orga-c21",
+     "front": "Aufgabe des Buchhalters in der Agentur?",
+     "back": "Rechnungsabwicklung, Buchführung, Zahlungsverkehr."
+    }
+   ],
+   "glossary": [
+    {
+     "key": "wsp-lf1-orga-g01",
+     "term": "Stabsstelle",
+     "definition": "Beratende Stelle ohne Weisungsbefugnis."
+    },
+    {
+     "key": "wsp-lf1-orga-g02",
+     "term": "Instanz",
+     "definition": "Stelle mit Weisungsbefugnis (Leitungsstelle)."
+    },
+    {
+     "key": "wsp-lf1-orga-g03",
+     "term": "Full-Service-Agentur",
+     "definition": "Agentur mit allen Leistungen von Strategie bis Produktion."
+    },
+    {
+     "key": "wsp-lf1-orga-g04",
+     "term": "Kontakter",
+     "definition": "Kundenberater in der Agentur; Schnittstelle zwischen Kunde und Agentur."
+    },
+    {
+     "key": "wsp-lf1-orga-g05",
+     "term": "Traffic",
+     "definition": "Terminierung, Ressourcen- und Ablaufsteuerung von Projekten in der Agentur."
+    }
+   ],
+   "questions": [
+    {
+     "key": "wsp-lf1-orga-q01",
+     "type": "mc",
+     "exam_part": 2,
+     "difficulty": 2,
+     "source": "WSP LF1 / Mako LF1 (Unterricht)",
+     "body": {
+      "prompt": "Welche Aussage beschreibt das Einliniensystem?",
+      "options": [
+       {
+        "text": "Jeder Mitarbeiter hat nur einen direkten Vorgesetzten.",
+        "correct": true
+       },
+       {
+        "text": "Mitarbeiter bekommen Weisungen von mehreren Spezialisten.",
+        "correct": false
+       },
+       {
+        "text": "Es gibt keine Hierarchie.",
+        "correct": false
+       },
+       {
+        "text": "Alle Entscheidungen treffen Stabsstellen.",
+        "correct": false
+       },
+       {
+        "text": "Mitarbeiter sind Projekten und Funktionen gleichzeitig unterstellt.",
+        "correct": false
+       }
+      ]
+     }
+    },
+    {
+     "key": "wsp-lf1-orga-q02",
+     "type": "mc",
+     "exam_part": 2,
+     "difficulty": 2,
+     "source": "WSP LF1 / Mako LF1 (Unterricht)",
+     "body": {
+      "prompt": "Welche Aufgabe hat eine Stabsstelle?",
+      "options": [
+       {
+        "text": "Sie berät die Leitung, hat aber keine Weisungsbefugnis.",
+        "correct": true
+       },
+       {
+        "text": "Sie erteilt Weisungen an alle Abteilungen.",
+        "correct": false
+       },
+       {
+        "text": "Sie vertritt das Unternehmen nach außen.",
+        "correct": false
+       },
+       {
+        "text": "Sie führt Betriebsratswahlen durch.",
+        "correct": false
+       },
+       {
+        "text": "Sie ist nur für die Buchhaltung zuständig.",
+        "correct": false
+       }
+      ]
+     }
+    },
+    {
+     "key": "wsp-lf1-orga-q03",
+     "type": "mc",
+     "exam_part": 2,
+     "difficulty": 2,
+     "source": "WSP LF1 / Mako LF1 (Unterricht)",
+     "body": {
+      "prompt": "Welche Organisationsform hat zwei Dimensionen und doppelte Unterstellung?",
+      "options": [
+       {
+        "text": "Matrixorganisation",
+        "correct": true
+       },
+       {
+        "text": "Einliniensystem",
+        "correct": false
+       },
+       {
+        "text": "Stabliniensystem",
+        "correct": false
+       },
+       {
+        "text": "Mehrliniensystem",
+        "correct": false
+       },
+       {
+        "text": "Spartenorganisation ohne Querschnitt",
+        "correct": false
+       }
+      ]
+     }
+    },
+    {
+     "key": "wsp-lf1-orga-q04",
+     "type": "mc",
+     "exam_part": 2,
+     "difficulty": 2,
+     "source": "WSP LF1 / Mako LF1 (Unterricht)",
+     "body": {
+      "prompt": "Was beschreibt die Ablauforganisation?",
+      "options": [
+       {
+        "text": "Die zeitliche und räumliche Folge von Arbeitsprozessen",
+        "correct": true
+       },
+       {
+        "text": "Die Hierarchie der Stellen",
+        "correct": false
+       },
+       {
+        "text": "Das Organigramm",
+        "correct": false
+       },
+       {
+        "text": "Die Rechtsform",
+        "correct": false
+       },
+       {
+        "text": "Die Gewinnverteilung",
+        "correct": false
+       }
+      ]
+     }
+    },
+    {
+     "key": "wsp-lf1-orga-q05",
+     "type": "mc",
+     "exam_part": 2,
+     "difficulty": 2,
+     "source": "WSP LF1 / Mako LF1 (Unterricht)",
+     "body": {
+      "prompt": "Welche Abteilung einer Agentur erstellt typischerweise das Kreationsbriefing?",
+      "options": [
+       {
+        "text": "Kundenberatung",
+        "correct": true
+       },
+       {
+        "text": "Produktion",
+        "correct": false
+       },
+       {
+        "text": "Buchhaltung",
+        "correct": false
+       },
+       {
+        "text": "Media",
+        "correct": false
+       },
+       {
+        "text": "Marktforschung",
+        "correct": false
+       }
+      ]
+     }
+    },
+    {
+     "key": "wsp-lf1-orga-q06",
+     "type": "mc",
+     "exam_part": 2,
+     "difficulty": 2,
+     "source": "WSP LF1 / Mako LF1 (Unterricht)",
+     "body": {
+      "prompt": "Wer ist in der Agentur für die Druckabnahme zuständig?",
+      "options": [
+       {
+        "text": "Der Produktioner",
+        "correct": true
+       },
+       {
+        "text": "Der Buchhalter",
+        "correct": false
+       },
+       {
+        "text": "Die Texterin",
+        "correct": false
+       },
+       {
+        "text": "Der Kundenberater",
+        "correct": false
+       },
+       {
+        "text": "Die Grafikerin",
+        "correct": false
+       }
+      ]
+     }
+    },
+    {
+     "key": "wsp-lf1-orga-q07",
+     "type": "mc",
+     "exam_part": 2,
+     "difficulty": 2,
+     "source": "WSP LF1 / Mako LF1 (Unterricht)",
+     "body": {
+      "prompt": "Eine Agentur bietet Konzeption, Kreation, Mediaplanung und Produktion aus einer Hand an. Um welchen Agenturtyp handelt es sich?",
+      "options": [
+       {
+        "text": "Full-Service-Agentur",
+        "correct": true
+       },
+       {
+        "text": "Mediaagentur",
+        "correct": false
+       },
+       {
+        "text": "Spezialagentur für PR",
+        "correct": false
+       },
+       {
+        "text": "Eventagentur",
+        "correct": false
+       },
+       {
+        "text": "Freelancer-Pool",
+        "correct": false
+       }
+      ]
+     }
+    },
+    {
+     "key": "wsp-lf1-orga-q08",
+     "type": "match",
+     "exam_part": 2,
+     "difficulty": 2,
+     "source": "WSP LF1 / Mako LF1 (Unterricht)",
+     "body": {
+      "prompt": "Ordnen Sie die Aufgabe dem Kollegen/der Kollegin zu.",
+      "items": [
+       {
+        "term": "Rechnungsabwicklung",
+        "match": "Buchhalter"
+       },
+       {
+        "term": "Erstellung Kreationsbriefing",
+        "match": "Kundenberater"
+       },
+       {
+        "term": "Druckabnahme",
+        "match": "Produktioner"
+       },
+       {
+        "term": "Erstellung Mood für die Anzeigengestaltung",
+        "match": "Grafikdesignerin"
+       },
+       {
+        "term": "Formulierung Mailing",
+        "match": "Texterin"
+       }
+      ],
+      "distractors": []
+     }
+    },
+    {
+     "key": "wsp-lf1-orga-q09",
+     "type": "match",
+     "exam_part": 2,
+     "difficulty": 2,
+     "source": "WSP LF1 / Mako LF1 (Unterricht)",
+     "body": {
+      "prompt": "Ordnen Sie Leitungssystem und Merkmal zu.",
+      "items": [
+       {
+        "term": "Einliniensystem",
+        "match": "ein Vorgesetzter je Stelle"
+       },
+       {
+        "term": "Mehrliniensystem",
+        "match": "mehrere fachliche Vorgesetzte"
+       },
+       {
+        "term": "Stabliniensystem",
+        "match": "beratende Stabsstellen ohne Weisungsrecht"
+       },
+       {
+        "term": "Matrixorganisation",
+        "match": "Unterstellung unter Funktion und Projekt"
+       }
+      ],
+      "distractors": []
+     }
+    },
+    {
+     "key": "wsp-lf1-orga-q10",
+     "type": "tf",
+     "exam_part": 2,
+     "difficulty": 2,
+     "source": "WSP LF1 / Mako LF1 (Unterricht)",
+     "body": {
+      "statement": "Eine Stabsstelle darf der Linie verbindliche Weisungen erteilen.",
+      "answer": false
+     }
+    },
+    {
+     "key": "wsp-lf1-orga-q11",
+     "type": "tf",
+     "exam_part": 2,
+     "difficulty": 2,
+     "explanation": "Es zeigt die Aufbauorganisation.",
+     "source": "WSP LF1 / Mako LF1 (Unterricht)",
+     "body": {
+      "statement": "Das Organigramm stellt die Ablauforganisation dar.",
+      "answer": false
+     }
+    },
+    {
+     "key": "wsp-lf1-orga-q12",
+     "type": "cloze",
+     "exam_part": 2,
+     "difficulty": 2,
+     "source": "WSP LF1 / Mako LF1 (Unterricht)",
+     "body": {
+      "text": "Die [[Aufbauorganisation]] gliedert das Unternehmen in Stellen und Abteilungen; die [[Ablauforganisation]] regelt die Arbeitsprozesse."
+     }
+    },
+    {
+     "key": "wsp-lf1-orga-q13",
+     "type": "order",
+     "exam_part": 2,
+     "difficulty": 2,
+     "source": "WSP LF1 / Mako LF1 (Unterricht)",
+     "body": {
+      "prompt": "Bringen Sie den Weg einer Kundenanfrage in der Agentur in eine sinnvolle Reihenfolge.",
+      "items": [
+       "Kundenberatung nimmt das Briefing auf",
+       "Strategie/Planung analysiert und entwickelt die Strategie",
+       "Kreation entwickelt Konzept und Entwürfe",
+       "Produktion setzt um",
+       "Kundenberatung präsentiert und rechnet ab"
+      ]
+     }
+    }
+   ],
+   "templates": [],
+   "cases": [],
+   "summary": {
+    "key": "wsp-lf1-orga-zettel",
+    "title": "Aufbau- & Ablauforganisation, Agenturtypen",
+    "content_md": "\n**Aufbauorganisation** beantwortet *„Wer macht was?“*: Stellen, Abteilungen, Hierarchie, Weisungsrechte (→ **Organigramm**).\n**Ablauforganisation** beantwortet *„Wie, wann, wo und in welcher Reihenfolge?“*: Arbeitsprozesse (→ Workflow, Projektablauf).\n\n| Leitungssystem | Merkmal | Vorteil | Nachteil |\n|---|---|---|---|\n| **Einliniensystem** | jede Stelle hat genau *einen* Vorgesetzten (Instanzenweg) | klare Verantwortung | lange Dienstwege |\n| **Mehrliniensystem** | Spezialisten-Weisungsrecht, *mehrere* Vorgesetzte | kurze Wege, Fachkompetenz | Kompetenzkonflikte |\n| **Stabliniensystem** | Einliniensystem + **Stabsstelle** (berät, ohne Weisungsbefugnis) | Entlastung der Leitung | Konflikte Stab ↔ Linie |\n| **Matrixorganisation** | zwei Dimensionen (z. B. Funktion × Projekt/Kunde) | flexibel, fachübergreifend | doppelte Unterstellung |\n\n**Agenturtypen**: *Full-Service-Agentur* (Beratung, Strategie, Kreation, Media, Produktion aus einer Hand) · *Spezialagentur* (z. B. Digital-, PR-, Dialog-, Event-, Promotion-, Social-Media-Agentur) · *Mediaagentur* (Planung/Einkauf von Werbeflächen) · *Kreativagentur/Boutique*.\n\n**Typische Berufe/Abteilungen**: Kundenberatung/Kontakt (Briefing, Ansprechpartner) · Strategische Planung · Kreation (Texter, Art Director, Grafik) · Media · Produktion (Druckabnahme, Dienstleister) · Traffic-Management (Terminsteuerung) · Marktforschung · Presse/PR · Verwaltung.\n"
+   }
+  }
+ ]
+}

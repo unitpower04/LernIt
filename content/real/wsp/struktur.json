@@ -1,0 +1,246 @@
+{
+ "demo": false,
+ "subjects": [
+  {
+   "key": "wsp",
+   "name": "WSP – Wirtschafts- und Sozialprozesse",
+   "description": "Recht, Arbeitswelt, Finanzierung und VWL (Prüfungsteil 2 WiSo, teils Teil 3)",
+   "color": "#0d9488",
+   "learning_fields": [
+    {
+     "key": "wsp-lf1",
+     "code": "LF1",
+     "name": "Grundlagen: Betrieb, Recht & Arbeitswelt",
+     "exam_parts": [
+      2
+     ],
+     "topics": [
+      {
+       "key": "wsp-lf1-ziele",
+       "name": "Ökonomisches Prinzip & Zielbeziehungen",
+       "exam_parts": [
+        2
+       ]
+      },
+      {
+       "key": "wsp-lf1-rechtsformen",
+       "name": "Unternehmensformen",
+       "exam_parts": [
+        2
+       ]
+      },
+      {
+       "key": "wsp-lf1-firma-hr",
+       "name": "Firma, Kaufmann & Handelsregister",
+       "exam_parts": [
+        2
+       ]
+      },
+      {
+       "key": "wsp-lf1-vollmachten",
+       "name": "Prokura & Handlungsvollmacht",
+       "exam_parts": [
+        2
+       ]
+      },
+      {
+       "key": "wsp-lf1-ausbildung",
+       "name": "Ausbildungsvertrag, BBiG & JArbSchG",
+       "exam_parts": [
+        2
+       ]
+      },
+      {
+       "key": "wsp-lf1-arbeitsrecht",
+       "name": "Arbeitsrecht & Arbeitnehmerschutz",
+       "exam_parts": [
+        2
+       ]
+      },
+      {
+       "key": "wsp-lf1-orga",
+       "name": "Aufbau- & Ablauforganisation, Agenturtypen",
+       "exam_parts": [
+        2,
+        3
+       ]
+      },
+      {
+       "key": "wsp-lf1-gesundheit",
+       "name": "Gesundheits- & Umweltschutz im Betrieb",
+       "exam_parts": [
+        2
+       ]
+      }
+     ]
+    },
+    {
+     "key": "wsp-lf3",
+     "code": "LF3",
+     "name": "Rechtsgeschäfte, Kaufvertrag & Finanzierung",
+     "exam_parts": [
+      2,
+      3
+     ],
+     "topics": [
+      {
+       "key": "wsp-lf3-recht",
+       "name": "Rechtsordnung, Rechtssubjekte & Rechtsobjekte",
+       "exam_parts": [
+        2
+       ]
+      },
+      {
+       "key": "wsp-lf3-rechtsgeschaefte",
+       "name": "Rechtsgeschäfte, Form & Nichtigkeit/Anfechtung",
+       "exam_parts": [
+        2
+       ]
+      },
+      {
+       "key": "wsp-lf3-kaufvertrag",
+       "name": "Kaufvertrag, Angebot & AGB",
+       "exam_parts": [
+        2
+       ]
+      },
+      {
+       "key": "wsp-lf3-vertragsarten",
+       "name": "Vertragsarten (Miete, Leasing, Werk- & Dienstvertrag)",
+       "exam_parts": [
+        2,
+        3
+       ]
+      },
+      {
+       "key": "wsp-lf3-stoerungen",
+       "name": "Kaufvertragsstörungen, Mahnverfahren & Verjährung",
+       "exam_parts": [
+        2
+       ]
+      },
+      {
+       "key": "wsp-lf3-finanzierung",
+       "name": "Finanzierung, Kredit & Leasing",
+       "exam_parts": [
+        3
+       ]
+      }
+     ]
+    },
+    {
+     "key": "wsp-lf5",
+     "code": "LF5",
+     "name": "Werberecht",
+     "exam_parts": [
+      3
+     ],
+     "topics": [
+      {
+       "key": "wsp-lf5-schutzrechte",
+       "name": "Schutzrechte: Marke, Patent, Design & Urheberrecht",
+       "exam_parts": [
+        3
+       ]
+      },
+      {
+       "key": "wsp-lf5-datenschutz",
+       "name": "Datenschutz (DSGVO) & Recht am eigenen Bild",
+       "exam_parts": [
+        3
+       ]
+      },
+      {
+       "key": "wsp-lf5-uwg",
+       "name": "Wettbewerbsrecht (UWG) & Werberat",
+       "exam_parts": [
+        3
+       ]
+      }
+     ]
+    },
+    {
+     "key": "wsp-lf12",
+     "code": "LF12",
+     "name": "Volkswirtschaft (Gesamtwirtschaftliche Einflüsse)",
+     "exam_parts": [
+      2
+     ],
+     "topics": [
+      {
+       "key": "wsp-lf12-ordnung",
+       "name": "Wirtschaftsordnungen",
+       "exam_parts": [
+        2
+       ]
+      },
+      {
+       "key": "wsp-lf12-markt",
+       "name": "Wettbewerb, Marktformen, Kooperation & Konzentration",
+       "exam_parts": [
+        2
+       ]
+      },
+      {
+       "key": "wsp-lf12-kreislauf",
+       "name": "Wirtschaftskreislauf",
+       "exam_parts": [
+        2
+       ]
+      },
+      {
+       "key": "wsp-lf12-ziele",
+       "name": "Stabilitätsgesetz & magisches Vier-/Sechseck",
+       "exam_parts": [
+        2
+       ]
+      },
+      {
+       "key": "wsp-lf12-bip",
+       "name": "BIP, Wachstum & Konjunktur",
+       "exam_parts": [
+        2
+       ]
+      },
+      {
+       "key": "wsp-lf12-preise",
+       "name": "Preisniveaustabilität: Inflation & Deflation",
+       "exam_parts": [
+        2
+       ]
+      },
+      {
+       "key": "wsp-lf12-arbeit",
+       "name": "Beschäftigung & Arbeitslosigkeit",
+       "exam_parts": [
+        2
+       ]
+      },
+      {
+       "key": "wsp-lf12-aussen",
+       "name": "Außenwirtschaftliches Gleichgewicht",
+       "exam_parts": [
+        2
+       ]
+      },
+      {
+       "key": "wsp-lf12-fiskal",
+       "name": "Fiskalpolitik",
+       "exam_parts": [
+        2
+       ]
+      },
+      {
+       "key": "wsp-lf12-geld",
+       "name": "Geldpolitik der EZB",
+       "exam_parts": [
+        2
+       ]
+      }
+     ]
+    }
+   ]
+  }
+ ],
+ "items": []
+}

@@ -1,0 +1,600 @@
+{
+ "demo": false,
+ "items": [
+  {
+   "topic": "wsp-lf3-recht",
+   "flashcards": [
+    {
+     "key": "wsp-lf3-recht-c01",
+     "front": "Unterschied öffentliches Recht und Privatrecht?",
+     "back": "Öffentliches Recht: Über-/Unterordnung (Staat ↔ Bürger). Privatrecht: Gleichordnung der Bürger (z. B. BGB)."
+    },
+    {
+     "key": "wsp-lf3-recht-c02",
+     "front": "Beispiele für öffentliches Recht?",
+     "back": "Steuerrecht, Verwaltungsrecht, Strafrecht, Prozessrecht, Völkerrecht."
+    },
+    {
+     "key": "wsp-lf3-recht-c03",
+     "front": "Beispiele für Privatrecht?",
+     "back": "Familienrecht, Erbrecht, Handelsrecht, Unternehmensrecht, BGB."
+    },
+    {
+     "key": "wsp-lf3-recht-c04",
+     "front": "Nenne Rechtsquellen des Gesetzesrechts.",
+     "back": "Gesetze, Verordnungen, Verwaltungsvorschriften, Satzungen."
+    },
+    {
+     "key": "wsp-lf3-recht-c05",
+     "front": "Was ist Gewohnheitsrecht?",
+     "back": "Ungeschriebenes Recht, das durch langjährige, gleichmäßige Übung entsteht und von allen als verbindlich angesehen wird."
+    },
+    {
+     "key": "wsp-lf3-recht-c06",
+     "front": "Was ist ein Handelsbrauch?",
+     "back": "Verkehrssitte unter Kaufleuten (z. B. Handschlag im Viehhandel), die im Handelsverkehr beachtet wird."
+    },
+    {
+     "key": "wsp-lf3-recht-c07",
+     "front": "Objektives vs. subjektives Recht?",
+     "back": "Objektiv: Summe aller Rechtsnormen. Subjektiv: Befugnis einer konkreten Person aus diesen Normen."
+    },
+    {
+     "key": "wsp-lf3-recht-c08",
+     "front": "Was sind natürliche Personen?",
+     "back": "Alle Menschen – unabhängig von Alter und Fähigkeiten."
+    },
+    {
+     "key": "wsp-lf3-recht-c09",
+     "front": "Was sind juristische Personen?",
+     "back": "Rechtlich verselbstständigte Organisationen (GmbH, AG, e. V., Stadt, Universität)."
+    },
+    {
+     "key": "wsp-lf3-recht-c10",
+     "front": "Wann beginnt die Rechtsfähigkeit eines Menschen?",
+     "back": "Mit Vollendung der Geburt (§ 1 BGB); sie endet mit dem Tod."
+    },
+    {
+     "key": "wsp-lf3-recht-c11",
+     "front": "Wann beginnt die Rechtsfähigkeit der GmbH?",
+     "back": "Mit der Eintragung ins Handelsregister."
+    },
+    {
+     "key": "wsp-lf3-recht-c12",
+     "front": "Wann beginnt die Rechtsfähigkeit eines e. V.?",
+     "back": "Mit der Eintragung ins Vereinsregister."
+    },
+    {
+     "key": "wsp-lf3-recht-c13",
+     "front": "Was ist Geschäftsfähigkeit?",
+     "back": "Die Fähigkeit, Rechtsgeschäfte selbstständig durch rechtsgültige Willenserklärungen abzuschließen."
+    },
+    {
+     "key": "wsp-lf3-recht-c14",
+     "front": "Stufen der Geschäftsfähigkeit?",
+     "back": "Unter 7: geschäftsunfähig · 7 bis 17: beschränkt geschäftsfähig · ab 18: voll geschäftsfähig."
+    },
+    {
+     "key": "wsp-lf3-recht-c15",
+     "front": "Was gilt für Verträge Geschäftsunfähiger?",
+     "back": "Ihre Willenserklärungen sind nichtig."
+    },
+    {
+     "key": "wsp-lf3-recht-c16",
+     "front": "Was gilt für Verträge beschränkt Geschäftsfähiger?",
+     "back": "Schwebend unwirksam – wirksam mit Einwilligung oder Genehmigung der Eltern (Ausnahmen: rechtlich lediglich Vorteilhaftes, Taschengeldparagraph)."
+    },
+    {
+     "key": "wsp-lf3-recht-c17",
+     "front": "Einwilligung vs. Genehmigung?",
+     "back": "Einwilligung = vorherige Zustimmung. Genehmigung = nachträgliche Zustimmung."
+    },
+    {
+     "key": "wsp-lf3-recht-c18",
+     "front": "Was ist der Taschengeldparagraph (§ 110 BGB)?",
+     "back": "Ein Minderjähriger kann Geschäfte wirksam abschließen, wenn er sie mit eigenen (überlassenen) Mitteln sofort bezahlt."
+    },
+    {
+     "key": "wsp-lf3-recht-c19",
+     "front": "Nenne Sachen und Rechte als Rechtsobjekte.",
+     "back": "Sachen (körperliche Gegenstände) und Rechte (z. B. Forderungen, Urheberrechte)."
+    },
+    {
+     "key": "wsp-lf3-recht-c20",
+     "front": "Eigentum vs. Besitz?",
+     "back": "Eigentum = rechtliche Herrschaft, Besitz = tatsächliche Herrschaft."
+    },
+    {
+     "key": "wsp-lf3-recht-c21",
+     "front": "Wie wird Eigentum an beweglichen Sachen übertragen?",
+     "back": "Durch Einigung und Übergabe."
+    },
+    {
+     "key": "wsp-lf3-recht-c22",
+     "front": "Wie wird Eigentum an Grundstücken übertragen?",
+     "back": "Durch Einigung (Auflassung, notariell) und Eintragung ins Grundbuch."
+    },
+    {
+     "key": "wsp-lf3-recht-c23",
+     "front": "Was ist ein einfacher Eigentumsvorbehalt?",
+     "back": "Der Verkäufer bleibt bis zur vollständigen Zahlung Eigentümer der gelieferten Ware."
+    },
+    {
+     "key": "wsp-lf3-recht-c24",
+     "front": "Was ist ein verlängerter Eigentumsvorbehalt?",
+     "back": "Der Käufer darf die Ware weiterverkaufen; die daraus entstehende Forderung geht auf den Verkäufer über."
+    },
+    {
+     "key": "wsp-lf3-recht-c25",
+     "front": "Was ist ein erweiterter Eigentumsvorbehalt?",
+     "back": "Das Eigentum bleibt beim Verkäufer, bis alle (auch frühere) Forderungen gegen den Käufer bezahlt sind."
+    }
+   ],
+   "glossary": [
+    {
+     "key": "wsp-lf3-recht-g01",
+     "term": "Rechtsfähigkeit",
+     "definition": "Fähigkeit, Träger von Rechten und Pflichten zu sein."
+    },
+    {
+     "key": "wsp-lf3-recht-g02",
+     "term": "Geschäftsfähigkeit",
+     "definition": "Fähigkeit, Rechtsgeschäfte selbstständig wirksam abzuschließen."
+    },
+    {
+     "key": "wsp-lf3-recht-g03",
+     "term": "Rechtssubjekt",
+     "definition": "Träger von Rechten und Pflichten (natürliche oder juristische Person)."
+    },
+    {
+     "key": "wsp-lf3-recht-g04",
+     "term": "Rechtsobjekt",
+     "definition": "Gegenstand von Rechtsgeschäften: Sachen und Rechte."
+    },
+    {
+     "key": "wsp-lf3-recht-g05",
+     "term": "Eigentumsvorbehalt",
+     "definition": "Vereinbarung, dass das Eigentum erst mit vollständiger Bezahlung übergeht."
+    },
+    {
+     "key": "wsp-lf3-recht-g06",
+     "term": "Gewohnheitsrecht",
+     "definition": "Durch dauernde Übung entstandenes, ungeschriebenes Recht."
+    }
+   ],
+   "questions": [
+    {
+     "key": "wsp-lf3-recht-q01",
+     "type": "mc",
+     "exam_part": 2,
+     "difficulty": 2,
+     "source": "WSP LF3 (Unterricht)",
+     "body": {
+      "prompt": "In welchem Alter ist ein Mensch beschränkt geschäftsfähig?",
+      "options": [
+       {
+        "text": "7 bis 17 Jahre",
+        "correct": true
+       },
+       {
+        "text": "0 bis 6 Jahre",
+        "correct": false
+       },
+       {
+        "text": "14 bis 17 Jahre",
+        "correct": false
+       },
+       {
+        "text": "18 bis 21 Jahre",
+        "correct": false
+       },
+       {
+        "text": "ab 16 Jahren unbeschränkt",
+        "correct": false
+       }
+      ]
+     }
+    },
+    {
+     "key": "wsp-lf3-recht-q02",
+     "type": "mc",
+     "exam_part": 2,
+     "difficulty": 2,
+     "source": "WSP LF3 (Unterricht)",
+     "body": {
+      "prompt": "Ein 16-Jähriger bestellt ohne Wissen der Eltern ein Smartphone für 600 €. Er hat kein Erspartes. Wie ist die Rechtslage?",
+      "options": [
+       {
+        "text": "Der Kaufvertrag ist schwebend unwirksam und wird erst mit Genehmigung der Eltern wirksam.",
+        "correct": true
+       },
+       {
+        "text": "Der Vertrag ist sofort voll wirksam.",
+        "correct": false
+       },
+       {
+        "text": "Der Vertrag ist von Anfang an nichtig.",
+        "correct": false
+       },
+       {
+        "text": "Der Vertrag ist wirksam, weil er 16 ist.",
+        "correct": false
+       },
+       {
+        "text": "Der Händler muss das Gerät kostenlos liefern.",
+        "correct": false
+       }
+      ]
+     }
+    },
+    {
+     "key": "wsp-lf3-recht-q03",
+     "type": "mc",
+     "exam_part": 2,
+     "difficulty": 2,
+     "source": "WSP LF3 (Unterricht)",
+     "body": {
+      "prompt": "Eine 14-Jährige kauft von ihrem Taschengeld ein Top für 9,50 € und zahlt sofort. Wie ist die Rechtslage?",
+      "options": [
+       {
+        "text": "Der Kauf ist wirksam (Taschengeldparagraph).",
+        "correct": true
+       },
+       {
+        "text": "Der Kauf ist nichtig.",
+        "correct": false
+       },
+       {
+        "text": "Der Kauf braucht die schriftliche Genehmigung der Eltern.",
+        "correct": false
+       },
+       {
+        "text": "Der Kauf ist anfechtbar.",
+        "correct": false
+       },
+       {
+        "text": "Der Kauf ist nur wirksam, wenn sie 16 ist.",
+        "correct": false
+       }
+      ]
+     }
+    },
+    {
+     "key": "wsp-lf3-recht-q04",
+     "type": "mc",
+     "exam_part": 2,
+     "difficulty": 2,
+     "source": "WSP LF3 (Unterricht)",
+     "body": {
+      "prompt": "Wann endet die Rechtsfähigkeit einer natürlichen Person?",
+      "options": [
+       {
+        "text": "Mit dem Tod",
+        "correct": true
+       },
+       {
+        "text": "Mit der Volljährigkeit",
+        "correct": false
+       },
+       {
+        "text": "Mit der Pensionierung",
+        "correct": false
+       },
+       {
+        "text": "Mit der Löschung im Melderegister",
+        "correct": false
+       },
+       {
+        "text": "Mit dem Eintritt in den Ruhestand",
+        "correct": false
+       }
+      ]
+     }
+    },
+    {
+     "key": "wsp-lf3-recht-q05",
+     "type": "mc",
+     "exam_part": 2,
+     "difficulty": 2,
+     "source": "WSP LF3 (Unterricht)",
+     "body": {
+      "prompt": "Welcher der folgenden Fälle beschreibt ein subjektives Recht?",
+      "options": [
+       {
+        "text": "Eine Person beruft sich auf ihr Erbrecht und beansprucht das Haus.",
+        "correct": true
+       },
+       {
+        "text": "Das BGB regelt das Erbrecht.",
+        "correct": false
+       },
+       {
+        "text": "Das Grundgesetz enthält die Grundrechte.",
+        "correct": false
+       },
+       {
+        "text": "Der Gesetzgeber erlässt eine Verordnung.",
+        "correct": false
+       },
+       {
+        "text": "Das Handelsrecht ist Teil des Privatrechts.",
+        "correct": false
+       }
+      ]
+     }
+    },
+    {
+     "key": "wsp-lf3-recht-q06",
+     "type": "mc",
+     "exam_part": 2,
+     "difficulty": 2,
+     "source": "WSP LF3 (Unterricht)",
+     "body": {
+      "prompt": "Welche Aussage zum Eigentumsvorbehalt ist richtig?",
+      "options": [
+       {
+        "text": "Der Verkäufer bleibt bis zur vollständigen Bezahlung Eigentümer.",
+        "correct": true
+       },
+       {
+        "text": "Der Käufer wird mit der Lieferung sofort Eigentümer.",
+        "correct": false
+       },
+       {
+        "text": "Er gehört zu den Personalkrediten.",
+        "correct": false
+       },
+       {
+        "text": "Er schützt den Käufer vor Zahlungsverzug.",
+        "correct": false
+       },
+       {
+        "text": "Er gilt nur für Grundstücke.",
+        "correct": false
+       }
+      ]
+     }
+    },
+    {
+     "key": "wsp-lf3-recht-q07",
+     "type": "mc",
+     "exam_part": 2,
+     "difficulty": 2,
+     "source": "WSP LF3 (Unterricht)",
+     "body": {
+      "prompt": "Welche Aussage zu Eigentum und Besitz ist richtig?",
+      "options": [
+       {
+        "text": "Der Mieter einer Wohnung ist Besitzer, der Vermieter Eigentümer.",
+        "correct": true
+       },
+       {
+        "text": "Eigentum und Besitz bedeuten immer dasselbe.",
+        "correct": false
+       },
+       {
+        "text": "Der Besitzer darf die Sache immer verkaufen.",
+        "correct": false
+       },
+       {
+        "text": "Der Mieter wird nach 5 Jahren Eigentümer.",
+        "correct": false
+       },
+       {
+        "text": "Besitz ist die rechtliche Herrschaft über die Sache.",
+        "correct": false
+       }
+      ]
+     }
+    },
+    {
+     "key": "wsp-lf3-recht-q08",
+     "type": "mc",
+     "exam_part": 2,
+     "difficulty": 2,
+     "source": "WSP LF3 (Unterricht)",
+     "body": {
+      "prompt": "Welche Eigentumsübertragung ist bei einem Grundstück erforderlich?",
+      "options": [
+       {
+        "text": "Notarieller Vertrag und Eintragung ins Grundbuch",
+        "correct": true
+       },
+       {
+        "text": "Einigung und Übergabe der Schlüssel",
+        "correct": false
+       },
+       {
+        "text": "Mündliche Einigung",
+        "correct": false
+       },
+       {
+        "text": "Eintragung ins Handelsregister",
+        "correct": false
+       },
+       {
+        "text": "Schriftlicher Vertrag ohne Notar",
+        "correct": false
+       }
+      ]
+     }
+    },
+    {
+     "key": "wsp-lf3-recht-q09",
+     "type": "match",
+     "exam_part": 2,
+     "difficulty": 2,
+     "source": "WSP LF3 (Unterricht)",
+     "body": {
+      "prompt": "Ordnen Sie jedes Rechtssubjekt der Personengruppe zu.",
+      "items": [
+       {
+        "term": "Land Nordrhein-Westfalen",
+        "match": "juristische Person des öffentlichen Rechts"
+       },
+       {
+        "term": "RTL Deutschland GmbH",
+        "match": "juristische Person des privaten Rechts"
+       },
+       {
+        "term": "Angela Mustermann",
+        "match": "natürliche Person"
+       },
+       {
+        "term": "Technische Hochschule Köln",
+        "match": "juristische Person des öffentlichen Rechts"
+       }
+      ],
+      "distractors": [
+       "Rechtsobjekt"
+      ]
+     }
+    },
+    {
+     "key": "wsp-lf3-recht-q10",
+     "type": "match",
+     "exam_part": 2,
+     "difficulty": 2,
+     "source": "WSP LF3 (Unterricht)",
+     "body": {
+      "prompt": "Ordnen Sie jedes Rechtsgebiet dem Privatrecht oder dem öffentlichen Recht zu.",
+      "items": [
+       {
+        "term": "Steuerrecht",
+        "match": "öffentliches Recht"
+       },
+       {
+        "term": "Erbrecht",
+        "match": "Privatrecht"
+       },
+       {
+        "term": "Verwaltungsrecht",
+        "match": "öffentliches Recht"
+       },
+       {
+        "term": "Handelsrecht",
+        "match": "Privatrecht"
+       },
+       {
+        "term": "Völkerrecht",
+        "match": "öffentliches Recht"
+       },
+       {
+        "term": "Familienrecht",
+        "match": "Privatrecht"
+       }
+      ],
+      "distractors": []
+     }
+    },
+    {
+     "key": "wsp-lf3-recht-q11",
+     "type": "match",
+     "exam_part": 2,
+     "difficulty": 2,
+     "source": "WSP LF3 (Unterricht)",
+     "body": {
+      "prompt": "Ordnen Sie das Alter der Geschäftsfähigkeit zu.",
+      "items": [
+       {
+        "term": "5 Jahre",
+        "match": "geschäftsunfähig"
+       },
+       {
+        "term": "12 Jahre",
+        "match": "beschränkt geschäftsfähig"
+       },
+       {
+        "term": "17 Jahre",
+        "match": "beschränkt geschäftsfähig"
+       },
+       {
+        "term": "18 Jahre",
+        "match": "voll geschäftsfähig"
+       }
+      ],
+      "distractors": []
+     }
+    },
+    {
+     "key": "wsp-lf3-recht-q12",
+     "type": "tf",
+     "exam_part": 2,
+     "difficulty": 2,
+     "explanation": "Erst mit der Eintragung ins Handelsregister.",
+     "source": "WSP LF3 (Unterricht)",
+     "body": {
+      "statement": "Eine GmbH erlangt ihre Rechtsfähigkeit mit dem Abschluss des Gesellschaftsvertrags.",
+      "answer": false
+     }
+    },
+    {
+     "key": "wsp-lf3-recht-q13",
+     "type": "tf",
+     "exam_part": 2,
+     "difficulty": 2,
+     "explanation": "Kinder unter 7 sind geschäftsunfähig.",
+     "source": "WSP LF3 (Unterricht)",
+     "body": {
+      "statement": "Ein 5-jähriges Kind kann wirksam einen Kaufvertrag abschließen.",
+      "answer": false
+     }
+    },
+    {
+     "key": "wsp-lf3-recht-q14",
+     "type": "tf",
+     "exam_part": 2,
+     "difficulty": 2,
+     "source": "WSP LF3 (Unterricht)",
+     "body": {
+      "statement": "Eine Genehmigung ist die nachträgliche Zustimmung zu einem Rechtsgeschäft.",
+      "answer": true
+     }
+    },
+    {
+     "key": "wsp-lf3-recht-q15",
+     "type": "cloze",
+     "exam_part": 2,
+     "difficulty": 1,
+     "source": "WSP LF3 (Unterricht)",
+     "body": {
+      "text": "Die Rechtsfähigkeit eines Menschen beginnt mit der Vollendung der [[Geburt]] und endet mit dem [[Tod]]."
+     }
+    },
+    {
+     "key": "wsp-lf3-recht-q16",
+     "type": "cloze",
+     "exam_part": 2,
+     "difficulty": 2,
+     "source": "WSP LF3 (Unterricht)",
+     "body": {
+      "text": "Beschränkt Geschäftsfähige brauchen für Verträge die [[Einwilligung]] oder nachträglich die [[Genehmigung]] ihrer Eltern."
+     }
+    },
+    {
+     "key": "wsp-lf3-recht-q17",
+     "type": "order",
+     "exam_part": 2,
+     "difficulty": 3,
+     "source": "WSP LF3 (Unterricht)",
+     "body": {
+      "prompt": "Bringen Sie die Übertragung des Eigentums an einem Grundstück in die richtige Reihenfolge.",
+      "items": [
+       "Einigung der Parteien beim Notar (Auflassung)",
+       "Notarielle Beurkundung des Kaufvertrags",
+       "Antrag auf Eintragung ins Grundbuch",
+       "Eintragung im Grundbuch – Käufer wird Eigentümer"
+      ]
+     }
+    }
+   ],
+   "templates": [],
+   "cases": [],
+   "summary": {
+    "key": "wsp-lf3-recht-zettel",
+    "title": "Rechtsordnung, Rechtssubjekte & Rechtsobjekte",
+    "content_md": "\n**Rechtsordnung**\n- **Öffentliches Recht**: Über-/Unterordnung (Staat ↔ Bürger): Verfassungs-, Verwaltungs-, Steuer-, Straf-, Prozess-, Völkerrecht\n- **Privatrecht**: Gleichordnung der Bürger: BGB, HGB, Familien-, Erbrecht, Arbeitsrecht, Handelsrecht\n- **Rechtsquellen**: Gesetze, Verordnungen, Verwaltungsvorschriften, Satzungen, **Gewohnheitsrecht**, **Handelsbrauch** · Maßstab ist das Grundgesetz\n- **objektives Recht** = Gesamtheit der Rechtsnormen · **subjektives Recht** = Befugnis einer Person, die sich daraus ergibt (z. B. „Ich habe das Recht auf Erbschaft“)\n\n**Rechtssubjekte**: *natürliche Personen* (alle Menschen) und *juristische Personen* (des privaten Rechts: GmbH, AG, e. V.; des öffentlichen Rechts: Land, Universität, Stadtsparkasse).\n- **Rechtsfähigkeit** = Träger von Rechten und Pflichten sein: natürliche Person **ab Vollendung der Geburt bis zum Tod**; GmbH/AG mit Eintragung ins Handelsregister; e. V. mit Eintragung ins Vereinsregister.\n- **Geschäftsfähigkeit** = Rechtsgeschäfte selbst wirksam abschließen: **unter 7 Jahren geschäftsunfähig** · **7–17 Jahre beschränkt geschäftsfähig** (Einwilligung/Genehmigung der Eltern; Taschengeldparagraph; rechtlich nur vorteilhaftes wie Schenkung wirksam) · **ab 18 voll geschäftsfähig**.\n- *Einwilligung* = vorherige Zustimmung · *Genehmigung* = nachträgliche Zustimmung (bis dahin schwebend unwirksam)\n\n**Rechtsobjekte**: *Sachen* (beweglich/unbeweglich, vertretbar/nicht vertretbar) und *Rechte* (absolut/relativ).\n- **Eigentum** = rechtliche Herrschaft über eine Sache · **Besitz** = tatsächliche Herrschaft (Beispiel Miete: Vermieter Eigentümer, Mieter Besitzer)\n- Übertragung beweglicher Sachen: **Einigung + Übergabe**; Grundstücke: **notarielle Beurkundung + Grundbucheintrag**\n- **Eigentumsvorbehalt**: Ware bleibt bis zur vollständigen Bezahlung Eigentum des Verkäufers (einfach · verlängert [Weiterverkauf] · erweitert [alle Forderungen])\n"
+   }
+  }
+ ]
+}

@@ -1,0 +1,896 @@
+{
+ "demo": false,
+ "items": [
+  {
+   "topic": "wsp-lf1-arbeitsrecht",
+   "flashcards": [
+    {
+     "key": "wsp-lf1-arbeitsrecht-c01",
+     "front": "Nenne zwei Pflichten des Arbeitnehmers.",
+     "back": "Arbeitspflicht und Treue-/Schweigepflicht (außerdem Weisungsbefolgung)."
+    },
+    {
+     "key": "wsp-lf1-arbeitsrecht-c02",
+     "front": "Nenne zwei Pflichten des Arbeitgebers.",
+     "back": "Entgeltzahlungspflicht, Fürsorgepflicht, Beschäftigungs-, Urlaubsgewährungs- und Zeugnispflicht."
+    },
+    {
+     "key": "wsp-lf1-arbeitsrecht-c03",
+     "front": "Unterschied einfaches und qualifiziertes Zeugnis?",
+     "back": "Einfach: Art und Dauer der Tätigkeit. Qualifiziert: zusätzlich Leistung und Verhalten."
+    },
+    {
+     "key": "wsp-lf1-arbeitsrecht-c04",
+     "front": "ArbZG – maximale Arbeitszeit?",
+     "back": "8 Stunden pro Tag (bis 10 Stunden mit Ausgleich in 6 Monaten), 48 Stunden pro Woche."
+    },
+    {
+     "key": "wsp-lf1-arbeitsrecht-c05",
+     "front": "ArbZG – Ruhepausen?",
+     "back": "30 Minuten bei mehr als 6 Stunden, 45 Minuten bei mehr als 9 Stunden."
+    },
+    {
+     "key": "wsp-lf1-arbeitsrecht-c06",
+     "front": "ArbZG – Ruhezeit zwischen zwei Arbeitstagen?",
+     "back": "Mindestens 11 Stunden."
+    },
+    {
+     "key": "wsp-lf1-arbeitsrecht-c07",
+     "front": "BUrlG – gesetzlicher Mindesturlaub?",
+     "back": "24 Werktage bei 6-Tage-Woche = 20 Arbeitstage bei 5-Tage-Woche."
+    },
+    {
+     "key": "wsp-lf1-arbeitsrecht-c08",
+     "front": "Ab wann besteht der volle Urlaubsanspruch?",
+     "back": "Nach 6 Monaten Beschäftigung."
+    },
+    {
+     "key": "wsp-lf1-arbeitsrecht-c09",
+     "front": "Werden Krankheitstage im Urlaub angerechnet?",
+     "back": "Nein – bei ärztlichem Attest werden sie nicht auf den Urlaub angerechnet."
+    },
+    {
+     "key": "wsp-lf1-arbeitsrecht-c10",
+     "front": "Wann gilt das Kündigungsschutzgesetz?",
+     "back": "In Betrieben mit mehr als 10 Arbeitnehmern und nach 6 Monaten Beschäftigung."
+    },
+    {
+     "key": "wsp-lf1-arbeitsrecht-c11",
+     "front": "Nenne die drei Kündigungsgründe nach KSchG.",
+     "back": "Personenbedingt, verhaltensbedingt, betriebsbedingt."
+    },
+    {
+     "key": "wsp-lf1-arbeitsrecht-c12",
+     "front": "Beispiel verhaltensbedingte Kündigung?",
+     "back": "Spesenbetrug, Arbeitsverweigerung, wiederholtes Zuspätkommen (meist nach vorheriger Abmahnung)."
+    },
+    {
+     "key": "wsp-lf1-arbeitsrecht-c13",
+     "front": "Beispiel personenbedingte Kündigung?",
+     "back": "Dauerhafte Krankheit, fehlende Eignung."
+    },
+    {
+     "key": "wsp-lf1-arbeitsrecht-c14",
+     "front": "Beispiel betriebsbedingte Kündigung?",
+     "back": "Betriebsschließung, Personalabbau – mit Sozialauswahl."
+    },
+    {
+     "key": "wsp-lf1-arbeitsrecht-c15",
+     "front": "Kriterien der Sozialauswahl?",
+     "back": "Dauer der Betriebszugehörigkeit, Lebensalter, Unterhaltspflichten, Schwerbehinderung."
+    },
+    {
+     "key": "wsp-lf1-arbeitsrecht-c16",
+     "front": "Frist für die Kündigungsschutzklage?",
+     "back": "3 Wochen nach Zugang der Kündigung beim Arbeitsgericht."
+    },
+    {
+     "key": "wsp-lf1-arbeitsrecht-c17",
+     "front": "Grundkündigungsfrist?",
+     "back": "4 Wochen zum 15. oder zum Ende eines Kalendermonats."
+    },
+    {
+     "key": "wsp-lf1-arbeitsrecht-c18",
+     "front": "Verlängerte Kündigungsfristen des Arbeitgebers?",
+     "back": "2 J.: 1 Monat; 5 J.: 2; 8 J.: 3; 10 J.: 4; 12 J.: 5; 15 J.: 6; 20 J.: 7 Monate – jeweils zum Monatsende."
+    },
+    {
+     "key": "wsp-lf1-arbeitsrecht-c19",
+     "front": "Wann ist eine fristlose Kündigung möglich?",
+     "back": "Nur aus wichtigem Grund (z. B. Diebstahl, schwere Beleidigung)."
+    },
+    {
+     "key": "wsp-lf1-arbeitsrecht-c20",
+     "front": "Wer genießt besonderen Kündigungsschutz?",
+     "back": "Schwangere/Mütter, Eltern in Elternzeit, Schwerbehinderte, Betriebsratsmitglieder, Auszubildende nach der Probezeit."
+    },
+    {
+     "key": "wsp-lf1-arbeitsrecht-c21",
+     "front": "Mutterschutzfrist?",
+     "back": "6 Wochen vor bis 8 Wochen nach der Entbindung (12 Wochen bei Früh-/Mehrlingsgeburt)."
+    },
+    {
+     "key": "wsp-lf1-arbeitsrecht-c22",
+     "front": "Absolutes Beschäftigungsverbot nach der Geburt?",
+     "back": "8 Wochen (bzw. 12 Wochen bei Früh-/Mehrlingsgeburt)."
+    },
+    {
+     "key": "wsp-lf1-arbeitsrecht-c23",
+     "front": "Wie lange besteht Kündigungsschutz nach der Entbindung?",
+     "back": "Bis 4 Monate nach der Geburt (und in der Elternzeit)."
+    },
+    {
+     "key": "wsp-lf1-arbeitsrecht-c24",
+     "front": "Wer zahlt das Mutterschaftsgeld?",
+     "back": "Die Krankenkasse (plus Zuschuss des Arbeitgebers zum Nettogehalt)."
+    },
+    {
+     "key": "wsp-lf1-arbeitsrecht-c25",
+     "front": "Elterngeld – Bezugsdauer?",
+     "back": "In der Regel 12 bis 14 Monate (oder doppelte Dauer mit halbem Betrag)."
+    },
+    {
+     "key": "wsp-lf1-arbeitsrecht-c26",
+     "front": "Ziel des AGG?",
+     "back": "Diskriminierung im Arbeitsleben verhindern (Rasse/Herkunft, Geschlecht, Religion/Weltanschauung, Behinderung, Alter, sexuelle Identität)."
+    },
+    {
+     "key": "wsp-lf1-arbeitsrecht-c27",
+     "front": "Ab welchem Grad der Behinderung gilt man als schwerbehindert?",
+     "back": "Ab einem GdB von 50."
+    },
+    {
+     "key": "wsp-lf1-arbeitsrecht-c28",
+     "front": "Zusatzurlaub für Schwerbehinderte?",
+     "back": "5 Arbeitstage pro Jahr."
+    },
+    {
+     "key": "wsp-lf1-arbeitsrecht-c29",
+     "front": "Wer muss einer Kündigung eines Schwerbehinderten zustimmen?",
+     "back": "Das Integrationsamt."
+    },
+    {
+     "key": "wsp-lf1-arbeitsrecht-c30",
+     "front": "Beschäftigungspflicht für Schwerbehinderte?",
+     "back": "Betriebe ab 20 Arbeitsplätzen: 5 % – sonst Ausgleichsabgabe."
+    }
+   ],
+   "glossary": [
+    {
+     "key": "wsp-lf1-arbeitsrecht-g01",
+     "term": "Abmahnung",
+     "definition": "Rüge eines Pflichtverstoßes mit Warnung; Voraussetzung vieler verhaltensbedingter Kündigungen."
+    },
+    {
+     "key": "wsp-lf1-arbeitsrecht-g02",
+     "term": "Sozialauswahl",
+     "definition": "Auswahl des am wenigsten schutzbedürftigen Mitarbeiters bei betriebsbedingter Kündigung."
+    },
+    {
+     "key": "wsp-lf1-arbeitsrecht-g03",
+     "term": "Aufhebungsvertrag",
+     "definition": "Einvernehmliche Beendigung des Arbeitsverhältnisses."
+    },
+    {
+     "key": "wsp-lf1-arbeitsrecht-g04",
+     "term": "Elternzeit",
+     "definition": "Unbezahlte Freistellung zur Kinderbetreuung bis zu 3 Jahre je Elternteil."
+    },
+    {
+     "key": "wsp-lf1-arbeitsrecht-g05",
+     "term": "Integrationsamt",
+     "definition": "Behörde, die Kündigungen Schwerbehinderter zustimmen muss."
+    }
+   ],
+   "questions": [
+    {
+     "key": "wsp-lf1-arbeitsrecht-q01",
+     "type": "mc",
+     "exam_part": 2,
+     "difficulty": 2,
+     "source": "WSP LF1 (Unterricht)",
+     "body": {
+      "prompt": "Bei welchem der folgenden Vertragsinhalte handelt es sich um Pflichten des Arbeitnehmers? Wählen Sie die 2 zutreffenden Pflichten.",
+      "options": [
+       {
+        "text": "Schweigepflicht",
+        "correct": true
+       },
+       {
+        "text": "Treuepflicht",
+        "correct": true
+       },
+       {
+        "text": "Entgeltpflicht",
+        "correct": false
+       },
+       {
+        "text": "Fürsorgepflicht",
+        "correct": false
+       },
+       {
+        "text": "Urlaubsgewährungspflicht",
+        "correct": false
+       },
+       {
+        "text": "Zeugnispflicht",
+        "correct": false
+       }
+      ]
+     }
+    },
+    {
+     "key": "wsp-lf1-arbeitsrecht-q02",
+     "type": "mc",
+     "exam_part": 2,
+     "difficulty": 2,
+     "source": "WSP LF1 (Unterricht)",
+     "body": {
+      "prompt": "Wie viele Urlaubstage hat ein Vollzeitbeschäftigter in einer 5-Tage-Woche nach dem Bundesurlaubsgesetz mindestens?",
+      "options": [
+       {
+        "text": "20 Urlaubstage",
+        "correct": true
+       },
+       {
+        "text": "24 Urlaubstage",
+        "correct": false
+       },
+       {
+        "text": "25 Urlaubstage",
+        "correct": false
+       },
+       {
+        "text": "28 Urlaubstage",
+        "correct": false
+       },
+       {
+        "text": "30 Urlaubstage",
+        "correct": false
+       }
+      ]
+     }
+    },
+    {
+     "key": "wsp-lf1-arbeitsrecht-q03",
+     "type": "mc",
+     "exam_part": 2,
+     "difficulty": 2,
+     "source": "WSP LF1 (Unterricht)",
+     "body": {
+      "prompt": "Welche Aussage zum Mutterschutzgesetz ist richtig?",
+      "options": [
+       {
+        "text": "Es gilt ein absolutes Beschäftigungsverbot von sechs Wochen vor bis acht Wochen nach der Geburt (mit Ausnahmen vor der Geburt).",
+        "correct": true
+       },
+       {
+        "text": "Überstunden für vollzeitbeschäftigte Schwangere sind erlaubt.",
+        "correct": false
+       },
+       {
+        "text": "Nach der Entbindung gibt es nur ein relatives Beschäftigungsverbot.",
+        "correct": false
+       },
+       {
+        "text": "Das Gesetz gilt auch für werdende Väter.",
+        "correct": false
+       },
+       {
+        "text": "Schwangeren darf trotz Mutterschutz gekündigt werden.",
+        "correct": false
+       }
+      ]
+     }
+    },
+    {
+     "key": "wsp-lf1-arbeitsrecht-q04",
+     "type": "mc",
+     "exam_part": 2,
+     "difficulty": 2,
+     "source": "WSP LF1 (Unterricht)",
+     "body": {
+      "prompt": "Für welche Personengruppe gilt ein besonderer Kündigungsschutz?",
+      "options": [
+       {
+        "text": "Für Mitglieder des Betriebsrats",
+        "correct": true
+       },
+       {
+        "text": "Für Mitarbeiter in der Probezeit",
+        "correct": false
+       },
+       {
+        "text": "Für alle Mitarbeiter mit mehr als 2 Jahren Betriebszugehörigkeit",
+        "correct": false
+       },
+       {
+        "text": "Für Praktikanten",
+        "correct": false
+       },
+       {
+        "text": "Für Aushilfen",
+        "correct": false
+       }
+      ]
+     }
+    },
+    {
+     "key": "wsp-lf1-arbeitsrecht-q05",
+     "type": "mc",
+     "exam_part": 2,
+     "difficulty": 2,
+     "source": "WSP LF1 (Unterricht)",
+     "body": {
+      "prompt": "Wann darf einem Arbeitnehmer fristlos gekündigt werden?",
+      "options": [
+       {
+        "text": "Bei einem wichtigen Grund, z. B. Diebstahl",
+        "correct": true
+       },
+       {
+        "text": "Bei jeder Verspätung",
+        "correct": false
+       },
+       {
+        "text": "Wenn der Chef es für richtig hält",
+        "correct": false
+       },
+       {
+        "text": "Nur in der Probezeit mit Begründung",
+        "correct": false
+       },
+       {
+        "text": "Nach einer krankheitsbedingten Fehlzeit von 2 Tagen",
+        "correct": false
+       }
+      ]
+     }
+    },
+    {
+     "key": "wsp-lf1-arbeitsrecht-q06",
+     "type": "mc",
+     "exam_part": 2,
+     "difficulty": 2,
+     "source": "WSP LF1 (Unterricht)",
+     "body": {
+      "prompt": "Wie lang ist die Kündigungsfrist des Arbeitgebers bei einer Betriebszugehörigkeit von 8 Jahren?",
+      "options": [
+       {
+        "text": "3 Monate zum Ende eines Kalendermonats",
+        "correct": true
+       },
+       {
+        "text": "4 Wochen zum 15.",
+        "correct": false
+       },
+       {
+        "text": "2 Monate zum Monatsende",
+        "correct": false
+       },
+       {
+        "text": "4 Monate zum Monatsende",
+        "correct": false
+       },
+       {
+        "text": "7 Monate zum Monatsende",
+        "correct": false
+       }
+      ]
+     }
+    },
+    {
+     "key": "wsp-lf1-arbeitsrecht-q07",
+     "type": "mc",
+     "exam_part": 2,
+     "difficulty": 2,
+     "source": "WSP LF1 (Unterricht)",
+     "body": {
+      "prompt": "Wie lange hat ein Arbeitnehmer Zeit, gegen eine Kündigung Klage beim Arbeitsgericht zu erheben?",
+      "options": [
+       {
+        "text": "3 Wochen nach Zugang",
+        "correct": true
+       },
+       {
+        "text": "2 Wochen nach Zugang",
+        "correct": false
+       },
+       {
+        "text": "4 Wochen nach Zugang",
+        "correct": false
+       },
+       {
+        "text": "6 Monate nach Zugang",
+        "correct": false
+       },
+       {
+        "text": "1 Jahr nach Zugang",
+        "correct": false
+       }
+      ]
+     }
+    },
+    {
+     "key": "wsp-lf1-arbeitsrecht-q08",
+     "type": "mc",
+     "exam_part": 2,
+     "difficulty": 2,
+     "source": "WSP LF1 (Unterricht)",
+     "body": {
+      "prompt": "Welche Pause muss bei einer Arbeitszeit von mehr als 9 Stunden mindestens gewährt werden (ArbZG)?",
+      "options": [
+       {
+        "text": "45 Minuten",
+        "correct": true
+       },
+       {
+        "text": "15 Minuten",
+        "correct": false
+       },
+       {
+        "text": "30 Minuten",
+        "correct": false
+       },
+       {
+        "text": "60 Minuten",
+        "correct": false
+       },
+       {
+        "text": "90 Minuten",
+        "correct": false
+       }
+      ]
+     }
+    },
+    {
+     "key": "wsp-lf1-arbeitsrecht-q09",
+     "type": "mc",
+     "exam_part": 2,
+     "difficulty": 2,
+     "source": "WSP LF1 (Unterricht)",
+     "body": {
+      "prompt": "Welche Aussage zur Rentenversicherung und Personalkosten ist richtig?",
+      "options": [
+       {
+        "text": "Da der Arbeitgeber die Hälfte der Beiträge trägt, erhöhen steigende Beiträge in der Regel die Personalkosten.",
+        "correct": true
+       },
+       {
+        "text": "Die Erhöhung betrifft nur den Arbeitnehmeranteil.",
+        "correct": false
+       },
+       {
+        "text": "Mit steigenden Beiträgen sinkt die Beitragsbemessungsgrenze automatisch.",
+        "correct": false
+       },
+       {
+        "text": "Beiträge sind an die Nettolohnentwicklung gekoppelt.",
+        "correct": false
+       },
+       {
+        "text": "Die Beitragsbemessungsgrenze steigt immer im gleichen Umfang.",
+        "correct": false
+       }
+      ]
+     }
+    },
+    {
+     "key": "wsp-lf1-arbeitsrecht-q10",
+     "type": "mc",
+     "exam_part": 2,
+     "difficulty": 2,
+     "source": "WSP LF1 (Unterricht)",
+     "body": {
+      "prompt": "Welche Eigenschaft ist nach dem AGG ein verbotenes Differenzierungsmerkmal?",
+      "options": [
+       {
+        "text": "Das Alter",
+        "correct": true
+       },
+       {
+        "text": "Die Schuhgröße",
+        "correct": false
+       },
+       {
+        "text": "Die Berufserfahrung",
+        "correct": false
+       },
+       {
+        "text": "Die Examensnote",
+        "correct": false
+       },
+       {
+        "text": "Die Sprachkenntnisse (wenn für die Stelle nötig)",
+        "correct": false
+       }
+      ]
+     }
+    },
+    {
+     "key": "wsp-lf1-arbeitsrecht-q11",
+     "type": "mc",
+     "exam_part": 2,
+     "difficulty": 2,
+     "source": "WSP LF1 (Unterricht)",
+     "body": {
+      "prompt": "Welche Aussage zu Schwerbehinderten im Betrieb ist richtig?",
+      "options": [
+       {
+        "text": "Die Kündigung bedarf der Zustimmung des Integrationsamts.",
+        "correct": true
+       },
+       {
+        "text": "Sie haben keinen Anspruch auf Zusatzurlaub.",
+        "correct": false
+       },
+       {
+        "text": "Die Beschäftigungsquote beträgt 1 %.",
+        "correct": false
+       },
+       {
+        "text": "Sie dürfen nicht gekündigt werden – nie.",
+        "correct": false
+       },
+       {
+        "text": "Zuständig ist das Gewerbeaufsichtsamt.",
+        "correct": false
+       }
+      ]
+     }
+    },
+    {
+     "key": "wsp-lf1-arbeitsrecht-q12",
+     "type": "mc",
+     "exam_part": 2,
+     "difficulty": 2,
+     "source": "WSP LF1 (Unterricht)",
+     "body": {
+      "prompt": "Eine Mitarbeiterin ist seit 3 Jahren in einem Betrieb mit 40 Arbeitnehmern beschäftigt. Auf welcher Grundlage kann sie sich gegen eine ungerechtfertigte Kündigung wehren?",
+      "options": [
+       {
+        "text": "Kündigungsschutzgesetz",
+        "correct": true
+       },
+       {
+        "text": "Mutterschutzgesetz",
+        "correct": false
+       },
+       {
+        "text": "Jugendarbeitsschutzgesetz",
+        "correct": false
+       },
+       {
+        "text": "Arbeitszeitgesetz",
+        "correct": false
+       },
+       {
+        "text": "Gewerbeordnung",
+        "correct": false
+       }
+      ]
+     }
+    },
+    {
+     "key": "wsp-lf1-arbeitsrecht-q13",
+     "type": "match",
+     "exam_part": 2,
+     "difficulty": 2,
+     "source": "WSP LF1 (Unterricht)",
+     "body": {
+      "prompt": "Ordnen Sie jedem Kündigungsgrund das passende Beispiel zu.",
+      "items": [
+       {
+        "term": "personenbedingt",
+        "match": "dauerhafte Krankheit macht die Arbeit unmöglich"
+       },
+       {
+        "term": "verhaltensbedingt",
+        "match": "wiederholter Spesenbetrug trotz Abmahnung"
+       },
+       {
+        "term": "betriebsbedingt",
+        "match": "Schließung einer Abteilung"
+       }
+      ],
+      "distractors": []
+     }
+    },
+    {
+     "key": "wsp-lf1-arbeitsrecht-q14",
+     "type": "match",
+     "exam_part": 2,
+     "difficulty": 2,
+     "source": "WSP LF1 (Unterricht)",
+     "body": {
+      "prompt": "Ordnen Sie Gesetz und Regelung zu.",
+      "items": [
+       {
+        "term": "ArbZG",
+        "match": "Pause von 30 Minuten bei mehr als 6 Stunden Arbeit"
+       },
+       {
+        "term": "BUrlG",
+        "match": "Mindestens 24 Werktage Urlaub"
+       },
+       {
+        "term": "MuSchG",
+        "match": "6 Wochen vor bis 8 Wochen nach der Geburt"
+       },
+       {
+        "term": "KSchG",
+        "match": "Kündigung nur bei sozialer Rechtfertigung"
+       }
+      ],
+      "distractors": [
+       "AGG",
+       "JArbSchG"
+      ]
+     }
+    },
+    {
+     "key": "wsp-lf1-arbeitsrecht-q15",
+     "type": "match",
+     "exam_part": 2,
+     "difficulty": 2,
+     "source": "WSP LF1 (Unterricht)",
+     "body": {
+      "prompt": "Ordnen Sie die Betriebszugehörigkeit der Kündigungsfrist des Arbeitgebers zu.",
+      "items": [
+       {
+        "term": "unter 2 Jahre",
+        "match": "4 Wochen zum 15. oder Monatsende"
+       },
+       {
+        "term": "5 Jahre",
+        "match": "2 Monate zum Monatsende"
+       },
+       {
+        "term": "10 Jahre",
+        "match": "4 Monate zum Monatsende"
+       },
+       {
+        "term": "20 Jahre",
+        "match": "7 Monate zum Monatsende"
+       }
+      ],
+      "distractors": [
+       "1 Monat zum Monatsende",
+       "6 Monate zum Monatsende"
+      ]
+     }
+    },
+    {
+     "key": "wsp-lf1-arbeitsrecht-q16",
+     "type": "tf",
+     "exam_part": 2,
+     "difficulty": 2,
+     "source": "WSP LF1 (Unterricht)",
+     "body": {
+      "statement": "Eine fristlose Kündigung ohne Angabe von Gründen ist nur in der Probezeit möglich.",
+      "answer": true
+     }
+    },
+    {
+     "key": "wsp-lf1-arbeitsrecht-q17",
+     "type": "tf",
+     "exam_part": 2,
+     "difficulty": 2,
+     "explanation": "Es gilt in Betrieben mit mehr als 10 Arbeitnehmern und nach 6 Monaten Beschäftigung.",
+     "source": "WSP LF1 (Unterricht)",
+     "body": {
+      "statement": "Das Kündigungsschutzgesetz gilt in jedem Betrieb ab dem ersten Arbeitstag.",
+      "answer": false
+     }
+    },
+    {
+     "key": "wsp-lf1-arbeitsrecht-q18",
+     "type": "tf",
+     "exam_part": 2,
+     "difficulty": 2,
+     "source": "WSP LF1 (Unterricht)",
+     "body": {
+      "statement": "Krankheitstage im Urlaub mit ärztlichem Attest werden auf den Urlaub angerechnet.",
+      "answer": false
+     }
+    },
+    {
+     "key": "wsp-lf1-arbeitsrecht-q19",
+     "type": "tf",
+     "exam_part": 2,
+     "difficulty": 2,
+     "source": "WSP LF1 (Unterricht)",
+     "body": {
+      "statement": "Die Zustimmung des Integrationsamtes ist für die Kündigung eines Schwerbehinderten nötig.",
+      "answer": true
+     }
+    },
+    {
+     "key": "wsp-lf1-arbeitsrecht-q20",
+     "type": "cloze",
+     "exam_part": 2,
+     "difficulty": 1,
+     "source": "WSP LF1 (Unterricht)",
+     "body": {
+      "text": "Nach dem Mutterschutzgesetz dauert die Schutzfrist [[6]] Wochen vor und [[8]] Wochen nach der Geburt."
+     }
+    },
+    {
+     "key": "wsp-lf1-arbeitsrecht-q21",
+     "type": "cloze",
+     "exam_part": 2,
+     "difficulty": 2,
+     "source": "WSP LF1 (Unterricht)",
+     "body": {
+      "text": "Gegen eine Kündigung kann innerhalb von [[3]] Wochen Kündigungsschutzklage erhoben werden."
+     }
+    },
+    {
+     "key": "wsp-lf1-arbeitsrecht-q22",
+     "type": "error",
+     "exam_part": 2,
+     "difficulty": 2,
+     "source": "WSP LF1 (Unterricht)",
+     "body": {
+      "prompt": "Welche Aussagen zum Arbeitsrecht sind fehlerhaft?",
+      "items": [
+       {
+        "text": "Bei betriebsbedingten Kündigungen muss eine Sozialauswahl erfolgen.",
+        "wrong": false
+       },
+       {
+        "text": "Eine Schwangere darf jederzeit ohne Gründe gekündigt werden.",
+        "wrong": true,
+        "fix": "Es besteht ein besonderer Kündigungsschutz bis 4 Monate nach der Geburt."
+       },
+       {
+        "text": "Der Arbeitgeber ist zur Erteilung eines Zeugnisses verpflichtet.",
+        "wrong": false
+       },
+       {
+        "text": "Die gesetzliche Höchstarbeitszeit beträgt 12 Stunden täglich.",
+        "wrong": true,
+        "fix": "Regelmäßig 8, ausnahmsweise 10 Stunden."
+       }
+      ]
+     }
+    }
+   ],
+   "templates": [
+    {
+     "key": "wsp-lf1-arbeitsrecht-t01",
+     "type": "mc",
+     "exam_part": 2,
+     "difficulty": 2,
+     "source": "WSP LF1 (Unterricht)",
+     "vars": {
+      "firma": {
+       "type": "pick",
+       "options": [
+        "FAMK",
+        "Mediahaus Rhein",
+        "Kreativ-Kontor",
+        "Textkontor GmbH"
+       ]
+      },
+      "ctx": {
+       "type": "pick",
+       "options": [
+        {
+         "jahre": "1",
+         "frist": "4 Wochen zum 15. oder zum Ende eines Kalendermonats",
+         "w1": "1 Monat zum Ende eines Kalendermonats",
+         "w2": "2 Monate zum Ende eines Kalendermonats",
+         "w3": "3 Monate zum Ende eines Kalendermonats"
+        },
+        {
+         "jahre": "5",
+         "frist": "2 Monate zum Ende eines Kalendermonats",
+         "w1": "1 Monat zum Ende eines Kalendermonats",
+         "w2": "3 Monate zum Ende eines Kalendermonats",
+         "w3": "4 Wochen zum 15. des Monats"
+        },
+        {
+         "jahre": "8",
+         "frist": "3 Monate zum Ende eines Kalendermonats",
+         "w1": "2 Monate zum Ende eines Kalendermonats",
+         "w2": "4 Monate zum Ende eines Kalendermonats",
+         "w3": "1 Monat zum Ende eines Kalendermonats"
+        },
+        {
+         "jahre": "10",
+         "frist": "4 Monate zum Ende eines Kalendermonats",
+         "w1": "3 Monate zum Ende eines Kalendermonats",
+         "w2": "5 Monate zum Ende eines Kalendermonats",
+         "w3": "2 Monate zum Ende eines Kalendermonats"
+        },
+        {
+         "jahre": "12",
+         "frist": "5 Monate zum Ende eines Kalendermonats",
+         "w1": "4 Monate zum Ende eines Kalendermonats",
+         "w2": "6 Monate zum Ende eines Kalendermonats",
+         "w3": "3 Monate zum Ende eines Kalendermonats"
+        },
+        {
+         "jahre": "15",
+         "frist": "6 Monate zum Ende eines Kalendermonats",
+         "w1": "5 Monate zum Ende eines Kalendermonats",
+         "w2": "7 Monate zum Ende eines Kalendermonats",
+         "w3": "4 Monate zum Ende eines Kalendermonats"
+        },
+        {
+         "jahre": "20",
+         "frist": "7 Monate zum Ende eines Kalendermonats",
+         "w1": "6 Monate zum Ende eines Kalendermonats",
+         "w2": "5 Monate zum Ende eines Kalendermonats",
+         "w3": "4 Wochen zum 15. des Monats"
+        }
+       ]
+      }
+     },
+     "body": {
+      "prompt": "Ein Arbeitnehmer der {firma} hat eine Betriebszugehörigkeit von {ctx.jahre} Jahren. Die {firma} kündigt betriebsbedingt. Welche Kündigungsfrist gilt für den Arbeitgeber nach § 622 BGB?",
+      "options": [
+       {
+        "text": "{ctx.frist}",
+        "correct": true
+       },
+       {
+        "text": "{ctx.w1}",
+        "correct": false
+       },
+       {
+        "text": "{ctx.w2}",
+        "correct": false
+       },
+       {
+        "text": "{ctx.w3}",
+        "correct": false
+       }
+      ]
+     }
+    },
+    {
+     "key": "wsp-lf1-arbeitsrecht-t02",
+     "type": "calc",
+     "exam_part": 2,
+     "difficulty": 2,
+     "source": "WSP LF1 (Unterricht)",
+     "vars": {
+      "name": {
+       "type": "pick",
+       "options": [
+        "Frau Hoffmann",
+        "Herr Berger",
+        "Frau Çelik",
+        "Herr Neumann"
+       ]
+      },
+      "tage": {
+       "type": "int",
+       "min": 2,
+       "max": 5,
+       "step": 1
+      }
+     },
+     "body": {
+      "prompt": "{name} arbeitet in Teilzeit an {tage} Tagen pro Woche. Wie viele Urlaubstage stehen {name} nach dem Bundesurlaubsgesetz mindestens zu? (Gesetzlicher Mindesturlaub: 4 Wochen.)",
+      "answer": "4*tage",
+      "unit": "Urlaubstage",
+      "decimals": 0,
+      "steps": [
+       "Mindesturlaub = 4 Wochen",
+       "4 Wochen × {tage} Arbeitstage = {result} Urlaubstage"
+      ]
+     }
+    }
+   ],
+   "cases": [],
+   "summary": {
+    "key": "wsp-lf1-arbeitsrecht-zettel",
+    "title": "Arbeitsrecht & Arbeitnehmerschutz",
+    "content_md": "\n**Arbeitsvertrag** – Pflichten\n- *Arbeitnehmer*: Arbeitspflicht, **Treuepflicht**, **Schweigepflicht**, Weisungsbefolgung, Wettbewerbsverbot\n- *Arbeitgeber*: **Entgeltzahlung**, **Fürsorgepflicht**, Beschäftigungspflicht, **Urlaubsgewährung**, **Zeugnispflicht**\n- Zeugnis: *einfach* (Art und Dauer der Tätigkeit) oder *qualifiziert* (zusätzlich Leistung und Verhalten – wohlwollend, aber wahr)\n\n**Arbeitszeitgesetz (ArbZG)**: 8 h/Tag, 48 h/Woche (bis 10 h/Tag, wenn im Schnitt in 6 Monaten 8 h erreicht werden); Pausen **30 min bei > 6 h, 45 min bei > 9 h**; Ruhezeit **11 h**; Sonn-/Feiertagsruhe.\n\n**Bundesurlaubsgesetz (BUrlG)**: mind. **24 Werktage** (6-Tage-Woche) = **20 Arbeitstage** (5-Tage-Woche); voller Anspruch nach 6 Monaten; ärztlich bescheinigte Krankheit im Urlaub wird nicht angerechnet.\n\n**Kündigungsschutzgesetz (KSchG)** – gilt im Betrieb mit mehr als 10 Arbeitnehmern und nach 6 Monaten Beschäftigung: Kündigung nur **sozial gerechtfertigt** (*personen-*, *verhaltens-* [meist nach Abmahnung], *betriebsbedingt* [mit Sozialauswahl]). **Klage binnen 3 Wochen** nach Zugang.\nKündigungsfristen (Kündigung durch den Arbeitgeber): Grundfrist **4 Wochen zum 15. oder Monatsende**; nach 2 Jahren 1 Monat, 5 J. 2 Monate, 8 J. 3, 10 J. 4, 12 J. 5, 15 J. 6, 20 J. **7 Monate** (jeweils zum Monatsende).\n**Fristlose Kündigung** nur aus wichtigem Grund (z. B. Diebstahl, Arbeitsverweigerung).\n**Besonderer Kündigungsschutz**: Schwangere/Mütter, Eltern in Elternzeit, Schwerbehinderte, Betriebsratsmitglieder, Auszubildende nach der Probezeit.\n\n**Mutterschutzgesetz (MuSchG)**: **6 Wochen vor** bis **8 Wochen nach** der Geburt (12 Wochen bei Früh-/Mehrlingsgeburt); Mutterschaftsgeld; Kündigungsverbot bis 4 Monate nach der Entbindung; kein Nachtarbeit/Mehrarbeit; Elternzeit bis 3 Jahre, Elterngeld 12 (+2) Monate.\n\n**AGG**: verbietet Benachteiligung wegen Rasse/ethnischer Herkunft, Geschlecht, Religion/Weltanschauung, Behinderung, Alter, sexueller Identität.\n\n**Schwerbehinderung (SGB IX)**: GdB ≥ 50; **5 Tage Zusatzurlaub**; Kündigung nur mit **Zustimmung des Integrationsamts**; Betriebe ab 20 Arbeitsplätzen: **5 % Quote** oder Ausgleichsabgabe.\n"
+   }
+  }
+ ]
+}

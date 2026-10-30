@@ -1,0 +1,700 @@
+{
+ "demo": false,
+ "items": [
+  {
+   "topic": "wsp-lf3-kaufvertrag",
+   "flashcards": [
+    {
+     "key": "wsp-lf3-kaufvertrag-c01",
+     "front": "Was ist der Unterschied zwischen Anfrage und Angebot?",
+     "back": "Die Anfrage ist unverbindlich. Das Angebot ist rechtlich ein Antrag und bindet den Anbieter."
+    },
+    {
+     "key": "wsp-lf3-kaufvertrag-c02",
+     "front": "Wie kommt ein Kaufvertrag zustande?",
+     "back": "Durch zwei übereinstimmende Willenserklärungen: Antrag (Angebot) und Annahme."
+    },
+    {
+     "key": "wsp-lf3-kaufvertrag-c03",
+     "front": "Was gilt bei einer Änderung des Angebots?",
+     "back": "Sie ist eine Ablehnung und zugleich ein neuer Antrag."
+    },
+    {
+     "key": "wsp-lf3-kaufvertrag-c04",
+     "front": "Nenne sechs Inhalte eines Angebots.",
+     "back": "Art/Güte/Beschaffenheit, Menge, Preis, Lieferbedingungen, Zahlungsbedingungen, Erfüllungsort/Gerichtsstand."
+    },
+    {
+     "key": "wsp-lf3-kaufvertrag-c05",
+     "front": "Was bedeutet „frei Haus“?",
+     "back": "Der Verkäufer trägt alle Kosten der Lieferung bis zum Käufer."
+    },
+    {
+     "key": "wsp-lf3-kaufvertrag-c06",
+     "front": "Was bedeutet „frachtfrei“?",
+     "back": "Der Verkäufer trägt die Fracht bis zum Bestimmungsort; Entladung/Zufuhr trägt der Käufer."
+    },
+    {
+     "key": "wsp-lf3-kaufvertrag-c07",
+     "front": "Was bedeutet „unfrei“ / „ab hier“?",
+     "back": "Der Käufer trägt die Frachtkosten."
+    },
+    {
+     "key": "wsp-lf3-kaufvertrag-c08",
+     "front": "Was bedeutet „ab Lager“?",
+     "back": "Der Käufer holt ab und trägt alle Kosten ab Lager des Verkäufers."
+    },
+    {
+     "key": "wsp-lf3-kaufvertrag-c09",
+     "front": "Was ist ein Fixkauf?",
+     "back": "Ein Kauf mit genau bestimmtem Liefertermin, bei dem die Pünktlichkeit wesentlich ist."
+    },
+    {
+     "key": "wsp-lf3-kaufvertrag-c10",
+     "front": "Was ist ein Kauf auf Probe?",
+     "back": "Der Käufer darf die Ware innerhalb einer Frist prüfen und dann annehmen oder zurückgeben."
+    },
+    {
+     "key": "wsp-lf3-kaufvertrag-c11",
+     "front": "Was ist ein Kauf nach Probe?",
+     "back": "Die Ware muss einer vorher gezeigten Probe entsprechen."
+    },
+    {
+     "key": "wsp-lf3-kaufvertrag-c12",
+     "front": "Was ist ein Gattungskauf?",
+     "back": "Die Ware wird nur der Art nach bestimmt (z. B. 1.000 Flyer A5)."
+    },
+    {
+     "key": "wsp-lf3-kaufvertrag-c13",
+     "front": "Was ist ein Stückkauf?",
+     "back": "Ein ganz bestimmtes Einzelstück wird gekauft (z. B. ein gebrauchtes Auto)."
+    },
+    {
+     "key": "wsp-lf3-kaufvertrag-c14",
+     "front": "Nenne zwei Pflichten des Verkäufers.",
+     "back": "Mangelfreie Lieferung und Verschaffung des Eigentums."
+    },
+    {
+     "key": "wsp-lf3-kaufvertrag-c15",
+     "front": "Nenne zwei Pflichten des Käufers.",
+     "back": "Annahme der Ware und Zahlung des Kaufpreises."
+    },
+    {
+     "key": "wsp-lf3-kaufvertrag-c16",
+     "front": "Wo muss der Schuldner die Leistung erbringen?",
+     "back": "Am Erfüllungsort (Leistungsort); dort geht auch die Gefahr über."
+    },
+    {
+     "key": "wsp-lf3-kaufvertrag-c17",
+     "front": "Was legt der Gerichtsstand fest?",
+     "back": "Bei welchem Gericht geklagt werden muss."
+    },
+    {
+     "key": "wsp-lf3-kaufvertrag-c18",
+     "front": "Wie berechnet sich der Einstandspreis (Bezugskalkulation)?",
+     "back": "Listenpreis − Rabatt = Zieleinkaufspreis; − Skonto = Bareinkaufspreis; + Bezugskosten = Einstandspreis."
+    },
+    {
+     "key": "wsp-lf3-kaufvertrag-c19",
+     "front": "Was ist ein quantitativer Angebotsvergleich?",
+     "back": "Vergleich in Geldeinheiten (Preis, Rabatt, Skonto, Bezugskosten)."
+    },
+    {
+     "key": "wsp-lf3-kaufvertrag-c20",
+     "front": "Was ist ein qualitativer Angebotsvergleich?",
+     "back": "Vergleich nach nicht in Geld messbaren Kriterien (Qualität, Service, Lieferzeit) – z. B. Nutzwertanalyse."
+    },
+    {
+     "key": "wsp-lf3-kaufvertrag-c21",
+     "front": "Vorteil der Nutzwertanalyse (Scoring)?",
+     "back": "Quantitative und qualitative Kriterien werden transparent gewichtet und bewertet."
+    },
+    {
+     "key": "wsp-lf3-kaufvertrag-c22",
+     "front": "Was sind AGB?",
+     "back": "Vorformulierte Vertragsbedingungen, die eine Partei der anderen bei Vertragsschluss stellt."
+    },
+    {
+     "key": "wsp-lf3-kaufvertrag-c23",
+     "front": "Wo sind AGB geregelt?",
+     "back": "In den §§ 305 ff. BGB."
+    },
+    {
+     "key": "wsp-lf3-kaufvertrag-c24",
+     "front": "Welche AGB-Klauseln sind unwirksam?",
+     "back": "Überraschende, mehrdeutige oder unangemessen benachteiligende Klauseln."
+    },
+    {
+     "key": "wsp-lf3-kaufvertrag-c25",
+     "front": "Was gilt bei Widerspruch zwischen AGB und individueller Absprache?",
+     "back": "Die individuelle Absprache hat Vorrang."
+    },
+    {
+     "key": "wsp-lf3-kaufvertrag-c26",
+     "front": "Wirkt sich eine unwirksame AGB-Klausel auf den ganzen Vertrag aus?",
+     "back": "Nein – der Vertrag bleibt im Übrigen gültig."
+    }
+   ],
+   "glossary": [
+    {
+     "key": "wsp-lf3-kaufvertrag-g01",
+     "term": "Antrag",
+     "definition": "Verbindliches Angebot, das mit Annahme zum Vertrag wird."
+    },
+    {
+     "key": "wsp-lf3-kaufvertrag-g02",
+     "term": "Zieleinkaufspreis",
+     "definition": "Listenpreis abzüglich Rabatt."
+    },
+    {
+     "key": "wsp-lf3-kaufvertrag-g03",
+     "term": "Bareinkaufspreis",
+     "definition": "Zieleinkaufspreis abzüglich Skonto."
+    },
+    {
+     "key": "wsp-lf3-kaufvertrag-g04",
+     "term": "Einstandspreis",
+     "definition": "Bareinkaufspreis zuzüglich Bezugskosten – der tatsächliche Preis der Ware."
+    },
+    {
+     "key": "wsp-lf3-kaufvertrag-g05",
+     "term": "AGB",
+     "definition": "Allgemeine Geschäftsbedingungen: vorformulierte, standardisierte Vertragsklauseln."
+    },
+    {
+     "key": "wsp-lf3-kaufvertrag-g06",
+     "term": "Erfüllungsort",
+     "definition": "Ort, an dem der Schuldner seine Leistung zu erbringen hat."
+    }
+   ],
+   "questions": [
+    {
+     "key": "wsp-lf3-kaufvertrag-q01",
+     "type": "mc",
+     "exam_part": 2,
+     "difficulty": 2,
+     "source": "WSP LF3 (Unterricht)",
+     "body": {
+      "prompt": "Was liegt vor, wenn eine Agentur auf einen Kundenanruf antwortet: „Wir liefern Ihnen 500 Flyer zum Preis von 120 € bis Freitag“?",
+      "options": [
+       {
+        "text": "Ein Antrag (Angebot)",
+        "correct": true
+       },
+       {
+        "text": "Eine Anfrage",
+        "correct": false
+       },
+       {
+        "text": "Eine Annahme",
+        "correct": false
+       },
+       {
+        "text": "Eine Anfechtung",
+        "correct": false
+       },
+       {
+        "text": "Nichts Rechtliches",
+        "correct": false
+       }
+      ]
+     }
+    },
+    {
+     "key": "wsp-lf3-kaufvertrag-q02",
+     "type": "mc",
+     "exam_part": 2,
+     "difficulty": 2,
+     "source": "WSP LF3 (Unterricht)",
+     "body": {
+      "prompt": "Ein Kunde bestellt auf ein Angebot, ändert aber den Preis ab. Welche Folge hat das?",
+      "options": [
+       {
+        "text": "Das ist ein neuer Antrag; der Verkäufer muss ihn erst annehmen.",
+        "correct": true
+       },
+       {
+        "text": "Der Vertrag ist zum geänderten Preis zustande gekommen.",
+        "correct": false
+       },
+       {
+        "text": "Der Vertrag ist nichtig.",
+        "correct": false
+       },
+       {
+        "text": "Der Verkäufer ist ans Ursprungsangebot gebunden.",
+        "correct": false
+       },
+       {
+        "text": "Der Vertrag ist anfechtbar.",
+        "correct": false
+       }
+      ]
+     }
+    },
+    {
+     "key": "wsp-lf3-kaufvertrag-q03",
+     "type": "mc",
+     "exam_part": 2,
+     "difficulty": 3,
+     "explanation": "Kaufleute: Schweigen auf ein Angebot im Rahmen einer bestehenden Geschäftsbeziehung kann als Annahme gelten; Nichtkaufleute: Ablehnung.",
+     "source": "WSP LF3 (Unterricht)",
+     "body": {
+      "prompt": "Ein Werbemittelhersteller schickt an 10.000 Firmen ein Sonderangebot. Eine Agentur, mit der er regelmäßig Geschäfte macht, schweigt. Was gilt?",
+      "options": [
+       {
+        "text": "Das Schweigen zählt hier als Annahme, wenn sie als Kaufmann regelmäßig Kontakt hat – Vorsicht!",
+        "correct": true
+       },
+       {
+        "text": "Schweigen ist nie eine Annahme.",
+        "correct": false
+       },
+       {
+        "text": "Der Vertrag ist nichtig.",
+        "correct": false
+       },
+       {
+        "text": "Der Hersteller muss ein neues Angebot schicken.",
+        "correct": false
+       },
+       {
+        "text": "Der Vertrag ist anfechtbar.",
+        "correct": false
+       }
+      ]
+     }
+    },
+    {
+     "key": "wsp-lf3-kaufvertrag-q04",
+     "type": "mc",
+     "exam_part": 2,
+     "difficulty": 2,
+     "source": "WSP LF3 (Unterricht)",
+     "body": {
+      "prompt": "Wer trägt bei „frei Haus“ die Frachtkosten?",
+      "options": [
+       {
+        "text": "Der Verkäufer",
+        "correct": true
+       },
+       {
+        "text": "Der Käufer",
+        "correct": false
+       },
+       {
+        "text": "Beide je zur Hälfte",
+        "correct": false
+       },
+       {
+        "text": "Der Spediteur",
+        "correct": false
+       },
+       {
+        "text": "Die Versicherung",
+        "correct": false
+       }
+      ]
+     }
+    },
+    {
+     "key": "wsp-lf3-kaufvertrag-q05",
+     "type": "mc",
+     "exam_part": 2,
+     "difficulty": 2,
+     "source": "WSP LF3 (Unterricht)",
+     "body": {
+      "prompt": "Wer trägt bei „unfrei“ die Frachtkosten?",
+      "options": [
+       {
+        "text": "Der Käufer",
+        "correct": true
+       },
+       {
+        "text": "Der Verkäufer",
+        "correct": false
+       },
+       {
+        "text": "Beide je zur Hälfte",
+        "correct": false
+       },
+       {
+        "text": "Der Hersteller",
+        "correct": false
+       },
+       {
+        "text": "Der Lagerhalter",
+        "correct": false
+       }
+      ]
+     }
+    },
+    {
+     "key": "wsp-lf3-kaufvertrag-q06",
+     "type": "mc",
+     "exam_part": 2,
+     "difficulty": 2,
+     "source": "WSP LF3 (Unterricht)",
+     "body": {
+      "prompt": "Welche Aussage zum quantitativen Angebotsvergleich trifft zu? Wählen Sie die zwei zutreffenden Aussagen.",
+      "options": [
+       {
+        "text": "Es wird der Bezugspreis ermittelt und der günstigste Anbieter festgestellt.",
+        "correct": true
+       },
+       {
+        "text": "Quantitative Faktoren werden in Geldeinheiten bewertet.",
+        "correct": true
+       },
+       {
+        "text": "Es werden auch Dauer der Geschäftsbeziehung und Liefertreue berücksichtigt.",
+        "correct": false
+       },
+       {
+        "text": "Rabatt, Skonto und Transportkosten bleiben unberücksichtigt.",
+        "correct": false
+       },
+       {
+        "text": "Es erfolgt eine subjektive Gewichtung der Kriterien.",
+        "correct": false
+       },
+       {
+        "text": "Es gewinnt der Anbieter mit den meisten Übereinstimmungen bei Kriterien.",
+        "correct": false
+       }
+      ]
+     }
+    },
+    {
+     "key": "wsp-lf3-kaufvertrag-q07",
+     "type": "mc",
+     "exam_part": 2,
+     "difficulty": 2,
+     "source": "WSP LF3 (Unterricht)",
+     "body": {
+      "prompt": "Welchen Vorteil bietet ein qualitativer Angebotsvergleich mit Scoring-Modell?",
+      "options": [
+       {
+        "text": "Quantitative und qualitative Kriterien werden transparent berücksichtigt.",
+        "correct": true
+       },
+       {
+        "text": "Er ist ohne Aufwand durchführbar.",
+        "correct": false
+       },
+       {
+        "text": "Der günstigste Lieferant wird automatisch erkannt.",
+        "correct": false
+       },
+       {
+        "text": "Die Gewichtung der Kriterien ist völlig objektiv.",
+        "correct": false
+       },
+       {
+        "text": "Nur monetäre Kriterien zählen.",
+        "correct": false
+       }
+      ]
+     }
+    },
+    {
+     "key": "wsp-lf3-kaufvertrag-q08",
+     "type": "mc",
+     "exam_part": 2,
+     "difficulty": 2,
+     "source": "WSP LF3 (Unterricht)",
+     "body": {
+      "prompt": "Welche Aussage zu AGB ist richtig?",
+      "options": [
+       {
+        "text": "Individuelle Vereinbarungen haben Vorrang vor AGB.",
+        "correct": true
+       },
+       {
+        "text": "AGB gelten immer, auch wenn sie überraschend sind.",
+        "correct": false
+       },
+       {
+        "text": "Ist eine Klausel unwirksam, ist der ganze Vertrag nichtig.",
+        "correct": false
+       },
+       {
+        "text": "AGB müssen notariell beurkundet werden.",
+        "correct": false
+       },
+       {
+        "text": "AGB gelten nur im Ausland.",
+        "correct": false
+       }
+      ]
+     }
+    },
+    {
+     "key": "wsp-lf3-kaufvertrag-q09",
+     "type": "match",
+     "exam_part": 2,
+     "difficulty": 2,
+     "source": "WSP LF3 (Unterricht)",
+     "body": {
+      "prompt": "Ordnen Sie den Lieferbedingungen die Kostenverteilung zu.",
+      "items": [
+       {
+        "term": "frei Haus",
+        "match": "Verkäufer trägt alle Kosten bis zum Käufer"
+       },
+       {
+        "term": "frachtfrei",
+        "match": "Verkäufer trägt die Fracht, Käufer die Entladung"
+       },
+       {
+        "term": "unfrei / ab hier",
+        "match": "Käufer trägt die Frachtkosten"
+       },
+       {
+        "term": "ab Lager",
+        "match": "Käufer trägt alle Kosten ab Lager"
+       }
+      ],
+      "distractors": []
+     }
+    },
+    {
+     "key": "wsp-lf3-kaufvertrag-q10",
+     "type": "match",
+     "exam_part": 2,
+     "difficulty": 2,
+     "source": "WSP LF3 (Unterricht)",
+     "body": {
+      "prompt": "Ordnen Sie jede Kaufvertragsart ihrer Beschreibung zu.",
+      "items": [
+       {
+        "term": "Kauf auf Probe",
+        "match": "Ware darf innerhalb einer Frist geprüft und zurückgegeben werden"
+       },
+       {
+        "term": "Fixkauf",
+        "match": "Lieferung zu einem genau bestimmten Termin"
+       },
+       {
+        "term": "Gattungskauf",
+        "match": "Ware wird nur der Art nach bestimmt"
+       },
+       {
+        "term": "Stückkauf",
+        "match": "Ein bestimmtes Einzelstück wird gekauft"
+       }
+      ],
+      "distractors": []
+     }
+    },
+    {
+     "key": "wsp-lf3-kaufvertrag-q11",
+     "type": "order",
+     "exam_part": 2,
+     "difficulty": 2,
+     "source": "WSP LF3 (Unterricht)",
+     "body": {
+      "prompt": "Bringen Sie die Schritte der Preisberechnung beim Bezugspreis in die richtige Reihenfolge.",
+      "items": [
+       "Listeneinkaufspreis",
+       "− Rabatt = Zieleinkaufspreis",
+       "− Skonto = Bareinkaufspreis",
+       "+ Bezugskosten",
+       "= Einstandspreis"
+      ]
+     }
+    },
+    {
+     "key": "wsp-lf3-kaufvertrag-q12",
+     "type": "tf",
+     "exam_part": 2,
+     "difficulty": 2,
+     "source": "WSP LF3 (Unterricht)",
+     "body": {
+      "statement": "Eine Anfrage ist rechtlich bindend.",
+      "answer": false
+     }
+    },
+    {
+     "key": "wsp-lf3-kaufvertrag-q13",
+     "type": "tf",
+     "exam_part": 2,
+     "difficulty": 2,
+     "source": "WSP LF3 (Unterricht)",
+     "body": {
+      "statement": "Der Verkäufer ist verpflichtet, mangelfrei zu liefern.",
+      "answer": true
+     }
+    },
+    {
+     "key": "wsp-lf3-kaufvertrag-q14",
+     "type": "tf",
+     "exam_part": 2,
+     "difficulty": 2,
+     "source": "WSP LF3 (Unterricht)",
+     "body": {
+      "statement": "Eine unwirksame AGB-Klausel macht den gesamten Vertrag unwirksam.",
+      "answer": false
+     }
+    },
+    {
+     "key": "wsp-lf3-kaufvertrag-q15",
+     "type": "cloze",
+     "exam_part": 2,
+     "difficulty": 2,
+     "source": "WSP LF3 (Unterricht)",
+     "body": {
+      "text": "Der [[Einstandspreis]] ergibt sich aus dem Bareinkaufspreis zuzüglich [[Bezugskosten]]."
+     }
+    }
+   ],
+   "templates": [
+    {
+     "key": "wsp-lf3-kaufvertrag-t01",
+     "type": "calc",
+     "exam_part": 2,
+     "difficulty": 2,
+     "source": "WSP LF3 (Unterricht)",
+     "vars": {
+      "firma": {
+       "type": "pick",
+       "options": [
+        "FAMK",
+        "Mediahaus Rhein",
+        "Kreativ-Kontor",
+        "Pixelwerk GmbH"
+       ]
+      },
+      "artikel": {
+       "type": "pick",
+       "options": [
+        "bedruckte Tassen",
+        "Kugelschreiber mit Logo",
+        "Stoffbeutel",
+        "Notizbücher",
+        "USB-Sticks"
+       ]
+      },
+      "m": {
+       "type": "int",
+       "min": 200,
+       "max": 1500,
+       "step": 100
+      },
+      "p": {
+       "type": "dec",
+       "min": 2,
+       "max": 9,
+       "decimals": 2
+      },
+      "r": {
+       "type": "pick",
+       "options": [
+        5,
+        8,
+        10,
+        12,
+        15
+       ]
+      },
+      "s": {
+       "type": "pick",
+       "options": [
+        2,
+        3
+       ]
+      },
+      "b": {
+       "type": "int",
+       "min": 40,
+       "max": 220,
+       "step": 10
+      }
+     },
+     "body": {
+      "prompt": "Die {firma} bestellt {m} Stück {artikel}. Listenpreis {p|eur} je Stück, Lieferantenrabatt {r} %, Skonto {s} %, Bezugskosten insgesamt {b|eur}. Berechnen Sie den Einstandspreis für die gesamte Bestellung.",
+      "answer": "m*p*(1-r/100)*(1-s/100)+b",
+      "unit": "€",
+      "decimals": 2,
+      "steps": [
+       "Listeneinkaufspreis = {m} × {p|eur}",
+       "− {r} % Rabatt = Zieleinkaufspreis",
+       "− {s} % Skonto = Bareinkaufspreis",
+       "+ Bezugskosten {b|eur} = Einstandspreis = {result|eur}"
+      ]
+     }
+    },
+    {
+     "key": "wsp-lf3-kaufvertrag-t02",
+     "type": "calc",
+     "exam_part": 2,
+     "difficulty": 2,
+     "source": "WSP LF3 (Unterricht)",
+     "vars": {
+      "m": {
+       "type": "pick",
+       "options": [
+        5000,
+        10000,
+        20000
+       ]
+      },
+      "pa": {
+       "type": "int",
+       "min": 400,
+       "max": 900,
+       "step": 50
+      },
+      "ra": {
+       "type": "pick",
+       "options": [
+        5,
+        10,
+        12,
+        15
+       ]
+      },
+      "pb": {
+       "type": "int",
+       "min": 380,
+       "max": 850,
+       "step": 50
+      },
+      "rb": {
+       "type": "pick",
+       "options": [
+        0,
+        5,
+        8,
+        10
+       ]
+      },
+      "bb": {
+       "type": "int",
+       "min": 20,
+       "max": 120,
+       "step": 10
+      }
+     },
+     "body": {
+      "prompt": "Zwei Druckereien bieten {m} Flyer an. Druckerei A: Listenpreis {pa|eur}, {ra} % Rabatt, keine Bezugskosten. Druckerei B: Listenpreis {pb|eur}, {rb} % Rabatt, Lieferkosten {bb|eur}. Skonto jeweils nicht beachten. Um wie viel Euro unterscheiden sich die Einstandspreise (Betrag der Differenz)?",
+      "answer": "abs(pa*(1-ra/100) - (pb*(1-rb/100)+bb))",
+      "unit": "€",
+      "decimals": 2,
+      "steps": [
+       "Einstandspreis A = {pa|eur} − {ra} % Rabatt",
+       "Einstandspreis B = {pb|eur} − {rb} % Rabatt + {bb|eur} Lieferkosten",
+       "Differenz = {result|eur}"
+      ]
+     }
+    }
+   ],
+   "cases": [],
+   "summary": {
+    "key": "wsp-lf3-kaufvertrag-zettel",
+    "title": "Kaufvertrag, Angebot & AGB",
+    "content_md": "\n**Zustandekommen**: Anfrage (unverbindlich) → **Angebot = Antrag** (rechtlich bindend) → **Annahme** → Kaufvertrag. Änderung des Angebots = neuer Antrag. *Schweigen*: bei Nichtkaufleuten Ablehnung; unter Kaufleuten mit laufender Geschäftsbeziehung kann es als Annahme gelten.\n\n**Inhalt des Angebots**: Art, Güte und Beschaffenheit · Menge · Preis · Lieferbedingungen · Zahlungsbedingungen · Erfüllungsort und Gerichtsstand.\n\n**Lieferbedingungen**: *frei Haus* (Verkäufer trägt alle Kosten) · *frachtfrei/frei dort* (Verkäufer trägt Fracht bis Bestimmungsort, nicht Entladung) · *unfrei/ab hier* (Käufer trägt Fracht) · *ab Lager/ab Werk* (Käufer trägt alle Kosten ab Lager).\n\n**Kaufvertragsarten**: Gattungskauf · Stückkauf · Ramschkauf · Kauf auf Probe · Kauf nach Probe · Kauf zur Probe · Fixkauf (Termin ist wesentlich).\n\n**Pflichten**: *Verkäufer* – mangelfrei liefern und Eigentum verschaffen · *Käufer* – Ware annehmen und bezahlen.\n\n**Angebotsvergleich (quantitativ)**\nListeneinkaufspreis − Rabatt = **Zieleinkaufspreis** − Skonto = **Bareinkaufspreis** + Bezugskosten = **Einstandspreis**\n*Qualitativ (Nutzwertanalyse/Scoring)*: Qualität, Umweltverträglichkeit, Lieferbedingungen, Zahlungsbedingungen, Service – gewichtet und bewertet.\n\n**AGB** (§§ 305 ff. BGB): vorformulierte Vertragsbedingungen für viele Verträge. *Individuelle Absprachen haben Vorrang*; überraschende/mehrdeutige Klauseln sind unwirksam; bei einer unwirksamen Klausel bleibt der Vertrag im Übrigen gültig.\n"
+   }
+  }
+ ]
+}

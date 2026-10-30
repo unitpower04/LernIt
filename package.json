@@ -12,7 +12,8 @@
     "content:emit": "tsx --env-file-if-exists=.env.local scripts/content.ts emit",
     "content:reset-demo": "tsx --env-file-if-exists=.env.local scripts/content.ts reset-demo",
     "typecheck": "tsc --noEmit",
-    "test:e2e": "playwright test"
+    "test:e2e": "playwright test",
+    "content:build": "node scripts/content-build.mjs"
   },
   "dependencies": {
     "@supabase/ssr": "^0.12.7",
