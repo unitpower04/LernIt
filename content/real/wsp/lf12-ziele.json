@@ -1,0 +1,275 @@
+{
+ "demo": false,
+ "items": [
+  {
+   "topic": "wsp-lf12-ziele",
+   "flashcards": [
+    {
+     "key": "wsp-lf12-ziele-c01",
+     "front": "Wofür steht StabG?",
+     "back": "Stabilitäts- und Wachstumsgesetz von 1967."
+    },
+    {
+     "key": "wsp-lf12-ziele-c02",
+     "front": "Nenne die vier Ziele des magischen Vierecks.",
+     "back": "Preisniveaustabilität, hoher Beschäftigungsstand, außenwirtschaftliches Gleichgewicht, stetiges angemessenes Wachstum."
+    },
+    {
+     "key": "wsp-lf12-ziele-c03",
+     "front": "Welche zwei Ziele ergänzen das Sechseck?",
+     "back": "Gerechte Einkommens-/Vermögensverteilung und Umweltschutz."
+    },
+    {
+     "key": "wsp-lf12-ziele-c04",
+     "front": "Warum „magisch“?",
+     "back": "Weil sich die Ziele gleichzeitig kaum erreichen lassen."
+    },
+    {
+     "key": "wsp-lf12-ziele-c05",
+     "front": "Zielwert Preisniveaustabilität?",
+     "back": "Inflationsrate rund 2 %."
+    },
+    {
+     "key": "wsp-lf12-ziele-c06",
+     "front": "Zielwert Beschäftigung?",
+     "back": "Arbeitslosenquote unter 2 % (Vollbeschäftigung)."
+    },
+    {
+     "key": "wsp-lf12-ziele-c07",
+     "front": "Zielwert Wachstum?",
+     "back": "Etwa 3–4 % reales BIP-Wachstum."
+    },
+    {
+     "key": "wsp-lf12-ziele-c08",
+     "front": "Beispiel Zielkonflikt?",
+     "back": "Hohes Wachstum belastet die Umwelt; niedrige Arbeitslosigkeit kann Inflation fördern."
+    },
+    {
+     "key": "wsp-lf12-ziele-c09",
+     "front": "Beispiel Zielharmonie?",
+     "back": "Wirtschaftswachstum fördert Beschäftigung."
+    },
+    {
+     "key": "wsp-lf12-ziele-c10",
+     "front": "Was beschreibt die Phillips-Kurve?",
+     "back": "Zielkonflikt: niedrigere Arbeitslosigkeit geht oft mit höherer Inflation einher."
+    }
+   ],
+   "glossary": [
+    {
+     "key": "wsp-lf12-ziele-g01",
+     "term": "Magisches Viereck",
+     "definition": "Vier gesamtwirtschaftliche Ziele des StabG."
+    },
+    {
+     "key": "wsp-lf12-ziele-g02",
+     "term": "Zielkonflikt",
+     "definition": "Das Erreichen eines Ziels beeinträchtigt ein anderes."
+    },
+    {
+     "key": "wsp-lf12-ziele-g03",
+     "term": "Zielharmonie",
+     "definition": "Das Erreichen eines Ziels fördert ein anderes."
+    }
+   ],
+   "questions": [
+    {
+     "key": "wsp-lf12-ziele-q01",
+     "type": "mc",
+     "exam_part": 2,
+     "difficulty": 2,
+     "source": "WSP LF12 VWL (Unterricht)",
+     "body": {
+      "prompt": "Welches Ziel gehört nicht zum magischen Viereck?",
+      "options": [
+       {
+        "text": "Umweltschutz",
+        "correct": true
+       },
+       {
+        "text": "Preisniveaustabilität",
+        "correct": false
+       },
+       {
+        "text": "Hoher Beschäftigungsstand",
+        "correct": false
+       },
+       {
+        "text": "Außenwirtschaftliches Gleichgewicht",
+        "correct": false
+       },
+       {
+        "text": "Stetiges Wachstum",
+        "correct": false
+       }
+      ]
+     }
+    },
+    {
+     "key": "wsp-lf12-ziele-q02",
+     "type": "mc",
+     "exam_part": 2,
+     "difficulty": 2,
+     "source": "WSP LF12 VWL (Unterricht)",
+     "body": {
+      "prompt": "Welche Aussage über den Zielwert der Inflation ist richtig?",
+      "options": [
+       {
+        "text": "Etwa 2 % pro Jahr",
+        "correct": true
+       },
+       {
+        "text": "0 %",
+        "correct": false
+       },
+       {
+        "text": "10 %",
+        "correct": false
+       },
+       {
+        "text": "−5 %",
+        "correct": false
+       },
+       {
+        "text": "20 %",
+        "correct": false
+       }
+      ]
+     }
+    },
+    {
+     "key": "wsp-lf12-ziele-q03",
+     "type": "mc",
+     "exam_part": 2,
+     "difficulty": 2,
+     "source": "WSP LF12 VWL (Unterricht)",
+     "body": {
+      "prompt": "Hohes Wirtschaftswachstum erhöht Umweltbelastungen. Welche Beziehung?",
+      "options": [
+       {
+        "text": "Zielkonflikt",
+        "correct": true
+       },
+       {
+        "text": "Zielharmonie",
+        "correct": false
+       },
+       {
+        "text": "Zielneutralität",
+        "correct": false
+       },
+       {
+        "text": "Kein Bezug",
+        "correct": false
+       },
+       {
+        "text": "Gleichgewicht",
+        "correct": false
+       }
+      ]
+     }
+    },
+    {
+     "key": "wsp-lf12-ziele-q04",
+     "type": "mc",
+     "exam_part": 2,
+     "difficulty": 2,
+     "source": "WSP LF12 VWL (Unterricht)",
+     "body": {
+      "prompt": "Sinkende Arbeitslosigkeit durch steigende Produktion. Welche Beziehung?",
+      "options": [
+       {
+        "text": "Zielharmonie",
+        "correct": true
+       },
+       {
+        "text": "Zielkonflikt",
+        "correct": false
+       },
+       {
+        "text": "Zielneutralität",
+        "correct": false
+       },
+       {
+        "text": "Inflation",
+        "correct": false
+       },
+       {
+        "text": "Deflation",
+        "correct": false
+       }
+      ]
+     }
+    },
+    {
+     "key": "wsp-lf12-ziele-q05",
+     "type": "match",
+     "exam_part": 2,
+     "difficulty": 2,
+     "source": "WSP LF12 VWL (Unterricht)",
+     "body": {
+      "prompt": "Ordnen Sie jedem Ziel den Indikator zu.",
+      "items": [
+       {
+        "term": "Preisniveaustabilität",
+        "match": "Inflationsrate"
+       },
+       {
+        "term": "Hoher Beschäftigungsstand",
+        "match": "Arbeitslosenquote"
+       },
+       {
+        "term": "Wachstum",
+        "match": "Veränderung des realen BIP"
+       },
+       {
+        "term": "Außenwirtschaftliches Gleichgewicht",
+        "match": "Außenbeitrag"
+       }
+      ],
+      "distractors": []
+     }
+    },
+    {
+     "key": "wsp-lf12-ziele-q06",
+     "type": "tf",
+     "exam_part": 2,
+     "difficulty": 2,
+     "source": "WSP LF12 VWL (Unterricht)",
+     "body": {
+      "statement": "Das magische Sechseck enthält auch Umweltschutz.",
+      "answer": true
+     }
+    },
+    {
+     "key": "wsp-lf12-ziele-q07",
+     "type": "tf",
+     "exam_part": 2,
+     "difficulty": 2,
+     "source": "WSP LF12 VWL (Unterricht)",
+     "body": {
+      "statement": "Alle Ziele des magischen Vierecks lassen sich leicht gleichzeitig erreichen.",
+      "answer": false
+     }
+    },
+    {
+     "key": "wsp-lf12-ziele-q08",
+     "type": "cloze",
+     "exam_part": 2,
+     "difficulty": 2,
+     "source": "WSP LF12 VWL (Unterricht)",
+     "body": {
+      "text": "Das [[magische Viereck]] wird durch Umweltschutz und gerechte Verteilung zum [[Sechseck]] erweitert."
+     }
+    }
+   ],
+   "templates": [],
+   "cases": [],
+   "summary": {
+    "key": "wsp-lf12-ziele-zettel",
+    "title": "Stabilitätsgesetz & magisches Vier-/Sechseck",
+    "content_md": "\n**StabG (1967)** verpflichtet Bund und Länder zu gesamtwirtschaftlichem Gleichgewicht: **magisches Viereck**\n1. **Preisniveaustabilität** (Inflationsrate ≈ 2 %)\n2. **Hoher Beschäftigungsstand** (Arbeitslosenquote ≤ 2 %)\n3. **Außenwirtschaftliches Gleichgewicht** (Außenbeitrag 1,5 % BIP)\n4. **Stetiges, angemessenes Wirtschaftswachstum** (≈ 3–4 %)\nErweitert zum **magischen Sechseck**: + **gerechte Einkommens- und Vermögensverteilung**, + **Umweltschutz/Nachhaltigkeit**.\n**Zielkonflikte**: z. B. Beschäftigung ↔ Preisstabilität (Phillips-Kurve), Wachstum ↔ Umwelt, Beschäftigung ↔ Verteilung. **Zielharmonie**: z. B. Wachstum ↔ Beschäftigung. **Zielneutralität**.\n"
+   }
+  }
+ ]
+}

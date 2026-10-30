@@ -1,0 +1,310 @@
+{
+ "demo": false,
+ "items": [
+  {
+   "topic": "wsp-lf12-aussen",
+   "flashcards": [
+    {
+     "key": "wsp-lf12-aussen-c01",
+     "front": "Was ist der Außenbeitrag?",
+     "back": "Exporte minus Importe."
+    },
+    {
+     "key": "wsp-lf12-aussen-c02",
+     "front": "Handelsbilanz?",
+     "back": "Saldo aus Waren-Exporten und -Importen."
+    },
+    {
+     "key": "wsp-lf12-aussen-c03",
+     "front": "Leistungsbilanz?",
+     "back": "Handelsbilanz + Dienstleistungen + Erwerbs- und Vermögenseinkommen + laufende Übertragungen."
+    },
+    {
+     "key": "wsp-lf12-aussen-c04",
+     "front": "Wechselkurs?",
+     "back": "Preis einer Währung in einer anderen Währung."
+    },
+    {
+     "key": "wsp-lf12-aussen-c05",
+     "front": "Folgen einer Aufwertung des Euro?",
+     "back": "Exporte werden für das Ausland teurer, Importe billiger."
+    },
+    {
+     "key": "wsp-lf12-aussen-c06",
+     "front": "Folgen einer Abwertung des Euro?",
+     "back": "Exporte werden billiger (Wettbewerbsvorteil), Importe teurer."
+    },
+    {
+     "key": "wsp-lf12-aussen-c07",
+     "front": "Was ist Protektionismus?",
+     "back": "Schutz der heimischen Wirtschaft durch Zölle, Quoten, Subventionen."
+    },
+    {
+     "key": "wsp-lf12-aussen-c08",
+     "front": "Was ist ein Zoll?",
+     "back": "Abgabe auf eingeführte Waren."
+    },
+    {
+     "key": "wsp-lf12-aussen-c09",
+     "front": "Was ist eine Importquote?",
+     "back": "Mengenmäßige Beschränkung der Einfuhr."
+    },
+    {
+     "key": "wsp-lf12-aussen-c10",
+     "front": "Aufgabe der WTO?",
+     "back": "Förderung des freien Welthandels, Streitschlichtung."
+    },
+    {
+     "key": "wsp-lf12-aussen-c11",
+     "front": "Die vier Grundfreiheiten des EU-Binnenmarkts?",
+     "back": "Freier Waren-, Dienstleistungs-, Kapital- und Personenverkehr."
+    },
+    {
+     "key": "wsp-lf12-aussen-c12",
+     "front": "Vorteile des Außenhandels?",
+     "back": "Arbeitsteilung, größere Auswahl, günstigere Preise, Wohlstand."
+    },
+    {
+     "key": "wsp-lf12-aussen-c13",
+     "front": "Nachteil eines zu hohen Exportüberschusses?",
+     "back": "Abhängigkeit vom Ausland, Spannungen mit Handelspartnern."
+    }
+   ],
+   "glossary": [
+    {
+     "key": "wsp-lf12-aussen-g01",
+     "term": "Außenbeitrag",
+     "definition": "Exporte minus Importe."
+    },
+    {
+     "key": "wsp-lf12-aussen-g02",
+     "term": "Protektionismus",
+     "definition": "Handelsschranken zum Schutz der Inlandswirtschaft."
+    },
+    {
+     "key": "wsp-lf12-aussen-g03",
+     "term": "Wechselkurs",
+     "definition": "Preis einer Währung."
+    }
+   ],
+   "questions": [
+    {
+     "key": "wsp-lf12-aussen-q01",
+     "type": "mc",
+     "exam_part": 2,
+     "difficulty": 2,
+     "source": "WSP LF12 VWL (Unterricht)",
+     "body": {
+      "prompt": "Der Euro wertet gegenüber dem Dollar auf. Was folgt?",
+      "options": [
+       {
+        "text": "Exporte in die USA werden teurer.",
+        "correct": true
+       },
+       {
+        "text": "Importe aus den USA werden teurer.",
+        "correct": false
+       },
+       {
+        "text": "Exporte werden billiger.",
+        "correct": false
+       },
+       {
+        "text": "Es gibt keine Auswirkung.",
+        "correct": false
+       },
+       {
+        "text": "Importe sinken.",
+        "correct": false
+       }
+      ]
+     }
+    },
+    {
+     "key": "wsp-lf12-aussen-q02",
+     "type": "mc",
+     "exam_part": 2,
+     "difficulty": 2,
+     "source": "WSP LF12 VWL (Unterricht)",
+     "body": {
+      "prompt": "Wie wird der Außenbeitrag berechnet?",
+      "options": [
+       {
+        "text": "Exporte − Importe",
+        "correct": true
+       },
+       {
+        "text": "Exporte + Importe",
+        "correct": false
+       },
+       {
+        "text": "Importe − Exporte",
+        "correct": false
+       },
+       {
+        "text": "Exporte : Importe",
+        "correct": false
+       },
+       {
+        "text": "BIP − Exporte",
+        "correct": false
+       }
+      ]
+     }
+    },
+    {
+     "key": "wsp-lf12-aussen-q03",
+     "type": "mc",
+     "exam_part": 2,
+     "difficulty": 2,
+     "source": "WSP LF12 VWL (Unterricht)",
+     "body": {
+      "prompt": "Welches Instrument ist protektionistisch?",
+      "options": [
+       {
+        "text": "Einfuhrzoll",
+        "correct": true
+       },
+       {
+        "text": "Abbau von Handelshemmnissen",
+        "correct": false
+       },
+       {
+        "text": "Freihandelsabkommen",
+        "correct": false
+       },
+       {
+        "text": "WTO-Mitgliedschaft",
+        "correct": false
+       },
+       {
+        "text": "Binnenmarkt",
+        "correct": false
+       }
+      ]
+     }
+    },
+    {
+     "key": "wsp-lf12-aussen-q04",
+     "type": "mc",
+     "exam_part": 2,
+     "difficulty": 2,
+     "source": "WSP LF12 VWL (Unterricht)",
+     "body": {
+      "prompt": "Welche ist keine Grundfreiheit des EU-Binnenmarkts?",
+      "options": [
+       {
+        "text": "Freier Zollverkehr nach Belieben",
+        "correct": true
+       },
+       {
+        "text": "Freier Warenverkehr",
+        "correct": false
+       },
+       {
+        "text": "Freier Kapitalverkehr",
+        "correct": false
+       },
+       {
+        "text": "Freizügigkeit der Personen",
+        "correct": false
+       },
+       {
+        "text": "Freier Dienstleistungsverkehr",
+        "correct": false
+       }
+      ]
+     }
+    },
+    {
+     "key": "wsp-lf12-aussen-q05",
+     "type": "match",
+     "exam_part": 2,
+     "difficulty": 2,
+     "source": "WSP LF12 VWL (Unterricht)",
+     "body": {
+      "prompt": "Ordnen Sie den Instrumenten die Wirkung zu.",
+      "items": [
+       {
+        "term": "Zoll",
+        "match": "Verteuert Importe"
+       },
+       {
+        "term": "Importquote",
+        "match": "Begrenzt Einfuhrmenge"
+       },
+       {
+        "term": "Aufwertung",
+        "match": "Importe billiger"
+       },
+       {
+        "term": "Abwertung",
+        "match": "Exporte billiger"
+       }
+      ],
+      "distractors": []
+     }
+    },
+    {
+     "key": "wsp-lf12-aussen-q06",
+     "type": "tf",
+     "exam_part": 2,
+     "difficulty": 2,
+     "source": "WSP LF12 VWL (Unterricht)",
+     "body": {
+      "statement": "Bei einer Abwertung der eigenen Währung werden Exporte tendenziell billiger.",
+      "answer": true
+     }
+    },
+    {
+     "key": "wsp-lf12-aussen-q07",
+     "type": "cloze",
+     "exam_part": 2,
+     "difficulty": 2,
+     "source": "WSP LF12 VWL (Unterricht)",
+     "body": {
+      "text": "Die [[WTO]] fördert den freien Welthandel, [[Zölle]] sind ein Instrument des Protektionismus."
+     }
+    }
+   ],
+   "templates": [
+    {
+     "key": "wsp-lf12-aussen-t01",
+     "type": "calc",
+     "exam_part": 2,
+     "difficulty": 2,
+     "source": "WSP LF12 VWL (Unterricht)",
+     "vars": {
+      "x": {
+       "type": "int",
+       "min": 1200,
+       "max": 1700,
+       "step": 50
+      },
+      "m": {
+       "type": "int",
+       "min": 1000,
+       "max": 1500,
+       "step": 50
+      }
+     },
+     "body": {
+      "prompt": "Exporte: {x|eur0} Mrd. €, Importe: {m|eur0} Mrd. €. Berechnen Sie den Außenbeitrag (Mrd. €).",
+      "answer": "x-m",
+      "unit": "Mrd. €",
+      "decimals": 0,
+      "steps": [
+       "{x|eur0} − {m|eur0} = {result|eur0}"
+      ]
+     }
+    }
+   ],
+   "cases": [],
+   "summary": {
+    "key": "wsp-lf12-aussen-zettel",
+    "title": "Außenwirtschaftliches Gleichgewicht",
+    "content_md": "\n**Außenhandel**: Export (Ausfuhr) − Import (Einfuhr) = **Außenbeitrag**. **Handelsbilanz** (Waren) ⊂ **Leistungsbilanz** ⊂ **Zahlungsbilanz**.\nGleichgewicht: Außenbeitrag ≈ +1,5 % BIP (Exportüberschuss moderat); dauerhaft hohe Überschüsse → Spannungen.\n**Wechselkurs**: Preis einer Währung in einer anderen. **Aufwertung** (Euro stärker): Exporte teurer, Importe billiger. **Abwertung**: Exporte billiger, Importe teurer.\n**Freihandel vs. Protektionismus** (Zölle, Quoten, Subventionen). **WTO** fördert Freihandel. **EU-Binnenmarkt**: 4 Grundfreiheiten (Waren, Dienstleistungen, Kapital, Personen).\n**Vorteile Außenhandel**: Arbeitsteilung, Wohlstand, Vielfalt, Preise ↓.\n"
+   }
+  }
+ ]
+}

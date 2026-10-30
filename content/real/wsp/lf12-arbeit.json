@@ -1,0 +1,301 @@
+{
+ "demo": false,
+ "items": [
+  {
+   "topic": "wsp-lf12-arbeit",
+   "flashcards": [
+    {
+     "key": "wsp-lf12-arbeit-c01",
+     "front": "Arbeitslosenquote berechnen?",
+     "back": "Arbeitslose : zivile Erwerbspersonen · 100."
+    },
+    {
+     "key": "wsp-lf12-arbeit-c02",
+     "front": "Wer zählt zu den Erwerbspersonen?",
+     "back": "Erwerbstätige und Arbeitslose."
+    },
+    {
+     "key": "wsp-lf12-arbeit-c03",
+     "front": "Konjunkturelle Arbeitslosigkeit?",
+     "back": "Entsteht durch Rezession bei sinkender Nachfrage."
+    },
+    {
+     "key": "wsp-lf12-arbeit-c04",
+     "front": "Saisonale Arbeitslosigkeit?",
+     "back": "Tritt jahreszeitlich bedingt auf (Bau, Tourismus)."
+    },
+    {
+     "key": "wsp-lf12-arbeit-c05",
+     "front": "Strukturelle Arbeitslosigkeit?",
+     "back": "Qualifikationen oder Regionen passen nicht zu freien Stellen; Strukturwandel."
+    },
+    {
+     "key": "wsp-lf12-arbeit-c06",
+     "front": "Friktionelle Arbeitslosigkeit?",
+     "back": "Kurzzeitig beim Wechsel des Arbeitsplatzes (Sucharbeitslosigkeit)."
+    },
+    {
+     "key": "wsp-lf12-arbeit-c07",
+     "front": "Beispiel nachfrageorientierte Maßnahme?",
+     "back": "Staatliche Investitionsprogramme, Steuersenkung für Haushalte."
+    },
+    {
+     "key": "wsp-lf12-arbeit-c08",
+     "front": "Beispiel angebotsorientierte Maßnahme?",
+     "back": "Steuer- und Bürokratieentlastung für Unternehmen."
+    },
+    {
+     "key": "wsp-lf12-arbeit-c09",
+     "front": "Was ist Kurzarbeit?",
+     "back": "Vorübergehende Verkürzung der Arbeitszeit; Agentur für Arbeit zahlt Kurzarbeitergeld."
+    },
+    {
+     "key": "wsp-lf12-arbeit-c10",
+     "front": "Folgen von Arbeitslosigkeit?",
+     "back": "Weniger Steuern/Beiträge, mehr Sozialausgaben, geringere Kaufkraft."
+    },
+    {
+     "key": "wsp-lf12-arbeit-c11",
+     "front": "Was ist Vollbeschäftigung?",
+     "back": "Arbeitslosenquote unter 2–3 % (Sockel durch friktionelle Arbeitslosigkeit)."
+    }
+   ],
+   "glossary": [
+    {
+     "key": "wsp-lf12-arbeit-g01",
+     "term": "Erwerbspersonen",
+     "definition": "Erwerbstätige plus Arbeitslose."
+    },
+    {
+     "key": "wsp-lf12-arbeit-g02",
+     "term": "Strukturelle Arbeitslosigkeit",
+     "definition": "Folge von Strukturwandel."
+    },
+    {
+     "key": "wsp-lf12-arbeit-g03",
+     "term": "Kurzarbeit",
+     "definition": "Vorübergehende Verkürzung der Arbeitszeit."
+    }
+   ],
+   "questions": [
+    {
+     "key": "wsp-lf12-arbeit-q01",
+     "type": "mc",
+     "exam_part": 2,
+     "difficulty": 2,
+     "source": "WSP LF12 VWL (Unterricht)",
+     "body": {
+      "prompt": "Ein Bauarbeiter ist im Winter arbeitslos. Welche Art?",
+      "options": [
+       {
+        "text": "Saisonale Arbeitslosigkeit",
+        "correct": true
+       },
+       {
+        "text": "Konjunkturelle",
+        "correct": false
+       },
+       {
+        "text": "Strukturelle",
+        "correct": false
+       },
+       {
+        "text": "Friktionelle",
+        "correct": false
+       },
+       {
+        "text": "Technologische",
+        "correct": false
+       }
+      ]
+     }
+    },
+    {
+     "key": "wsp-lf12-arbeit-q02",
+     "type": "mc",
+     "exam_part": 2,
+     "difficulty": 2,
+     "source": "WSP LF12 VWL (Unterricht)",
+     "body": {
+      "prompt": "Ein Setzer verliert wegen Digitalisierung den Job. Welche Art?",
+      "options": [
+       {
+        "text": "Strukturelle (technologische) Arbeitslosigkeit",
+        "correct": true
+       },
+       {
+        "text": "Saisonal",
+        "correct": false
+       },
+       {
+        "text": "Friktionell",
+        "correct": false
+       },
+       {
+        "text": "Konjunkturell",
+        "correct": false
+       },
+       {
+        "text": "Keine",
+        "correct": false
+       }
+      ]
+     }
+    },
+    {
+     "key": "wsp-lf12-arbeit-q03",
+     "type": "mc",
+     "exam_part": 2,
+     "difficulty": 2,
+     "source": "WSP LF12 VWL (Unterricht)",
+     "body": {
+      "prompt": "Welche Maßnahme ist nachfrageorientiert?",
+      "options": [
+       {
+        "text": "Staatliche Investitionsprogramme",
+        "correct": true
+       },
+       {
+        "text": "Senkung der Unternehmenssteuer",
+        "correct": false
+       },
+       {
+        "text": "Bürokratieabbau",
+        "correct": false
+       },
+       {
+        "text": "Lockerung des Kündigungsschutzes",
+        "correct": false
+       },
+       {
+        "text": "Senkung der Lohnnebenkosten",
+        "correct": false
+       }
+      ]
+     }
+    },
+    {
+     "key": "wsp-lf12-arbeit-q04",
+     "type": "mc",
+     "exam_part": 2,
+     "difficulty": 2,
+     "source": "WSP LF12 VWL (Unterricht)",
+     "body": {
+      "prompt": "Wer gehört zu den Erwerbspersonen?",
+      "options": [
+       {
+        "text": "Erwerbstätige und Arbeitslose",
+        "correct": true
+       },
+       {
+        "text": "Nur Beschäftigte",
+        "correct": false
+       },
+       {
+        "text": "Schüler",
+        "correct": false
+       },
+       {
+        "text": "Rentner",
+        "correct": false
+       },
+       {
+        "text": "Hausfrauen",
+        "correct": false
+       }
+      ]
+     }
+    },
+    {
+     "key": "wsp-lf12-arbeit-q05",
+     "type": "match",
+     "exam_part": 2,
+     "difficulty": 2,
+     "source": "WSP LF12 VWL (Unterricht)",
+     "body": {
+      "prompt": "Ordnen Sie jedem Fall die Arbeitslosigkeitsart zu.",
+      "items": [
+       {
+        "term": "Eine Marketingfachkraft wechselt den Job und sucht 3 Wochen",
+        "match": "friktionell"
+       },
+       {
+        "term": "Wirtschaftskrise, weniger Aufträge",
+        "match": "konjunkturell"
+       },
+       {
+        "term": "Strukturwandel im Ruhrgebiet",
+        "match": "strukturell"
+       },
+       {
+        "term": "Saisonkräfte im Tourismus im Winter",
+        "match": "saisonal"
+       }
+      ],
+      "distractors": []
+     }
+    },
+    {
+     "key": "wsp-lf12-arbeit-q06",
+     "type": "tf",
+     "exam_part": 2,
+     "difficulty": 2,
+     "source": "WSP LF12 VWL (Unterricht)",
+     "body": {
+      "statement": "Friktionelle Arbeitslosigkeit tritt beim Arbeitsplatzwechsel auf.",
+      "answer": true
+     }
+    },
+    {
+     "key": "wsp-lf12-arbeit-q07",
+     "type": "cloze",
+     "exam_part": 2,
+     "difficulty": 2,
+     "source": "WSP LF12 VWL (Unterricht)",
+     "body": {
+      "text": "Die Arbeitslosenquote misst Arbeitslose im Verhältnis zu den [[Erwerbspersonen]]."
+     }
+    }
+   ],
+   "templates": [
+    {
+     "key": "wsp-lf12-arbeit-t01",
+     "type": "calc",
+     "exam_part": 2,
+     "difficulty": 2,
+     "source": "WSP LF12 VWL (Unterricht)",
+     "vars": {
+      "e": {
+       "type": "int",
+       "min": 40000,
+       "max": 90000,
+       "step": 5000
+      },
+      "a": {
+       "type": "int",
+       "min": 2000,
+       "max": 9000,
+       "step": 500
+      }
+     },
+     "body": {
+      "prompt": "In einer Region gibt es {e|eur0} Erwerbstätige und {a|eur0} Arbeitslose. Berechnen Sie die Arbeitslosenquote in Prozent (bezogen auf alle Erwerbspersonen).",
+      "answer": "a/(e+a)*100",
+      "unit": "%",
+      "decimals": 2,
+      "steps": [
+       "Erwerbspersonen = {e|eur0} + {a|eur0}",
+       "Quote = {a|eur0} : Erwerbspersonen · 100 = {result} %"
+      ]
+     }
+    }
+   ],
+   "cases": [],
+   "summary": {
+    "key": "wsp-lf12-arbeit-zettel",
+    "title": "Beschäftigung & Arbeitslosigkeit",
+    "content_md": "\n**Arbeitslosenquote** = Arbeitslose : zivile Erwerbspersonen · 100. **Erwerbspersonen** = Erwerbstätige + Arbeitslose.\n**Arten**: *konjunkturell* (Rezession) · *saisonal* (Bau, Gastro) · *strukturell* (Strukturwandel, Qualifikation passt nicht) · *friktionell/Such-* (Wechsel des Arbeitsplatzes) · *technologisch*.\n**Maßnahmen**: **Nachfrageorientiert** (Konjunkturprogramme, Investitionen) · **Angebotsorientiert** (Steuersenkungen, flexiblere Arbeitszeiten) · **Arbeitsmarktpolitik** (Weiterbildung, Umschulung, Kurzarbeit, Lohnkostenzuschüsse).\n**Folgen**: Steuerausfälle, Sozialausgaben ↑, soziale Spannungen, Kaufkraftverlust.\n"
+   }
+  }
+ ]
+}

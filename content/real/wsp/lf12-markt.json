@@ -1,0 +1,409 @@
+{
+ "demo": false,
+ "items": [
+  {
+   "topic": "wsp-lf12-markt",
+   "flashcards": [
+    {
+     "key": "wsp-lf12-markt-c01",
+     "front": "Was ist der Gleichgewichtspreis?",
+     "back": "Preis, bei dem Angebots- und Nachfragemenge gleich sind."
+    },
+    {
+     "key": "wsp-lf12-markt-c02",
+     "front": "Was passiert bei einem Angebotsüberhang?",
+     "back": "Der Preis sinkt, bis der Markt geräumt ist."
+    },
+    {
+     "key": "wsp-lf12-markt-c03",
+     "front": "Was passiert bei einem Nachfrageüberhang?",
+     "back": "Der Preis steigt."
+    },
+    {
+     "key": "wsp-lf12-markt-c04",
+     "front": "Wie reagiert die Nachfrage auf Preiserhöhung?",
+     "back": "Die nachgefragte Menge sinkt (normales Gut)."
+    },
+    {
+     "key": "wsp-lf12-markt-c05",
+     "front": "Wie reagiert das Angebot auf Preiserhöhung?",
+     "back": "Die angebotene Menge steigt."
+    },
+    {
+     "key": "wsp-lf12-markt-c06",
+     "front": "Was ist ein Polypol?",
+     "back": "Viele Anbieter und viele Nachfrager – vollständige Konkurrenz."
+    },
+    {
+     "key": "wsp-lf12-markt-c07",
+     "front": "Was ist ein Oligopol?",
+     "back": "Wenige Anbieter, viele Nachfrager."
+    },
+    {
+     "key": "wsp-lf12-markt-c08",
+     "front": "Was ist ein Monopol?",
+     "back": "Ein Anbieter, viele Nachfrager."
+    },
+    {
+     "key": "wsp-lf12-markt-c09",
+     "front": "Was ist ein Monopson?",
+     "back": "Ein Nachfrager, viele Anbieter."
+    },
+    {
+     "key": "wsp-lf12-markt-c10",
+     "front": "Was ist ein Kartell?",
+     "back": "Absprache selbstständiger Unternehmen zur Beschränkung des Wettbewerbs – grundsätzlich verboten."
+    },
+    {
+     "key": "wsp-lf12-markt-c11",
+     "front": "Was ist eine Arbeitsgemeinschaft (ARGE)?",
+     "back": "Zeitlich begrenzte Kooperation für ein Projekt, z. B. Großauftrag."
+    },
+    {
+     "key": "wsp-lf12-markt-c12",
+     "front": "Was ist ein Konzern?",
+     "back": "Zusammenschluss rechtlich selbstständiger Unternehmen unter einheitlicher Leitung."
+    },
+    {
+     "key": "wsp-lf12-markt-c13",
+     "front": "Was ist eine Fusion?",
+     "back": "Zusammenschluss zweier Unternehmen; ein Unternehmen verliert seine Selbstständigkeit."
+    },
+    {
+     "key": "wsp-lf12-markt-c14",
+     "front": "Horizontal, vertikal, diagonal?",
+     "back": "Horizontal: gleiche Stufe. Vertikal: vor-/nachgelagerte Stufe. Diagonal: verschiedene Branchen."
+    },
+    {
+     "key": "wsp-lf12-markt-c15",
+     "front": "Aufgabe des Bundeskartellamts?",
+     "back": "Kartellverbot durchsetzen, Fusionen prüfen, Missbrauch von Marktmacht verhindern."
+    },
+    {
+     "key": "wsp-lf12-markt-c16",
+     "front": "Kooperation vs. Konzentration?",
+     "back": "Kooperation: Selbstständigkeit bleibt. Konzentration: Selbstständigkeit geht verloren."
+    },
+    {
+     "key": "wsp-lf12-markt-c17",
+     "front": "Vorteile einer Kooperation?",
+     "back": "Kosten- und Risikoteilung, Wissen bündeln, Marktmacht."
+    }
+   ],
+   "glossary": [
+    {
+     "key": "wsp-lf12-markt-g01",
+     "term": "Gleichgewichtspreis",
+     "definition": "Preis, bei dem sich Angebot und Nachfrage ausgleichen."
+    },
+    {
+     "key": "wsp-lf12-markt-g02",
+     "term": "Kartell",
+     "definition": "Wettbewerbsbeschränkende Absprache von Unternehmen."
+    },
+    {
+     "key": "wsp-lf12-markt-g03",
+     "term": "Fusion",
+     "definition": "Verschmelzung von Unternehmen."
+    },
+    {
+     "key": "wsp-lf12-markt-g04",
+     "term": "Oligopol",
+     "definition": "Marktform mit wenigen Anbietern."
+    },
+    {
+     "key": "wsp-lf12-markt-g05",
+     "term": "Konzern",
+     "definition": "Unternehmen unter einheitlicher Leitung."
+    }
+   ],
+   "questions": [
+    {
+     "key": "wsp-lf12-markt-q01",
+     "type": "mc",
+     "exam_part": 2,
+     "difficulty": 2,
+     "source": "WSP LF12 VWL (Unterricht)",
+     "body": {
+      "prompt": "Was geschieht bei einem Angebotsüberhang?",
+      "options": [
+       {
+        "text": "Der Preis sinkt.",
+        "correct": true
+       },
+       {
+        "text": "Der Preis steigt.",
+        "correct": false
+       },
+       {
+        "text": "Der Preis bleibt gleich.",
+        "correct": false
+       },
+       {
+        "text": "Die Nachfrage sinkt auf null.",
+        "correct": false
+       },
+       {
+        "text": "Der Staat setzt den Preis fest.",
+        "correct": false
+       }
+      ]
+     }
+    },
+    {
+     "key": "wsp-lf12-markt-q02",
+     "type": "mc",
+     "exam_part": 2,
+     "difficulty": 2,
+     "source": "WSP LF12 VWL (Unterricht)",
+     "body": {
+      "prompt": "Es gibt nur einen Anbieter für eine Leistung. Wie heißt die Marktform?",
+      "options": [
+       {
+        "text": "Monopol",
+        "correct": true
+       },
+       {
+        "text": "Polypol",
+        "correct": false
+       },
+       {
+        "text": "Oligopol",
+        "correct": false
+       },
+       {
+        "text": "Monopson",
+        "correct": false
+       },
+       {
+        "text": "Kartell",
+        "correct": false
+       }
+      ]
+     }
+    },
+    {
+     "key": "wsp-lf12-markt-q03",
+     "type": "mc",
+     "exam_part": 2,
+     "difficulty": 2,
+     "source": "WSP LF12 VWL (Unterricht)",
+     "body": {
+      "prompt": "Drei große Telekommunikationsunternehmen teilen sich den Markt. Welche Marktform?",
+      "options": [
+       {
+        "text": "Oligopol",
+        "correct": true
+       },
+       {
+        "text": "Monopol",
+        "correct": false
+       },
+       {
+        "text": "Polypol",
+        "correct": false
+       },
+       {
+        "text": "Monopson",
+        "correct": false
+       },
+       {
+        "text": "Duopol mit Preisbindung",
+        "correct": false
+       }
+      ]
+     }
+    },
+    {
+     "key": "wsp-lf12-markt-q04",
+     "type": "mc",
+     "exam_part": 2,
+     "difficulty": 2,
+     "source": "WSP LF12 VWL (Unterricht)",
+     "body": {
+      "prompt": "Welche Aussage zum Kartell ist richtig?",
+      "options": [
+       {
+        "text": "Kartelle sind grundsätzlich verboten.",
+        "correct": true
+       },
+       {
+        "text": "Kartelle sind immer erlaubt.",
+        "correct": false
+       },
+       {
+        "text": "Sie dienen dem Wettbewerb.",
+        "correct": false
+       },
+       {
+        "text": "Sie sind Konzentrationsformen.",
+        "correct": false
+       },
+       {
+        "text": "Sie entstehen durch Fusion.",
+        "correct": false
+       }
+      ]
+     }
+    },
+    {
+     "key": "wsp-lf12-markt-q05",
+     "type": "mc",
+     "exam_part": 2,
+     "difficulty": 2,
+     "source": "WSP LF12 VWL (Unterricht)",
+     "body": {
+      "prompt": "Zwei Agenturen schließen sich für ein Großprojekt zeitlich befristet zusammen und bleiben selbstständig. Was ist das?",
+      "options": [
+       {
+        "text": "Kooperation (Arbeitsgemeinschaft)",
+        "correct": true
+       },
+       {
+        "text": "Fusion",
+        "correct": false
+       },
+       {
+        "text": "Konzern",
+        "correct": false
+       },
+       {
+        "text": "Trust",
+        "correct": false
+       },
+       {
+        "text": "Monopol",
+        "correct": false
+       }
+      ]
+     }
+    },
+    {
+     "key": "wsp-lf12-markt-q06",
+     "type": "mc",
+     "exam_part": 2,
+     "difficulty": 2,
+     "source": "WSP LF12 VWL (Unterricht)",
+     "body": {
+      "prompt": "Ein Konzern kauft einen Zulieferer. Welche Art der Konzentration?",
+      "options": [
+       {
+        "text": "Vertikal",
+        "correct": true
+       },
+       {
+        "text": "Horizontal",
+        "correct": false
+       },
+       {
+        "text": "Diagonal",
+        "correct": false
+       },
+       {
+        "text": "Kooperativ",
+        "correct": false
+       },
+       {
+        "text": "Keine",
+        "correct": false
+       }
+      ]
+     }
+    },
+    {
+     "key": "wsp-lf12-markt-q07",
+     "type": "match",
+     "exam_part": 2,
+     "difficulty": 2,
+     "source": "WSP LF12 VWL (Unterricht)",
+     "body": {
+      "prompt": "Ordnen Sie jede Marktform zu.",
+      "items": [
+       {
+        "term": "Viele Anbieter, viele Nachfrager",
+        "match": "Polypol"
+       },
+       {
+        "term": "Wenige Anbieter",
+        "match": "Oligopol"
+       },
+       {
+        "term": "Ein Anbieter",
+        "match": "Monopol"
+       },
+       {
+        "term": "Ein Nachfrager",
+        "match": "Monopson"
+       }
+      ],
+      "distractors": []
+     }
+    },
+    {
+     "key": "wsp-lf12-markt-q08",
+     "type": "match",
+     "exam_part": 2,
+     "difficulty": 2,
+     "source": "WSP LF12 VWL (Unterricht)",
+     "body": {
+      "prompt": "Ordnen Sie jedem Fall die Wirkung zu.",
+      "items": [
+       {
+        "term": "Preis über dem Gleichgewicht",
+        "match": "Angebotsüberhang"
+       },
+       {
+        "term": "Preis unter dem Gleichgewicht",
+        "match": "Nachfrageüberhang"
+       },
+       {
+        "term": "Preis im Schnittpunkt",
+        "match": "Marktgleichgewicht"
+       }
+      ],
+      "distractors": []
+     }
+    },
+    {
+     "key": "wsp-lf12-markt-q09",
+     "type": "tf",
+     "exam_part": 2,
+     "difficulty": 2,
+     "source": "WSP LF12 VWL (Unterricht)",
+     "body": {
+      "statement": "Bei einem Nachfrageüberhang sinkt der Preis.",
+      "answer": false
+     }
+    },
+    {
+     "key": "wsp-lf12-markt-q10",
+     "type": "tf",
+     "exam_part": 2,
+     "difficulty": 2,
+     "source": "WSP LF12 VWL (Unterricht)",
+     "body": {
+      "statement": "Das Bundeskartellamt prüft Unternehmenszusammenschlüsse.",
+      "answer": true
+     }
+    },
+    {
+     "key": "wsp-lf12-markt-q11",
+     "type": "cloze",
+     "exam_part": 2,
+     "difficulty": 2,
+     "source": "WSP LF12 VWL (Unterricht)",
+     "body": {
+      "text": "Bei Konzentration verlieren Unternehmen ihre wirtschaftliche [[Selbstständigkeit]]."
+     }
+    }
+   ],
+   "templates": [],
+   "cases": [],
+   "summary": {
+    "key": "wsp-lf12-markt-zettel",
+    "title": "Wettbewerb, Marktformen, Kooperation & Konzentration",
+    "content_md": "\n**Preisbildung**: Nachfrage sinkt bei steigendem Preis, Angebot steigt. **Gleichgewichtspreis** = Schnittpunkt; **Angebotsüberhang** → Preis sinkt; **Nachfrageüberhang** → Preis steigt.\n**Marktformen** (Anbieter × Nachfrager): Polypol (viele/viele, vollkommener Markt) · Oligopol (wenige Anbieter) · Monopol (ein Anbieter) · Monopson (ein Nachfrager).\n**Kooperation** (selbstständig bleiben): Arbeitsgemeinschaft (ARGE), Kartell (verboten, Absprachen), Interessengemeinschaft, Konsortium, Gemeinschaftsunternehmen (Joint Venture).\n**Konzentration** (wirtschaftliche Selbstständigkeit verloren): Konzern, Fusion (Verschmelzung), Trust. Horizontal (gleiche Stufe) · vertikal (vor-/nachgelagert) · diagonal (Branchen).\n**Staat**: **GWB**/Bundeskartellamt: Kartellverbot, Fusionskontrolle, Missbrauchsaufsicht gegen marktbeherrschende Unternehmen.\n"
+   }
+  }
+ ]
+}

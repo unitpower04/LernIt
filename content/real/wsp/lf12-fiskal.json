@@ -1,0 +1,274 @@
+{
+ "demo": false,
+ "items": [
+  {
+   "topic": "wsp-lf12-fiskal",
+   "flashcards": [
+    {
+     "key": "wsp-lf12-fiskal-c01",
+     "front": "Was ist Fiskalpolitik?",
+     "back": "Steuerung der Wirtschaft durch Staatseinnahmen und -ausgaben."
+    },
+    {
+     "key": "wsp-lf12-fiskal-c02",
+     "front": "Was bedeutet antizyklisch?",
+     "back": "Gegen die Konjunktur steuern: in der Rezession mehr ausgeben, im Boom sparen."
+    },
+    {
+     "key": "wsp-lf12-fiskal-c03",
+     "front": "Was tut der Staat in der Rezession?",
+     "back": "Erhöht Ausgaben (Investitionen), senkt Steuern, nimmt notfalls Kredite auf."
+    },
+    {
+     "key": "wsp-lf12-fiskal-c04",
+     "front": "Was tut der Staat im Boom?",
+     "back": "Senkt Ausgaben, erhöht Steuern, bildet Rücklagen/tilgt Schulden."
+    },
+    {
+     "key": "wsp-lf12-fiskal-c05",
+     "front": "Was ist eine prozyklische Politik?",
+     "back": "Sie verstärkt die Konjunkturschwankungen."
+    },
+    {
+     "key": "wsp-lf12-fiskal-c06",
+     "front": "Was ist ein Konjunkturprogramm?",
+     "back": "Zusätzliche Staatsausgaben, um die Nachfrage zu beleben."
+    },
+    {
+     "key": "wsp-lf12-fiskal-c07",
+     "front": "Nenne wichtige Steuern.",
+     "back": "Einkommensteuer, Umsatzsteuer, Körperschaftsteuer, Gewerbesteuer, Energiesteuer."
+    },
+    {
+     "key": "wsp-lf12-fiskal-c08",
+     "front": "Was besagt die Schuldenbremse?",
+     "back": "Der Bund darf strukturell nur 0,35 % des BIP an neuen Schulden machen."
+    },
+    {
+     "key": "wsp-lf12-fiskal-c09",
+     "front": "Maastricht-Kriterien zu Defizit und Schulden?",
+     "back": "Defizit höchstens 3 % und Schuldenstand höchstens 60 % des BIP."
+    },
+    {
+     "key": "wsp-lf12-fiskal-c10",
+     "front": "Problem Time-Lag?",
+     "back": "Zeitverzögerung zwischen Erkennen, Beschluss und Wirkung der Maßnahmen."
+    },
+    {
+     "key": "wsp-lf12-fiskal-c11",
+     "front": "Was ist Crowding-out?",
+     "back": "Staatliche Kreditaufnahme verdrängt private Investitionen (Zinsanstieg)."
+    },
+    {
+     "key": "wsp-lf12-fiskal-c12",
+     "front": "Wer verfolgt Fiskalpolitik?",
+     "back": "Bund, Länder und Gemeinden (Regierung/Parlament)."
+    }
+   ],
+   "glossary": [
+    {
+     "key": "wsp-lf12-fiskal-g01",
+     "term": "Fiskalpolitik",
+     "definition": "Steuer- und Ausgabenpolitik des Staates."
+    },
+    {
+     "key": "wsp-lf12-fiskal-g02",
+     "term": "Antizyklisch",
+     "definition": "Gegen den Konjunkturverlauf gerichtet."
+    },
+    {
+     "key": "wsp-lf12-fiskal-g03",
+     "term": "Schuldenbremse",
+     "definition": "Verfassungsregel zur Begrenzung der Staatsverschuldung."
+    }
+   ],
+   "questions": [
+    {
+     "key": "wsp-lf12-fiskal-q01",
+     "type": "mc",
+     "exam_part": 2,
+     "difficulty": 2,
+     "source": "WSP LF12 VWL (Unterricht)",
+     "body": {
+      "prompt": "Welche Maßnahme ist antizyklische Fiskalpolitik in der Rezession?",
+      "options": [
+       {
+        "text": "Erhöhung der Staatsausgaben für Infrastruktur",
+        "correct": true
+       },
+       {
+        "text": "Steuererhöhung",
+        "correct": false
+       },
+       {
+        "text": "Kürzung der Investitionen",
+        "correct": false
+       },
+       {
+        "text": "Zinserhöhung durch die EZB",
+        "correct": false
+       },
+       {
+        "text": "Abbau von Staatsschulden",
+        "correct": false
+       }
+      ]
+     }
+    },
+    {
+     "key": "wsp-lf12-fiskal-q02",
+     "type": "mc",
+     "exam_part": 2,
+     "difficulty": 2,
+     "source": "WSP LF12 VWL (Unterricht)",
+     "body": {
+      "prompt": "Welche Maßnahme ist im Boom antizyklisch?",
+      "options": [
+       {
+        "text": "Steuern erhöhen, Ausgaben senken",
+        "correct": true
+       },
+       {
+        "text": "Mehr Konjunkturprogramme",
+        "correct": false
+       },
+       {
+        "text": "Steuersenkung",
+        "correct": false
+       },
+       {
+        "text": "Mehr Kredite aufnehmen",
+        "correct": false
+       },
+       {
+        "text": "Zinsen senken",
+        "correct": false
+       }
+      ]
+     }
+    },
+    {
+     "key": "wsp-lf12-fiskal-q03",
+     "type": "mc",
+     "exam_part": 2,
+     "difficulty": 2,
+     "source": "WSP LF12 VWL (Unterricht)",
+     "body": {
+      "prompt": "Wer betreibt Geldpolitik, wer Fiskalpolitik?",
+      "options": [
+       {
+        "text": "Geldpolitik: EZB. Fiskalpolitik: Staat.",
+        "correct": true
+       },
+       {
+        "text": "Beide: EZB",
+        "correct": false
+       },
+       {
+        "text": "Fiskalpolitik: EZB, Geldpolitik: Staat",
+        "correct": false
+       },
+       {
+        "text": "Beide: Bundestag",
+        "correct": false
+       },
+       {
+        "text": "Beide: Banken",
+        "correct": false
+       }
+      ]
+     }
+    },
+    {
+     "key": "wsp-lf12-fiskal-q04",
+     "type": "mc",
+     "exam_part": 2,
+     "difficulty": 2,
+     "source": "WSP LF12 VWL (Unterricht)",
+     "body": {
+      "prompt": "Welche Grenze gilt nach Maastricht für das jährliche Staatsdefizit?",
+      "options": [
+       {
+        "text": "3 % des BIP",
+        "correct": true
+       },
+       {
+        "text": "0 %",
+        "correct": false
+       },
+       {
+        "text": "1 %",
+        "correct": false
+       },
+       {
+        "text": "10 %",
+        "correct": false
+       },
+       {
+        "text": "60 %",
+        "correct": false
+       }
+      ]
+     }
+    },
+    {
+     "key": "wsp-lf12-fiskal-q05",
+     "type": "match",
+     "exam_part": 2,
+     "difficulty": 2,
+     "source": "WSP LF12 VWL (Unterricht)",
+     "body": {
+      "prompt": "Ordnen Sie jede Maßnahme der Konjunkturphase zu.",
+      "items": [
+       {
+        "term": "Konjunkturprogramm",
+        "match": "Rezession"
+       },
+       {
+        "term": "Steuererhöhung zur Dämpfung der Nachfrage",
+        "match": "Boom"
+       },
+       {
+        "term": "Staatliche Investition in Breitband",
+        "match": "Rezession"
+       },
+       {
+        "term": "Bildung einer Konjunkturausgleichsrücklage",
+        "match": "Boom"
+       }
+      ],
+      "distractors": []
+     }
+    },
+    {
+     "key": "wsp-lf12-fiskal-q06",
+     "type": "tf",
+     "exam_part": 2,
+     "difficulty": 2,
+     "source": "WSP LF12 VWL (Unterricht)",
+     "body": {
+      "statement": "Fiskalpolitik wird von der EZB betrieben.",
+      "answer": false
+     }
+    },
+    {
+     "key": "wsp-lf12-fiskal-q07",
+     "type": "cloze",
+     "exam_part": 2,
+     "difficulty": 2,
+     "source": "WSP LF12 VWL (Unterricht)",
+     "body": {
+      "text": "Antizyklische Fiskalpolitik erhöht in der [[Rezession]] die Staatsausgaben und senkt im [[Boom]] die Nachfrage."
+     }
+    }
+   ],
+   "templates": [],
+   "cases": [],
+   "summary": {
+    "key": "wsp-lf12-fiskal-zettel",
+    "title": "Fiskalpolitik",
+    "content_md": "\n**Fiskalpolitik** = Steuer- und Ausgabenpolitik des Staates zur Steuerung der Konjunktur (Keynes: **nachfrageorientiert**).\n**Antizyklisch**: in der **Rezession** → Ausgaben ↑, Steuern ↓ (Defizit, **Konjunkturprogramm**); im **Boom** → Ausgaben ↓, Steuern ↑, Schulden tilgen/Rücklage (*Konjunkturausgleichsrücklage*).\n**Gegenteil: prozyklisch** verstärkt Schwankungen.\n**Staatseinnahmen**: Steuern (Einkommen-, Umsatz-, Körperschaft-, Gewerbesteuer), Gebühren, Beiträge, Kredite. **Staatsausgaben**: Soziales, Bildung, Infrastruktur, Zinsen.\n**Schuldenbremse** (Art. 109 GG): Strukturelles Defizit des Bundes max. 0,35 % BIP; **Maastricht**: Defizit ≤ 3 % BIP, Schuldenstand ≤ 60 % BIP.\n**Probleme**: Time-Lag, Crowding-out, Verschuldung, Inflationsgefahr.\n"
+   }
+  }
+ ]
+}

@@ -1,0 +1,265 @@
+{
+ "demo": false,
+ "items": [
+  {
+   "topic": "wsp-lf12-kreislauf",
+   "flashcards": [
+    {
+     "key": "wsp-lf12-kreislauf-c01",
+     "front": "Nenne die Produktionsfaktoren.",
+     "back": "Arbeit, Boden, Kapital (betriebswirtschaftlich auch Information/Wissen)."
+    },
+    {
+     "key": "wsp-lf12-kreislauf-c02",
+     "front": "Was erhalten Haushalte für den Einsatz der Produktionsfaktoren?",
+     "back": "Einkommen: Lohn (Arbeit), Pacht/Miete (Boden), Zins (Kapital), Gewinn."
+    },
+    {
+     "key": "wsp-lf12-kreislauf-c03",
+     "front": "Geldstrom vs. Güterstrom?",
+     "back": "Gegenläufig: Güter von Unternehmen zu Haushalten, Geld in umgekehrter Richtung."
+    },
+    {
+     "key": "wsp-lf12-kreislauf-c04",
+     "front": "Was ist eine Subvention?",
+     "back": "Staatliche Zahlung an Unternehmen ohne direkte Gegenleistung."
+    },
+    {
+     "key": "wsp-lf12-kreislauf-c05",
+     "front": "Was ist eine Transferzahlung?",
+     "back": "Staatliche Leistung an Haushalte ohne Gegenleistung (Kindergeld, Bürgergeld)."
+    },
+    {
+     "key": "wsp-lf12-kreislauf-c06",
+     "front": "Was entsteht durch Sparen im Kreislauf?",
+     "back": "Ein Geldabfluss – die Banken stellen es als Kredit für Investitionen wieder bereit."
+    },
+    {
+     "key": "wsp-lf12-kreislauf-c07",
+     "front": "Gleichgewichtsbedingung im Kreislauf?",
+     "back": "Ersparnis = Investition; Export = Import."
+    },
+    {
+     "key": "wsp-lf12-kreislauf-c08",
+     "front": "Was tut der Staat im erweiterten Kreislauf?",
+     "back": "Erhebt Steuern, zahlt Subventionen und Transfers, kauft Güter und Dienstleistungen."
+    },
+    {
+     "key": "wsp-lf12-kreislauf-c09",
+     "front": "Was zeigt der Außenbeitrag?",
+     "back": "Exporte minus Importe."
+    },
+    {
+     "key": "wsp-lf12-kreislauf-c10",
+     "front": "Was ist Investition?",
+     "back": "Kauf von Maschinen, Gebäuden und Anlagen zur Produktion (Bruttoinvestition) – erhöht Produktionskapazität."
+    }
+   ],
+   "glossary": [
+    {
+     "key": "wsp-lf12-kreislauf-g01",
+     "term": "Produktionsfaktoren",
+     "definition": "Arbeit, Boden, Kapital."
+    },
+    {
+     "key": "wsp-lf12-kreislauf-g02",
+     "term": "Transferzahlung",
+     "definition": "Staatliche Zahlung ohne Gegenleistung."
+    },
+    {
+     "key": "wsp-lf12-kreislauf-g03",
+     "term": "Subvention",
+     "definition": "Finanzielle Unterstützung des Staates für Unternehmen."
+    }
+   ],
+   "questions": [
+    {
+     "key": "wsp-lf12-kreislauf-q01",
+     "type": "mc",
+     "exam_part": 2,
+     "difficulty": 2,
+     "source": "WSP LF12 VWL (Unterricht)",
+     "body": {
+      "prompt": "Welches Einkommen erhalten Haushalte für den Faktor Kapital?",
+      "options": [
+       {
+        "text": "Zins",
+        "correct": true
+       },
+       {
+        "text": "Lohn",
+        "correct": false
+       },
+       {
+        "text": "Pacht",
+        "correct": false
+       },
+       {
+        "text": "Gewinn",
+        "correct": false
+       },
+       {
+        "text": "Miete",
+        "correct": false
+       }
+      ]
+     }
+    },
+    {
+     "key": "wsp-lf12-kreislauf-q02",
+     "type": "mc",
+     "exam_part": 2,
+     "difficulty": 2,
+     "source": "WSP LF12 VWL (Unterricht)",
+     "body": {
+      "prompt": "Welches Einkommen erhalten Haushalte für den Faktor Arbeit?",
+      "options": [
+       {
+        "text": "Lohn",
+        "correct": true
+       },
+       {
+        "text": "Zins",
+        "correct": false
+       },
+       {
+        "text": "Pacht",
+        "correct": false
+       },
+       {
+        "text": "Gewinn",
+        "correct": false
+       },
+       {
+        "text": "Dividende",
+        "correct": false
+       }
+      ]
+     }
+    },
+    {
+     "key": "wsp-lf12-kreislauf-q03",
+     "type": "mc",
+     "exam_part": 2,
+     "difficulty": 2,
+     "source": "WSP LF12 VWL (Unterricht)",
+     "body": {
+      "prompt": "Was ist eine Transferzahlung?",
+      "options": [
+       {
+        "text": "Kindergeld",
+        "correct": true
+       },
+       {
+        "text": "Gehalt eines Lehrers",
+        "correct": false
+       },
+       {
+        "text": "Kaufpreis eines Fahrzeugs",
+        "correct": false
+       },
+       {
+        "text": "Steuerzahlung",
+        "correct": false
+       },
+       {
+        "text": "Dividende",
+        "correct": false
+       }
+      ]
+     }
+    },
+    {
+     "key": "wsp-lf12-kreislauf-q04",
+     "type": "mc",
+     "exam_part": 2,
+     "difficulty": 2,
+     "source": "WSP LF12 VWL (Unterricht)",
+     "body": {
+      "prompt": "Welche Aussage zum Wirtschaftskreislauf ist richtig?",
+      "options": [
+       {
+        "text": "Der Geldstrom verläuft entgegengesetzt zum Güterstrom.",
+        "correct": true
+       },
+       {
+        "text": "Geld- und Güterstrom laufen gleichgerichtet.",
+        "correct": false
+       },
+       {
+        "text": "Der Staat ist nicht Teil des Kreislaufs.",
+        "correct": false
+       },
+       {
+        "text": "Sparen erhöht immer den Konsum.",
+        "correct": false
+       },
+       {
+        "text": "Haushalte produzieren Güter für Haushalte.",
+        "correct": false
+       }
+      ]
+     }
+    },
+    {
+     "key": "wsp-lf12-kreislauf-q05",
+     "type": "match",
+     "exam_part": 2,
+     "difficulty": 2,
+     "source": "WSP LF12 VWL (Unterricht)",
+     "body": {
+      "prompt": "Ordnen Sie jedem Faktor das Einkommen zu.",
+      "items": [
+       {
+        "term": "Arbeit",
+        "match": "Lohn/Gehalt"
+       },
+       {
+        "term": "Boden",
+        "match": "Pacht/Miete"
+       },
+       {
+        "term": "Kapital",
+        "match": "Zins"
+       },
+       {
+        "term": "Unternehmerleistung",
+        "match": "Gewinn"
+       }
+      ],
+      "distractors": []
+     }
+    },
+    {
+     "key": "wsp-lf12-kreislauf-q06",
+     "type": "tf",
+     "exam_part": 2,
+     "difficulty": 2,
+     "explanation": "Sie gehen an Unternehmen; an Haushalte gehen Transfers.",
+     "source": "WSP LF12 VWL (Unterricht)",
+     "body": {
+      "statement": "Subventionen sind Zahlungen des Staates an Haushalte.",
+      "answer": false
+     }
+    },
+    {
+     "key": "wsp-lf12-kreislauf-q07",
+     "type": "cloze",
+     "exam_part": 2,
+     "difficulty": 2,
+     "source": "WSP LF12 VWL (Unterricht)",
+     "body": {
+      "text": "Im Gleichgewicht entsprechen die [[Ersparnisse]] den [[Investitionen]]."
+     }
+    }
+   ],
+   "templates": [],
+   "cases": [],
+   "summary": {
+    "key": "wsp-lf12-kreislauf-zettel",
+    "title": "Wirtschaftskreislauf",
+    "content_md": "\n**Einfacher Kreislauf**: Haushalte ↔ Unternehmen. Haushalte stellen **Produktionsfaktoren** (Arbeit, Boden, Kapital) bereit → erhalten **Einkommen** (Lohn, Zins, Miete/Pacht, Gewinn) → kaufen Konsumgüter → Unternehmen erhalten Umsatz.\n**Erweiterter Kreislauf**: + Staat (Steuern, Subventionen, Transfers, Staatsausgaben) + Banken (Sparen/Investieren) + Ausland (Export/Import).\n**Geldstrom** gegenläufig zum **Güterstrom**.\n**Gleichgewicht**: Ersparnisse = Investitionen (S = I); Export = Import.\n**Sparen** entzieht Geld aus dem Kreislauf, **Investieren** bringt es zurück.\n"
+   }
+  }
+ ]
+}

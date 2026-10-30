@@ -1,0 +1,392 @@
+{
+ "demo": false,
+ "items": [
+  {
+   "topic": "wsp-lf12-bip",
+   "flashcards": [
+    {
+     "key": "wsp-lf12-bip-c01",
+     "front": "Was misst das BIP?",
+     "back": "Den Wert aller im Inland in einem Jahr hergestellten Güter und Dienstleistungen."
+    },
+    {
+     "key": "wsp-lf12-bip-c02",
+     "front": "Nominales vs. reales BIP?",
+     "back": "Nominal: zu aktuellen Preisen. Real: preisbereinigt, zeigt echtes Wachstum."
+    },
+    {
+     "key": "wsp-lf12-bip-c03",
+     "front": "Verwendungsrechnung des BIP?",
+     "back": "Konsum + Investitionen + Staatsausgaben + Außenbeitrag (Export − Import)."
+    },
+    {
+     "key": "wsp-lf12-bip-c04",
+     "front": "Wachstumsrate berechnen?",
+     "back": "(BIP neu − BIP alt) : BIP alt · 100."
+    },
+    {
+     "key": "wsp-lf12-bip-c05",
+     "front": "BIP pro Kopf?",
+     "back": "BIP geteilt durch Einwohnerzahl – grober Wohlstandsindikator."
+    },
+    {
+     "key": "wsp-lf12-bip-c06",
+     "front": "Grenzen des BIP als Wohlstandsmaß?",
+     "back": "Schwarzarbeit, Hausarbeit, Umweltschäden und Verteilung werden nicht erfasst."
+    },
+    {
+     "key": "wsp-lf12-bip-c07",
+     "front": "Nenne die Konjunkturphasen.",
+     "back": "Aufschwung, Boom (Hochkonjunktur), Abschwung (Rezession), Tiefstand (Depression)."
+    },
+    {
+     "key": "wsp-lf12-bip-c08",
+     "front": "Merkmale des Booms?",
+     "back": "Hohe Auslastung, Vollbeschäftigung, steigende Preise und Löhne."
+    },
+    {
+     "key": "wsp-lf12-bip-c09",
+     "front": "Merkmale der Rezession?",
+     "back": "Sinkende Produktion, steigende Arbeitslosigkeit, sinkende Investitionen."
+    },
+    {
+     "key": "wsp-lf12-bip-c10",
+     "front": "Beispiel Frühindikator?",
+     "back": "ifo-Geschäftsklimaindex, Auftragseingänge."
+    },
+    {
+     "key": "wsp-lf12-bip-c11",
+     "front": "Beispiel Spätindikator?",
+     "back": "Arbeitslosenquote."
+    },
+    {
+     "key": "wsp-lf12-bip-c12",
+     "front": "Wachstum vs. Konjunktur?",
+     "back": "Wachstum: langfristige BIP-Entwicklung. Konjunktur: kurzfristige Schwankungen um den Trend."
+    },
+    {
+     "key": "wsp-lf12-bip-c13",
+     "front": "Technische Rezession?",
+     "back": "Zwei Quartale in Folge sinkendes BIP."
+    }
+   ],
+   "glossary": [
+    {
+     "key": "wsp-lf12-bip-g01",
+     "term": "BIP",
+     "definition": "Bruttoinlandsprodukt: Wert der im Inland erzeugten Güter und Dienstleistungen."
+    },
+    {
+     "key": "wsp-lf12-bip-g02",
+     "term": "Konjunktur",
+     "definition": "Kurzfristige Schwankungen der wirtschaftlichen Aktivität."
+    },
+    {
+     "key": "wsp-lf12-bip-g03",
+     "term": "Rezession",
+     "definition": "Phase sinkenden Wachstums."
+    }
+   ],
+   "questions": [
+    {
+     "key": "wsp-lf12-bip-q01",
+     "type": "mc",
+     "exam_part": 2,
+     "difficulty": 2,
+     "source": "WSP LF12 VWL (Unterricht)",
+     "body": {
+      "prompt": "Welche Komponente gehört zur Verwendungsrechnung des BIP?",
+      "options": [
+       {
+        "text": "Investitionen",
+        "correct": true
+       },
+       {
+        "text": "Löhne",
+        "correct": false
+       },
+       {
+        "text": "Gewinne",
+        "correct": false
+       },
+       {
+        "text": "Pachteinnahmen",
+        "correct": false
+       },
+       {
+        "text": "Zinseinnahmen",
+        "correct": false
+       }
+      ]
+     }
+    },
+    {
+     "key": "wsp-lf12-bip-q02",
+     "type": "mc",
+     "exam_part": 2,
+     "difficulty": 2,
+     "source": "WSP LF12 VWL (Unterricht)",
+     "body": {
+      "prompt": "Welche Phase folgt auf den Boom?",
+      "options": [
+       {
+        "text": "Abschwung (Rezession)",
+        "correct": true
+       },
+       {
+        "text": "Aufschwung",
+        "correct": false
+       },
+       {
+        "text": "Tiefstand",
+        "correct": false
+       },
+       {
+        "text": "Wachstum",
+        "correct": false
+       },
+       {
+        "text": "Inflation",
+        "correct": false
+       }
+      ]
+     }
+    },
+    {
+     "key": "wsp-lf12-bip-q03",
+     "type": "mc",
+     "exam_part": 2,
+     "difficulty": 2,
+     "source": "WSP LF12 VWL (Unterricht)",
+     "body": {
+      "prompt": "Welcher Indikator ist ein Spätindikator?",
+      "options": [
+       {
+        "text": "Arbeitslosenquote",
+        "correct": true
+       },
+       {
+        "text": "ifo-Geschäftsklima",
+        "correct": false
+       },
+       {
+        "text": "Auftragseingang",
+        "correct": false
+       },
+       {
+        "text": "Aktienkurse",
+        "correct": false
+       },
+       {
+        "text": "Baugenehmigungen",
+        "correct": false
+       }
+      ]
+     }
+    },
+    {
+     "key": "wsp-lf12-bip-q04",
+     "type": "mc",
+     "exam_part": 2,
+     "difficulty": 2,
+     "source": "WSP LF12 VWL (Unterricht)",
+     "body": {
+      "prompt": "Welche Wirkung hat Inflation auf das nominale BIP?",
+      "options": [
+       {
+        "text": "Es steigt auch ohne reales Wachstum.",
+        "correct": true
+       },
+       {
+        "text": "Es sinkt immer.",
+        "correct": false
+       },
+       {
+        "text": "Es bleibt konstant.",
+        "correct": false
+       },
+       {
+        "text": "Es entspricht dem realen BIP.",
+        "correct": false
+       },
+       {
+        "text": "Es wird nicht gemessen.",
+        "correct": false
+       }
+      ]
+     }
+    },
+    {
+     "key": "wsp-lf12-bip-q05",
+     "type": "mc",
+     "exam_part": 2,
+     "difficulty": 2,
+     "source": "WSP LF12 VWL (Unterricht)",
+     "body": {
+      "prompt": "Was ist ein Merkmal der Rezession?",
+      "options": [
+       {
+        "text": "Steigende Arbeitslosigkeit",
+        "correct": true
+       },
+       {
+        "text": "Rekordbeschäftigung",
+        "correct": false
+       },
+       {
+        "text": "Steigende Investitionen",
+        "correct": false
+       },
+       {
+        "text": "Steigende Löhne",
+        "correct": false
+       },
+       {
+        "text": "Überlastete Produktion",
+        "correct": false
+       }
+      ]
+     }
+    },
+    {
+     "key": "wsp-lf12-bip-q06",
+     "type": "match",
+     "exam_part": 2,
+     "difficulty": 2,
+     "source": "WSP LF12 VWL (Unterricht)",
+     "body": {
+      "prompt": "Ordnen Sie jede Konjunkturphase dem Merkmal zu.",
+      "items": [
+       {
+        "term": "Aufschwung",
+        "match": "Produktion und Beschäftigung steigen"
+       },
+       {
+        "term": "Boom",
+        "match": "Höchste Auslastung, Preisanstieg"
+       },
+       {
+        "term": "Rezession",
+        "match": "Produktion sinkt"
+       },
+       {
+        "term": "Depression",
+        "match": "Tiefpunkt mit hoher Arbeitslosigkeit"
+       }
+      ],
+      "distractors": []
+     }
+    },
+    {
+     "key": "wsp-lf12-bip-q07",
+     "type": "tf",
+     "exam_part": 2,
+     "difficulty": 2,
+     "source": "WSP LF12 VWL (Unterricht)",
+     "body": {
+      "statement": "Das BIP zählt Schwarzarbeit mit.",
+      "answer": false
+     }
+    },
+    {
+     "key": "wsp-lf12-bip-q08",
+     "type": "cloze",
+     "exam_part": 2,
+     "difficulty": 2,
+     "source": "WSP LF12 VWL (Unterricht)",
+     "body": {
+      "text": "Auf den Aufschwung folgt der [[Boom]], danach die [[Rezession]]."
+     }
+    }
+   ],
+   "templates": [
+    {
+     "key": "wsp-lf12-bip-t01",
+     "type": "calc",
+     "exam_part": 2,
+     "difficulty": 2,
+     "source": "WSP LF12 VWL (Unterricht)",
+     "vars": {
+      "a": {
+       "type": "int",
+       "min": 2800,
+       "max": 3600,
+       "step": 100
+      },
+      "b": {
+       "type": "int",
+       "min": 2900,
+       "max": 3700,
+       "step": 50
+      }
+     },
+     "body": {
+      "prompt": "Das reale BIP einer Volkswirtschaft betrug im Vorjahr {a|eur0} Mrd. €, im laufenden Jahr {b|eur0} Mrd. €. Wie hoch ist das reale Wachstum in Prozent?",
+      "answer": "(b-a)/a*100",
+      "unit": "%",
+      "decimals": 2,
+      "steps": [
+       "Wachstum = ({b|eur0} − {a|eur0}) : {a|eur0} · 100",
+       "= {result} %"
+      ]
+     }
+    },
+    {
+     "key": "wsp-lf12-bip-t02",
+     "type": "calc",
+     "exam_part": 2,
+     "difficulty": 2,
+     "source": "WSP LF12 VWL (Unterricht)",
+     "vars": {
+      "c": {
+       "type": "int",
+       "min": 1500,
+       "max": 2000,
+       "step": 50
+      },
+      "i": {
+       "type": "int",
+       "min": 500,
+       "max": 800,
+       "step": 50
+      },
+      "g": {
+       "type": "int",
+       "min": 600,
+       "max": 900,
+       "step": 50
+      },
+      "x": {
+       "type": "int",
+       "min": 1400,
+       "max": 1800,
+       "step": 50
+      },
+      "m": {
+       "type": "int",
+       "min": 1200,
+       "max": 1700,
+       "step": 50
+      }
+     },
+     "body": {
+      "prompt": "Konsum {c|eur0} Mrd. €, Investitionen {i|eur0} Mrd. €, Staatsausgaben {g|eur0} Mrd. €, Exporte {x|eur0} Mrd. €, Importe {m|eur0} Mrd. €. Berechnen Sie das BIP (Mrd. €).",
+      "answer": "c+i+g+x-m",
+      "unit": "Mrd. €",
+      "decimals": 0,
+      "steps": [
+       "BIP = C + I + G + (X − M)",
+       "= {result|eur0} Mrd. €"
+      ]
+     }
+    }
+   ],
+   "cases": [],
+   "summary": {
+    "key": "wsp-lf12-bip-zettel",
+    "title": "BIP, Wachstum & Konjunktur",
+    "content_md": "\n**BIP** = Wert aller in einem Jahr im Inland hergestellten Güter und Dienstleistungen (Entstehung, Verwendung, Verteilung). **nominal** (aktuelle Preise) vs. **real** (preisbereinigt, Wachstum).\n**Verwendung**: BIP = Konsum + Investitionen + Staatsausgaben + (Export − Import).\n**Wachstumsrate** = (BIP_neu − BIP_alt) / BIP_alt · 100.\n**BIP pro Kopf** = BIP : Einwohner. Grenzen: Schwarzarbeit, Hausarbeit, Umweltschäden, Verteilung.\n**Konjunkturzyklus**: **Aufschwung (Expansion)** → **Hochkonjunktur (Boom)** → **Abschwung (Rezession)** → **Tiefstand (Depression)**. **Konjunkturindikatoren**: Frühindikatoren (ifo-Geschäftsklima, Auftragseingang), Präsenz-, Spätindikatoren (Arbeitslosigkeit). Wachstum (langfristig) ≠ Konjunktur (kurzfristig).\n"
+   }
+  }
+ ]
+}

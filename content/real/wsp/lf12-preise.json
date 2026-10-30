@@ -1,0 +1,397 @@
+{
+ "demo": false,
+ "items": [
+  {
+   "topic": "wsp-lf12-preise",
+   "flashcards": [
+    {
+     "key": "wsp-lf12-preise-c01",
+     "front": "Was ist Inflation?",
+     "back": "Anhaltender Anstieg des allgemeinen Preisniveaus; der Geldwert sinkt."
+    },
+    {
+     "key": "wsp-lf12-preise-c02",
+     "front": "Was ist Deflation?",
+     "back": "Anhaltendes Sinken des Preisniveaus."
+    },
+    {
+     "key": "wsp-lf12-preise-c03",
+     "front": "Womit wird Inflation gemessen?",
+     "back": "Verbraucherpreisindex (VPI) auf Basis eines Warenkorbs."
+    },
+    {
+     "key": "wsp-lf12-preise-c04",
+     "front": "Inflationsrate berechnen?",
+     "back": "(VPI neu − VPI alt) : VPI alt · 100."
+    },
+    {
+     "key": "wsp-lf12-preise-c05",
+     "front": "Ursachen der Nachfrageinflation?",
+     "back": "Gesamtnachfrage übersteigt das Angebot."
+    },
+    {
+     "key": "wsp-lf12-preise-c06",
+     "front": "Ursachen der Kostendruckinflation?",
+     "back": "Gestiegene Kosten (Löhne, Energie, Rohstoffe) werden auf Preise überwälzt."
+    },
+    {
+     "key": "wsp-lf12-preise-c07",
+     "front": "Was ist importierte Inflation?",
+     "back": "Preissteigerungen im Ausland (Rohstoffe, Energie) werden importiert."
+    },
+    {
+     "key": "wsp-lf12-preise-c08",
+     "front": "Wer gewinnt bei Inflation?",
+     "back": "Schuldner und Sachwertbesitzer."
+    },
+    {
+     "key": "wsp-lf12-preise-c09",
+     "front": "Wer verliert bei Inflation?",
+     "back": "Sparer, Gläubiger, Bezieher fester Einkommen."
+    },
+    {
+     "key": "wsp-lf12-preise-c10",
+     "front": "Gefahr der Deflation?",
+     "back": "Konsum und Investitionen werden aufgeschoben – Abwärtsspirale."
+    },
+    {
+     "key": "wsp-lf12-preise-c11",
+     "front": "Was ist die Lohn-Preis-Spirale?",
+     "back": "Höhere Löhne führen zu höheren Preisen, die wieder höhere Lohnforderungen auslösen."
+    },
+    {
+     "key": "wsp-lf12-preise-c12",
+     "front": "Inflationsziel der EZB?",
+     "back": "Mittelfristig 2 %."
+    },
+    {
+     "key": "wsp-lf12-preise-c13",
+     "front": "Was ist ein Warenkorb?",
+     "back": "Typische Güter und Dienstleistungen eines Haushalts zur Messung der Preisentwicklung."
+    },
+    {
+     "key": "wsp-lf12-preise-c14",
+     "front": "Nominallohn vs. Reallohn?",
+     "back": "Nominal: Geldbetrag. Real: Kaufkraft, bereinigt um Inflation."
+    }
+   ],
+   "glossary": [
+    {
+     "key": "wsp-lf12-preise-g01",
+     "term": "Inflation",
+     "definition": "Anhaltender Preisniveauanstieg."
+    },
+    {
+     "key": "wsp-lf12-preise-g02",
+     "term": "Deflation",
+     "definition": "Anhaltender Preisniveauverfall."
+    },
+    {
+     "key": "wsp-lf12-preise-g03",
+     "term": "VPI",
+     "definition": "Verbraucherpreisindex."
+    },
+    {
+     "key": "wsp-lf12-preise-g04",
+     "term": "Warenkorb",
+     "definition": "Gewichtete Auswahl typischer Verbrauchsgüter."
+    }
+   ],
+   "questions": [
+    {
+     "key": "wsp-lf12-preise-q01",
+     "type": "mc",
+     "exam_part": 2,
+     "difficulty": 2,
+     "source": "WSP LF12 VWL (Unterricht)",
+     "body": {
+      "prompt": "Was ist ein Beispiel für importierte Inflation?",
+      "options": [
+       {
+        "text": "Die Erdölpreise steigen weltweit und verteuern Energie.",
+        "correct": true
+       },
+       {
+        "text": "Der Staat erhöht die Mehrwertsteuer.",
+        "correct": false
+       },
+       {
+        "text": "Die Nachfrage sinkt.",
+        "correct": false
+       },
+       {
+        "text": "Der Euro wird abgewertet gegenüber dem Dollar.",
+        "correct": false
+       },
+       {
+        "text": "Die Löhne sinken.",
+        "correct": false
+       }
+      ]
+     }
+    },
+    {
+     "key": "wsp-lf12-preise-q02",
+     "type": "mc",
+     "exam_part": 2,
+     "difficulty": 2,
+     "source": "WSP LF12 VWL (Unterricht)",
+     "body": {
+      "prompt": "Wer verliert bei Inflation?",
+      "options": [
+       {
+        "text": "Sparer mit festverzinsten Guthaben",
+        "correct": true
+       },
+       {
+        "text": "Schuldner",
+        "correct": false
+       },
+       {
+        "text": "Sachwertbesitzer",
+        "correct": false
+       },
+       {
+        "text": "Immobilieneigentümer",
+        "correct": false
+       },
+       {
+        "text": "Kreditnehmer mit Festzins",
+        "correct": false
+       }
+      ]
+     }
+    },
+    {
+     "key": "wsp-lf12-preise-q03",
+     "type": "mc",
+     "exam_part": 2,
+     "difficulty": 2,
+     "source": "WSP LF12 VWL (Unterricht)",
+     "body": {
+      "prompt": "Welche Folge hat Deflation?",
+      "options": [
+       {
+        "text": "Konsum wird aufgeschoben – Abwärtsspirale",
+        "correct": true
+       },
+       {
+        "text": "Kaufkraft sinkt",
+        "correct": false
+       },
+       {
+        "text": "Löhne steigen stark",
+        "correct": false
+       },
+       {
+        "text": "Schuldner profitieren",
+        "correct": false
+       },
+       {
+        "text": "Geld verliert an Wert",
+        "correct": false
+       }
+      ]
+     }
+    },
+    {
+     "key": "wsp-lf12-preise-q04",
+     "type": "mc",
+     "exam_part": 2,
+     "difficulty": 2,
+     "source": "WSP LF12 VWL (Unterricht)",
+     "body": {
+      "prompt": "Welche Aussage zum Verbraucherpreisindex trifft zu?",
+      "options": [
+       {
+        "text": "Er misst die Preisentwicklung eines Warenkorbs.",
+        "correct": true
+       },
+       {
+        "text": "Er misst das BIP.",
+        "correct": false
+       },
+       {
+        "text": "Er zeigt die Arbeitslosigkeit.",
+        "correct": false
+       },
+       {
+        "text": "Er misst die Geldmenge.",
+        "correct": false
+       },
+       {
+        "text": "Er wird von der EZB direkt festgelegt.",
+        "correct": false
+       }
+      ]
+     }
+    },
+    {
+     "key": "wsp-lf12-preise-q05",
+     "type": "mc",
+     "exam_part": 2,
+     "difficulty": 2,
+     "source": "WSP LF12 VWL (Unterricht)",
+     "body": {
+      "prompt": "Was passiert bei Nachfrageinflation?",
+      "options": [
+       {
+        "text": "Die Nachfrage übersteigt das Angebot und die Preise steigen.",
+        "correct": true
+       },
+       {
+        "text": "Die Kosten steigen, die Nachfrage sinkt.",
+        "correct": false
+       },
+       {
+        "text": "Die Preise sinken.",
+        "correct": false
+       },
+       {
+        "text": "Das Angebot übersteigt die Nachfrage.",
+        "correct": false
+       },
+       {
+        "text": "Die Importe sinken.",
+        "correct": false
+       }
+      ]
+     }
+    },
+    {
+     "key": "wsp-lf12-preise-q06",
+     "type": "match",
+     "exam_part": 2,
+     "difficulty": 2,
+     "source": "WSP LF12 VWL (Unterricht)",
+     "body": {
+      "prompt": "Ordnen Sie jede Ursache der Inflationsart zu.",
+      "items": [
+       {
+        "term": "Nachfrage übersteigt Angebot",
+        "match": "Nachfrageinflation"
+       },
+       {
+        "term": "Löhne und Energie verteuern Produktion",
+        "match": "Kostendruckinflation"
+       },
+       {
+        "term": "Rohstoffpreise steigen im Ausland",
+        "match": "importierte Inflation"
+       },
+       {
+        "term": "Zu viel Geld im Umlauf",
+        "match": "Geldmengeninflation"
+       }
+      ],
+      "distractors": []
+     }
+    },
+    {
+     "key": "wsp-lf12-preise-q07",
+     "type": "tf",
+     "exam_part": 2,
+     "difficulty": 2,
+     "source": "WSP LF12 VWL (Unterricht)",
+     "body": {
+      "statement": "Bei Deflation sinkt das Preisniveau.",
+      "answer": true
+     }
+    },
+    {
+     "key": "wsp-lf12-preise-q08",
+     "type": "cloze",
+     "exam_part": 2,
+     "difficulty": 2,
+     "source": "WSP LF12 VWL (Unterricht)",
+     "body": {
+      "text": "Der [[Verbraucherpreisindex]] misst die Preisentwicklung eines [[Warenkorbs]]."
+     }
+    }
+   ],
+   "templates": [
+    {
+     "key": "wsp-lf12-preise-t01",
+     "type": "calc",
+     "exam_part": 2,
+     "difficulty": 2,
+     "source": "WSP LF12 VWL (Unterricht)",
+     "vars": {
+      "a": {
+       "type": "pick",
+       "options": [
+        100,
+        102,
+        104,
+        105,
+        108,
+        110
+       ]
+      },
+      "b": {
+       "type": "pick",
+       "options": [
+        112,
+        114,
+        115,
+        118,
+        120,
+        125
+       ]
+      }
+     },
+     "body": {
+      "prompt": "Der Preisindex stieg von {a} auf {b} Punkte. Berechnen Sie die Inflationsrate in Prozent.",
+      "answer": "(b-a)/a*100",
+      "unit": "%",
+      "decimals": 2,
+      "steps": [
+       "Inflationsrate = ({b} − {a}) : {a} · 100",
+       "= {result} %"
+      ]
+     }
+    },
+    {
+     "key": "wsp-lf12-preise-t02",
+     "type": "calc",
+     "exam_part": 2,
+     "difficulty": 2,
+     "source": "WSP LF12 VWL (Unterricht)",
+     "vars": {
+      "p": {
+       "type": "int",
+       "min": 100,
+       "max": 900,
+       "step": 50
+      },
+      "i": {
+       "type": "pick",
+       "options": [
+        2,
+        3,
+        4,
+        5,
+        8
+       ]
+      }
+     },
+     "body": {
+      "prompt": "Ein Unternehmen verlangt für ein Paket {p|eur}. Bei einer Inflation von {i} % im Jahr: Wie viel würde das Paket im nächsten Jahr kosten (bei gleicher Preisentwicklung)?",
+      "answer": "p*(1+i/100)",
+      "unit": "€",
+      "decimals": 2,
+      "steps": [
+       "{p|eur} · (1 + {i} %) = {result|eur}"
+      ]
+     }
+    }
+   ],
+   "cases": [],
+   "summary": {
+    "key": "wsp-lf12-preise-zettel",
+    "title": "Preisniveaustabilität: Inflation & Deflation",
+    "content_md": "\n**Inflation** = anhaltender Anstieg des Preisniveaus (Geldwert sinkt) · **Deflation** = anhaltendes Sinken · **Disinflation** = geringere Inflationsrate.\nMessung: **Verbraucherpreisindex (VPI)** auf Basis eines **Warenkorbs**; Inflationsrate = (VPI_neu − VPI_alt) : VPI_alt · 100.\n**Ursachen**: *Nachfrageinflation* (Nachfrage > Angebot) · *Angebotsinflation/Kostendruckinflation* (Löhne, Rohstoffe, Energie) · *importierte Inflation* · *Geldmengeninflation*.\n**Folgen**: Kaufkraftverlust, Sparer/Gläubiger verlieren, Sachwerte gewinnen, Lohn-Preis-Spirale; **Deflation**: Konsum wird aufgeschoben, Abwärtsspirale.\n**Kaufkraft** = 1 / Preisniveau; reale Löhne = nominale Löhne bereinigt um Inflation.\n**EZB-Ziel**: Inflation mittelfristig **2 %**.\n"
+   }
+  }
+ ]
+}

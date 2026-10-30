@@ -1,0 +1,342 @@
+{
+ "demo": false,
+ "items": [
+  {
+   "topic": "wsp-lf12-geld",
+   "flashcards": [
+    {
+     "key": "wsp-lf12-geld-c01",
+     "front": "Oberstes Ziel der EZB?",
+     "back": "Preisstabilität (mittelfristig 2 % Inflation)."
+    },
+    {
+     "key": "wsp-lf12-geld-c02",
+     "front": "Wo sitzt die EZB?",
+     "back": "Frankfurt am Main."
+    },
+    {
+     "key": "wsp-lf12-geld-c03",
+     "front": "Nenne Instrumente der EZB.",
+     "back": "Leitzinsen, Mindestreserve, Offenmarktgeschäfte, ständige Fazilitäten."
+    },
+    {
+     "key": "wsp-lf12-geld-c04",
+     "front": "Was ist der Hauptrefinanzierungssatz?",
+     "back": "Zinssatz, zu dem sich Banken bei der EZB Geld leihen."
+    },
+    {
+     "key": "wsp-lf12-geld-c05",
+     "front": "Was ist die Einlagefazilität?",
+     "back": "Banken können überschüssiges Geld über Nacht bei der EZB anlegen."
+    },
+    {
+     "key": "wsp-lf12-geld-c06",
+     "front": "Was ist die Mindestreserve?",
+     "back": "Pflichtguthaben der Banken bei der Zentralbank (1 % der Einlagen)."
+    },
+    {
+     "key": "wsp-lf12-geld-c07",
+     "front": "Was sind Offenmarktgeschäfte?",
+     "back": "Kauf/Verkauf von Wertpapieren durch die EZB zur Steuerung der Geldmenge."
+    },
+    {
+     "key": "wsp-lf12-geld-c08",
+     "front": "Was bewirkt eine Leitzinssenkung?",
+     "back": "Kredite werden billiger → mehr Investition/Konsum → Konjunktur ↑, Inflation ↑ (expansiv)."
+    },
+    {
+     "key": "wsp-lf12-geld-c09",
+     "front": "Was bewirkt eine Leitzinserhöhung?",
+     "back": "Kredite werden teurer → Nachfrage ↓ → Inflation ↓ (restriktiv)."
+    },
+    {
+     "key": "wsp-lf12-geld-c10",
+     "front": "Expansive Geldpolitik?",
+     "back": "Geldmenge erhöhen, Zinsen senken – Konjunktur ankurbeln."
+    },
+    {
+     "key": "wsp-lf12-geld-c11",
+     "front": "Restriktive Geldpolitik?",
+     "back": "Geldmenge verknappen, Zinsen erhöhen – Inflation bekämpfen."
+    },
+    {
+     "key": "wsp-lf12-geld-c12",
+     "front": "Was ist Giralgeld?",
+     "back": "Buchgeld auf Konten; entsteht durch Kreditvergabe der Banken."
+    },
+    {
+     "key": "wsp-lf12-geld-c13",
+     "front": "Was umfasst die Geldmenge M1?",
+     "back": "Bargeld und täglich fällige Einlagen."
+    },
+    {
+     "key": "wsp-lf12-geld-c14",
+     "front": "Was beschreibt die Quantitätsgleichung?",
+     "back": "M · V = P · Y – Geldmenge mal Umlaufgeschwindigkeit = Preisniveau mal reales BIP."
+    },
+    {
+     "key": "wsp-lf12-geld-c15",
+     "front": "Was ist Quantitative Easing?",
+     "back": "Massenhafter Ankauf von Anleihen durch die EZB, um Geld bereitzustellen und Zinsen zu senken."
+    },
+    {
+     "key": "wsp-lf12-geld-c16",
+     "front": "Ist die EZB weisungsgebunden?",
+     "back": "Nein – sie ist unabhängig von nationalen Regierungen."
+    }
+   ],
+   "glossary": [
+    {
+     "key": "wsp-lf12-geld-g01",
+     "term": "Leitzins",
+     "definition": "Zinssatz der Zentralbank, zu dem Banken Geld leihen."
+    },
+    {
+     "key": "wsp-lf12-geld-g02",
+     "term": "Mindestreserve",
+     "definition": "Pflichtguthaben der Banken bei der Zentralbank."
+    },
+    {
+     "key": "wsp-lf12-geld-g03",
+     "term": "Offenmarktgeschäft",
+     "definition": "Wertpapiergeschäft der Zentralbank zur Steuerung der Liquidität."
+    },
+    {
+     "key": "wsp-lf12-geld-g04",
+     "term": "Giralgeld",
+     "definition": "Buchgeld auf Konten."
+    }
+   ],
+   "questions": [
+    {
+     "key": "wsp-lf12-geld-q01",
+     "type": "mc",
+     "exam_part": 2,
+     "difficulty": 2,
+     "source": "WSP LF12 VWL (Unterricht)",
+     "body": {
+      "prompt": "Die EZB senkt den Leitzins. Welche Wirkung ist zu erwarten?",
+      "options": [
+       {
+        "text": "Kredite werden billiger, Investitionen und Nachfrage steigen.",
+        "correct": true
+       },
+       {
+        "text": "Kredite werden teurer.",
+        "correct": false
+       },
+       {
+        "text": "Sparen wird attraktiver, Konsum sinkt.",
+        "correct": false
+       },
+       {
+        "text": "Die Inflation sinkt sofort.",
+        "correct": false
+       },
+       {
+        "text": "Der Euro wird immer stärker.",
+        "correct": false
+       }
+      ]
+     }
+    },
+    {
+     "key": "wsp-lf12-geld-q02",
+     "type": "mc",
+     "exam_part": 2,
+     "difficulty": 2,
+     "source": "WSP LF12 VWL (Unterricht)",
+     "body": {
+      "prompt": "Die Inflation im Euroraum liegt deutlich über 2 %. Welche Maßnahme der EZB ist passend?",
+      "options": [
+       {
+        "text": "Leitzinsen erhöhen",
+        "correct": true
+       },
+       {
+        "text": "Leitzinsen senken",
+        "correct": false
+       },
+       {
+        "text": "Mindestreserve auf null setzen",
+        "correct": false
+       },
+       {
+        "text": "Anleihen aufkaufen",
+        "correct": false
+       },
+       {
+        "text": "Geldmenge erhöhen",
+        "correct": false
+       }
+      ]
+     }
+    },
+    {
+     "key": "wsp-lf12-geld-q03",
+     "type": "mc",
+     "exam_part": 2,
+     "difficulty": 2,
+     "source": "WSP LF12 VWL (Unterricht)",
+     "body": {
+      "prompt": "Was ist das oberste Ziel der EZB?",
+      "options": [
+       {
+        "text": "Preisstabilität",
+        "correct": true
+       },
+       {
+        "text": "Hohe Beschäftigung",
+        "correct": false
+       },
+       {
+        "text": "Wirtschaftswachstum",
+        "correct": false
+       },
+       {
+        "text": "Außenhandelsüberschuss",
+        "correct": false
+       },
+       {
+        "text": "Umweltschutz",
+        "correct": false
+       }
+      ]
+     }
+    },
+    {
+     "key": "wsp-lf12-geld-q04",
+     "type": "mc",
+     "exam_part": 2,
+     "difficulty": 2,
+     "source": "WSP LF12 VWL (Unterricht)",
+     "body": {
+      "prompt": "Welches Instrument gehört nicht zur Geldpolitik?",
+      "options": [
+       {
+        "text": "Steuersenkung",
+        "correct": true
+       },
+       {
+        "text": "Leitzinsänderung",
+        "correct": false
+       },
+       {
+        "text": "Mindestreserve",
+        "correct": false
+       },
+       {
+        "text": "Offenmarktgeschäft",
+        "correct": false
+       },
+       {
+        "text": "Einlagefazilität",
+        "correct": false
+       }
+      ]
+     }
+    },
+    {
+     "key": "wsp-lf12-geld-q05",
+     "type": "mc",
+     "exam_part": 2,
+     "difficulty": 2,
+     "source": "WSP LF12 VWL (Unterricht)",
+     "body": {
+      "prompt": "Wie entsteht Giralgeld?",
+      "options": [
+       {
+        "text": "Durch Kreditvergabe der Banken",
+        "correct": true
+       },
+       {
+        "text": "Durch Gelddrucken des Staates",
+        "correct": false
+       },
+       {
+        "text": "Durch Steuern",
+        "correct": false
+       },
+       {
+        "text": "Durch Exporte",
+        "correct": false
+       },
+       {
+        "text": "Durch Mindestreserve",
+        "correct": false
+       }
+      ]
+     }
+    },
+    {
+     "key": "wsp-lf12-geld-q06",
+     "type": "match",
+     "exam_part": 2,
+     "difficulty": 2,
+     "source": "WSP LF12 VWL (Unterricht)",
+     "body": {
+      "prompt": "Ordnen Sie jede Maßnahme der Geldpolitik zu.",
+      "items": [
+       {
+        "term": "Leitzins senken",
+        "match": "expansiv"
+       },
+       {
+        "term": "Leitzins erhöhen",
+        "match": "restriktiv"
+       },
+       {
+        "term": "Anleihekäufe (QE)",
+        "match": "expansiv"
+       },
+       {
+        "term": "Mindestreservesatz erhöhen",
+        "match": "restriktiv"
+       }
+      ],
+      "distractors": []
+     }
+    },
+    {
+     "key": "wsp-lf12-geld-q07",
+     "type": "tf",
+     "exam_part": 2,
+     "difficulty": 2,
+     "source": "WSP LF12 VWL (Unterricht)",
+     "body": {
+      "statement": "Die EZB ist an Weisungen der Bundesregierung gebunden.",
+      "answer": false
+     }
+    },
+    {
+     "key": "wsp-lf12-geld-q08",
+     "type": "tf",
+     "exam_part": 2,
+     "difficulty": 2,
+     "source": "WSP LF12 VWL (Unterricht)",
+     "body": {
+      "statement": "Eine Zinssenkung soll Kredite verbilligen.",
+      "answer": true
+     }
+    },
+    {
+     "key": "wsp-lf12-geld-q09",
+     "type": "cloze",
+     "exam_part": 2,
+     "difficulty": 2,
+     "source": "WSP LF12 VWL (Unterricht)",
+     "body": {
+      "text": "Zur Bekämpfung von Inflation erhöht die EZB den [[Leitzins]]; das ist eine [[restriktive]] Geldpolitik."
+     }
+    }
+   ],
+   "templates": [],
+   "cases": [],
+   "summary": {
+    "key": "wsp-lf12-geld-zettel",
+    "title": "Geldpolitik der EZB",
+    "content_md": "\n**EZB/Eurosystem**: oberstes Ziel **Preisstabilität** (mittelfristig 2 % Inflation), unabhängig von Regierungen. Sitz Frankfurt.\n**Instrumente**: **Leitzinsen** (Hauptrefinanzierungssatz, Einlagefazilität, Spitzenrefinanzierung) · **Mindestreserve** (Pflichtguthaben der Banken; derzeit 1 %) · **Offenmarktgeschäfte** (Wertpapierkauf/-verkauf, QE) · *ständige Fazilitäten*.\n**Expansiv** (Konjunktur ankurbeln): Zins ↓ → Kredite billiger → Investition/Konsum ↑ → Inflation ↑. **Restriktiv** (Inflation bremsen): Zins ↑ → Kredite teurer.\n**Geldmenge M1** (Bargeld + täglich fällige Einlagen), M2, M3. **Geldschöpfung**: Banken schaffen durch Kredite Giralgeld (Buchgeld). **Quantitätsgleichung**: M · V = P · Y.\n**Grenzen**: Zinsfalle, Time-Lag, Euroraum mit 20 Ländern.\n"
+   }
+  }
+ ]
+}

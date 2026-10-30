@@ -1,0 +1,361 @@
+{
+ "demo": false,
+ "items": [
+  {
+   "topic": "wsp-lf12-ordnung",
+   "flashcards": [
+    {
+     "key": "wsp-lf12-ordnung-c01",
+     "front": "Was bedeutet Knappheit?",
+     "back": "Die Güter reichen nicht aus, um alle Bedürfnisse zu befriedigen."
+    },
+    {
+     "key": "wsp-lf12-ordnung-c02",
+     "front": "Bedürfnis, Bedarf, Nachfrage?",
+     "back": "Bedürfnis = Wunsch; Bedarf = mit Kaufkraft unterlegtes Bedürfnis; Nachfrage = am Markt geäußerter Bedarf."
+    },
+    {
+     "key": "wsp-lf12-ordnung-c03",
+     "front": "Merkmale der freien Marktwirtschaft?",
+     "back": "Privateigentum, Wettbewerb, Preisbildung durch Angebot und Nachfrage, Staat nur Ordnungsrahmen."
+    },
+    {
+     "key": "wsp-lf12-ordnung-c04",
+     "front": "Merkmale der Zentralverwaltungswirtschaft?",
+     "back": "Planbehörde bestimmt Produktion und Preise; Kollektiveigentum."
+    },
+    {
+     "key": "wsp-lf12-ordnung-c05",
+     "front": "Nachteil der Zentralverwaltungswirtschaft?",
+     "back": "Wenig Leistungsanreiz, Fehlallokation, Mangel, kaum Konsumentenfreiheit."
+    },
+    {
+     "key": "wsp-lf12-ordnung-c06",
+     "front": "Nachteil der freien Marktwirtschaft?",
+     "back": "Soziale Ungleichheit, Konzentration/Monopole, Externe Effekte ohne Eingriff."
+    },
+    {
+     "key": "wsp-lf12-ordnung-c07",
+     "front": "Was ist die soziale Marktwirtschaft?",
+     "back": "Marktwirtschaft mit sozialem Ausgleich durch den Staat."
+    },
+    {
+     "key": "wsp-lf12-ordnung-c08",
+     "front": "Beispiele sozialer Ausgleich?",
+     "back": "Sozialversicherung, Kündigungsschutz, Kartellrecht, Mindestlohn, Wohngeld, Verbraucherschutz."
+    },
+    {
+     "key": "wsp-lf12-ordnung-c09",
+     "front": "Wer prägte die soziale Marktwirtschaft?",
+     "back": "Alfred Müller-Armack und Ludwig Erhard."
+    },
+    {
+     "key": "wsp-lf12-ordnung-c10",
+     "front": "Was ist der primäre Sektor?",
+     "back": "Urproduktion: Land-/Forstwirtschaft, Fischerei, Bergbau."
+    },
+    {
+     "key": "wsp-lf12-ordnung-c11",
+     "front": "Was ist der sekundäre Sektor?",
+     "back": "Industrie und Handwerk – Weiterverarbeitung."
+    },
+    {
+     "key": "wsp-lf12-ordnung-c12",
+     "front": "Was ist der tertiäre Sektor?",
+     "back": "Dienstleistungen (Handel, Banken, Werbeagenturen)."
+    },
+    {
+     "key": "wsp-lf12-ordnung-c13",
+     "front": "Nenne die Wirtschaftssubjekte.",
+     "back": "Private Haushalte, Unternehmen, Staat, Ausland."
+    },
+    {
+     "key": "wsp-lf12-ordnung-c14",
+     "front": "Was ist ein Wirtschaftsgut?",
+     "back": "Knappes Gut, das einen Preis hat (im Gegensatz zu freien Gütern wie Luft)."
+    },
+    {
+     "key": "wsp-lf12-ordnung-c15",
+     "front": "Konsumgüter vs. Produktionsgüter?",
+     "back": "Konsumgüter befriedigen direkt Bedürfnisse, Produktionsgüter dienen der Herstellung anderer Güter."
+    }
+   ],
+   "glossary": [
+    {
+     "key": "wsp-lf12-ordnung-g01",
+     "term": "Knappheit",
+     "definition": "Missverhältnis zwischen Bedürfnissen und verfügbaren Gütern."
+    },
+    {
+     "key": "wsp-lf12-ordnung-g02",
+     "term": "Soziale Marktwirtschaft",
+     "definition": "Wirtschaftsordnung Deutschlands: Markt plus sozialer Ausgleich."
+    },
+    {
+     "key": "wsp-lf12-ordnung-g03",
+     "term": "Dienstleistung",
+     "definition": "Immaterielles Gut, das nicht lagerfähig ist."
+    }
+   ],
+   "questions": [
+    {
+     "key": "wsp-lf12-ordnung-q01",
+     "type": "mc",
+     "exam_part": 2,
+     "difficulty": 2,
+     "source": "WSP LF12 VWL (Unterricht)",
+     "body": {
+      "prompt": "Welche Wirtschaftsordnung gilt in Deutschland?",
+      "options": [
+       {
+        "text": "Soziale Marktwirtschaft",
+        "correct": true
+       },
+       {
+        "text": "Zentralverwaltungswirtschaft",
+        "correct": false
+       },
+       {
+        "text": "Freie Marktwirtschaft",
+        "correct": false
+       },
+       {
+        "text": "Planwirtschaft mit Mischformen",
+        "correct": false
+       },
+       {
+        "text": "Subsistenzwirtschaft",
+        "correct": false
+       }
+      ]
+     }
+    },
+    {
+     "key": "wsp-lf12-ordnung-q02",
+     "type": "mc",
+     "exam_part": 2,
+     "difficulty": 2,
+     "source": "WSP LF12 VWL (Unterricht)",
+     "body": {
+      "prompt": "Welches Merkmal passt zur Zentralverwaltungswirtschaft?",
+      "options": [
+       {
+        "text": "Eine staatliche Planbehörde legt Preise und Produktion fest.",
+        "correct": true
+       },
+       {
+        "text": "Preise entstehen am Markt.",
+        "correct": false
+       },
+       {
+        "text": "Privateigentum an Produktionsmitteln",
+        "correct": false
+       },
+       {
+        "text": "Gewinnstreben als Antrieb",
+        "correct": false
+       },
+       {
+        "text": "Wettbewerb unter den Unternehmen",
+        "correct": false
+       }
+      ]
+     }
+    },
+    {
+     "key": "wsp-lf12-ordnung-q03",
+     "type": "mc",
+     "exam_part": 2,
+     "difficulty": 2,
+     "source": "WSP LF12 VWL (Unterricht)",
+     "body": {
+      "prompt": "Ein Landwirt gehört zu welchem Wirtschaftssektor?",
+      "options": [
+       {
+        "text": "Primärer Sektor",
+        "correct": true
+       },
+       {
+        "text": "Sekundärer Sektor",
+        "correct": false
+       },
+       {
+        "text": "Tertiärer Sektor",
+        "correct": false
+       },
+       {
+        "text": "Quartärer Sektor",
+        "correct": false
+       },
+       {
+        "text": "Kein Sektor",
+        "correct": false
+       }
+      ]
+     }
+    },
+    {
+     "key": "wsp-lf12-ordnung-q04",
+     "type": "mc",
+     "exam_part": 2,
+     "difficulty": 2,
+     "source": "WSP LF12 VWL (Unterricht)",
+     "body": {
+      "prompt": "Eine Werbeagentur gehört zu welchem Sektor?",
+      "options": [
+       {
+        "text": "Tertiärer Sektor",
+        "correct": true
+       },
+       {
+        "text": "Primärer Sektor",
+        "correct": false
+       },
+       {
+        "text": "Sekundärer Sektor",
+        "correct": false
+       },
+       {
+        "text": "Gar keinem",
+        "correct": false
+       },
+       {
+        "text": "Zum Staat",
+        "correct": false
+       }
+      ]
+     }
+    },
+    {
+     "key": "wsp-lf12-ordnung-q05",
+     "type": "mc",
+     "exam_part": 2,
+     "difficulty": 2,
+     "source": "WSP LF12 VWL (Unterricht)",
+     "body": {
+      "prompt": "Welche Maßnahme gehört zur sozialen Komponente der sozialen Marktwirtschaft?",
+      "options": [
+       {
+        "text": "Gesetzliche Sozialversicherung",
+        "correct": true
+       },
+       {
+        "text": "Preisfestsetzung durch eine Planbehörde",
+        "correct": false
+       },
+       {
+        "text": "Verbot von Privateigentum",
+        "correct": false
+       },
+       {
+        "text": "Abschaffung des Wettbewerbs",
+        "correct": false
+       },
+       {
+        "text": "Verstaatlichung aller Betriebe",
+        "correct": false
+       }
+      ]
+     }
+    },
+    {
+     "key": "wsp-lf12-ordnung-q06",
+     "type": "match",
+     "exam_part": 2,
+     "difficulty": 2,
+     "source": "WSP LF12 VWL (Unterricht)",
+     "body": {
+      "prompt": "Ordnen Sie jedes Merkmal der Wirtschaftsordnung zu.",
+      "items": [
+       {
+        "term": "Preise werden zentral festgelegt",
+        "match": "Zentralverwaltungswirtschaft"
+       },
+       {
+        "term": "Preis entsteht durch Angebot und Nachfrage",
+        "match": "Marktwirtschaft"
+       },
+       {
+        "term": "Marktwirtschaft mit sozialem Ausgleich",
+        "match": "Soziale Marktwirtschaft"
+       },
+       {
+        "term": "Staat beschränkt sich auf Rahmenbedingungen",
+        "match": "Freie Marktwirtschaft"
+       }
+      ],
+      "distractors": []
+     }
+    },
+    {
+     "key": "wsp-lf12-ordnung-q07",
+     "type": "match",
+     "exam_part": 2,
+     "difficulty": 2,
+     "source": "WSP LF12 VWL (Unterricht)",
+     "body": {
+      "prompt": "Ordnen Sie jedes Unternehmen dem Sektor zu.",
+      "items": [
+       {
+        "term": "Bauernhof",
+        "match": "primär"
+       },
+       {
+        "term": "Autohersteller",
+        "match": "sekundär"
+       },
+       {
+        "term": "Werbeagentur",
+        "match": "tertiär"
+       },
+       {
+        "term": "Bank",
+        "match": "tertiär"
+       }
+      ],
+      "distractors": []
+     }
+    },
+    {
+     "key": "wsp-lf12-ordnung-q08",
+     "type": "tf",
+     "exam_part": 2,
+     "difficulty": 2,
+     "source": "WSP LF12 VWL (Unterricht)",
+     "body": {
+      "statement": "In der sozialen Marktwirtschaft greift der Staat nie ein.",
+      "answer": false
+     }
+    },
+    {
+     "key": "wsp-lf12-ordnung-q09",
+     "type": "tf",
+     "exam_part": 2,
+     "difficulty": 2,
+     "source": "WSP LF12 VWL (Unterricht)",
+     "body": {
+      "statement": "Knappheit bedeutet, dass nicht alle Bedürfnisse befriedigt werden können.",
+      "answer": true
+     }
+    },
+    {
+     "key": "wsp-lf12-ordnung-q10",
+     "type": "cloze",
+     "exam_part": 2,
+     "difficulty": 2,
+     "source": "WSP LF12 VWL (Unterricht)",
+     "body": {
+      "text": "Die Wirtschaftsordnung Deutschlands heißt [[soziale Marktwirtschaft]]."
+     }
+    }
+   ],
+   "templates": [],
+   "cases": [],
+   "summary": {
+    "key": "wsp-lf12-ordnung-zettel",
+    "title": "Wirtschaftsordnungen",
+    "content_md": "\n**Grundproblem**: Knappheit der Güter bei unbegrenzten Bedürfnissen → wirtschaften (Bedürfnis → Bedarf → Nachfrage).\n**Freie Marktwirtschaft**: Privateigentum, Preis steuert über Angebot/Nachfrage, Staat nur Rahmen (Nachtwächterstaat). + Effizienz, Freiheit · − soziale Ungleichheit, Monopolbildung.\n**Zentralverwaltungswirtschaft**: zentrale Planbehörde, Kollektiveigentum, Preise festgelegt. + soziale Sicherheit · − Ineffizienz, kaum Anreize, Mangel.\n**Soziale Marktwirtschaft** (Deutschland; Müller-Armack, Erhard): Marktwirtschaft + sozialer Ausgleich: Sozialversicherung, Kartellrecht, Tarifautonomie, Mitbestimmung, Umwelt-/Verbraucherschutz.\n**Wirtschaftssektoren**: primär (Landwirtschaft), sekundär (Industrie, Handwerk), tertiär (Dienstleistungen – Werbeagentur!).\n**Wirtschaftssubjekte**: private Haushalte, Unternehmen, Staat, Ausland.\n"
+   }
+  }
+ ]
+}
