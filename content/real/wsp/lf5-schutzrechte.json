@@ -1,0 +1,556 @@
+{
+ "demo": false,
+ "items": [
+  {
+   "topic": "wsp-lf5-schutzrechte",
+   "flashcards": [
+    {
+     "key": "wsp-lf5-schutzrechte-c01",
+     "front": "Was schützt eine Marke?",
+     "back": "Zeichen (Wort, Bild, Klang, Farbe), die Waren oder Dienstleistungen eines Unternehmens von anderen unterscheiden."
+    },
+    {
+     "key": "wsp-lf5-schutzrechte-c02",
+     "front": "Schutzdauer einer Marke?",
+     "back": "10 Jahre ab Anmeldung, beliebig oft um je 10 Jahre verlängerbar."
+    },
+    {
+     "key": "wsp-lf5-schutzrechte-c03",
+     "front": "Wo wird eine Marke in Deutschland angemeldet?",
+     "back": "Beim Deutschen Patent- und Markenamt (DPMA); EU-weit beim EUIPO."
+    },
+    {
+     "key": "wsp-lf5-schutzrechte-c04",
+     "front": "Was ist Verkehrsgeltung?",
+     "back": "Ein Zeichen wird durch Benutzung im Markt als Hinweis auf ein Unternehmen bekannt – Schutz ohne Eintragung."
+    },
+    {
+     "key": "wsp-lf5-schutzrechte-c05",
+     "front": "Wann kann eine Marke nicht eingetragen werden?",
+     "back": "Bei fehlender Unterscheidungskraft, Freihaltebedürfnis (beschreibende Angaben) oder Täuschungsgefahr."
+    },
+    {
+     "key": "wsp-lf5-schutzrechte-c06",
+     "front": "Was schützt ein Patent?",
+     "back": "Technische Erfindungen, die neu, erfinderisch und gewerblich anwendbar sind."
+    },
+    {
+     "key": "wsp-lf5-schutzrechte-c07",
+     "front": "Schutzdauer Patent?",
+     "back": "20 Jahre ab Anmeldung."
+    },
+    {
+     "key": "wsp-lf5-schutzrechte-c08",
+     "front": "Was ist ein Gebrauchsmuster?",
+     "back": "Ein „kleines Patent“ für technische Neuerungen, Schutzdauer max. 10 Jahre, Eintragung ohne volle Prüfung."
+    },
+    {
+     "key": "wsp-lf5-schutzrechte-c09",
+     "front": "Was schützt ein eingetragenes Design?",
+     "back": "Die Gestaltung (Form, Farbe, Oberfläche) eines Erzeugnisses; max. 25 Jahre."
+    },
+    {
+     "key": "wsp-lf5-schutzrechte-c10",
+     "front": "Was ist ein Werk im Sinne des Urheberrechts?",
+     "back": "Eine persönliche geistige Schöpfung mit individueller Prägung (Schöpfungshöhe)."
+    },
+    {
+     "key": "wsp-lf5-schutzrechte-c11",
+     "front": "Wann entsteht das Urheberrecht?",
+     "back": "Automatisch mit der Schaffung des Werkes – ohne Anmeldung oder Eintragung."
+    },
+    {
+     "key": "wsp-lf5-schutzrechte-c12",
+     "front": "Schutzdauer Urheberrecht?",
+     "back": "70 Jahre nach dem Tod des Urhebers."
+    },
+    {
+     "key": "wsp-lf5-schutzrechte-c13",
+     "front": "Wer kann Urheber sein?",
+     "back": "Nur der Schöpfer als natürliche Person – das Urheberrecht ist nicht übertragbar."
+    },
+    {
+     "key": "wsp-lf5-schutzrechte-c14",
+     "front": "Was kann der Urheber übertragen?",
+     "back": "Nutzungsrechte (einfach oder ausschließlich, zeitlich/räumlich/inhaltlich beschränkbar)."
+    },
+    {
+     "key": "wsp-lf5-schutzrechte-c15",
+     "front": "Einfaches vs. ausschließliches Nutzungsrecht?",
+     "back": "Einfach: mehrere Nutzer möglich. Ausschließlich: nur der Inhaber darf nutzen (auch der Urheber nicht)."
+    },
+    {
+     "key": "wsp-lf5-schutzrechte-c16",
+     "front": "Was ist das Urheberpersönlichkeitsrecht?",
+     "back": "Recht auf Namensnennung, Veröffentlichung und Schutz vor Entstellung des Werkes."
+    },
+    {
+     "key": "wsp-lf5-schutzrechte-c17",
+     "front": "Was bedeutet Urheberbenennung?",
+     "back": "Der Urheber muss genannt werden (z. B. Bildnachweis)."
+    },
+    {
+     "key": "wsp-lf5-schutzrechte-c18",
+     "front": "Was ist das Zitatrecht?",
+     "back": "Kleine Teile eines Werkes dürfen mit Quellenangabe zu einem Zitatzweck verwendet werden."
+    },
+    {
+     "key": "wsp-lf5-schutzrechte-c19",
+     "front": "Ist ein Werbeslogan urheberrechtlich geschützt?",
+     "back": "Nur, wenn er die nötige Schöpfungshöhe erreicht – kurze Slogans oft nicht (besser als Marke eintragen)."
+    },
+    {
+     "key": "wsp-lf5-schutzrechte-c20",
+     "front": "Welche Rechtsfolgen drohen bei Schutzrechtsverletzung?",
+     "back": "Abmahnung, Unterlassung, Beseitigung, Schadensersatz."
+    },
+    {
+     "key": "wsp-lf5-schutzrechte-c21",
+     "front": "Was ist eine Abmahnung?",
+     "back": "Aufforderung, ein rechtswidriges Verhalten zu unterlassen, meist mit strafbewehrter Unterlassungserklärung."
+    },
+    {
+     "key": "wsp-lf5-schutzrechte-c22",
+     "front": "Was ist die Lizenz?",
+     "back": "Erlaubnis zur Nutzung eines Schutzrechts gegen Entgelt."
+    },
+    {
+     "key": "wsp-lf5-schutzrechte-c23",
+     "front": "Was ist die Panoramafreiheit?",
+     "back": "Bauwerke und Kunstwerke im öffentlichen Raum dürfen von außen fotografiert und veröffentlicht werden."
+    }
+   ],
+   "glossary": [
+    {
+     "key": "wsp-lf5-schutzrechte-g01",
+     "term": "Urheber",
+     "definition": "Schöpfer eines Werks; immer eine natürliche Person."
+    },
+    {
+     "key": "wsp-lf5-schutzrechte-g02",
+     "term": "Nutzungsrecht",
+     "definition": "Erlaubnis des Urhebers, sein Werk zu nutzen."
+    },
+    {
+     "key": "wsp-lf5-schutzrechte-g03",
+     "term": "DPMA",
+     "definition": "Deutsches Patent- und Markenamt."
+    },
+    {
+     "key": "wsp-lf5-schutzrechte-g04",
+     "term": "Schöpfungshöhe",
+     "definition": "Grad an Individualität, der ein Werk urheberrechtlich schutzfähig macht."
+    },
+    {
+     "key": "wsp-lf5-schutzrechte-g05",
+     "term": "Lizenz",
+     "definition": "Erlaubnis zur Nutzung eines Schutzrechts."
+    },
+    {
+     "key": "wsp-lf5-schutzrechte-g06",
+     "term": "Abmahnung",
+     "definition": "Aufforderung zur Unterlassung einer Rechtsverletzung."
+    }
+   ],
+   "questions": [
+    {
+     "key": "wsp-lf5-schutzrechte-q01",
+     "type": "mc",
+     "exam_part": 3,
+     "difficulty": 2,
+     "source": "WSP LF5 Werberecht (Unterricht)",
+     "body": {
+      "prompt": "Wie lange dauert der Urheberrechtsschutz?",
+      "options": [
+       {
+        "text": "70 Jahre nach dem Tod des Urhebers",
+        "correct": true
+       },
+       {
+        "text": "10 Jahre nach Veröffentlichung",
+        "correct": false
+       },
+       {
+        "text": "20 Jahre nach der Schöpfung",
+        "correct": false
+       },
+       {
+        "text": "25 Jahre nach der Anmeldung",
+        "correct": false
+       },
+       {
+        "text": "Unbegrenzt",
+        "correct": false
+       }
+      ]
+     }
+    },
+    {
+     "key": "wsp-lf5-schutzrechte-q02",
+     "type": "mc",
+     "exam_part": 3,
+     "difficulty": 2,
+     "source": "WSP LF5 Werberecht (Unterricht)",
+     "body": {
+      "prompt": "Wie lange gilt der Markenschutz (verlängerbar)?",
+      "options": [
+       {
+        "text": "10 Jahre",
+        "correct": true
+       },
+       {
+        "text": "5 Jahre",
+        "correct": false
+       },
+       {
+        "text": "20 Jahre",
+        "correct": false
+       },
+       {
+        "text": "50 Jahre",
+        "correct": false
+       },
+       {
+        "text": "70 Jahre",
+        "correct": false
+       }
+      ]
+     }
+    },
+    {
+     "key": "wsp-lf5-schutzrechte-q03",
+     "type": "mc",
+     "exam_part": 3,
+     "difficulty": 2,
+     "source": "WSP LF5 Werberecht (Unterricht)",
+     "body": {
+      "prompt": "Wann entsteht das Urheberrecht an einem Foto?",
+      "options": [
+       {
+        "text": "Mit der Schaffung – ohne Anmeldung",
+        "correct": true
+       },
+       {
+        "text": "Mit der Eintragung beim DPMA",
+        "correct": false
+       },
+       {
+        "text": "Mit der Veröffentlichung",
+        "correct": false
+       },
+       {
+        "text": "Mit der Zahlung einer Gebühr",
+        "correct": false
+       },
+       {
+        "text": "Mit der Einwilligung des Auftraggebers",
+        "correct": false
+       }
+      ]
+     }
+    },
+    {
+     "key": "wsp-lf5-schutzrechte-q04",
+     "type": "mc",
+     "exam_part": 3,
+     "difficulty": 2,
+     "source": "WSP LF5 Werberecht (Unterricht)",
+     "body": {
+      "prompt": "Die FAMK beauftragt eine Fotografin. Wer ist Urheber der Fotos?",
+      "options": [
+       {
+        "text": "Die Fotografin – nur Nutzungsrechte können übertragen werden.",
+        "correct": true
+       },
+       {
+        "text": "Die FAMK, weil sie bezahlt",
+        "correct": false
+       },
+       {
+        "text": "Der Kunde der FAMK",
+        "correct": false
+       },
+       {
+        "text": "Beide gemeinsam",
+        "correct": false
+       },
+       {
+        "text": "Niemand",
+        "correct": false
+       }
+      ]
+     }
+    },
+    {
+     "key": "wsp-lf5-schutzrechte-q05",
+     "type": "mc",
+     "exam_part": 3,
+     "difficulty": 2,
+     "source": "WSP LF5 Werberecht (Unterricht)",
+     "body": {
+      "prompt": "Welche Aussage zu Nutzungsrechten ist richtig?",
+      "options": [
+       {
+        "text": "Ein ausschließliches Nutzungsrecht erlaubt nur dem Inhaber die Nutzung.",
+        "correct": true
+       },
+       {
+        "text": "Nutzungsrechte sind immer unbegrenzt.",
+        "correct": false
+       },
+       {
+        "text": "Das Urheberrecht selbst ist übertragbar.",
+        "correct": false
+       },
+       {
+        "text": "Einfache Nutzungsrechte schließen andere Nutzer aus.",
+        "correct": false
+       },
+       {
+        "text": "Nutzungsrechte entstehen nur durch Eintragung.",
+        "correct": false
+       }
+      ]
+     }
+    },
+    {
+     "key": "wsp-lf5-schutzrechte-q06",
+     "type": "mc",
+     "exam_part": 3,
+     "difficulty": 2,
+     "source": "WSP LF5 Werberecht (Unterricht)",
+     "body": {
+      "prompt": "Welches Schutzrecht eignet sich für das Logo einer neuen Agentur?",
+      "options": [
+       {
+        "text": "Marke",
+        "correct": true
+       },
+       {
+        "text": "Patent",
+        "correct": false
+       },
+       {
+        "text": "Gebrauchsmuster",
+        "correct": false
+       },
+       {
+        "text": "Urheberrecht allein",
+        "correct": false
+       },
+       {
+        "text": "Haftungsbeschränkung",
+        "correct": false
+       }
+      ]
+     }
+    },
+    {
+     "key": "wsp-lf5-schutzrechte-q07",
+     "type": "mc",
+     "exam_part": 3,
+     "difficulty": 2,
+     "source": "WSP LF5 Werberecht (Unterricht)",
+     "body": {
+      "prompt": "Welches Schutzrecht schützt eine technische Erfindung?",
+      "options": [
+       {
+        "text": "Patent",
+        "correct": true
+       },
+       {
+        "text": "Marke",
+        "correct": false
+       },
+       {
+        "text": "Design",
+        "correct": false
+       },
+       {
+        "text": "Urheberrecht",
+        "correct": false
+       },
+       {
+        "text": "Geschmacksmuster",
+        "correct": false
+       }
+      ]
+     }
+    },
+    {
+     "key": "wsp-lf5-schutzrechte-q08",
+     "type": "mc",
+     "exam_part": 3,
+     "difficulty": 2,
+     "source": "WSP LF5 Werberecht (Unterricht)",
+     "body": {
+      "prompt": "Welches Schutzrecht schützt die äußere Gestalt einer neuen Flaschenform?",
+      "options": [
+       {
+        "text": "Design",
+        "correct": true
+       },
+       {
+        "text": "Patent",
+        "correct": false
+       },
+       {
+        "text": "Gebrauchsmuster",
+        "correct": false
+       },
+       {
+        "text": "Marke ausschließlich",
+        "correct": false
+       },
+       {
+        "text": "Urheberpersönlichkeitsrecht",
+        "correct": false
+       }
+      ]
+     }
+    },
+    {
+     "key": "wsp-lf5-schutzrechte-q09",
+     "type": "match",
+     "exam_part": 3,
+     "difficulty": 2,
+     "source": "WSP LF5 Werberecht (Unterricht)",
+     "body": {
+      "prompt": "Ordnen Sie das Schutzrecht dem Schutzgegenstand zu.",
+      "items": [
+       {
+        "term": "Marke",
+        "match": "Zeichen zur Unterscheidung von Waren"
+       },
+       {
+        "term": "Patent",
+        "match": "Technische Erfindung"
+       },
+       {
+        "term": "Design",
+        "match": "Gestaltung eines Erzeugnisses"
+       },
+       {
+        "term": "Urheberrecht",
+        "match": "Persönliche geistige Schöpfung"
+       }
+      ],
+      "distractors": []
+     }
+    },
+    {
+     "key": "wsp-lf5-schutzrechte-q10",
+     "type": "match",
+     "exam_part": 3,
+     "difficulty": 2,
+     "source": "WSP LF5 Werberecht (Unterricht)",
+     "body": {
+      "prompt": "Ordnen Sie die Schutzdauer zu.",
+      "items": [
+       {
+        "term": "Patent",
+        "match": "20 Jahre"
+       },
+       {
+        "term": "Gebrauchsmuster",
+        "match": "10 Jahre"
+       },
+       {
+        "term": "Urheberrecht",
+        "match": "70 Jahre nach dem Tod"
+       },
+       {
+        "term": "Design (max.)",
+        "match": "25 Jahre"
+       }
+      ],
+      "distractors": [
+       "5 Jahre"
+      ]
+     }
+    },
+    {
+     "key": "wsp-lf5-schutzrechte-q11",
+     "type": "tf",
+     "exam_part": 3,
+     "difficulty": 2,
+     "explanation": "Nur Nutzungsrechte sind übertragbar.",
+     "source": "WSP LF5 Werberecht (Unterricht)",
+     "body": {
+      "statement": "Das Urheberrecht kann auf eine andere Person übertragen werden.",
+      "answer": false
+     }
+    },
+    {
+     "key": "wsp-lf5-schutzrechte-q12",
+     "type": "tf",
+     "exam_part": 3,
+     "difficulty": 2,
+     "source": "WSP LF5 Werberecht (Unterricht)",
+     "body": {
+      "statement": "Marken müssen beim DPMA eingetragen werden, um Schutz zu genießen – abgesehen von Verkehrsgeltung.",
+      "answer": true
+     }
+    },
+    {
+     "key": "wsp-lf5-schutzrechte-q13",
+     "type": "tf",
+     "exam_part": 3,
+     "difficulty": 2,
+     "source": "WSP LF5 Werberecht (Unterricht)",
+     "body": {
+      "statement": "Eine Fotografin muss nach Bezahlung nie mehr genannt werden.",
+      "answer": false
+     }
+    },
+    {
+     "key": "wsp-lf5-schutzrechte-q14",
+     "type": "cloze",
+     "exam_part": 3,
+     "difficulty": 2,
+     "source": "WSP LF5 Werberecht (Unterricht)",
+     "body": {
+      "text": "Das [[Urheberrecht]] entsteht ohne Anmeldung, die [[Marke]] wird in der Regel durch Eintragung geschützt."
+     }
+    },
+    {
+     "key": "wsp-lf5-schutzrechte-q15",
+     "type": "error",
+     "exam_part": 3,
+     "difficulty": 2,
+     "source": "WSP LF5 Werberecht (Unterricht)",
+     "body": {
+      "prompt": "Welche Aussagen zu Schutzrechten sind fehlerhaft?",
+      "items": [
+       {
+        "text": "Ein Patent schützt technische Erfindungen für 20 Jahre.",
+        "wrong": false
+       },
+       {
+        "text": "Das Urheberrecht wird beim DPMA eingetragen.",
+        "wrong": true,
+        "fix": "Es entsteht automatisch mit der Schaffung."
+       },
+       {
+        "text": "Nutzungsrechte sind übertragbar.",
+        "wrong": false
+       },
+       {
+        "text": "Eine Marke schützt nur Technik.",
+        "wrong": true,
+        "fix": "Sie schützt unterscheidende Zeichen."
+       }
+      ]
+     }
+    }
+   ],
+   "templates": [],
+   "cases": [],
+   "summary": {
+    "key": "wsp-lf5-schutzrechte-zettel",
+    "title": "Schutzrechte: Marke, Patent, Design & Urheberrecht",
+    "content_md": "\n| Recht | Schützt | Dauer | Register/Entstehung |\n|---|---|---|---|\n| **Marke** (MarkenG) | Zeichen, die Waren/Dienste unterscheiden (Wort, Bild, Klang, Farbe …) | **10 Jahre, beliebig verlängerbar** | Eintragung **DPMA** (EU: EUIPO); auch durch Benutzung/Verkehrsgeltung |\n| **Patent** | technische Erfindung (neu, erfinderisch, gewerblich anwendbar) | **20 Jahre** | Anmeldung DPMA |\n| **Gebrauchsmuster** | „kleines Patent“, technische Neuerung | **10 Jahre** | Eintragung, keine Prüfung auf Neuheit im Detail |\n| **Design** (DesignG) | Aussehen eines Erzeugnisses (Form, Farbe) | **bis 25 Jahre** (5-Jahres-Perioden) | Eintragung DPMA |\n| **Urheberrecht** (UrhG) | persönliche geistige Schöpfungen (Text, Foto, Musik, Film, Werbeslogan nur bei Schöpfungshöhe) | **70 Jahre nach Tod** des Urhebers | **entsteht mit Schaffung**, keine Anmeldung |\n\n**Urheberrecht**: Urheber ist immer der **Schöpfer (natürliche Person)**, nicht übertragbar; übertragbar sind **Nutzungsrechte** (einfach/ausschließlich; zeitlich, räumlich, inhaltlich beschränkbar). **Urheberpersönlichkeitsrecht**: Namensnennung, Schutz vor Entstellung. Zitatrecht, Panoramafreiheit, Schranken (private Kopie).\n**Markenschutz-Hindernisse**: fehlende Unterscheidungskraft, Freihaltebedürfnis, Täuschungsgefahr.\n**Rechtsfolgen** bei Verletzung: Unterlassung, Beseitigung, Schadensersatz, Abmahnung.\n"
+   }
+  }
+ ]
+}

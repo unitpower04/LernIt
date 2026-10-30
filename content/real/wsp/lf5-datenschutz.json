@@ -1,0 +1,472 @@
+{
+ "demo": false,
+ "items": [
+  {
+   "topic": "wsp-lf5-datenschutz",
+   "flashcards": [
+    {
+     "key": "wsp-lf5-datenschutz-c01",
+     "front": "Wofür steht DSGVO?",
+     "back": "Datenschutz-Grundverordnung – EU-weite Regeln zum Schutz personenbezogener Daten."
+    },
+    {
+     "key": "wsp-lf5-datenschutz-c02",
+     "front": "Was sind personenbezogene Daten?",
+     "back": "Alle Informationen, die sich auf eine identifizierte oder identifizierbare Person beziehen (Name, E-Mail, IP-Adresse, Foto)."
+    },
+    {
+     "key": "wsp-lf5-datenschutz-c03",
+     "front": "Besonders sensible Daten?",
+     "back": "Gesundheit, Religion, politische Meinung, Gewerkschaft, biometrische/genetische Daten, Sexualleben."
+    },
+    {
+     "key": "wsp-lf5-datenschutz-c04",
+     "front": "Was bedeutet Zweckbindung?",
+     "back": "Daten dürfen nur für den Zweck genutzt werden, für den sie erhoben wurden."
+    },
+    {
+     "key": "wsp-lf5-datenschutz-c05",
+     "front": "Was bedeutet Datenminimierung?",
+     "back": "Es dürfen nur so viele Daten erhoben werden, wie für den Zweck nötig sind."
+    },
+    {
+     "key": "wsp-lf5-datenschutz-c06",
+     "front": "Was ist eine wirksame Einwilligung?",
+     "back": "Freiwillig, informiert, eindeutig und jederzeit widerrufbar."
+    },
+    {
+     "key": "wsp-lf5-datenschutz-c07",
+     "front": "Nenne Rechtsgrundlagen der Datenverarbeitung.",
+     "back": "Einwilligung, Vertrag, rechtliche Verpflichtung, lebenswichtige Interessen, öffentliche Aufgabe, berechtigtes Interesse."
+    },
+    {
+     "key": "wsp-lf5-datenschutz-c08",
+     "front": "Nenne Betroffenenrechte.",
+     "back": "Auskunft, Berichtigung, Löschung, Einschränkung, Datenübertragbarkeit, Widerspruch."
+    },
+    {
+     "key": "wsp-lf5-datenschutz-c09",
+     "front": "Was ist das Recht auf Vergessenwerden?",
+     "back": "Recht auf Löschung personenbezogener Daten, wenn kein Grund zur Speicherung mehr besteht."
+    },
+    {
+     "key": "wsp-lf5-datenschutz-c10",
+     "front": "Wann ist ein Datenschutzbeauftragter nötig?",
+     "back": "Wenn mindestens 20 Personen ständig mit automatisierter Datenverarbeitung beschäftigt sind (oder besondere Datenarten)."
+    },
+    {
+     "key": "wsp-lf5-datenschutz-c11",
+     "front": "Frist zur Meldung einer Datenpanne?",
+     "back": "Binnen 72 Stunden an die Aufsichtsbehörde."
+    },
+    {
+     "key": "wsp-lf5-datenschutz-c12",
+     "front": "Wie hoch ist das maximale Bußgeld nach DSGVO?",
+     "back": "Bis 20 Mio. € oder 4 % des weltweiten Jahresumsatzes (der höhere Betrag)."
+    },
+    {
+     "key": "wsp-lf5-datenschutz-c13",
+     "front": "Wann braucht man eine Cookie-Einwilligung?",
+     "back": "Für nicht notwendige Cookies (Tracking/Marketing) – aktives Opt-in."
+    },
+    {
+     "key": "wsp-lf5-datenschutz-c14",
+     "front": "Was muss eine Datenschutzerklärung enthalten?",
+     "back": "Verantwortlicher, Zwecke, Rechtsgrundlagen, Empfänger, Speicherdauer, Betroffenenrechte."
+    },
+    {
+     "key": "wsp-lf5-datenschutz-c15",
+     "front": "Was regelt das Recht am eigenen Bild?",
+     "back": "Wer abgebildet ist, entscheidet, ob sein Bild verbreitet werden darf (§ 22 KUG)."
+    },
+    {
+     "key": "wsp-lf5-datenschutz-c16",
+     "front": "Ausnahmen vom Recht am eigenen Bild?",
+     "back": "Personen der Zeitgeschichte, Beiwerk, Versammlungen, höheres Interesse der Kunst."
+    },
+    {
+     "key": "wsp-lf5-datenschutz-c17",
+     "front": "Was ist ein Model Release?",
+     "back": "Schriftliche Einwilligung des Models in Verwendung und Veröffentlichung der Bilder."
+    },
+    {
+     "key": "wsp-lf5-datenschutz-c18",
+     "front": "Fotos mit Minderjährigen – was gilt?",
+     "back": "Einwilligung der Erziehungsberechtigten erforderlich (je nach Alter auch des Kindes)."
+    },
+    {
+     "key": "wsp-lf5-datenschutz-c19",
+     "front": "Kann eine Einwilligung zurückgenommen werden?",
+     "back": "Ja – jederzeit mit Wirkung für die Zukunft."
+    },
+    {
+     "key": "wsp-lf5-datenschutz-c20",
+     "front": "Was ist Auftragsverarbeitung?",
+     "back": "Ein Dienstleister verarbeitet Daten im Auftrag – Vertrag (AVV) nötig."
+    }
+   ],
+   "glossary": [
+    {
+     "key": "wsp-lf5-datenschutz-g01",
+     "term": "DSGVO",
+     "definition": "EU-Datenschutz-Grundverordnung."
+    },
+    {
+     "key": "wsp-lf5-datenschutz-g02",
+     "term": "Personenbezogene Daten",
+     "definition": "Informationen über identifizierbare Personen."
+    },
+    {
+     "key": "wsp-lf5-datenschutz-g03",
+     "term": "Einwilligung",
+     "definition": "Freiwillige, informierte Zustimmung zur Datenverarbeitung."
+    },
+    {
+     "key": "wsp-lf5-datenschutz-g04",
+     "term": "Model Release",
+     "definition": "Einverständniserklärung eines Models zur Bildverwendung."
+    },
+    {
+     "key": "wsp-lf5-datenschutz-g05",
+     "term": "Datenpanne",
+     "definition": "Verletzung des Schutzes personenbezogener Daten."
+    }
+   ],
+   "questions": [
+    {
+     "key": "wsp-lf5-datenschutz-q01",
+     "type": "mc",
+     "exam_part": 3,
+     "difficulty": 2,
+     "source": "WSP LF5 Werberecht (Unterricht)",
+     "body": {
+      "prompt": "Welcher Grundsatz besagt, dass Daten nur für den ursprünglichen Zweck verwendet werden dürfen?",
+      "options": [
+       {
+        "text": "Zweckbindung",
+        "correct": true
+       },
+       {
+        "text": "Datenminimierung",
+        "correct": false
+       },
+       {
+        "text": "Speicherbegrenzung",
+        "correct": false
+       },
+       {
+        "text": "Richtigkeit",
+        "correct": false
+       },
+       {
+        "text": "Transparenz",
+        "correct": false
+       }
+      ]
+     }
+    },
+    {
+     "key": "wsp-lf5-datenschutz-q02",
+     "type": "mc",
+     "exam_part": 3,
+     "difficulty": 2,
+     "source": "WSP LF5 Werberecht (Unterricht)",
+     "body": {
+      "prompt": "Die FAMK will Kundendaten für einen Newsletter nutzen. Was ist die sicherste Rechtsgrundlage?",
+      "options": [
+       {
+        "text": "Ausdrückliche Einwilligung (Double-Opt-in)",
+        "correct": true
+       },
+       {
+        "text": "Stillschweigen der Kunden",
+        "correct": false
+       },
+       {
+        "text": "Das Einverständnis der Geschäftsführung",
+        "correct": false
+       },
+       {
+        "text": "Die Visitenkarte reicht immer",
+        "correct": false
+       },
+       {
+        "text": "Keine, weil Marketing erlaubt ist",
+        "correct": false
+       }
+      ]
+     }
+    },
+    {
+     "key": "wsp-lf5-datenschutz-q03",
+     "type": "mc",
+     "exam_part": 3,
+     "difficulty": 2,
+     "source": "WSP LF5 Werberecht (Unterricht)",
+     "body": {
+      "prompt": "Wie hoch kann das Bußgeld bei schweren DSGVO-Verstößen maximal sein?",
+      "options": [
+       {
+        "text": "20 Mio. € oder 4 % des weltweiten Jahresumsatzes",
+        "correct": true
+       },
+       {
+        "text": "500 €",
+        "correct": false
+       },
+       {
+        "text": "10.000 €",
+        "correct": false
+       },
+       {
+        "text": "1 Mio. €",
+        "correct": false
+       },
+       {
+        "text": "100 % des Umsatzes",
+        "correct": false
+       }
+      ]
+     }
+    },
+    {
+     "key": "wsp-lf5-datenschutz-q04",
+     "type": "mc",
+     "exam_part": 3,
+     "difficulty": 2,
+     "source": "WSP LF5 Werberecht (Unterricht)",
+     "body": {
+      "prompt": "Innerhalb welcher Frist ist eine Datenpanne der Aufsichtsbehörde zu melden?",
+      "options": [
+       {
+        "text": "72 Stunden",
+        "correct": true
+       },
+       {
+        "text": "24 Stunden",
+        "correct": false
+       },
+       {
+        "text": "7 Tage",
+        "correct": false
+       },
+       {
+        "text": "30 Tage",
+        "correct": false
+       },
+       {
+        "text": "Gar nicht",
+        "correct": false
+       }
+      ]
+     }
+    },
+    {
+     "key": "wsp-lf5-datenschutz-q05",
+     "type": "mc",
+     "exam_part": 3,
+     "difficulty": 2,
+     "source": "WSP LF5 Werberecht (Unterricht)",
+     "body": {
+      "prompt": "Eine Agentur nutzt für eine Plakatkampagne das Foto einer Passantin ohne Einwilligung. Was gilt?",
+      "options": [
+       {
+        "text": "Das verletzt das Recht am eigenen Bild – eine Einwilligung ist nötig.",
+        "correct": true
+       },
+       {
+        "text": "Es ist erlaubt, wenn die Passantin im öffentlichen Raum fotografiert wurde.",
+        "correct": false
+       },
+       {
+        "text": "Es ist erlaubt, weil die Kampagne Werbung ist.",
+        "correct": false
+       },
+       {
+        "text": "Nur Kinder müssen einwilligen.",
+        "correct": false
+       },
+       {
+        "text": "Eine Einwilligung ist nur bei Prominenten nötig.",
+        "correct": false
+       }
+      ]
+     }
+    },
+    {
+     "key": "wsp-lf5-datenschutz-q06",
+     "type": "mc",
+     "exam_part": 3,
+     "difficulty": 2,
+     "source": "WSP LF5 Werberecht (Unterricht)",
+     "body": {
+      "prompt": "Welche Person kann ohne Einwilligung abgebildet werden (§ 23 KUG)?",
+      "options": [
+       {
+        "text": "Eine Person als Beiwerk neben einer Landschaft",
+        "correct": true
+       },
+       {
+        "text": "Ein Model in einer Werbekampagne",
+        "correct": false
+       },
+       {
+        "text": "Eine Kundin im Geschäft",
+        "correct": false
+       },
+       {
+        "text": "Ein Kind beim Spielplatzfoto für Werbung",
+        "correct": false
+       },
+       {
+        "text": "Ein Mitarbeiter im Prospekt",
+        "correct": false
+       }
+      ]
+     }
+    },
+    {
+     "key": "wsp-lf5-datenschutz-q07",
+     "type": "mc",
+     "exam_part": 3,
+     "difficulty": 2,
+     "source": "WSP LF5 Werberecht (Unterricht)",
+     "body": {
+      "prompt": "Welches Recht umfasst die Möglichkeit, die Daten löschen zu lassen?",
+      "options": [
+       {
+        "text": "Recht auf Löschung (Recht auf Vergessenwerden)",
+        "correct": true
+       },
+       {
+        "text": "Recht auf Auskunft",
+        "correct": false
+       },
+       {
+        "text": "Recht auf Datenübertragbarkeit",
+        "correct": false
+       },
+       {
+        "text": "Recht auf Zweckbindung",
+        "correct": false
+       },
+       {
+        "text": "Recht auf Widerspruch gegen Werbung",
+        "correct": false
+       }
+      ]
+     }
+    },
+    {
+     "key": "wsp-lf5-datenschutz-q08",
+     "type": "match",
+     "exam_part": 3,
+     "difficulty": 2,
+     "source": "WSP LF5 Werberecht (Unterricht)",
+     "body": {
+      "prompt": "Ordnen Sie jedes Recht der Beschreibung zu.",
+      "items": [
+       {
+        "term": "Auskunftsrecht",
+        "match": "Betroffene erfahren, welche Daten gespeichert sind"
+       },
+       {
+        "term": "Berichtigungsrecht",
+        "match": "Falsche Daten werden korrigiert"
+       },
+       {
+        "term": "Löschungsrecht",
+        "match": "Daten werden entfernt, wenn kein Speichergrund besteht"
+       },
+       {
+        "term": "Recht auf Datenübertragbarkeit",
+        "match": "Daten in gängigem Format zum Wechsel zu anderem Anbieter"
+       }
+      ],
+      "distractors": []
+     }
+    },
+    {
+     "key": "wsp-lf5-datenschutz-q09",
+     "type": "match",
+     "exam_part": 3,
+     "difficulty": 2,
+     "source": "WSP LF5 Werberecht (Unterricht)",
+     "body": {
+      "prompt": "Ordnen Sie den Grundsatz zu.",
+      "items": [
+       {
+        "term": "Zweckbindung",
+        "match": "Nutzung nur für den erhobenen Zweck"
+       },
+       {
+        "term": "Datenminimierung",
+        "match": "Nur notwendige Daten erheben"
+       },
+       {
+        "term": "Speicherbegrenzung",
+        "match": "Daten nicht länger als nötig aufbewahren"
+       },
+       {
+        "term": "Transparenz",
+        "match": "Betroffene werden verständlich informiert"
+       }
+      ],
+      "distractors": []
+     }
+    },
+    {
+     "key": "wsp-lf5-datenschutz-q10",
+     "type": "tf",
+     "exam_part": 3,
+     "difficulty": 2,
+     "source": "WSP LF5 Werberecht (Unterricht)",
+     "body": {
+      "statement": "Eine einmal erteilte Einwilligung kann nicht widerrufen werden.",
+      "answer": false
+     }
+    },
+    {
+     "key": "wsp-lf5-datenschutz-q11",
+     "type": "tf",
+     "exam_part": 3,
+     "difficulty": 2,
+     "source": "WSP LF5 Werberecht (Unterricht)",
+     "body": {
+      "statement": "Für Fotos von Minderjährigen ist eine Einwilligung der Erziehungsberechtigten erforderlich.",
+      "answer": true
+     }
+    },
+    {
+     "key": "wsp-lf5-datenschutz-q12",
+     "type": "tf",
+     "exam_part": 3,
+     "difficulty": 2,
+     "explanation": "Sie gilt für alle Verantwortlichen.",
+     "source": "WSP LF5 Werberecht (Unterricht)",
+     "body": {
+      "statement": "Die DSGVO gilt nur für große Unternehmen.",
+      "answer": false
+     }
+    },
+    {
+     "key": "wsp-lf5-datenschutz-q13",
+     "type": "cloze",
+     "exam_part": 3,
+     "difficulty": 2,
+     "source": "WSP LF5 Werberecht (Unterricht)",
+     "body": {
+      "text": "Die Einwilligung muss freiwillig, [[informiert]] und jederzeit [[widerrufbar]] sein."
+     }
+    }
+   ],
+   "templates": [],
+   "cases": [],
+   "summary": {
+    "key": "wsp-lf5-datenschutz-zettel",
+    "title": "Datenschutz (DSGVO) & Recht am eigenen Bild",
+    "content_md": "\n**DSGVO/BDSG – Grundsätze** (Art. 5): Rechtmäßigkeit, Transparenz, **Zweckbindung**, **Datenminimierung**, Richtigkeit, **Speicherbegrenzung**, Integrität und Vertraulichkeit, Rechenschaftspflicht.\n**Rechtmäßig** nur mit Rechtsgrundlage: **Einwilligung** (freiwillig, informiert, widerrufbar), Vertrag, rechtliche Pflicht, lebenswichtige Interessen, öffentliche Aufgabe, berechtigtes Interesse.\n**Betroffenenrechte**: Auskunft, Berichtigung, **Löschung** („Recht auf Vergessenwerden“), Einschränkung, Datenübertragbarkeit, **Widerspruch**, Beschwerde bei Aufsichtsbehörde.\n**Pflichten**: Verzeichnis von Verarbeitungstätigkeiten, **Datenschutzbeauftragter** (ab 20 Personen, die ständig Daten automatisiert verarbeiten), Meldung von Datenpannen binnen **72 Stunden**, Datenschutzerklärung (Website), Cookie-Einwilligung.\n**Bußgeld**: bis **20 Mio. € oder 4 % des weltweiten Jahresumsatzes**.\n\n**Recht am eigenen Bild** (§§ 22, 23 KUG): Bilder dürfen nur mit **Einwilligung** der abgebildeten Person verbreitet werden. Ausnahmen: Personen der Zeitgeschichte, Beiwerk, Versammlungen, Kunst/Bildung. Bei **Minderjährigen** Einwilligung der Eltern (und ggf. des Kindes); Widerruf möglich. Models: **Model Release**.\n"
+   }
+  }
+ ]
+}

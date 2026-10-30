@@ -1,0 +1,677 @@
+{
+ "demo": false,
+ "items": [
+  {
+   "topic": "wsp-lf3-finanzierung",
+   "flashcards": [
+    {
+     "key": "wsp-lf3-finanzierung-c01",
+     "front": "Außen- vs. Innenfinanzierung?",
+     "back": "Außen: Kapital kommt von außerhalb (Einlagen, Kredite). Innen: aus dem Umsatzprozess (Gewinne, Abschreibungen, Rückstellungen)."
+    },
+    {
+     "key": "wsp-lf3-finanzierung-c02",
+     "front": "Eigen- vs. Fremdfinanzierung?",
+     "back": "Eigen: Eigenkapital ohne Rückzahlungspflicht, haftet. Fremd: Kredit mit Zins und Tilgung."
+    },
+    {
+     "key": "wsp-lf3-finanzierung-c03",
+     "front": "Beispiel Selbstfinanzierung?",
+     "back": "Gewinne werden nicht ausgeschüttet, sondern im Unternehmen belassen (Gewinnthesaurierung)."
+    },
+    {
+     "key": "wsp-lf3-finanzierung-c04",
+     "front": "Was ist Beteiligungsfinanzierung?",
+     "back": "Neue/zusätzliche Einlagen der Gesellschafter oder Aktienausgabe."
+    },
+    {
+     "key": "wsp-lf3-finanzierung-c05",
+     "front": "Nenne Formen der Innenfinanzierung.",
+     "back": "Selbstfinanzierung, Abschreibungsrückflüsse, Rückstellungen, Vermögensumschichtung."
+    },
+    {
+     "key": "wsp-lf3-finanzierung-c06",
+     "front": "Was ist ein Kontokorrentkredit?",
+     "back": "Kurzfristiger Überziehungskredit auf dem Girokonto – flexibel, aber teuer."
+    },
+    {
+     "key": "wsp-lf3-finanzierung-c07",
+     "front": "Was ist ein Darlehen?",
+     "back": "Zeitlich begrenzte Geldüberlassung mit festem Zins und Tilgung."
+    },
+    {
+     "key": "wsp-lf3-finanzierung-c08",
+     "front": "Annuitätendarlehen?",
+     "back": "Gleichbleibende Rate (Zins + Tilgung); Zinsanteil sinkt, Tilgungsanteil steigt."
+    },
+    {
+     "key": "wsp-lf3-finanzierung-c09",
+     "front": "Ratentilgung?",
+     "back": "Gleichbleibender Tilgungsbetrag; Gesamtrate sinkt, weil die Zinsen sinken."
+    },
+    {
+     "key": "wsp-lf3-finanzierung-c10",
+     "front": "Was ist ein Lieferantenkredit?",
+     "back": "Das Zahlungsziel des Lieferanten – Verzicht auf Skonto ist wirtschaftlich ein teurer Kredit."
+    },
+    {
+     "key": "wsp-lf3-finanzierung-c11",
+     "front": "Wie berechnet man den Jahreszins beim Skontoverzicht?",
+     "back": "Skonto % · 360 : (Zahlungsziel − Skontofrist in Tagen)."
+    },
+    {
+     "key": "wsp-lf3-finanzierung-c12",
+     "front": "Wann lohnt sich die Skontonutzung?",
+     "back": "Wenn der Skontozinssatz höher ist als der Zinssatz des Kontokorrentkredits."
+    },
+    {
+     "key": "wsp-lf3-finanzierung-c13",
+     "front": "Was ist Leasing?",
+     "back": "Gebrauchsüberlassung gegen Leasingraten; der Leasinggeber bleibt Eigentümer."
+    },
+    {
+     "key": "wsp-lf3-finanzierung-c14",
+     "front": "Vorteile des Leasings?",
+     "back": "Kein hoher Kapitaleinsatz, Liquidität, planbare Raten, Aktualität der Ausstattung."
+    },
+    {
+     "key": "wsp-lf3-finanzierung-c15",
+     "front": "Nachteile des Leasings?",
+     "back": "Oft insgesamt teurer, kein Eigentum, langfristige Bindung."
+    },
+    {
+     "key": "wsp-lf3-finanzierung-c16",
+     "front": "Was ist Factoring?",
+     "back": "Verkauf von Forderungen an einen Factor gegen sofortige Zahlung abzüglich Gebühren."
+    },
+    {
+     "key": "wsp-lf3-finanzierung-c17",
+     "front": "Vorteile des Factorings?",
+     "back": "Sofortige Liquidität, Ausfallschutz (echtes Factoring), Entlastung bei Debitorenbuchhaltung."
+    },
+    {
+     "key": "wsp-lf3-finanzierung-c18",
+     "front": "Was ist eine Bürgschaft?",
+     "back": "Personalsicherheit: Der Bürge haftet für die Schuld eines anderen (Schriftform!)."
+    },
+    {
+     "key": "wsp-lf3-finanzierung-c19",
+     "front": "Was ist eine Grundschuld?",
+     "back": "Realsicherheit: Pfandrecht an einem Grundstück zur Sicherung eines Kredits (Grundbuch)."
+    },
+    {
+     "key": "wsp-lf3-finanzierung-c20",
+     "front": "Was ist eine Sicherungsübereignung?",
+     "back": "Der Kreditgeber wird Eigentümer der Sache, der Kreditnehmer behält den Besitz."
+    },
+    {
+     "key": "wsp-lf3-finanzierung-c21",
+     "front": "Personal- vs. Realsicherheit?",
+     "back": "Personal: Person haftet (Bürgschaft). Real: Sache haftet (Grundschuld, Pfand)."
+    },
+    {
+     "key": "wsp-lf3-finanzierung-c22",
+     "front": "Was ist ein Kreditvertrag-Effektivzins?",
+     "back": "Gesamtkosten des Kredits pro Jahr inkl. Gebühren (Preisangabenverordnung)."
+    },
+    {
+     "key": "wsp-lf3-finanzierung-c23",
+     "front": "Was ist Tilgung?",
+     "back": "Rückzahlung des geliehenen Betrags (ohne Zinsen)."
+    },
+    {
+     "key": "wsp-lf3-finanzierung-c24",
+     "front": "Was ist Liquidität?",
+     "back": "Fähigkeit, Zahlungsverpflichtungen jederzeit termingerecht zu erfüllen."
+    },
+    {
+     "key": "wsp-lf3-finanzierung-c25",
+     "front": "Was ist Kapitalbindung?",
+     "back": "Geld, das in Anlagen/Vorräten festliegt und nicht frei verfügbar ist."
+    }
+   ],
+   "glossary": [
+    {
+     "key": "wsp-lf3-finanzierung-g01",
+     "term": "Annuität",
+     "definition": "Gleichbleibende jährliche Zahlung aus Zins und Tilgung."
+    },
+    {
+     "key": "wsp-lf3-finanzierung-g02",
+     "term": "Tilgung",
+     "definition": "Rückzahlung des Kreditbetrags."
+    },
+    {
+     "key": "wsp-lf3-finanzierung-g03",
+     "term": "Factoring",
+     "definition": "Forderungsverkauf an eine Factoringgesellschaft."
+    },
+    {
+     "key": "wsp-lf3-finanzierung-g04",
+     "term": "Leasing",
+     "definition": "Vermietung von Anlagegütern gegen Leasingraten."
+    },
+    {
+     "key": "wsp-lf3-finanzierung-g05",
+     "term": "Skonto",
+     "definition": "Preisnachlass bei Zahlung innerhalb einer kurzen Frist."
+    },
+    {
+     "key": "wsp-lf3-finanzierung-g06",
+     "term": "Bürgschaft",
+     "definition": "Personalsicherheit, bei der ein Dritter für die Schuld haftet."
+    },
+    {
+     "key": "wsp-lf3-finanzierung-g07",
+     "term": "Grundschuld",
+     "definition": "Grundpfandrecht zur Kreditsicherung."
+    }
+   ],
+   "questions": [
+    {
+     "key": "wsp-lf3-finanzierung-q01",
+     "type": "mc",
+     "exam_part": 3,
+     "difficulty": 2,
+     "source": "WSP LF3 Finanzierung (Unterricht)",
+     "body": {
+      "prompt": "Wodurch unterscheiden sich Außen- und Innenfinanzierung?",
+      "options": [
+       {
+        "text": "Bei der Innenfinanzierung stammt das Kapital aus dem Umsatzprozess des Unternehmens.",
+        "correct": true
+       },
+       {
+        "text": "Bei der Außenfinanzierung wird kein Kapital zugeführt.",
+        "correct": false
+       },
+       {
+        "text": "Innenfinanzierung ist immer Fremdkapital.",
+        "correct": false
+       },
+       {
+        "text": "Außenfinanzierung betrifft nur Gewinne.",
+        "correct": false
+       },
+       {
+        "text": "Es gibt keinen Unterschied.",
+        "correct": false
+       }
+      ]
+     }
+    },
+    {
+     "key": "wsp-lf3-finanzierung-q02",
+     "type": "mc",
+     "exam_part": 3,
+     "difficulty": 2,
+     "source": "WSP LF3 Finanzierung (Unterricht)",
+     "body": {
+      "prompt": "Welche Maßnahme ist Beteiligungsfinanzierung (Eigenfinanzierung von außen)?",
+      "options": [
+       {
+        "text": "Ein neuer Gesellschafter bringt 50.000 € in die GmbH ein.",
+        "correct": true
+       },
+       {
+        "text": "Die Bank gewährt ein Darlehen.",
+        "correct": false
+       },
+       {
+        "text": "Der Gewinn wird einbehalten.",
+        "correct": false
+       },
+       {
+        "text": "Die Agentur nimmt einen Kontokorrentkredit.",
+        "correct": false
+       },
+       {
+        "text": "Die Agentur least ein Fahrzeug.",
+        "correct": false
+       }
+      ]
+     }
+    },
+    {
+     "key": "wsp-lf3-finanzierung-q03",
+     "type": "mc",
+     "exam_part": 3,
+     "difficulty": 2,
+     "source": "WSP LF3 Finanzierung (Unterricht)",
+     "body": {
+      "prompt": "Welche Finanzierung ist Selbstfinanzierung?",
+      "options": [
+       {
+        "text": "Der Gewinn wird nicht ausgeschüttet und im Betrieb belassen.",
+        "correct": true
+       },
+       {
+        "text": "Aufnahme eines Bankkredits",
+        "correct": false
+       },
+       {
+        "text": "Ausgabe neuer Aktien",
+        "correct": false
+       },
+       {
+        "text": "Verkauf von Forderungen an einen Factor",
+        "correct": false
+       },
+       {
+        "text": "Lieferantenkredit",
+        "correct": false
+       }
+      ]
+     }
+    },
+    {
+     "key": "wsp-lf3-finanzierung-q04",
+     "type": "mc",
+     "exam_part": 3,
+     "difficulty": 2,
+     "source": "WSP LF3 Finanzierung (Unterricht)",
+     "body": {
+      "prompt": "Welche Aussage zum Factoring ist richtig?",
+      "options": [
+       {
+        "text": "Der Factor kauft Forderungen an und zahlt sofort, wodurch die Liquidität steigt.",
+        "correct": true
+       },
+       {
+        "text": "Der Factor liefert Waren auf Kredit.",
+        "correct": false
+       },
+       {
+        "text": "Factoring ist eine Realsicherheit.",
+        "correct": false
+       },
+       {
+        "text": "Der Kunde zahlt an den Lieferanten, nicht an den Factor.",
+        "correct": false
+       },
+       {
+        "text": "Factoring verursacht keine Kosten.",
+        "correct": false
+       }
+      ]
+     }
+    },
+    {
+     "key": "wsp-lf3-finanzierung-q05",
+     "type": "mc",
+     "exam_part": 3,
+     "difficulty": 2,
+     "source": "WSP LF3 Finanzierung (Unterricht)",
+     "body": {
+      "prompt": "Welche Aussage zu Leasing ist richtig?",
+      "options": [
+       {
+        "text": "Der Leasinggeber bleibt Eigentümer des Leasingguts.",
+        "correct": true
+       },
+       {
+        "text": "Der Leasingnehmer wird sofort Eigentümer.",
+        "correct": false
+       },
+       {
+        "text": "Leasing ist immer günstiger als Kauf.",
+        "correct": false
+       },
+       {
+        "text": "Leasingraten sind keine Betriebsausgaben.",
+        "correct": false
+       },
+       {
+        "text": "Leasing erhöht die Kapitalbindung.",
+        "correct": false
+       }
+      ]
+     }
+    },
+    {
+     "key": "wsp-lf3-finanzierung-q06",
+     "type": "mc",
+     "exam_part": 3,
+     "difficulty": 2,
+     "source": "WSP LF3 Finanzierung (Unterricht)",
+     "body": {
+      "prompt": "Was ist ein Beispiel für eine Personalsicherheit?",
+      "options": [
+       {
+        "text": "Bürgschaft",
+        "correct": true
+       },
+       {
+        "text": "Grundschuld",
+        "correct": false
+       },
+       {
+        "text": "Sicherungsübereignung",
+        "correct": false
+       },
+       {
+        "text": "Eigentumsvorbehalt",
+        "correct": false
+       },
+       {
+        "text": "Pfandrecht an Wertpapieren",
+        "correct": false
+       }
+      ]
+     }
+    },
+    {
+     "key": "wsp-lf3-finanzierung-q07",
+     "type": "mc",
+     "exam_part": 3,
+     "difficulty": 2,
+     "source": "WSP LF3 Finanzierung (Unterricht)",
+     "body": {
+      "prompt": "Was ist ein Beispiel für eine Realsicherheit?",
+      "options": [
+       {
+        "text": "Grundschuld",
+        "correct": true
+       },
+       {
+        "text": "Bürgschaft",
+        "correct": false
+       },
+       {
+        "text": "Schuldbeitritt",
+        "correct": false
+       },
+       {
+        "text": "Garantie ohne Pfand",
+        "correct": false
+       },
+       {
+        "text": "Mündliches Versprechen",
+        "correct": false
+       }
+      ]
+     }
+    },
+    {
+     "key": "wsp-lf3-finanzierung-q08",
+     "type": "mc",
+     "exam_part": 3,
+     "difficulty": 2,
+     "source": "WSP LF3 Finanzierung (Unterricht)",
+     "body": {
+      "prompt": "Welcher Kredit ist für kurzfristige Liquiditätsengpässe geeignet?",
+      "options": [
+       {
+        "text": "Kontokorrentkredit",
+        "correct": true
+       },
+       {
+        "text": "Hypothekendarlehen",
+        "correct": false
+       },
+       {
+        "text": "Anleihe",
+        "correct": false
+       },
+       {
+        "text": "Langfristiges Annuitätendarlehen",
+        "correct": false
+       },
+       {
+        "text": "Aktienemission",
+        "correct": false
+       }
+      ]
+     }
+    },
+    {
+     "key": "wsp-lf3-finanzierung-q09",
+     "type": "match",
+     "exam_part": 3,
+     "difficulty": 2,
+     "source": "WSP LF3 Finanzierung (Unterricht)",
+     "body": {
+      "prompt": "Ordnen Sie jede Finanzierungsmaßnahme der richtigen Finanzierungsart zu.",
+      "items": [
+       {
+        "term": "Gewinneinbehaltung",
+        "match": "Selbstfinanzierung"
+       },
+       {
+        "term": "Aufnahme eines Bankdarlehens",
+        "match": "Fremdfinanzierung"
+       },
+       {
+        "term": "Einlage eines neuen Gesellschafters",
+        "match": "Beteiligungsfinanzierung"
+       },
+       {
+        "term": "Verkauf alter Maschinen",
+        "match": "Vermögensumschichtung"
+       }
+      ],
+      "distractors": []
+     }
+    },
+    {
+     "key": "wsp-lf3-finanzierung-q10",
+     "type": "match",
+     "exam_part": 3,
+     "difficulty": 2,
+     "source": "WSP LF3 Finanzierung (Unterricht)",
+     "body": {
+      "prompt": "Ordnen Sie jede Kreditsicherheit der Art zu.",
+      "items": [
+       {
+        "term": "Bürgschaft",
+        "match": "Personalsicherheit"
+       },
+       {
+        "term": "Grundschuld",
+        "match": "Realsicherheit"
+       },
+       {
+        "term": "Sicherungsübereignung",
+        "match": "Realsicherheit"
+       },
+       {
+        "term": "Selbstschuldnerische Bürgschaft des Gesellschafters",
+        "match": "Personalsicherheit"
+       }
+      ],
+      "distractors": []
+     }
+    },
+    {
+     "key": "wsp-lf3-finanzierung-q11",
+     "type": "tf",
+     "exam_part": 3,
+     "difficulty": 2,
+     "source": "WSP LF3 Finanzierung (Unterricht)",
+     "body": {
+      "statement": "Beim Leasing wird der Leasingnehmer Eigentümer der Sache.",
+      "answer": false
+     }
+    },
+    {
+     "key": "wsp-lf3-finanzierung-q12",
+     "type": "tf",
+     "exam_part": 3,
+     "difficulty": 2,
+     "source": "WSP LF3 Finanzierung (Unterricht)",
+     "body": {
+      "statement": "Ein Skontoverzicht entspricht wirtschaftlich der Inanspruchnahme eines Kredits.",
+      "answer": true
+     }
+    },
+    {
+     "key": "wsp-lf3-finanzierung-q13",
+     "type": "tf",
+     "exam_part": 3,
+     "difficulty": 2,
+     "explanation": "Gleich bleibt die Annuität (Rate); die Tilgung steigt.",
+     "source": "WSP LF3 Finanzierung (Unterricht)",
+     "body": {
+      "statement": "Beim Annuitätendarlehen bleibt die Tilgung in jeder Periode gleich.",
+      "answer": false
+     }
+    },
+    {
+     "key": "wsp-lf3-finanzierung-q14",
+     "type": "cloze",
+     "exam_part": 3,
+     "difficulty": 2,
+     "source": "WSP LF3 Finanzierung (Unterricht)",
+     "body": {
+      "text": "Beim Annuitätendarlehen sinkt der [[Zinsanteil]], während der [[Tilgungsanteil]] steigt."
+     }
+    }
+   ],
+   "templates": [
+    {
+     "key": "wsp-lf3-finanzierung-t01",
+     "type": "calc",
+     "exam_part": 3,
+     "difficulty": 2,
+     "source": "WSP LF3 Finanzierung (Unterricht)",
+     "vars": {
+      "b": {
+       "type": "int",
+       "min": 2000,
+       "max": 12000,
+       "step": 500
+      },
+      "sf": {
+       "type": "pick",
+       "options": [
+        10,
+        14
+       ]
+      },
+      "z": {
+       "type": "pick",
+       "options": [
+        30,
+        40,
+        45
+       ]
+      },
+      "s": {
+       "type": "pick",
+       "options": [
+        2,
+        3
+       ]
+      }
+     },
+     "body": {
+      "prompt": "Eine Rechnung über {b|eur} ist innerhalb von {sf} Tagen mit {s} % Skonto oder innerhalb von {z} Tagen netto zahlbar. Berechnen Sie den Jahreszinssatz (360 Tage) bei Verzicht auf Skonto in Prozent (vereinfachte Formel).",
+      "answer": "s*360/(z-sf)",
+      "unit": "%",
+      "decimals": 2,
+      "steps": [
+       "Zinssatz = Skonto · 360 : (Zahlungsziel − Skontofrist)",
+       "= {s} · 360 : ({z} − {sf})",
+       "= {result} %"
+      ]
+     }
+    },
+    {
+     "key": "wsp-lf3-finanzierung-t02",
+     "type": "calc",
+     "exam_part": 3,
+     "difficulty": 2,
+     "source": "WSP LF3 Finanzierung (Unterricht)",
+     "vars": {
+      "k": {
+       "type": "int",
+       "min": 20000,
+       "max": 200000,
+       "step": 10000
+      },
+      "z": {
+       "type": "pick",
+       "options": [
+        2.5,
+        3,
+        3.5,
+        4,
+        5
+       ]
+      },
+      "t": {
+       "type": "pick",
+       "options": [
+        1,
+        2,
+        3
+       ]
+      }
+     },
+     "body": {
+      "prompt": "Ein Darlehen über {k|eur} wird mit {z} % Jahreszins und {t} % jährlicher Tilgung bei Annuitätendarlehen (Rate im 1. Jahr = Zins + Tilgung vom Anfangsbetrag) vereinbart. Wie hoch ist die Zinszahlung im 1. Jahr?",
+      "answer": "k*z/100",
+      "unit": "€",
+      "decimals": 2,
+      "steps": [
+       "Zinsen 1. Jahr = {k|eur} · {z} %",
+       "= {result|eur}"
+      ]
+     }
+    },
+    {
+     "key": "wsp-lf3-finanzierung-t03",
+     "type": "calc",
+     "exam_part": 3,
+     "difficulty": 2,
+     "source": "WSP LF3 Finanzierung (Unterricht)",
+     "vars": {
+      "k": {
+       "type": "int",
+       "min": 8000,
+       "max": 20000,
+       "step": 1000
+      },
+      "rw": {
+       "type": "int",
+       "min": 1000,
+       "max": 4000,
+       "step": 500
+      },
+      "n": {
+       "type": "pick",
+       "options": [
+        3,
+        4,
+        5
+       ]
+      },
+      "r": {
+       "type": "int",
+       "min": 180,
+       "max": 380,
+       "step": 20
+      }
+     },
+     "body": {
+      "prompt": "Eine Agentur finanziert eine Kameraausrüstung. Kauf: Kaufpreis {k|eur}, Restwert nach {n} Jahren {rw|eur}. Leasing: {r|eur} Rate monatlich über {n} Jahre. Wie viel kostet Leasing insgesamt mehr (+) oder weniger (−) als der Wertverlust beim Kauf?",
+      "answer": "r*12*n-(k-rw)",
+      "unit": "€",
+      "decimals": 2,
+      "steps": [
+       "Leasingkosten = {r|eur} · 12 · {n}",
+       "Wertverlust Kauf = {k|eur} − {rw|eur}",
+       "Differenz = {result|eur}"
+      ]
+     }
+    }
+   ],
+   "cases": [],
+   "summary": {
+    "key": "wsp-lf3-finanzierung-zettel",
+    "title": "Finanzierung, Kredit & Leasing",
+    "content_md": "\n**Finanzierungsarten**\n- nach Herkunft: **Außenfinanzierung** (Einlagen, Kredite, Beteiligung) · **Innenfinanzierung** (Gewinnthesaurierung, Abschreibungsrückflüsse, Rückstellungen, Vermögensumschichtung)\n- nach Rechtsstellung: **Eigenfinanzierung** (Eigenkapital, haftet, Mitspracherecht) · **Fremdfinanzierung** (Fremdkapital, Zinsen, Rückzahlung)\n\n**Kredite**: *Kontokorrentkredit* (flexibel, teuer, kurzfristig) · *Darlehen* (festes Volumen, Zins, Tilgung: Annuität oder Ratentilgung) · *Lieferantenkredit* (Zahlungsziel, **Skontoverzicht ist teuer**) · *Leasing* · *Factoring* (Forderungsverkauf).\n\n**Skonto vs. Kontokorrent (Finanzierungsvorteil)**\nJahreszinssatz des Lieferantenkredits = Skonto % · 360 / (Zahlungsziel − Skontofrist)\nSkonto lohnt sich, wenn dieser Zinssatz **höher als der Kontokorrentzins** ist.\n\n**Kreditsicherheiten**: *Personalsicherheit* (Bürgschaft) · *Realsicherheit* (Grundschuld/Hypothek, Sicherungsübereignung, Pfandrecht, Eigentumsvorbehalt).\n\n**Leasing**: Leasinggeber bleibt Eigentümer; Leasingnehmer zahlt Raten. + Liquidität, keine Kapitalbindung, Aktualität · − insgesamt oft teurer, kein Eigentum.\n\n**Factoring**: Verkauf von Forderungen an Factor (Sofortliquidität, Ausfallschutz, Service); Kosten: Gebühr + Zinsen.\n"
+   }
+  }
+ ]
+}

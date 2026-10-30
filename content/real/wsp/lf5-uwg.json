@@ -1,0 +1,400 @@
+{
+ "demo": false,
+ "items": [
+  {
+   "topic": "wsp-lf5-uwg",
+   "flashcards": [
+    {
+     "key": "wsp-lf5-uwg-c01",
+     "front": "Wozu dient das UWG?",
+     "back": "Es schützt Mitbewerber, Verbraucher und Allgemeinheit vor unlauterem Wettbewerb."
+    },
+    {
+     "key": "wsp-lf5-uwg-c02",
+     "front": "Was ist irreführende Werbung?",
+     "back": "Werbung mit unwahren oder täuschenden Angaben, die Kaufentscheidungen beeinflussen kann (§ 5 UWG)."
+    },
+    {
+     "key": "wsp-lf5-uwg-c03",
+     "front": "Beispiel für ein Lockangebot?",
+     "back": "Beworbene Ware ist nicht in angemessener Menge vorrätig."
+    },
+    {
+     "key": "wsp-lf5-uwg-c04",
+     "front": "Was ist ein Mondpreis?",
+     "back": "Durchgestrichener, nie verlangter Preis als Vergleichspreis."
+    },
+    {
+     "key": "wsp-lf5-uwg-c05",
+     "front": "Dürfen Alleinstellungsbehauptungen verwendet werden?",
+     "back": "Nur wenn belegbar (z. B. „größte Agentur der Region“ mit Nachweis)."
+    },
+    {
+     "key": "wsp-lf5-uwg-c06",
+     "front": "Wann ist Telefonwerbung erlaubt?",
+     "back": "Bei Verbrauchern nur mit vorheriger ausdrücklicher Einwilligung, bei Unternehmen mit zumindest mutmaßlicher Einwilligung."
+    },
+    {
+     "key": "wsp-lf5-uwg-c07",
+     "front": "Wann ist E-Mail-Werbung erlaubt?",
+     "back": "Mit vorheriger Einwilligung (Opt-in); Ausnahme: Eigenwerbung an Bestandskunden mit Widerspruchsmöglichkeit."
+    },
+    {
+     "key": "wsp-lf5-uwg-c08",
+     "front": "Wann ist vergleichende Werbung zulässig?",
+     "back": "Wenn sie sachlich, objektiv nachprüfbar und nicht herabsetzend ist."
+    },
+    {
+     "key": "wsp-lf5-uwg-c09",
+     "front": "Was ist Schleichwerbung?",
+     "back": "Werbung, die nicht als solche erkennbar ist – verboten."
+    },
+    {
+     "key": "wsp-lf5-uwg-c10",
+     "front": "Wie müssen Influencer Werbung kennzeichnen?",
+     "back": "Deutlich erkennbar, z. B. #Werbung oder #Anzeige zu Beginn."
+    },
+    {
+     "key": "wsp-lf5-uwg-c11",
+     "front": "Was ist eine Abmahnung im Wettbewerbsrecht?",
+     "back": "Aufforderung, eine unlautere Handlung zu unterlassen und eine strafbewehrte Unterlassungserklärung abzugeben."
+    },
+    {
+     "key": "wsp-lf5-uwg-c12",
+     "front": "Wer darf bei Wettbewerbsverstößen abmahnen?",
+     "back": "Mitbewerber, Wettbewerbs- und Verbraucherverbände, Kammern."
+    },
+    {
+     "key": "wsp-lf5-uwg-c13",
+     "front": "Nenne Rechtsfolgen unlauterer Werbung.",
+     "back": "Unterlassung, Beseitigung, Schadensersatz, Gewinnabschöpfung."
+    },
+    {
+     "key": "wsp-lf5-uwg-c14",
+     "front": "Was ist der Deutsche Werberat?",
+     "back": "Selbstkontrollorgan der Werbewirtschaft; behandelt Beschwerden und spricht Rügen aus."
+    },
+    {
+     "key": "wsp-lf5-uwg-c15",
+     "front": "Kann der Werberat Bußgelder verhängen?",
+     "back": "Nein – nur öffentliche Rügen und Empfehlungen."
+    },
+    {
+     "key": "wsp-lf5-uwg-c16",
+     "front": "Was regelt die Preisangabenverordnung?",
+     "back": "Gegenüber Verbrauchern sind Endpreise inklusive Umsatzsteuer anzugeben."
+    },
+    {
+     "key": "wsp-lf5-uwg-c17",
+     "front": "Was ist eine unzumutbare Belästigung?",
+     "back": "Werbung, die der Empfänger erkennbar nicht wünscht (Spam, Cold Call)."
+    },
+    {
+     "key": "wsp-lf5-uwg-c18",
+     "front": "Was ist Double-Opt-in?",
+     "back": "Zwei Bestätigungsschritte (Anmeldung + Bestätigungslink) als Nachweis der Einwilligung."
+    }
+   ],
+   "glossary": [
+    {
+     "key": "wsp-lf5-uwg-g01",
+     "term": "UWG",
+     "definition": "Gesetz gegen den unlauteren Wettbewerb."
+    },
+    {
+     "key": "wsp-lf5-uwg-g02",
+     "term": "Schleichwerbung",
+     "definition": "Nicht erkennbare Werbung."
+    },
+    {
+     "key": "wsp-lf5-uwg-g03",
+     "term": "Mondpreis",
+     "definition": "Fiktiver, durchgestrichener Vergleichspreis."
+    },
+    {
+     "key": "wsp-lf5-uwg-g04",
+     "term": "Werberat",
+     "definition": "Selbstkontrolle der deutschen Werbewirtschaft."
+    },
+    {
+     "key": "wsp-lf5-uwg-g05",
+     "term": "Abmahnung",
+     "definition": "Aufforderung zur Unterlassung einer Rechtsverletzung."
+    }
+   ],
+   "questions": [
+    {
+     "key": "wsp-lf5-uwg-q01",
+     "type": "mc",
+     "exam_part": 3,
+     "difficulty": 2,
+     "source": "WSP LF5 Werberecht (Unterricht)",
+     "body": {
+      "prompt": "Ein Möbelhaus wirbt: „Sofa jetzt 499 € statt 999 €“, hat es aber nie für 999 € verkauft. Was liegt vor?",
+      "options": [
+       {
+        "text": "Irreführende Werbung (Mondpreis)",
+        "correct": true
+       },
+       {
+        "text": "Zulässige vergleichende Werbung",
+        "correct": false
+       },
+       {
+        "text": "Zulässige Preisaktion",
+        "correct": false
+       },
+       {
+        "text": "Schleichwerbung",
+        "correct": false
+       },
+       {
+        "text": "Telefonwerbung",
+        "correct": false
+       }
+      ]
+     }
+    },
+    {
+     "key": "wsp-lf5-uwg-q02",
+     "type": "mc",
+     "exam_part": 3,
+     "difficulty": 2,
+     "source": "WSP LF5 Werberecht (Unterricht)",
+     "body": {
+      "prompt": "Eine Agentur ruft Privatpersonen ohne Einwilligung an, um Werbemittel zu bewerben. Welche Rechtsfolge ist möglich?",
+      "options": [
+       {
+        "text": "Abmahnung wegen unzumutbarer Belästigung und Bußgeld",
+        "correct": true
+       },
+       {
+        "text": "Keine – Werbung ist immer erlaubt",
+        "correct": false
+       },
+       {
+        "text": "Nur eine Belobigung",
+        "correct": false
+       },
+       {
+        "text": "Nur Zahlung von Skonto",
+        "correct": false
+       },
+       {
+        "text": "Steuernachzahlung",
+        "correct": false
+       }
+      ]
+     }
+    },
+    {
+     "key": "wsp-lf5-uwg-q03",
+     "type": "mc",
+     "exam_part": 3,
+     "difficulty": 2,
+     "source": "WSP LF5 Werberecht (Unterricht)",
+     "body": {
+      "prompt": "Welche Werbung ist unzulässig?",
+      "options": [
+       {
+        "text": "Ein Influencer bewirbt ein bezahltes Produkt ohne Kennzeichnung.",
+        "correct": true
+       },
+       {
+        "text": "Ein Hersteller vergleicht sachlich nachprüfbare Produktdaten.",
+        "correct": false
+       },
+       {
+        "text": "Ein Händler bewirbt mit Endpreisen inkl. USt.",
+        "correct": false
+       },
+       {
+        "text": "Eine Agentur wirbt mit belegbarem Alleinstellungsmerkmal.",
+        "correct": false
+       },
+       {
+        "text": "Ein Unternehmen verschickt Newsletter an Opt-in-Kunden.",
+        "correct": false
+       }
+      ]
+     }
+    },
+    {
+     "key": "wsp-lf5-uwg-q04",
+     "type": "mc",
+     "exam_part": 3,
+     "difficulty": 2,
+     "source": "WSP LF5 Werberecht (Unterricht)",
+     "body": {
+      "prompt": "Wer kann den Werberat anrufen?",
+      "options": [
+       {
+        "text": "Jede Person kann eine Beschwerde einreichen.",
+        "correct": true
+       },
+       {
+        "text": "Nur Rechtsanwälte",
+        "correct": false
+       },
+       {
+        "text": "Nur Unternehmen",
+        "correct": false
+       },
+       {
+        "text": "Nur das Gericht",
+        "correct": false
+       },
+       {
+        "text": "Nur Mitbewerber",
+        "correct": false
+       }
+      ]
+     }
+    },
+    {
+     "key": "wsp-lf5-uwg-q05",
+     "type": "mc",
+     "exam_part": 3,
+     "difficulty": 2,
+     "source": "WSP LF5 Werberecht (Unterricht)",
+     "body": {
+      "prompt": "Welche Folge hat eine Rüge des Werberats?",
+      "options": [
+       {
+        "text": "Öffentliche Rüge ohne Bußgeld",
+        "correct": true
+       },
+       {
+        "text": "Bußgeld bis 20 Mio. €",
+        "correct": false
+       },
+       {
+        "text": "Haftstrafe",
+        "correct": false
+       },
+       {
+        "text": "Gewerbeverbot",
+        "correct": false
+       },
+       {
+        "text": "Pfändung",
+        "correct": false
+       }
+      ]
+     }
+    },
+    {
+     "key": "wsp-lf5-uwg-q06",
+     "type": "mc",
+     "exam_part": 3,
+     "difficulty": 2,
+     "source": "WSP LF5 Werberecht (Unterricht)",
+     "body": {
+      "prompt": "Wann ist E-Mail-Werbung unproblematisch zulässig?",
+      "options": [
+       {
+        "text": "Bei vorheriger Einwilligung des Empfängers",
+        "correct": true
+       },
+       {
+        "text": "Immer",
+        "correct": false
+       },
+       {
+        "text": "Wenn die Adresse im Internet steht",
+        "correct": false
+       },
+       {
+        "text": "Nur in der Nacht",
+        "correct": false
+       },
+       {
+        "text": "Wenn sie nicht länger als eine Seite ist",
+        "correct": false
+       }
+      ]
+     }
+    },
+    {
+     "key": "wsp-lf5-uwg-q07",
+     "type": "match",
+     "exam_part": 3,
+     "difficulty": 2,
+     "source": "WSP LF5 Werberecht (Unterricht)",
+     "body": {
+      "prompt": "Ordnen Sie jeden Fall dem Verstoß zu.",
+      "items": [
+       {
+        "term": "Preisangabe ohne Umsatzsteuer gegenüber Verbrauchern",
+        "match": "Verstoß gegen Preisangabenverordnung"
+       },
+       {
+        "term": "Beitrag eines Influencers ohne #Werbung",
+        "match": "Schleichwerbung"
+       },
+       {
+        "term": "Lockangebot ohne Lagerbestand",
+        "match": "Irreführende Werbung"
+       },
+       {
+        "term": "Cold Call bei Privatpersonen",
+        "match": "Unzumutbare Belästigung"
+       }
+      ],
+      "distractors": []
+     }
+    },
+    {
+     "key": "wsp-lf5-uwg-q08",
+     "type": "tf",
+     "exam_part": 3,
+     "difficulty": 2,
+     "source": "WSP LF5 Werberecht (Unterricht)",
+     "body": {
+      "statement": "Der Deutsche Werberat kann Bußgelder verhängen.",
+      "answer": false
+     }
+    },
+    {
+     "key": "wsp-lf5-uwg-q09",
+     "type": "tf",
+     "exam_part": 3,
+     "difficulty": 2,
+     "source": "WSP LF5 Werberecht (Unterricht)",
+     "body": {
+      "statement": "Vergleichende Werbung ist unter bestimmten Bedingungen zulässig.",
+      "answer": true
+     }
+    },
+    {
+     "key": "wsp-lf5-uwg-q10",
+     "type": "tf",
+     "exam_part": 3,
+     "difficulty": 2,
+     "source": "WSP LF5 Werberecht (Unterricht)",
+     "body": {
+      "statement": "Alleinstellungsbehauptungen müssen nachweisbar sein.",
+      "answer": true
+     }
+    },
+    {
+     "key": "wsp-lf5-uwg-q11",
+     "type": "cloze",
+     "exam_part": 3,
+     "difficulty": 2,
+     "source": "WSP LF5 Werberecht (Unterricht)",
+     "body": {
+      "text": "Wer eine Wettbewerbsverletzung begeht, kann [[abgemahnt]] werden und muss eine [[Unterlassungserklärung]] abgeben."
+     }
+    }
+   ],
+   "templates": [],
+   "cases": [],
+   "summary": {
+    "key": "wsp-lf5-uwg-zettel",
+    "title": "Wettbewerbsrecht (UWG) & Werberat",
+    "content_md": "\n**UWG** schützt Mitbewerber, Verbraucher, sonstige Marktteilnehmer und das Allgemeininteresse vor **unlauterem Wettbewerb**.\n- **Generalklausel** (§ 3): unlautere geschäftliche Handlungen sind unzulässig\n- **Irreführende Werbung** (§ 5): falsche Angaben (Preis, Herkunft, Eigenschaften), Lockangebote, „Mondpreise“, Alleinstellungsbehauptungen (Spitzenstellung nur belegbar)\n- **Aggressive** Handlungen (§ 4a): Nötigung, Belästigung\n- **Unzumutbare Belästigung** (§ 7): Telefonwerbung ohne Einwilligung, E-Mail/SMS-Werbung ohne Einwilligung (Opt-in, Ausnahme Bestandskunden)\n- **Vergleichende Werbung** (§ 6): zulässig, wenn sachlich, objektiv, nachprüfbar, nicht herabsetzend\n- **Schleichwerbung/Influencer**: Werbung muss **gekennzeichnet** werden (#Werbung/#Anzeige)\n- **Preisangabenverordnung**: Endpreise inkl. USt gegenüber Verbrauchern\n\n**Rechtsfolgen**: Abmahnung → Unterlassungserklärung (strafbewehrt) → einstweilige Verfügung/Klage; Anspruch auf Beseitigung, Schadensersatz, Gewinnabschöpfung. Klagebefugt: Mitbewerber, Verbände, Kammern, Verbraucherschutzverbände.\n**Deutscher Werberat**: Selbstkontrolle der Werbewirtschaft; behandelt Beschwerden (z. B. Diskriminierung, Sexismus), spricht Rügen aus – keine Bußgelder.\n"
+   }
+  }
+ ]
+}
