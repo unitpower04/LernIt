@@ -1,0 +1,62 @@
+{
+ "demo": false,
+ "subjects": [
+  {
+   "key": "politik",
+   "name": "Politik & Arbeitswelt",
+   "description": "Tarifrecht, Mitbestimmung und Sozialversicherung (Prüfungsteil 2 WiSo)",
+   "color": "#7c3aed",
+   "learning_fields": [
+    {
+     "key": "politik-tarif",
+     "code": "TR",
+     "name": "Tarifrecht & Arbeitskampf",
+     "exam_parts": [
+      2
+     ],
+     "topics": [
+      {
+       "key": "politik-tarifvertrag",
+       "name": "Tarifvertrag & Tarifautonomie",
+       "exam_parts": [
+        2
+       ]
+      },
+      {
+       "key": "politik-arbeitskampf",
+       "name": "Tarifverhandlung & Arbeitskampf",
+       "exam_parts": [
+        2
+       ]
+      }
+     ]
+    },
+    {
+     "key": "politik-betrieb",
+     "code": "BV",
+     "name": "Mitbestimmung & Sozialversicherung",
+     "exam_parts": [
+      2
+     ],
+     "topics": [
+      {
+       "key": "politik-betriebsrat",
+       "name": "Betriebsrat & Mitbestimmung",
+       "exam_parts": [
+        2
+       ]
+      },
+      {
+       "key": "politik-sozialvers",
+       "name": "Sozialversicherung & Künstlersozialkasse",
+       "exam_parts": [
+        2
+       ]
+      }
+     ]
+    }
+   ]
+  }
+ ],
+ "items": []
+}

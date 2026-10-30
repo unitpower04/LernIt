@@ -1,0 +1,367 @@
+{
+ "demo": false,
+ "items": [
+  {
+   "topic": "politik-arbeitskampf",
+   "flashcards": [
+    {
+     "key": "politik-arbeitskampf-c01",
+     "front": "Typischer Ablauf eines Tarifkonflikts?",
+     "back": "Kündigung → Verhandlungen → Scheitern → (Schlichtung) → Urabstimmung → Streik → Einigung → Urabstimmung über Ergebnis → neuer Tarifvertrag."
+    },
+    {
+     "key": "politik-arbeitskampf-c02",
+     "front": "Was ist eine Urabstimmung?",
+     "back": "Abstimmung der Gewerkschaftsmitglieder über Streik (75 %) oder Annahme des Ergebnisses (25 % Zustimmung genügen)."
+    },
+    {
+     "key": "politik-arbeitskampf-c03",
+     "front": "Was ist ein Schlichtungsverfahren?",
+     "back": "Neutrale Schlichter vermitteln, wenn Verhandlungen gescheitert sind."
+    },
+    {
+     "key": "politik-arbeitskampf-c04",
+     "front": "Was ist ein Warnstreik?",
+     "back": "Zeitlich begrenzter Streik während der Verhandlungen – ohne Urabstimmung."
+    },
+    {
+     "key": "politik-arbeitskampf-c05",
+     "front": "Was ist ein Schwerpunktstreik?",
+     "back": "Nur bestimmte Betriebe oder Bereiche eines Wirtschaftszweigs streiken."
+    },
+    {
+     "key": "politik-arbeitskampf-c06",
+     "front": "Was ist ein Flächenstreik?",
+     "back": "Das ganze Tarifgebiet streikt."
+    },
+    {
+     "key": "politik-arbeitskampf-c07",
+     "front": "Was ist ein wilder Streik?",
+     "back": "Ein nicht von der Gewerkschaft organisierter, rechtswidriger Streik."
+    },
+    {
+     "key": "politik-arbeitskampf-c08",
+     "front": "Was ist ein Generalstreik?",
+     "back": "Allgemeiner, meist politischer Streik – in Deutschland unzulässig."
+    },
+    {
+     "key": "politik-arbeitskampf-c09",
+     "front": "Was ist ein Sympathiestreik?",
+     "back": "Streik zur Unterstützung eines anderen Arbeitskampfes."
+    },
+    {
+     "key": "politik-arbeitskampf-c10",
+     "front": "Was ist Aussperrung?",
+     "back": "Arbeitgeber schließen Arbeitnehmer von der Arbeit und Lohnzahlung aus – Gegenmittel zum Streik."
+    },
+    {
+     "key": "politik-arbeitskampf-c11",
+     "front": "Was erhält ein streikendes Mitglied?",
+     "back": "Kein Arbeitsentgelt, aber Streikgeld der Gewerkschaft."
+    },
+    {
+     "key": "politik-arbeitskampf-c12",
+     "front": "Wann beginnt die Friedenspflicht zu enden?",
+     "back": "Mit Ablauf bzw. Kündigung des Tarifvertrags."
+    },
+    {
+     "key": "politik-arbeitskampf-c13",
+     "front": "Was heißt „Scheitern der Verhandlungen“?",
+     "back": "Eine Tarifpartei erklärt schriftlich, dass keine Einigung möglich ist."
+    },
+    {
+     "key": "politik-arbeitskampf-c14",
+     "front": "Rechtsgrundlage Streikrecht?",
+     "back": "Art. 9 Abs. 3 GG (Koalitionsfreiheit)."
+    }
+   ],
+   "glossary": [
+    {
+     "key": "politik-arbeitskampf-g01",
+     "term": "Urabstimmung",
+     "definition": "Mitgliederabstimmung der Gewerkschaft über Streik oder Verhandlungsergebnis."
+    },
+    {
+     "key": "politik-arbeitskampf-g02",
+     "term": "Warnstreik",
+     "definition": "Kurzer, befristeter Streik während laufender Verhandlungen."
+    },
+    {
+     "key": "politik-arbeitskampf-g03",
+     "term": "Aussperrung",
+     "definition": "Arbeitgeberseitiges Kampfmittel gegen Streik."
+    },
+    {
+     "key": "politik-arbeitskampf-g04",
+     "term": "Schlichtung",
+     "definition": "Vermittlung durch neutrale Dritte."
+    }
+   ],
+   "questions": [
+    {
+     "key": "politik-arbeitskampf-q01",
+     "type": "order",
+     "exam_part": 2,
+     "difficulty": 2,
+     "explanation": "Typischer Ablauf nach Kündigung des Tarifvertrags.",
+     "source": "Politik/Tarifrecht (Unterricht, Prüfungsstil)",
+     "body": {
+      "prompt": "Bringen Sie die Schritte zum neuen Tarifvertrag in die richtige Reihenfolge.",
+      "items": [
+       "Aufnahme von Tarifverhandlungen durch die Tarifpartner",
+       "Erklärung des Scheiterns der Tarifverhandlungen durch eine Partei",
+       "Urabstimmung über den Arbeitskampf mit nachfolgendem Streik",
+       "Neue Verhandlungen während des Streiks",
+       "Urabstimmung über das Ergebnis der Tarifrunde und Ende des Streiks"
+      ]
+     }
+    },
+    {
+     "key": "politik-arbeitskampf-q02",
+     "type": "order",
+     "exam_part": 2,
+     "difficulty": 2,
+     "source": "Politik/Tarifrecht (Unterricht, Prüfungsstil)",
+     "body": {
+      "prompt": "Bringen Sie den Ablauf einer Tarifauseinandersetzung in die richtige zeitliche Reihenfolge.",
+      "items": [
+       "Beginn der Tarifverhandlungen zwischen Gewerkschaft und Arbeitgeber(-verband)",
+       "Erklärung des Scheiterns der Tarifverhandlungen",
+       "Urabstimmung der Gewerkschaftsmitglieder führt zum Streik",
+       "Wiederaufnahme der Verhandlungen",
+       "Urabstimmung über das Verhandlungsergebnis"
+      ]
+     }
+    },
+    {
+     "key": "politik-arbeitskampf-q03",
+     "type": "match",
+     "exam_part": 2,
+     "difficulty": 2,
+     "source": "Politik/Tarifrecht (Unterricht, Prüfungsstil)",
+     "body": {
+      "prompt": "Ordnen Sie jede Streikart der Erklärung zu.",
+      "items": [
+       {
+        "term": "Warnstreik",
+        "match": "Zeitlich begrenzt"
+       },
+       {
+        "term": "Schwerpunktstreik",
+        "match": "Nur bestimmte Bereiche eines Wirtschaftszweigs streiken"
+       },
+       {
+        "term": "Wilder Streik",
+        "match": "Nicht von der Gewerkschaft organisiert"
+       },
+       {
+        "term": "Flächenstreik",
+        "match": "Ein ganzes Tarifgebiet streikt"
+       }
+      ],
+      "distractors": []
+     }
+    },
+    {
+     "key": "politik-arbeitskampf-q04",
+     "type": "mc",
+     "exam_part": 2,
+     "difficulty": 2,
+     "source": "Politik/Tarifrecht (Unterricht, Prüfungsstil)",
+     "body": {
+      "prompt": "Ein Streik ist nicht von der Gewerkschaft organisiert. Welche Streikart?",
+      "options": [
+       {
+        "text": "Wilder Streik",
+        "correct": true
+       },
+       {
+        "text": "Warnstreik",
+        "correct": false
+       },
+       {
+        "text": "Schwerpunktstreik",
+        "correct": false
+       },
+       {
+        "text": "Flächenstreik",
+        "correct": false
+       },
+       {
+        "text": "Generalstreik",
+        "correct": false
+       }
+      ]
+     }
+    },
+    {
+     "key": "politik-arbeitskampf-q05",
+     "type": "mc",
+     "exam_part": 2,
+     "difficulty": 2,
+     "source": "Politik/Tarifrecht (Unterricht, Prüfungsstil)",
+     "body": {
+      "prompt": "Fluglotsen legen während der laufenden Verhandlungen für zwei Stunden die Arbeit nieder. Welche Streikart?",
+      "options": [
+       {
+        "text": "Warnstreik",
+        "correct": true
+       },
+       {
+        "text": "Wilder Streik",
+        "correct": false
+       },
+       {
+        "text": "Flächenstreik",
+        "correct": false
+       },
+       {
+        "text": "Generalstreik",
+        "correct": false
+       },
+       {
+        "text": "Sympathiestreik",
+        "correct": false
+       }
+      ]
+     }
+    },
+    {
+     "key": "politik-arbeitskampf-q06",
+     "type": "mc",
+     "exam_part": 2,
+     "difficulty": 2,
+     "source": "Politik/Tarifrecht (Unterricht, Prüfungsstil)",
+     "body": {
+      "prompt": "Welche Mehrheit ist für einen Streik in der Urabstimmung üblich?",
+      "options": [
+       {
+        "text": "75 % der Mitglieder",
+        "correct": true
+       },
+       {
+        "text": "50 %",
+        "correct": false
+       },
+       {
+        "text": "25 %",
+        "correct": false
+       },
+       {
+        "text": "10 %",
+        "correct": false
+       },
+       {
+        "text": "100 %",
+        "correct": false
+       }
+      ]
+     }
+    },
+    {
+     "key": "politik-arbeitskampf-q07",
+     "type": "mc",
+     "exam_part": 2,
+     "difficulty": 2,
+     "source": "Politik/Tarifrecht (Unterricht, Prüfungsstil)",
+     "body": {
+      "prompt": "Wie viel Zustimmung genügt üblicherweise in der Urabstimmung für die Annahme eines Verhandlungsergebnisses?",
+      "options": [
+       {
+        "text": "25 %",
+        "correct": true
+       },
+       {
+        "text": "75 %",
+        "correct": false
+       },
+       {
+        "text": "50 %",
+        "correct": false
+       },
+       {
+        "text": "100 %",
+        "correct": false
+       },
+       {
+        "text": "10 %",
+        "correct": false
+       }
+      ]
+     }
+    },
+    {
+     "key": "politik-arbeitskampf-q08",
+     "type": "mc",
+     "exam_part": 2,
+     "difficulty": 2,
+     "source": "Politik/Tarifrecht (Unterricht, Prüfungsstil)",
+     "body": {
+      "prompt": "Welches Mittel haben Arbeitgeber im Arbeitskampf?",
+      "options": [
+       {
+        "text": "Aussperrung",
+        "correct": true
+       },
+       {
+        "text": "Warnstreik",
+        "correct": false
+       },
+       {
+        "text": "Urabstimmung",
+        "correct": false
+       },
+       {
+        "text": "Betriebsrat",
+        "correct": false
+       },
+       {
+        "text": "Kündigungsschutz",
+        "correct": false
+       }
+      ]
+     }
+    },
+    {
+     "key": "politik-arbeitskampf-q09",
+     "type": "tf",
+     "exam_part": 2,
+     "difficulty": 2,
+     "source": "Politik/Tarifrecht (Unterricht, Prüfungsstil)",
+     "body": {
+      "statement": "Der Generalstreik ist in Deutschland ein zulässiges Mittel im Tarifkampf.",
+      "answer": false
+     }
+    },
+    {
+     "key": "politik-arbeitskampf-q10",
+     "type": "tf",
+     "exam_part": 2,
+     "difficulty": 2,
+     "source": "Politik/Tarifrecht (Unterricht, Prüfungsstil)",
+     "body": {
+      "statement": "Ein Warnstreik setzt eine Urabstimmung voraus.",
+      "answer": false
+     }
+    },
+    {
+     "key": "politik-arbeitskampf-q11",
+     "type": "cloze",
+     "exam_part": 2,
+     "difficulty": 2,
+     "source": "Politik/Tarifrecht (Unterricht, Prüfungsstil)",
+     "body": {
+      "text": "Vor einem regulären Streik führt die Gewerkschaft eine [[Urabstimmung]] durch; üblich sind [[75]] % Zustimmung."
+     }
+    }
+   ],
+   "templates": [],
+   "cases": [],
+   "summary": {
+    "key": "politik-arbeitskampf-zettel",
+    "title": "Tarifverhandlung & Arbeitskampf",
+    "content_md": "\n**Ablauf eines Tarifkonflikts**\n1. Kündigung des Tarifvertrags (Ablauf der Friedenspflicht)\n2. **Aufnahme von Tarifverhandlungen** (Forderungen, Angebot)\n3. Verhandlungen scheitern → **Erklärung des Scheiterns** durch eine Partei\n4. **Schlichtungsverfahren** (neutrale Schlichter, freiwillig, wenn vereinbart)\n5. Scheitert Schlichtung → **Urabstimmung** der Gewerkschaftsmitglieder (**75 % Zustimmung** für Streik üblich)\n6. **Streik** (Arbeitgeber evtl. **Aussperrung**), währenddessen neue Verhandlungen möglich\n7. Einigung → **Urabstimmung** über das Ergebnis (**25 % Zustimmung** zum Ergebnis reichen i. d. R. für Annahme) → **neuer Tarifvertrag** → Ende des Streiks\n\n**Streikarten**: *Warnstreik* (kurz, befristet, schon während der Verhandlung, ohne Urabstimmung) · *Schwerpunktstreik* (bestimmte Betriebe/Bereiche) · *Flächenstreik* (ganzes Tarifgebiet) · *Wilder Streik* (nicht von der Gewerkschaft organisiert, rechtswidrig) · *Sympathiestreik* · *Generalstreik* (politisch, in D unzulässig) · *Bummelstreik*.\n**Aussperrung**: Gegenmittel der Arbeitgeber (nur suspendierende, verhältnismäßig).\n**Rechtlich**: Streikrecht aus Art. 9 Abs. 3 GG; Streikgeld der Gewerkschaft für Mitglieder; Streikende erhalten kein Arbeitsentgelt.\n"
+   }
+  }
+ ]
+}

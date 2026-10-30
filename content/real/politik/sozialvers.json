@@ -1,0 +1,364 @@
+{
+ "demo": false,
+ "items": [
+  {
+   "topic": "politik-sozialvers",
+   "flashcards": [
+    {
+     "key": "politik-sozialvers-c01",
+     "front": "Nenne die fünf Zweige der Sozialversicherung.",
+     "back": "Kranken-, Renten-, Arbeitslosen-, Pflege- und Unfallversicherung."
+    },
+    {
+     "key": "politik-sozialvers-c02",
+     "front": "Wer trägt die Beiträge zur Unfallversicherung?",
+     "back": "Allein der Arbeitgeber (Berufsgenossenschaft)."
+    },
+    {
+     "key": "politik-sozialvers-c03",
+     "front": "Beitragsaufteilung bei Kranken-, Renten-, Arbeitslosen-, Pflegeversicherung?",
+     "back": "Paritätisch, je zur Hälfte Arbeitgeber und Arbeitnehmer."
+    },
+    {
+     "key": "politik-sozialvers-c04",
+     "front": "Was ist das Solidarprinzip?",
+     "back": "Gesunde zahlen für Kranke, Junge für Alte – Beitrag nach Einkommen, Leistung nach Bedarf."
+    },
+    {
+     "key": "politik-sozialvers-c05",
+     "front": "Was ist das Umlageverfahren?",
+     "back": "Die laufenden Beiträge der Erwerbstätigen finanzieren die aktuellen Renten (Generationenvertrag)."
+    },
+    {
+     "key": "politik-sozialvers-c06",
+     "front": "Was ist die Beitragsbemessungsgrenze?",
+     "back": "Bis zu diesem Einkommen werden Beiträge erhoben; darüber hinaus nicht."
+    },
+    {
+     "key": "politik-sozialvers-c07",
+     "front": "Wer meldet Arbeitnehmer zur Sozialversicherung an?",
+     "back": "Der Arbeitgeber."
+    },
+    {
+     "key": "politik-sozialvers-c08",
+     "front": "Was ist ein Minijob?",
+     "back": "Geringfügige Beschäftigung bis zur Verdienstgrenze (556 € mtl. in 2025); pauschale Abgaben des Arbeitgebers."
+    },
+    {
+     "key": "politik-sozialvers-c09",
+     "front": "Was ist die KSK?",
+     "back": "Künstlersozialkasse – Sozialversicherung für selbstständige Künstler und Publizisten."
+    },
+    {
+     "key": "politik-sozialvers-c10",
+     "front": "Wer zahlt die Beiträge zur KSK?",
+     "back": "50 % der Versicherte, 50 % Verwerter (Künstlersozialabgabe) und Bund."
+    },
+    {
+     "key": "politik-sozialvers-c11",
+     "front": "Wer ist Verwerter im Sinne der KSK?",
+     "back": "Unternehmen, die Aufträge an selbstständige Künstler vergeben (Agenturen, Verlage, Werbetreibende)."
+    },
+    {
+     "key": "politik-sozialvers-c12",
+     "front": "Worauf wird die Künstlersozialabgabe erhoben?",
+     "back": "Auf die Honorare an selbstständige Künstler und Publizisten."
+    },
+    {
+     "key": "politik-sozialvers-c13",
+     "front": "Gilt die Künstlersozialabgabe bei Aufträgen an eine GmbH?",
+     "back": "Nein – sie fällt nur bei Zahlungen an natürliche selbstständige Künstler an (Ausnahme Dienstleister-Konstrukte)."
+    },
+    {
+     "key": "politik-sozialvers-c14",
+     "front": "Wer ist KSK-versichert?",
+     "back": "Selbstständige Künstler/Publizisten (z. B. Grafiker, Texter, Fotografen)."
+    },
+    {
+     "key": "politik-sozialvers-c15",
+     "front": "Beitragssatz Rentenversicherung?",
+     "back": "18,6 % (je 9,3 % Arbeitgeber/Arbeitnehmer)."
+    }
+   ],
+   "glossary": [
+    {
+     "key": "politik-sozialvers-g01",
+     "term": "Sozialversicherung",
+     "definition": "Gesetzliche Pflichtversicherung für Arbeitnehmer."
+    },
+    {
+     "key": "politik-sozialvers-g02",
+     "term": "KSK",
+     "definition": "Künstlersozialkasse."
+    },
+    {
+     "key": "politik-sozialvers-g03",
+     "term": "Verwerter",
+     "definition": "Unternehmen, die Künstlerleistungen nutzen und dafür Abgaben zahlen."
+    },
+    {
+     "key": "politik-sozialvers-g04",
+     "term": "Beitragsbemessungsgrenze",
+     "definition": "Einkommensgrenze, bis zu der Beiträge zu zahlen sind."
+    }
+   ],
+   "questions": [
+    {
+     "key": "politik-sozialvers-q01",
+     "type": "mc",
+     "exam_part": 2,
+     "difficulty": 2,
+     "source": "Politik/Tarifrecht (Unterricht, Prüfungsstil)",
+     "body": {
+      "prompt": "Wer trägt die Beiträge zur gesetzlichen Unfallversicherung?",
+      "options": [
+       {
+        "text": "Der Arbeitgeber allein",
+        "correct": true
+       },
+       {
+        "text": "Arbeitnehmer allein",
+        "correct": false
+       },
+       {
+        "text": "Je zur Hälfte",
+        "correct": false
+       },
+       {
+        "text": "Der Staat",
+        "correct": false
+       },
+       {
+        "text": "Die Krankenkasse",
+        "correct": false
+       }
+      ]
+     }
+    },
+    {
+     "key": "politik-sozialvers-q02",
+     "type": "mc",
+     "exam_part": 2,
+     "difficulty": 2,
+     "source": "Politik/Tarifrecht (Unterricht, Prüfungsstil)",
+     "body": {
+      "prompt": "Eine Agentur beauftragt eine selbstständige Illustratorin. Welche Abgabe fällt für die Agentur an?",
+      "options": [
+       {
+        "text": "Künstlersozialabgabe",
+        "correct": true
+       },
+       {
+        "text": "Arbeitgeberanteil Rentenversicherung",
+        "correct": false
+       },
+       {
+        "text": "Gewerbesteuer",
+        "correct": false
+       },
+       {
+        "text": "Umlage U1",
+        "correct": false
+       },
+       {
+        "text": "Keine Abgabe",
+        "correct": false
+       }
+      ]
+     }
+    },
+    {
+     "key": "politik-sozialvers-q03",
+     "type": "mc",
+     "exam_part": 2,
+     "difficulty": 2,
+     "source": "Politik/Tarifrecht (Unterricht, Prüfungsstil)",
+     "body": {
+      "prompt": "Wie funktioniert die gesetzliche Rentenversicherung?",
+      "options": [
+       {
+        "text": "Umlageverfahren (Generationenvertrag)",
+        "correct": true
+       },
+       {
+        "text": "Kapitaldeckungsverfahren",
+        "correct": false
+       },
+       {
+        "text": "Staatlich garantiertes Sparkonto",
+        "correct": false
+       },
+       {
+        "text": "Beitrag nur durch den Arbeitgeber",
+        "correct": false
+       },
+       {
+        "text": "Freiwillig",
+        "correct": false
+       }
+      ]
+     }
+    },
+    {
+     "key": "politik-sozialvers-q04",
+     "type": "mc",
+     "exam_part": 2,
+     "difficulty": 2,
+     "source": "Politik/Tarifrecht (Unterricht, Prüfungsstil)",
+     "body": {
+      "prompt": "Welche Versicherung gehört nicht zur gesetzlichen Sozialversicherung?",
+      "options": [
+       {
+        "text": "Haftpflichtversicherung",
+        "correct": true
+       },
+       {
+        "text": "Krankenversicherung",
+        "correct": false
+       },
+       {
+        "text": "Pflegeversicherung",
+        "correct": false
+       },
+       {
+        "text": "Arbeitslosenversicherung",
+        "correct": false
+       },
+       {
+        "text": "Unfallversicherung",
+        "correct": false
+       }
+      ]
+     }
+    },
+    {
+     "key": "politik-sozialvers-q05",
+     "type": "match",
+     "exam_part": 2,
+     "difficulty": 2,
+     "source": "Politik/Tarifrecht (Unterricht, Prüfungsstil)",
+     "body": {
+      "prompt": "Ordnen Sie jedem Zweig die Aufgabe zu.",
+      "items": [
+       {
+        "term": "Krankenversicherung",
+        "match": "Behandlung und Krankengeld"
+       },
+       {
+        "term": "Rentenversicherung",
+        "match": "Alters- und Erwerbsminderungsrente"
+       },
+       {
+        "term": "Arbeitslosenversicherung",
+        "match": "Arbeitslosengeld I"
+       },
+       {
+        "term": "Unfallversicherung",
+        "match": "Absicherung bei Arbeitsunfall und Berufskrankheit"
+       }
+      ],
+      "distractors": []
+     }
+    },
+    {
+     "key": "politik-sozialvers-q06",
+     "type": "tf",
+     "exam_part": 2,
+     "difficulty": 2,
+     "source": "Politik/Tarifrecht (Unterricht, Prüfungsstil)",
+     "body": {
+      "statement": "Der Arbeitgeber trägt die Unfallversicherung allein.",
+      "answer": true
+     }
+    },
+    {
+     "key": "politik-sozialvers-q07",
+     "type": "tf",
+     "exam_part": 2,
+     "difficulty": 2,
+     "source": "Politik/Tarifrecht (Unterricht, Prüfungsstil)",
+     "body": {
+      "statement": "Die Künstlersozialabgabe wird auf Honorare an GmbHs erhoben.",
+      "answer": false
+     }
+    },
+    {
+     "key": "politik-sozialvers-q08",
+     "type": "cloze",
+     "exam_part": 2,
+     "difficulty": 2,
+     "source": "Politik/Tarifrecht (Unterricht, Prüfungsstil)",
+     "body": {
+      "text": "Die gesetzliche Rentenversicherung funktioniert nach dem [[Umlageverfahren]]."
+     }
+    }
+   ],
+   "templates": [
+    {
+     "key": "politik-sozialvers-t01",
+     "type": "calc",
+     "exam_part": 2,
+     "difficulty": 2,
+     "source": "Politik/Tarifrecht (Unterricht, Prüfungsstil)",
+     "vars": {
+      "b": {
+       "type": "int",
+       "min": 2200,
+       "max": 4800,
+       "step": 100
+      }
+     },
+     "body": {
+      "prompt": "Ein Arbeitnehmer verdient {b|eur} brutto im Monat. Der Arbeitnehmeranteil zur gesetzlichen Rentenversicherung beträgt 9,3 %. Wie hoch ist der Beitrag des Arbeitnehmers in Euro?",
+      "answer": "b*0.093",
+      "unit": "€",
+      "decimals": 2,
+      "steps": [
+       "{b|eur} · 9,3 %",
+       "= {result|eur}"
+      ]
+     }
+    },
+    {
+     "key": "politik-sozialvers-t02",
+     "type": "calc",
+     "exam_part": 2,
+     "difficulty": 2,
+     "source": "Politik/Tarifrecht (Unterricht, Prüfungsstil)",
+     "vars": {
+      "h": {
+       "type": "int",
+       "min": 10000,
+       "max": 80000,
+       "step": 5000
+      },
+      "s": {
+       "type": "pick",
+       "options": [
+        4.2,
+        5,
+        5.2
+       ]
+      }
+     },
+     "body": {
+      "prompt": "Eine Agentur zahlt im Jahr {h|eur0} € Honorare an selbstständige Künstler (keine GmbHs). Die Künstlersozialabgabe beträgt {s} %. Wie hoch ist die Abgabe?",
+      "answer": "h*s/100",
+      "unit": "€",
+      "decimals": 2,
+      "steps": [
+       "{h|eur0} · {s} %",
+       "= {result|eur}"
+      ]
+     }
+    }
+   ],
+   "cases": [],
+   "summary": {
+    "key": "politik-sozialvers-zettel",
+    "title": "Sozialversicherung & Künstlersozialkasse",
+    "content_md": "\n**5 Säulen**: **Kranken-** (14,6 % + Zusatzbeitrag), **Renten-** (18,6 %), **Arbeitslosen-** (2,6 %), **Pflege-** (3,6 % + Zuschlag Kinderlose), **Unfallversicherung** (nur Arbeitgeber, Berufsgenossenschaft).\n**Paritätisch** (je 50 %): Kranken-, Renten-, Arbeitslosen-, Pflegeversicherung; Unfall: 100 % Arbeitgeber.\n**Sozialversicherungspflicht** für Arbeitnehmer; **Beitragsbemessungsgrenzen** (bis dahin Beitragspflicht); **Versicherungspflichtgrenze** KV; Minijob (≤ 556 € [2025]) pauschal.\n**Prinzipien**: Solidarprinzip, Umlageverfahren (Rente: Generationenvertrag), Äquivalenzprinzip, Versicherungspflicht.\n**Künstlersozialkasse (KSK)**: Selbstständige Künstler/Publizisten (Grafiker, Texter, Fotografen) zahlen **50 % Beiträge**, 50 % **Bund (20 %) und Verwerter/Künstlersozialabgabe (30 %)**. **Verwerter** (Agenturen, Verlage, Werbefirmen, die Künstleraufträge vergeben) zahlen **Künstlersozialabgabe** auf **Honorare** an selbstständige Künstler (Satz jährlich, z. B. 5 %). Nicht auf Honorare an juristische Personen (GmbH).\n"
+   }
+  }
+ ]
+}

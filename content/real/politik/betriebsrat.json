@@ -1,0 +1,369 @@
+{
+ "demo": false,
+ "items": [
+  {
+   "topic": "politik-betriebsrat",
+   "flashcards": [
+    {
+     "key": "politik-betriebsrat-c01",
+     "front": "Ab wann kann ein Betriebsrat gewählt werden?",
+     "back": "In Betrieben mit mindestens 5 ständigen wahlberechtigten Arbeitnehmern (drei davon wählbar)."
+    },
+    {
+     "key": "politik-betriebsrat-c02",
+     "front": "Wie lange ist die Amtszeit des Betriebsrats?",
+     "back": "4 Jahre."
+    },
+    {
+     "key": "politik-betriebsrat-c03",
+     "front": "Wer ist wahlberechtigt zum Betriebsrat?",
+     "back": "Alle Arbeitnehmer ab 16 Jahren (inkl. Azubis)."
+    },
+    {
+     "key": "politik-betriebsrat-c04",
+     "front": "Wer ist wählbar zum Betriebsrat?",
+     "back": "Wahlberechtigte ab 18 Jahren mit 6 Monaten Betriebszugehörigkeit."
+    },
+    {
+     "key": "politik-betriebsrat-c05",
+     "front": "Welche Rechte hat der Betriebsrat bei Kündigungen?",
+     "back": "Er muss vor jeder Kündigung angehört werden – sonst ist sie unwirksam."
+    },
+    {
+     "key": "politik-betriebsrat-c06",
+     "front": "Beispiele für Mitbestimmung (§ 87 BetrVG)?",
+     "back": "Arbeitszeit, Urlaubsplan, Überwachung durch Technik, Lohngestaltung, Ordnungsregeln."
+    },
+    {
+     "key": "politik-betriebsrat-c07",
+     "front": "Was ist eine Betriebsvereinbarung?",
+     "back": "Vereinbarung zwischen Arbeitgeber und Betriebsrat, gilt für alle Beschäftigten unmittelbar."
+    },
+    {
+     "key": "politik-betriebsrat-c08",
+     "front": "Was ist die JAV?",
+     "back": "Jugend- und Auszubildendenvertretung – vertritt Beschäftigte unter 18 und Azubis bis 25."
+    },
+    {
+     "key": "politik-betriebsrat-c09",
+     "front": "Wann gibt es eine JAV?",
+     "back": "Bei mindestens 5 Jugendlichen/Azubis; Wahl alle 2 Jahre."
+    },
+    {
+     "key": "politik-betriebsrat-c10",
+     "front": "Was ist Drittelparität?",
+     "back": "Im Aufsichtsrat bei 500–2000 Beschäftigten stellen Arbeitnehmer ein Drittel der Sitze."
+    },
+    {
+     "key": "politik-betriebsrat-c11",
+     "front": "Was gilt bei über 2000 Beschäftigten?",
+     "back": "Mitbestimmungsgesetz: Aufsichtsrat paritätisch besetzt."
+    },
+    {
+     "key": "politik-betriebsrat-c12",
+     "front": "Was ist die Betriebsversammlung?",
+     "back": "Versammlung aller Arbeitnehmer; mindestens einmal pro Quartal."
+    },
+    {
+     "key": "politik-betriebsrat-c13",
+     "front": "Mitbestimmung vs. Mitwirkung?",
+     "back": "Mitbestimmung: Zustimmung nötig. Mitwirkung: Information, Anhörung, Beratung."
+    },
+    {
+     "key": "politik-betriebsrat-c14",
+     "front": "Was ist der Wirtschaftsausschuss?",
+     "back": "Informationsgremium ab 100 Beschäftigten zu wirtschaftlichen Angelegenheiten."
+    },
+    {
+     "key": "politik-betriebsrat-c15",
+     "front": "Wer kann den Betriebsrat abwählen oder wählt ihn?",
+     "back": "Die Belegschaft wählt ihn in geheimer Wahl."
+    }
+   ],
+   "glossary": [
+    {
+     "key": "politik-betriebsrat-g01",
+     "term": "Betriebsrat",
+     "definition": "Gewählte Interessenvertretung der Arbeitnehmer im Betrieb."
+    },
+    {
+     "key": "politik-betriebsrat-g02",
+     "term": "Betriebsvereinbarung",
+     "definition": "Vertrag zwischen Arbeitgeber und Betriebsrat."
+    },
+    {
+     "key": "politik-betriebsrat-g03",
+     "term": "JAV",
+     "definition": "Jugend- und Auszubildendenvertretung."
+    },
+    {
+     "key": "politik-betriebsrat-g04",
+     "term": "Drittelparität",
+     "definition": "Ein Drittel der Aufsichtsratssitze gehört den Arbeitnehmern."
+    }
+   ],
+   "questions": [
+    {
+     "key": "politik-betriebsrat-q01",
+     "type": "mc",
+     "exam_part": 2,
+     "difficulty": 2,
+     "source": "Politik/Tarifrecht (Unterricht, Prüfungsstil)",
+     "body": {
+      "prompt": "Ab wie vielen ständigen wahlberechtigten Arbeitnehmern kann ein Betriebsrat gewählt werden?",
+      "options": [
+       {
+        "text": "5",
+        "correct": true
+       },
+       {
+        "text": "3",
+        "correct": false
+       },
+       {
+        "text": "10",
+        "correct": false
+       },
+       {
+        "text": "20",
+        "correct": false
+       },
+       {
+        "text": "50",
+        "correct": false
+       }
+      ]
+     }
+    },
+    {
+     "key": "politik-betriebsrat-q02",
+     "type": "mc",
+     "exam_part": 2,
+     "difficulty": 2,
+     "source": "Politik/Tarifrecht (Unterricht, Prüfungsstil)",
+     "body": {
+      "prompt": "Wie lange dauert die Amtszeit eines Betriebsrats?",
+      "options": [
+       {
+        "text": "4 Jahre",
+        "correct": true
+       },
+       {
+        "text": "1 Jahr",
+        "correct": false
+       },
+       {
+        "text": "2 Jahre",
+        "correct": false
+       },
+       {
+        "text": "5 Jahre",
+        "correct": false
+       },
+       {
+        "text": "6 Jahre",
+        "correct": false
+       }
+      ]
+     }
+    },
+    {
+     "key": "politik-betriebsrat-q03",
+     "type": "mc",
+     "exam_part": 2,
+     "difficulty": 2,
+     "source": "Politik/Tarifrecht (Unterricht, Prüfungsstil)",
+     "body": {
+      "prompt": "Der Arbeitgeber kündigt, ohne den Betriebsrat zu hören. Was gilt?",
+      "options": [
+       {
+        "text": "Die Kündigung ist unwirksam.",
+        "correct": true
+       },
+       {
+        "text": "Die Kündigung ist wirksam.",
+        "correct": false
+       },
+       {
+        "text": "Die Kündigung ist anfechtbar.",
+        "correct": false
+       },
+       {
+        "text": "Die Kündigung ist nur bei Azubis unwirksam.",
+        "correct": false
+       },
+       {
+        "text": "Sie ist wirksam, wenn der Arbeitnehmer zustimmt.",
+        "correct": false
+       }
+      ]
+     }
+    },
+    {
+     "key": "politik-betriebsrat-q04",
+     "type": "mc",
+     "exam_part": 2,
+     "difficulty": 2,
+     "source": "Politik/Tarifrecht (Unterricht, Prüfungsstil)",
+     "body": {
+      "prompt": "Bei welchem Thema hat der Betriebsrat ein Mitbestimmungsrecht?",
+      "options": [
+       {
+        "text": "Beginn und Ende der täglichen Arbeitszeit",
+        "correct": true
+       },
+       {
+        "text": "Auswahl der Werbekunden",
+        "correct": false
+       },
+       {
+        "text": "Höhe der Werbepreise",
+        "correct": false
+       },
+       {
+        "text": "Standortwahl der Kunden",
+        "correct": false
+       },
+       {
+        "text": "Rechtsform des Unternehmens",
+        "correct": false
+       }
+      ]
+     }
+    },
+    {
+     "key": "politik-betriebsrat-q05",
+     "type": "mc",
+     "exam_part": 2,
+     "difficulty": 2,
+     "source": "Politik/Tarifrecht (Unterricht, Prüfungsstil)",
+     "body": {
+      "prompt": "Wer wählt die Jugend- und Auszubildendenvertretung?",
+      "options": [
+       {
+        "text": "Jugendliche unter 18 und Auszubildende bis 25",
+        "correct": true
+       },
+       {
+        "text": "Alle Arbeitnehmer",
+        "correct": false
+       },
+       {
+        "text": "Der Betriebsrat",
+        "correct": false
+       },
+       {
+        "text": "Die Geschäftsführung",
+        "correct": false
+       },
+       {
+        "text": "Die Gewerkschaft",
+        "correct": false
+       }
+      ]
+     }
+    },
+    {
+     "key": "politik-betriebsrat-q06",
+     "type": "mc",
+     "exam_part": 2,
+     "difficulty": 2,
+     "source": "Politik/Tarifrecht (Unterricht, Prüfungsstil)",
+     "body": {
+      "prompt": "Wann besteht im Aufsichtsrat die Drittelparität?",
+      "options": [
+       {
+        "text": "Bei Kapitalgesellschaften mit 500 bis 2000 Beschäftigten",
+        "correct": true
+       },
+       {
+        "text": "Bei allen Unternehmen",
+        "correct": false
+       },
+       {
+        "text": "Bei unter 5 Beschäftigten",
+        "correct": false
+       },
+       {
+        "text": "Nur in der Montanindustrie",
+        "correct": false
+       },
+       {
+        "text": "Bei Personengesellschaften",
+        "correct": false
+       }
+      ]
+     }
+    },
+    {
+     "key": "politik-betriebsrat-q07",
+     "type": "match",
+     "exam_part": 2,
+     "difficulty": 2,
+     "source": "Politik/Tarifrecht (Unterricht, Prüfungsstil)",
+     "body": {
+      "prompt": "Ordnen Sie das Recht der Beteiligungsstufe zu.",
+      "items": [
+       {
+        "term": "Arbeitszeitregelung",
+        "match": "Mitbestimmung"
+       },
+       {
+        "term": "Anhörung vor Kündigung",
+        "match": "Mitwirkung"
+       },
+       {
+        "term": "Information über Personalplanung",
+        "match": "Informationsrecht"
+       },
+       {
+        "term": "Betriebsvereinbarung",
+        "match": "Gemeinsame Regelung mit Zustimmung beider Seiten"
+       }
+      ],
+      "distractors": []
+     }
+    },
+    {
+     "key": "politik-betriebsrat-q08",
+     "type": "tf",
+     "exam_part": 2,
+     "difficulty": 2,
+     "source": "Politik/Tarifrecht (Unterricht, Prüfungsstil)",
+     "body": {
+      "statement": "Azubis dürfen den Betriebsrat mitwählen.",
+      "answer": true
+     }
+    },
+    {
+     "key": "politik-betriebsrat-q09",
+     "type": "tf",
+     "exam_part": 2,
+     "difficulty": 2,
+     "source": "Politik/Tarifrecht (Unterricht, Prüfungsstil)",
+     "body": {
+      "statement": "Eine Betriebsvereinbarung steht über dem Tarifvertrag.",
+      "answer": false
+     }
+    },
+    {
+     "key": "politik-betriebsrat-q10",
+     "type": "cloze",
+     "exam_part": 2,
+     "difficulty": 2,
+     "source": "Politik/Tarifrecht (Unterricht, Prüfungsstil)",
+     "body": {
+      "text": "Der Betriebsrat wird alle [[4]] Jahre gewählt, die JAV alle [[2]] Jahre."
+     }
+    }
+   ],
+   "templates": [],
+   "cases": [],
+   "summary": {
+    "key": "politik-betriebsrat-zettel",
+    "title": "Betriebsrat & Mitbestimmung",
+    "content_md": "\n**Betriebsverfassungsgesetz (BetrVG)**: Betriebsrat in Betrieben mit **mind. 5 wahlberechtigten Arbeitnehmern** (Wahl alle **4 Jahre**, Wahlberechtigt ab 16, wählbar ab 18 und 6 Monate Betriebszugehörigkeit). Gewählt durch die Belegschaft; Größe nach Betriebsgröße.\n**Beteiligungsrechte (Stufen)**: *Information* → *Anhörung* → *Beratung* → *Mitbestimmung* (Zustimmung nötig)\n- **Mitbestimmung** (§ 87): Arbeitszeit, Urlaubsgrundsätze, Lohnformen, Überwachung, Ordnung im Betrieb, Sozialeinrichtungen\n- **Mitwirkung**: Personalplanung, Stellenausschreibung, Kündigung (**Anhörung vor jeder Kündigung – sonst unwirksam**), Einstellung/Versetzung (Zustimmungsverweigerung möglich)\n- **Jugend- und Auszubildendenvertretung (JAV)**: ab 5 Beschäftigten unter 18 bzw. Azubis bis 25; Wahl alle 2 Jahre\n- **Betriebsvereinbarung**: Vertrag zwischen Arbeitgeber und Betriebsrat, gilt unmittelbar und zwingend für alle\n- **Unternehmensmitbestimmung**: **Drittelbeteiligung** (500–2000 Beschäftigte: 1/3 Arbeitnehmer im Aufsichtsrat), **Mitbestimmungsgesetz** (> 2000: paritätisch 50/50), Montan-Mitbestimmung.\n- **Betriebsversammlung**: mind. 1× pro Quartal\n"
+   }
+  }
+ ]
+}

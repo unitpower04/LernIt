@@ -1,0 +1,450 @@
+{
+ "demo": false,
+ "items": [
+  {
+   "topic": "politik-tarifvertrag",
+   "flashcards": [
+    {
+     "key": "politik-tarifvertrag-c01",
+     "front": "Was ist Tarifautonomie?",
+     "back": "Das Recht der Tarifparteien, Arbeitsbedingungen ohne staatliche Eingriffe auszuhandeln (Art. 9 Abs. 3 GG)."
+    },
+    {
+     "key": "politik-tarifvertrag-c02",
+     "front": "Wer sind die Tarifparteien?",
+     "back": "Gewerkschaften und Arbeitgeberverbände (oder einzelne Arbeitgeber)."
+    },
+    {
+     "key": "politik-tarifvertrag-c03",
+     "front": "Was ist ein Manteltarifvertrag?",
+     "back": "Regelt allgemeine Arbeitsbedingungen wie Arbeitszeit, Urlaub, Zuschläge, Kündigungsfristen – lange Laufzeit."
+    },
+    {
+     "key": "politik-tarifvertrag-c04",
+     "front": "Was ist ein Lohn- und Gehaltstarifvertrag?",
+     "back": "Regelt Entgelthöhe – kürzere Laufzeit (ca. 1–2 Jahre)."
+    },
+    {
+     "key": "politik-tarifvertrag-c05",
+     "front": "Was ist ein Rahmentarifvertrag?",
+     "back": "Regelt Eingruppierung in Lohn-/Gehaltsgruppen."
+    },
+    {
+     "key": "politik-tarifvertrag-c06",
+     "front": "Was ist ein Firmentarifvertrag?",
+     "back": "Tarifvertrag zwischen Gewerkschaft und einem einzelnen Unternehmen."
+    },
+    {
+     "key": "politik-tarifvertrag-c07",
+     "front": "Was ist ein Flächentarifvertrag?",
+     "back": "Gilt für eine ganze Branche in einer Region (Tarifbezirk)."
+    },
+    {
+     "key": "politik-tarifvertrag-c08",
+     "front": "Für wen gilt der Tarifvertrag unmittelbar?",
+     "back": "Für Mitglieder der Tarifparteien (Gewerkschaftsmitglied + Mitglied im Arbeitgeberverband)."
+    },
+    {
+     "key": "politik-tarifvertrag-c09",
+     "front": "Wann gilt ein Tarifvertrag für Nichtmitglieder?",
+     "back": "Bei Allgemeinverbindlicherklärung oder wenn der Arbeitsvertrag darauf verweist."
+    },
+    {
+     "key": "politik-tarifvertrag-c10",
+     "front": "Was besagt das Günstigkeitsprinzip?",
+     "back": "Abweichungen im Arbeitsvertrag vom Tarifvertrag/Gesetz sind nur erlaubt, wenn sie für den Arbeitnehmer günstiger sind."
+    },
+    {
+     "key": "politik-tarifvertrag-c11",
+     "front": "Rangfolge der Rechtsquellen im Arbeitsrecht?",
+     "back": "Gesetz > Tarifvertrag > Betriebsvereinbarung > Arbeitsvertrag (nur günstiger)."
+    },
+    {
+     "key": "politik-tarifvertrag-c12",
+     "front": "Was ist Friedenspflicht?",
+     "back": "Während der Laufzeit des Tarifvertrags dürfen keine Arbeitskämpfe geführt werden."
+    },
+    {
+     "key": "politik-tarifvertrag-c13",
+     "front": "Was ist eine Allgemeinverbindlicherklärung?",
+     "back": "Das Arbeitsministerium erklärt einen Tarifvertrag für eine ganze Branche verbindlich."
+    },
+    {
+     "key": "politik-tarifvertrag-c14",
+     "front": "Was ist Tarifgebundenheit?",
+     "back": "Beide Parteien sind Mitglied der Tarifparteien – der Tarifvertrag gilt unmittelbar und zwingend."
+    },
+    {
+     "key": "politik-tarifvertrag-c15",
+     "front": "Sind Gewerkschaftsbeitritt und Tarifgeltung automatisch verknüpft?",
+     "back": "Nein – Tarifgeltung setzt Mitgliedschaft (oder AVE/Verweisung) voraus."
+    },
+    {
+     "key": "politik-tarifvertrag-c16",
+     "front": "Wie lange dauert die Laufzeit typischerweise?",
+     "back": "Manteltarifverträge mehrere Jahre; Entgelttarifverträge meist 12–24 Monate."
+    },
+    {
+     "key": "politik-tarifvertrag-c17",
+     "front": "Was ist Nachwirkung?",
+     "back": "Nach Ablauf gelten die Tarifnormen weiter, bis sie durch eine andere Abmachung ersetzt werden."
+    }
+   ],
+   "glossary": [
+    {
+     "key": "politik-tarifvertrag-g01",
+     "term": "Tarifautonomie",
+     "definition": "Recht der Tarifparteien, Arbeitsbedingungen eigenständig zu regeln."
+    },
+    {
+     "key": "politik-tarifvertrag-g02",
+     "term": "Günstigkeitsprinzip",
+     "definition": "Abweichungen nur zugunsten des Arbeitnehmers."
+    },
+    {
+     "key": "politik-tarifvertrag-g03",
+     "term": "Friedenspflicht",
+     "definition": "Verbot von Arbeitskämpfen während der Laufzeit."
+    },
+    {
+     "key": "politik-tarifvertrag-g04",
+     "term": "Allgemeinverbindlicherklärung",
+     "definition": "Ausdehnung eines Tarifvertrags auf alle Arbeitgeber/Arbeitnehmer der Branche."
+    }
+   ],
+   "questions": [
+    {
+     "key": "politik-tarifvertrag-q01",
+     "type": "mc",
+     "exam_part": 2,
+     "difficulty": 2,
+     "explanation": "Günstigkeitsprinzip: Gesetz > Tarifvertrag > Arbeitsvertrag (nur günstiger).",
+     "source": "Politik/Tarifrecht (Unterricht, Prüfungsstil)",
+     "body": {
+      "prompt": "Ein Mitarbeiter wechselt zu einem tarifgebundenen Kunden. Der Einzelarbeitsvertrag soll von Tarif und Gesetz abweichen. Welche Vereinbarung gilt?",
+      "options": [
+       {
+        "text": "Abweichungen sind nur wirksam, wenn sie für den Arbeitnehmer günstiger sind.",
+        "correct": true
+       },
+       {
+        "text": "Abweichungen gelten immer unabhängig von Tarif und Gesetz.",
+        "correct": false
+       },
+       {
+        "text": "Abweichungen gelten, wenn sie ungünstiger als der Tarifvertrag, aber nicht ungünstiger als das Gesetz sind.",
+        "correct": false
+       },
+       {
+        "text": "Abweichungen sind nie erlaubt.",
+        "correct": false
+       },
+       {
+        "text": "Abweichungen gelten bei Einwilligung des Betriebsrats.",
+        "correct": false
+       }
+      ]
+     }
+    },
+    {
+     "key": "politik-tarifvertrag-q02",
+     "type": "mc",
+     "exam_part": 2,
+     "difficulty": 2,
+     "source": "Politik/Tarifrecht (Unterricht, Prüfungsstil)",
+     "body": {
+      "prompt": "Ein Kontakter fordert, dass alle Löhne im Personentransport per Gesetz vom Ministerium festgelegt werden. Gegen welches Prinzip würde das verstoßen?",
+      "options": [
+       {
+        "text": "Gegen die Tarifautonomie",
+        "correct": true
+       },
+       {
+        "text": "Gegen die Preisbindung der zweiten Hand",
+        "correct": false
+       },
+       {
+        "text": "Gegen das UWG",
+        "correct": false
+       },
+       {
+        "text": "Gegen die Föderalismusgrundsätze",
+        "correct": false
+       },
+       {
+        "text": "Gegen die Drittelparität",
+        "correct": false
+       }
+      ]
+     }
+    },
+    {
+     "key": "politik-tarifvertrag-q03",
+     "type": "mc",
+     "exam_part": 2,
+     "difficulty": 2,
+     "source": "Politik/Tarifrecht (Unterricht, Prüfungsstil)",
+     "body": {
+      "prompt": "Welche Aussage zu Tarifverträgen ist richtig?",
+      "options": [
+       {
+        "text": "Das Recht, Tarifverträge abzuschließen, heißt Tarifautonomie und ist im Grundgesetz verankert.",
+        "correct": true
+       },
+       {
+        "text": "Tarifverträge gelten immer mindestens vier Jahre.",
+        "correct": false
+       },
+       {
+        "text": "Ein Arbeitnehmer muss bei Einstellung Gewerkschaftsmitglied werden, damit der Tarifvertrag gilt.",
+        "correct": false
+       },
+       {
+        "text": "Rahmen- und Manteltarifvertrag haben immer dieselbe Laufzeit.",
+        "correct": false
+       },
+       {
+        "text": "Ein Unternehmen ist nur tarifgebunden, wenn es einen Betriebsrat hat.",
+        "correct": false
+       }
+      ]
+     }
+    },
+    {
+     "key": "politik-tarifvertrag-q04",
+     "type": "mc",
+     "exam_part": 2,
+     "difficulty": 2,
+     "source": "Politik/Tarifrecht (Unterricht, Prüfungsstil)",
+     "body": {
+      "prompt": "Wann ist ein Unternehmen tarifgebunden?",
+      "options": [
+       {
+        "text": "Wenn es Mitglied im tarifschließenden Arbeitgeberverband ist oder einen Firmentarifvertrag abgeschlossen hat.",
+        "correct": true
+       },
+       {
+        "text": "Wenn es einen Betriebsrat hat",
+        "correct": false
+       },
+       {
+        "text": "Wenn mehr als 20 Mitarbeiter beschäftigt sind",
+        "correct": false
+       },
+       {
+        "text": "Immer",
+        "correct": false
+       },
+       {
+        "text": "Wenn es in der IHK ist",
+        "correct": false
+       }
+      ]
+     }
+    },
+    {
+     "key": "politik-tarifvertrag-q05",
+     "type": "mc",
+     "exam_part": 2,
+     "difficulty": 2,
+     "source": "Politik/Tarifrecht (Unterricht, Prüfungsstil)",
+     "body": {
+      "prompt": "Welcher Tarifvertrag regelt Wochenarbeitszeit, Urlaub und Kündigungsfristen?",
+      "options": [
+       {
+        "text": "Manteltarifvertrag",
+        "correct": true
+       },
+       {
+        "text": "Lohn- und Gehaltstarifvertrag",
+        "correct": false
+       },
+       {
+        "text": "Firmentarifvertrag",
+        "correct": false
+       },
+       {
+        "text": "Betriebsvereinbarung",
+        "correct": false
+       },
+       {
+        "text": "Allgemeinverbindlicherklärung",
+        "correct": false
+       }
+      ]
+     }
+    },
+    {
+     "key": "politik-tarifvertrag-q06",
+     "type": "mc",
+     "exam_part": 2,
+     "difficulty": 2,
+     "source": "Politik/Tarifrecht (Unterricht, Prüfungsstil)",
+     "body": {
+      "prompt": "Wo ist die Tarifautonomie geregelt?",
+      "options": [
+       {
+        "text": "Art. 9 Abs. 3 Grundgesetz",
+        "correct": true
+       },
+       {
+        "text": "Art. 1 GG",
+        "correct": false
+       },
+       {
+        "text": "BGB § 611",
+        "correct": false
+       },
+       {
+        "text": "Betriebsverfassungsgesetz",
+        "correct": false
+       },
+       {
+        "text": "Jugendarbeitsschutzgesetz",
+        "correct": false
+       }
+      ]
+     }
+    },
+    {
+     "key": "politik-tarifvertrag-q07",
+     "type": "match",
+     "exam_part": 2,
+     "difficulty": 2,
+     "source": "Politik/Tarifrecht (Unterricht, Prüfungsstil)",
+     "body": {
+      "prompt": "Ordnen Sie jedem Sachverhalt den Tarifvertrag zu.",
+      "items": [
+       {
+        "term": "Vertragspartner sind die Gewerkschaft NGG und ein großer Lebensmittelkonzern",
+        "match": "Firmentarifvertrag"
+       },
+       {
+        "term": "Die Wochenarbeitszeit beträgt 37,5 Stunden für alle Beschäftigten im Tarifbezirk",
+        "match": "Manteltarifvertrag"
+       },
+       {
+        "term": "Die Gehälter steigen um 4 % ab 1. Januar",
+        "match": "Lohn- und Gehaltstarifvertrag"
+       },
+       {
+        "term": "Eingruppierung in Entgeltgruppen nach Tätigkeitsmerkmalen",
+        "match": "Rahmentarifvertrag"
+       }
+      ],
+      "distractors": []
+     }
+    },
+    {
+     "key": "politik-tarifvertrag-q08",
+     "type": "match",
+     "exam_part": 2,
+     "difficulty": 2,
+     "source": "Politik/Tarifrecht (Unterricht, Prüfungsstil)",
+     "body": {
+      "prompt": "Ordnen Sie die Rechtsquelle der Rangfolge zu.",
+      "items": [
+       {
+        "term": "höchster Rang",
+        "match": "Gesetz"
+       },
+       {
+        "term": "zweiter Rang",
+        "match": "Tarifvertrag"
+       },
+       {
+        "term": "dritter Rang",
+        "match": "Betriebsvereinbarung"
+       },
+       {
+        "term": "niedrigster Rang",
+        "match": "Arbeitsvertrag"
+       }
+      ],
+      "distractors": []
+     }
+    },
+    {
+     "key": "politik-tarifvertrag-q09",
+     "type": "tf",
+     "exam_part": 2,
+     "difficulty": 2,
+     "source": "Politik/Tarifrecht (Unterricht, Prüfungsstil)",
+     "body": {
+      "statement": "Nur Gewerkschaftsmitglieder können vom Tarifvertrag profitieren – ohne AVE oder Verweis.",
+      "answer": true
+     }
+    },
+    {
+     "key": "politik-tarifvertrag-q10",
+     "type": "tf",
+     "exam_part": 2,
+     "difficulty": 2,
+     "source": "Politik/Tarifrecht (Unterricht, Prüfungsstil)",
+     "body": {
+      "statement": "Der Staat legt in Deutschland die Tariflöhne fest.",
+      "answer": false
+     }
+    },
+    {
+     "key": "politik-tarifvertrag-q11",
+     "type": "tf",
+     "exam_part": 2,
+     "difficulty": 2,
+     "source": "Politik/Tarifrecht (Unterricht, Prüfungsstil)",
+     "body": {
+      "statement": "Während der Laufzeit eines Tarifvertrags gilt die Friedenspflicht.",
+      "answer": true
+     }
+    },
+    {
+     "key": "politik-tarifvertrag-q12",
+     "type": "cloze",
+     "exam_part": 2,
+     "difficulty": 2,
+     "source": "Politik/Tarifrecht (Unterricht, Prüfungsstil)",
+     "body": {
+      "text": "Nach dem [[Günstigkeitsprinzip]] dürfen Arbeitsverträge nur [[zugunsten]] des Arbeitnehmers abweichen."
+     }
+    },
+    {
+     "key": "politik-tarifvertrag-q13",
+     "type": "error",
+     "exam_part": 2,
+     "difficulty": 2,
+     "source": "Politik/Tarifrecht (Unterricht, Prüfungsstil)",
+     "body": {
+      "prompt": "Welche Aussagen zum Tarifrecht sind fehlerhaft?",
+      "items": [
+       {
+        "text": "Die Tarifautonomie ist im Grundgesetz verankert.",
+        "wrong": false
+       },
+       {
+        "text": "Tarifverträge haben stets eine Laufzeit von mindestens vier Jahren.",
+        "wrong": true,
+        "fix": "Die Laufzeit wird vereinbart (Entgelt meist 1–2 Jahre)."
+       },
+       {
+        "text": "Der Manteltarifvertrag regelt u. a. Urlaub und Arbeitszeit.",
+        "wrong": false
+       },
+       {
+        "text": "Betriebsvereinbarungen stehen über Gesetzen.",
+        "wrong": true,
+        "fix": "Gesetze haben Vorrang."
+       }
+      ]
+     }
+    }
+   ],
+   "templates": [],
+   "cases": [],
+   "summary": {
+    "key": "politik-tarifvertrag-zettel",
+    "title": "Tarifvertrag & Tarifautonomie",
+    "content_md": "\n**Tarifautonomie** (Art. 9 Abs. 3 GG): Gewerkschaften und Arbeitgeber(verbände) handeln Arbeitsbedingungen **ohne staatliche Einmischung** aus. Der Staat darf Löhne nicht per Gesetz festlegen.\n**Tarifparteien/Sozialpartner**: Gewerkschaften (z. B. ver.di, IG Metall, NGG, DGB-Mitglieder) und Arbeitgeberverbände (oder einzelne Arbeitgeber → Firmentarifvertrag).\n**Arten**: *Lohn-/Gehaltstarifvertrag* (Entgelthöhe, kurze Laufzeit ~1–2 Jahre) · *Manteltarifvertrag* (Arbeitszeit, Urlaub, Kündigungsfristen, Zuschläge; lange Laufzeit) · *Rahmentarifvertrag* (Eingruppierung) · *Firmentarifvertrag* (ein Unternehmen) · *Flächentarifvertrag* (Branche/Region).\n**Geltung**: unmittelbar und zwingend für **Tarifgebundene** (Gewerkschaftsmitglied + Mitglied im Arbeitgeberverband). Nicht-Mitglieder: nur wenn arbeitsvertraglich vereinbart oder **Allgemeinverbindlicherklärung** (BMAS).\n**Günstigkeitsprinzip**: Einzelarbeitsvertrag darf vom Tarifvertrag/Gesetz nur **zugunsten des Arbeitnehmers** abweichen. Rangfolge: Gesetz > Tarifvertrag > Betriebsvereinbarung > Arbeitsvertrag (Abweichung nur günstiger).\n**Friedenspflicht**: während der Laufzeit kein Streik. **Tarifvertrag** endet mit Ablauf der Laufzeit oder Kündigung (Nachwirkung).\n"
+   }
+  }
+ ]
+}
