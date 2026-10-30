@@ -289,12 +289,12 @@
       }
      },
      "body": {
-      "prompt": "Exporte: {x|eur0} Mrd. €, Importe: {m|eur0} Mrd. €. Berechnen Sie den Außenbeitrag (Mrd. €).",
+      "prompt": "Exporte: {x|int} Mrd. €, Importe: {m|int} Mrd. €. Berechnen Sie den Außenbeitrag (Mrd. €).",
       "answer": "x-m",
       "unit": "Mrd. €",
       "decimals": 0,
       "steps": [
-       "{x|eur0} − {m|eur0} = {result|eur0}"
+       "{x|int} − {m|int} = {result|int}"
       ]
      }
     }

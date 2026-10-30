@@ -356,9 +356,9 @@ const mkz = T("mako-lf9-kennziffern", 3)
 **Kontakte pro Nutzer** = BRW : NRW. **GRP** (Gross Rating Points) = Summe der Bruttoreichweiten in % der Zielgruppe = Reichweite % × Kontakte pro Nutzer (Werbedruck).
 **Affinität** = Anteil der Zielgruppe an der Mediennutzerschaft. **Affinitätsindex** = (Anteil ZG in Medium : Anteil ZG in Grundgesamtheit) × 100 (> 100 überproportional).
 **Überschneidung**: *interne* (verschiedene Ausgaben desselben Mediums), *externe* (verschiedene Medien).
-**Preise**: **1000er-Seitenpreis (TKP)** = Seitenpreis × 1.000 : verbreitete Auflage · **1000er-Kontaktpreis (TKP)** = Preis × 1.000 : BRW · **1000er-Nutzerpreis (TNP)** = Preis × 1.000 : NRW · 1000er-mm-Preis = mm-Preis × 1.000 : Auflage.
+**Preise**: **1000er-Seitenpreis** = Seitenpreis × 1.000 : verbreitete Auflage · **1000er-Kontaktpreis (TKP)** = Preis × 1.000 : BRW · **1000er-Nutzerpreis (TNP)** = Preis × 1.000 : NRW · 1000er-mm-Preis = mm-Preis × 1.000 : Auflage.
 **Intermedialer Vergleich** = verschiedene Mediengattungen; **intramedialer Vergleich** = Werbeträger innerhalb einer Gattung.
-**Online**: **Visits/Unique Visitors** (Brutto-/Nettokontakte), **Page Impression**, **Ad Impression**, **Ad Click**, **CTR** = Clicks : Impressions × 100 (1–3 % gut), Geo-/Behavioural-/Predictive-Behavioural-Targeting, Retargeting; **TKP** online = Kosten × 1.000 : Ad Impressions.
+**Online**: **Visits/Unique Visitors** (Brutto-/Nettokontakte), **Page Impression**, **Ad Impression**, **Ad Click**, **CTR** = Clicks : Impressions × 100 (Display typ. unter 1 %, Suchanzeigen höher), Geo-/Behavioural-/Predictive-Behavioural-Targeting, Retargeting; **TKP** online = Kosten × 1.000 : Ad Impressions.
 **Paid / Owned / Earned Media**.
 `)
   .cards([
@@ -411,7 +411,7 @@ const mkz = T("mako-lf9-kennziffern", 3)
   .mc("Wie berechnet sich die CTR?", "Klicks : Impressions · 100", ["Impressions : Klicks", "Klicks · Impressions", "Budget : Klicks", "Reichweite : Klicks"])
   .mc("Welche Kennziffer ist der Online-Bruttokontakt?", "Visits", ["Unique Visitors", "Nettoreichweite", "Reichweite", "Affinität"])
   .mc("Welcher Vergleich liegt vor, wenn Spiegel und Stern verglichen werden?", "Intramedialer Vergleich", ["Intermedialer Vergleich", "Intermodaler Vergleich", "Kein Vergleich", "Cross-Media"])
-  .mc("Welche Auflage ist höher oder gleich der verkauften Auflage?", "Die tatsächlich verbreitete Auflage", ["Die Druckauflage ist niedriger", "Die Leser pro Nummer", "Die Reichweite", "Keine"])
+  .mc("Welche Auflagenart ist stets mindestens so hoch wie die verkaufte Auflage, aber nie höher als die Druckauflage?", "Die tatsächlich verbreitete Auflage", ["Die Leser pro Nummer", "Die Reichweite", "Die Affinität", "Der Tausenderpreis"])
   .match("Ordnen Sie jede Kennziffer der Beschreibung zu.", [
     ["Bruttoreichweite", "Kontakte inkl. Mehrfachkontakte"],
     ["Nettoreichweite", "Personen ohne Mehrfachkontakte"],
@@ -436,7 +436,7 @@ const mkz = T("mako-lf9-kennziffern", 3)
   .tcalc(
     "Eine 1/1-seitige Farbanzeige im Magazin „{m}“ kostet netto {p|eur}. Verbreitete Auflage {a} Mio. Stück. Berechnen Sie den 1000er-Seitenpreis.",
     "p*1000/(a*1000000)",
-    { m: V.pick(["Spiegel", "Stern", "Focus", "Brigitte", "Tempo"]), p: V.int(20000, 80000, 1000), a: V.dec(0.4, 1.6, 1) },
+    { m: V.pick(["Spiegel", "Stern", "Focus", "Brigitte", "Bunte"]), p: V.int(20000, 80000, 1000), a: V.dec(0.4, 1.6, 1) },
     { unit: "€", steps: ["1000er-Seitenpreis = Seitenpreis · 1.000 : Auflage", "= {p|eur} · 1.000 : ({a} Mio.) = {result|eur}"] },
   )
   .tcalc(
@@ -452,10 +452,10 @@ const mkz = T("mako-lf9-kennziffern", 3)
     { unit: "€", steps: ["Nettoreichweite = BRW − Mehrfachkontakte", "TNP = Preis · 1.000 : NRW = {result|eur}"] },
   )
   .tcalc(
-    "Die Zielgruppe umfasst {zg|eur0} Personen. Ein Plan erreicht {n|eur0} Personen netto mit durchschnittlich {k} Kontakten. Berechnen Sie die GRP (Kontakte je 100 Zielpersonen).",
+    "Die Zielgruppe umfasst {zg|int} Personen. Ein Plan erreicht {n|int} Personen netto mit durchschnittlich {k} Kontakten. Berechnen Sie die GRP (Kontakte je 100 Zielpersonen).",
     "n/zg*100*k",
     { zg: V.int(1000000, 5000000, 500000), n: V.int(200000, 900000, 50000), k: V.dec(1.5, 4, 1) },
-    { unit: "GRP", steps: ["Reichweite in % = {n|eur0} : {zg|eur0} · 100", "GRP = Reichweite % · {k} Kontakte = {result}"] },
+    { unit: "GRP", steps: ["Reichweite in % = {n|int} : {zg|int} · 100", "GRP = Reichweite % · {k} Kontakte = {result}"] },
   )
   .tcalc(
     "Im Medium sind {a} % der Nutzer Zielgruppenangehörige, in der Grundgesamtheit {b} %. Berechnen Sie den Affinitätsindex.",
@@ -464,13 +464,13 @@ const mkz = T("mako-lf9-kennziffern", 3)
     { unit: "", dec: 0, steps: ["Affinitätsindex = {a} : {b} · 100 = {result}"] },
   )
   .tcalc(
-    "Eine Online-Kampagne erzielt {i|eur0} Ad Impressions und {c|eur0} Klicks. Berechnen Sie die Click-Through-Rate in Prozent.",
+    "Eine Online-Kampagne erzielt {i|int} Ad Impressions und {c|int} Klicks. Berechnen Sie die Click-Through-Rate in Prozent.",
     "c/i*100",
-    { i: V.int(200000, 2000000, 100000), c: V.int(2000, 40000, 2000) },
+    { i: V.int(200000, 2000000, 100000), ctr: V.pick([0.2, 0.4, 0.5, 0.8, 1.5, 2.5]), c: V.expr("i*ctr/100", 0, "int") },
     { unit: "%", steps: ["CTR = Klicks : Impressions · 100 = {result} %"] },
   )
   .tcalc(
-    "Online-Kampagnenkosten {k|eur}, Ad Impressions {i|eur0}. Berechnen Sie den TKP (Kosten je 1.000 Impressions).",
+    "Online-Kampagnenkosten {k|eur}, Ad Impressions {i|int}. Berechnen Sie den TKP (Kosten je 1.000 Impressions).",
     "k/i*1000",
     { k: V.int(2000, 20000, 1000), i: V.int(200000, 2000000, 100000) },
     { unit: "€", steps: ["TKP = Kosten : Impressions · 1.000 = {result|eur}"] },
@@ -626,10 +626,10 @@ const pd = T("mako-lf10-produktion", 3)
   .tf("Der Digitaldruck eignet sich besonders für kleine Auflagen.", true)
   .cloze("Der [[Beschnitt]] beträgt üblicherweise [[3]] mm.")
   .tcalc(
-    "Ein Druckauftrag: {n|eur0} Flyer. Druckkosten {k1|eur} je 1.000 Stück, Papier {k2|eur} je 1.000 Stück, einmalige Rüstkosten {r|eur}. Berechnen Sie die Gesamtkosten.",
+    "Ein Druckauftrag: {n|int} Flyer. Druckkosten {k1|eur} je 1.000 Stück, Papier {k2|eur} je 1.000 Stück, einmalige Rüstkosten {r|eur}. Berechnen Sie die Gesamtkosten.",
     "n/1000*(k1+k2)+r",
     { n: V.int(2000, 20000, 1000), k1: V.int(20, 60, 5), k2: V.int(10, 30, 2), r: V.int(80, 300, 20) },
-    { unit: "€", steps: ["{n|eur0} : 1.000 · ({k1|eur} + {k2|eur}) + Rüstkosten {r|eur}", "= {result|eur}"] },
+    { unit: "€", steps: ["{n|int} : 1.000 · ({k1|eur} + {k2|eur}) + Rüstkosten {r|eur}", "= {result|eur}"] },
   )
   .tcalc(
     "Ein Plakat im Format DIN A1 (594 × 841 mm) wird {n} Mal gedruckt. Der Preis je m² Druckfläche beträgt {pr|eur}. Wie hoch sind die Druckkosten? (Fläche in m² auf drei Nachkommastellen genau berechnen: 0,594 × 0,841.)",

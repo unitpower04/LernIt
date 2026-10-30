@@ -103,7 +103,7 @@ const rg = topic("wsp-lf3-rechtsgeschaefte", { part: 2, src: SRC })
 - **Einseitig**: *empfangsbedürftig* (Kündigung, Anfechtung, Mahnung) · *nicht empfangsbedürftig* (Testament)
 - **Zweiseitig** (Vertrag): zwei übereinstimmende Willenserklärungen (Antrag + Annahme) – *zweiseitig verpflichtend* (Kauf, Miete, Werk) oder *einseitig verpflichtend* (Schenkung, Leihe)
 
-**Form**: Grundsatz der **Formfreiheit** (mündlich, schriftlich, schlüssiges = konkludentes Verhalten). Vorgeschrieben ist Form z. B. bei: **gesetzliche Schriftform** (Darlehensvertrag, Bürgschaft*, Kündigung Arbeitsvertrag) · **öffentliche Beglaubigung** (Unterschrift vom Notar bestätigt: Anmeldung zum Handelsregister, Erbausschlagung) · **notarielle Beurkundung** (Grundstückskauf, GmbH-Gründung).
+**Form**: Grundsatz der **Formfreiheit** (mündlich, schriftlich, schlüssiges = konkludentes Verhalten). Vorgeschrieben ist Form z. B. bei: **gesetzliche Schriftform** (Verbraucherdarlehensvertrag, Bürgschaftserklärung, Kündigung Arbeitsvertrag) · **öffentliche Beglaubigung** (Unterschrift vom Notar bestätigt: Anmeldung zum Handelsregister, Erbausschlagung) · **notarielle Beurkundung** (Grundstückskauf, GmbH-Gründung).
 Weitere Freiheiten: Abschluss- und Inhaltsfreiheit.
 
 **Nichtig** (von Anfang an unwirksam): Formmangel (§ 125) · Geschäftsunfähigkeit (§ 105) · Verstoß gegen ein gesetzliches Verbot (§ 134) · Sittenwidrigkeit/Wucher (§ 138) · Scheingeschäft (§ 117) · Scherzgeschäft (§ 118).
@@ -125,7 +125,7 @@ Weitere Freiheiten: Abschluss- und Inhaltsfreiheit.
     ["Was ist konkludentes Verhalten?", "Eine Willenserklärung durch schlüssiges Verhalten, z. B. Einsteigen in den Bus oder Ware aufs Band legen."],
     ["Was bedeutet Abschlussfreiheit?", "Jeder darf frei entscheiden, ob und mit wem er einen Vertrag schließt."],
     ["Was bedeutet Inhaltsfreiheit?", "Verträge dürfen im Rahmen der Gesetze frei gestaltet werden."],
-    ["Beispiel gesetzliche Schriftform?", "Darlehensvertrag, Kündigung des Arbeitsvertrags, Ausbildungsvertrag."],
+    ["Beispiel gesetzliche Schriftform?", "Verbraucherdarlehensvertrag, Bürgschaftserklärung, Kündigung des Arbeitsvertrags."],
     ["Was ist eine öffentliche Beglaubigung?", "Ein Notar bestätigt die Echtheit der Unterschrift (z. B. Handelsregisteranmeldung, Erbausschlagung)."],
     ["Was ist eine notarielle Beurkundung?", "Strengste Form: Der Notar beurkundet den gesamten Inhalt (z. B. Grundstückskauf, GmbH-Gründung)."],
     ["Was bedeutet Nichtigkeit?", "Das Rechtsgeschäft ist von Anfang an unwirksam."],
@@ -166,7 +166,7 @@ Weitere Freiheiten: Abschluss- und Inhaltsfreiheit.
     ["Schenkung von 10.000 € ohne Gegenleistung", "einseitig verpflichtender Vertrag"],
   ])
   .match("Ordnen Sie jede Formvorschrift dem passenden Beispiel zu.", [
-    ["gesetzliche Schriftform", "Darlehensvertrag"],
+    ["gesetzliche Schriftform", "Kündigung eines Arbeitsvertrags"],
     ["öffentliche Beglaubigung", "Anmeldung zum Handelsregister"],
     ["notarielle Beurkundung", "Grundstückskaufvertrag"],
     ["Formfreiheit", "Kauf eines Kaffees"],
@@ -183,7 +183,7 @@ Weitere Freiheiten: Abschluss- und Inhaltsfreiheit.
   .cloze("Die [[Nichtigkeit]] eines Rechtsgeschäfts besteht von Anfang an; eine [[Anfechtung]] wirkt rückwirkend.")
   .cloze("Die strengste Form eines Rechtsgeschäfts ist die [[notarielle Beurkundung]].")
   .error("Welche Aussagen zu Rechtsgeschäften sind fehlerhaft?", [
-    ["Ein Darlehensvertrag bedarf der gesetzlichen Schriftform.", false],
+    ["Die Kündigung eines Arbeitsvertrags bedarf der gesetzlichen Schriftform.", false],
     ["Ein Scheingeschäft ist anfechtbar.", true, "Es ist nichtig (§ 117 BGB)."],
     ["Die Kündigung ist eine einseitige, empfangsbedürftige Willenserklärung.", false],
     ["Verträge dürfen grundsätzlich nicht von den Gesetzen abweichen.", true, "Es gilt Inhaltsfreiheit im Rahmen der Gesetze."],
@@ -195,7 +195,7 @@ Weitere Freiheiten: Abschluss- und Inhaltsfreiheit.
    ========================================================= */
 const kv = topic("wsp-lf3-kaufvertrag", { part: 2, src: SRC })
   .summary("Kaufvertrag, Angebot & AGB", `
-**Zustandekommen**: Anfrage (unverbindlich) → **Angebot = Antrag** (rechtlich bindend) → **Annahme** → Kaufvertrag. Änderung des Angebots = neuer Antrag. *Schweigen*: bei Nichtkaufleuten Ablehnung; unter Kaufleuten mit laufender Geschäftsbeziehung kann es als Annahme gelten.
+**Zustandekommen**: Anfrage (unverbindlich) → **Angebot = Antrag** (rechtlich bindend) → **Annahme** → Kaufvertrag. Änderung des Angebots = neuer Antrag. *Schweigen*: bei Nichtkaufleuten Ablehnung; auch unter Kaufleuten ist Schweigen grundsätzlich **keine Annahme** (Sonderfall: kaufmännisches Bestätigungsschreiben).
 
 **Inhalt des Angebots**: Art, Güte und Beschaffenheit · Menge · Preis · Lieferbedingungen · Zahlungsbedingungen · Erfüllungsort und Gerichtsstand.
 
@@ -249,7 +249,7 @@ Listeneinkaufspreis − Rabatt = **Zieleinkaufspreis** − Skonto = **Bareinkauf
   ])
   .mc("Was liegt vor, wenn eine Agentur auf einen Kundenanruf antwortet: „Wir liefern Ihnen 500 Flyer zum Preis von 120 € bis Freitag“?", "Ein Antrag (Angebot)", ["Eine Anfrage", "Eine Annahme", "Eine Anfechtung", "Nichts Rechtliches"])
   .mc("Ein Kunde bestellt auf ein Angebot, ändert aber den Preis ab. Welche Folge hat das?", "Das ist ein neuer Antrag; der Verkäufer muss ihn erst annehmen.", ["Der Vertrag ist zum geänderten Preis zustande gekommen.", "Der Vertrag ist nichtig.", "Der Verkäufer ist ans Ursprungsangebot gebunden.", "Der Vertrag ist anfechtbar."])
-  .mc("Ein Werbemittelhersteller schickt an 10.000 Firmen ein Sonderangebot. Eine Agentur, mit der er regelmäßig Geschäfte macht, schweigt. Was gilt?", "Das Schweigen zählt hier als Annahme, wenn sie als Kaufmann regelmäßig Kontakt hat – Vorsicht!", ["Schweigen ist nie eine Annahme.", "Der Vertrag ist nichtig.", "Der Hersteller muss ein neues Angebot schicken.", "Der Vertrag ist anfechtbar."], { d: 3, e: "Kaufleute: Schweigen auf ein Angebot im Rahmen einer bestehenden Geschäftsbeziehung kann als Annahme gelten; Nichtkaufleute: Ablehnung." })
+  .mc("Ein Werbemittelhersteller schickt an 10.000 Firmen ein Sonderangebot. Eine Agentur, mit der er regelmäßig Geschäfte macht, schweigt. Was gilt?", "Das Schweigen ist keine Annahme – es kommt kein Vertrag zustande.", ["Das Schweigen gilt als Annahme, weil beide Kaufleute sind.", "Der Vertrag ist nichtig.", "Der Vertrag ist anfechtbar.", "Der Vertrag kommt nach 14 Tagen automatisch zustande."], { d: 2, e: "Schweigen ist grundsätzlich keine Willenserklärung, auch unter Kaufleuten; ein Massen-Sonderangebot ist zudem nur eine Aufforderung zur Abgabe von Angeboten." })
   .mc("Wer trägt bei „frei Haus“ die Frachtkosten?", "Der Verkäufer", ["Der Käufer", "Beide je zur Hälfte", "Der Spediteur", "Die Versicherung"])
   .mc("Wer trägt bei „unfrei“ die Frachtkosten?", "Der Käufer", ["Der Verkäufer", "Beide je zur Hälfte", "Der Hersteller", "Der Lagerhalter"])
   .mc("Welche Aussage zum quantitativen Angebotsvergleich trifft zu? Wählen Sie die zwei zutreffenden Aussagen.", ["Es wird der Bezugspreis ermittelt und der günstigste Anbieter festgestellt.", "Quantitative Faktoren werden in Geldeinheiten bewertet."], ["Es werden auch Dauer der Geschäftsbeziehung und Liefertreue berücksichtigt.", "Rabatt, Skonto und Transportkosten bleiben unberücksichtigt.", "Es erfolgt eine subjektive Gewichtung der Kriterien.", "Es gewinnt der Anbieter mit den meisten Übereinstimmungen bei Kriterien."])
@@ -327,7 +327,7 @@ const va = topic("wsp-lf3-vertragsarten", { part: 2, src: SRC })
     ["Merkmal des Darlehensvertrags?", "Überlassung von Geld (oder vertretbaren Sachen); zurückzugeben ist Gleichartiges, meist mit Zinsen."],
     ["Merkmal des Leasingvertrags?", "Langfristige Gebrauchsüberlassung gegen Leasingraten; wird wie Miete behandelt, oft mit Kaufoption zum Restwert."],
     ["Merkmal des Dienstvertrags?", "Geschuldet wird eine Tätigkeit, nicht ein Erfolg (z. B. Beratung)."],
-    ["Merkmal des Werkvertrags?", "Geschuldet wird ein bestimmter Erfolg (Werk), der abgenommen wird (z. B. Druck von 20 Steel Pans)."],
+    ["Merkmal des Werkvertrags?", "Geschuldet wird ein bestimmter Erfolg (Werk), der abgenommen wird (z. B. Produktion und Branding von 20 Steel Pans)."],
     ["Merkmal des Arbeitsvertrags?", "Weisungsgebundene Arbeit in persönlicher Abhängigkeit gegen Arbeitsentgelt."],
     ["Dienstvertrag vs. Werkvertrag?", "Dienstvertrag: Tätigkeit geschuldet. Werkvertrag: Erfolg geschuldet."],
     ["Dienstvertrag vs. Arbeitsvertrag?", "Der Arbeitnehmer ist weisungsgebunden und persönlich abhängig; der freie Dienstnehmer arbeitet selbstständig."],
@@ -384,7 +384,7 @@ const st = topic("wsp-lf3-stoerungen", { part: 2, src: SRC })
 
 **Mahnverfahren**
 - *außergerichtlich*: Zahlungserinnerung → 1. Mahnung → 2. Mahnung → 3. Mahnung (mit Androhung rechtlicher Schritte)
-- *gerichtlich*: Antrag auf **Mahnbescheid** (Amtsgericht) → Widerspruch (2 Wochen) → **Vollstreckungsbescheid** → **Zwangsvollstreckung** (Gerichtsvollzieher, Pfändung) → eidesstattliche Versicherung
+- *gerichtlich*: Antrag auf **Mahnbescheid** (Amtsgericht) → Widerspruch (2 Wochen) → **Vollstreckungsbescheid** → **Zwangsvollstreckung** (Gerichtsvollzieher, Pfändung) → Vermögensauskunft
 `)
   .cards([
     ["Was sind die vier Kaufvertragsstörungen?", "Mangelhafte Lieferung (Schlechtleistung), Lieferungsverzug, Annahmeverzug, Zahlungsverzug."],
@@ -423,7 +423,7 @@ const st = topic("wsp-lf3-stoerungen", { part: 2, src: SRC })
     ["Nacherfüllung", "Nachbesserung oder Ersatzlieferung bei mangelhafter Ware."],
     ["Mahnbescheid", "Gerichtlicher Zahlungsbefehl im Mahnverfahren."],
     ["Verjährung", "Der Schuldner darf nach Fristablauf die Leistung verweigern."],
-    ["Hemmung", "Unterbrechung des Fristenlaufs der Verjährung."],
+    ["Hemmung", "Ruhen des Fristenlaufs der Verjährung (Frist läuft danach weiter)."],
   ])
   .mc("Eine Agentur bestellt Bürolampen. Vier von zehn sind defekt. Welches Recht steht der Agentur vorrangig zu?", "Nacherfüllung (Nachbesserung oder Ersatzlieferung)", ["Sofortiger Rücktritt vom Vertrag", "Minderung des Kaufpreises", "Schadensersatz neben der Leistung", "Kein Recht, da der Mangel offen war"])
   .mc("Die FAMK lässt Schriftzüge aus Edelstahltrommeln lasern; einige Buchstaben verbiegen sich. Welches Recht steht ihr vorrangig zu?", "Die Beseitigung des Mangels (Nacherfüllung)", ["Der sofortige Rücktritt und Schadensersatz statt der Leistung", "Die Minderung des Kaufpreises", "Kein Recht, weil nicht gerügt wurde", "Schadensersatz neben der Leistung"])
@@ -447,7 +447,7 @@ const st = topic("wsp-lf3-stoerungen", { part: 2, src: SRC })
     ["Rücktritt nach Nachfrist wegen Nichtlieferung", "Lieferungsverzug"],
   ])
   .match("Ordnen Sie jedem Zeitraum den Sachverhalt zu.", [
-    ["2 Wochen", "Einspruch gegen den Mahnbescheid"],
+    ["2 Wochen", "Widerspruch gegen den Mahnbescheid"],
     ["3 Wochen", "Klage gegen eine sozial ungerechtfertigte Kündigung"],
     ["30 Tage", "Zahlungsverzug nach Fälligkeit und Rechnungszugang"],
     ["3 Jahre", "Regelmäßige Verjährungsfrist"],
@@ -481,7 +481,7 @@ const st = topic("wsp-lf3-stoerungen", { part: 2, src: SRC })
       ctx: V.pick([
         { zugang: "01.03.2026", zb: "zahlbar bis 15.03.2026", richtig: "Mit Ablauf des 15.03.2026, ohne Mahnung", w1: "Erst nach Zugang einer Mahnung und fruchtlosem Ablauf der Nachfrist", w2: "30 Tage nach Zugang, also am 31.03.2026", w3: "Sofort mit Zugang der Rechnung" },
         { zugang: "10.04.2026", zb: "zahlbar bis 30.04.2026", richtig: "Mit Ablauf des 30.04.2026, ohne Mahnung", w1: "Nach der ersten Mahnung", w2: "30 Tage nach Zugang, also am 10.05.2026", w3: "Sofort mit Zugang der Rechnung" },
-        { zugang: "05.05.2026", zb: "zahlbar innerhalb von 14 Tagen nach Rechnungszugang (kalendermäßig nicht bestimmt, kein Zahlungstermin genannt)", richtig: "30 Tage nach Fälligkeit und Zugang der Rechnung – bei Fälligkeit mit Zugang also am 04.06.2026 (Ablauf)", w1: "Mit Ablauf von 14 Tagen am 19.05.2026 automatisch", w2: "Sofort mit Zugang der Rechnung", w3: "Erst nach Zugang eines Mahnbescheids" },
+        { zugang: "05.05.2026", zb: "sofort fällig, ohne Angabe einer Zahlungsfrist", richtig: "30 Tage nach Fälligkeit und Rechnungszugang, also mit Ablauf des 04.06.2026", w1: "Mit Ablauf von 14 Tagen am 19.05.2026 automatisch", w2: "Sofort mit Zugang der Rechnung", w3: "Erst nach Zugang eines Mahnbescheids" },
       ]),
     },
     { d: 3 },

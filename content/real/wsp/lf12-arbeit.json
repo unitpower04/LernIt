@@ -279,13 +279,13 @@
       }
      },
      "body": {
-      "prompt": "In einer Region gibt es {e|eur0} Erwerbstätige und {a|eur0} Arbeitslose. Berechnen Sie die Arbeitslosenquote in Prozent (bezogen auf alle Erwerbspersonen).",
+      "prompt": "In einer Region gibt es {e|int} Erwerbstätige und {a|int} Arbeitslose. Berechnen Sie die Arbeitslosenquote in Prozent (bezogen auf alle Erwerbspersonen).",
       "answer": "a/(e+a)*100",
       "unit": "%",
       "decimals": 2,
       "steps": [
-       "Erwerbspersonen = {e|eur0} + {a|eur0}",
-       "Quote = {a|eur0} : Erwerbspersonen · 100 = {result} %"
+       "Erwerbspersonen = {e|int} + {a|int}",
+       "Quote = {a|int} : Erwerbspersonen · 100 = {result} %"
       ]
      }
     }

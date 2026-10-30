@@ -313,20 +313,32 @@
        "max": 3600,
        "step": 100
       },
+      "g": {
+       "type": "pick",
+       "options": [
+        -2,
+        -1,
+        0.5,
+        1,
+        1.5,
+        2,
+        3
+       ]
+      },
       "b": {
-       "type": "int",
-       "min": 2900,
-       "max": 3700,
-       "step": 50
+       "type": "expr",
+       "expr": "a*(1+g/100)",
+       "decimals": 0,
+       "fmt": "int"
       }
      },
      "body": {
-      "prompt": "Das reale BIP einer Volkswirtschaft betrug im Vorjahr {a|eur0} Mrd. €, im laufenden Jahr {b|eur0} Mrd. €. Wie hoch ist das reale Wachstum in Prozent?",
+      "prompt": "Das reale BIP einer Volkswirtschaft betrug im Vorjahr {a|int} Mrd. €, im laufenden Jahr {b|int} Mrd. €. Wie hoch ist das reale Wachstum in Prozent?",
       "answer": "(b-a)/a*100",
       "unit": "%",
       "decimals": 2,
       "steps": [
-       "Wachstum = ({b|eur0} − {a|eur0}) : {a|eur0} · 100",
+       "Wachstum = ({b|int} − {a|int}) : {a|int} · 100",
        "= {result} %"
       ]
      }
@@ -370,13 +382,13 @@
       }
      },
      "body": {
-      "prompt": "Konsum {c|eur0} Mrd. €, Investitionen {i|eur0} Mrd. €, Staatsausgaben {g|eur0} Mrd. €, Exporte {x|eur0} Mrd. €, Importe {m|eur0} Mrd. €. Berechnen Sie das BIP (Mrd. €).",
+      "prompt": "Konsum {c|int} Mrd. €, Investitionen {i|int} Mrd. €, Staatsausgaben {g|int} Mrd. €, Exporte {x|int} Mrd. €, Importe {m|int} Mrd. €. Berechnen Sie das BIP (Mrd. €).",
       "answer": "c+i+g+x-m",
       "unit": "Mrd. €",
       "decimals": 0,
       "steps": [
        "BIP = C + I + G + (X − M)",
-       "= {result|eur0} Mrd. €"
+       "= {result|int} Mrd. €"
       ]
      }
     }

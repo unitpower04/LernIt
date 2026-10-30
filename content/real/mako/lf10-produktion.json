@@ -529,12 +529,12 @@
       }
      },
      "body": {
-      "prompt": "Ein Druckauftrag: {n|eur0} Flyer. Druckkosten {k1|eur} je 1.000 Stück, Papier {k2|eur} je 1.000 Stück, einmalige Rüstkosten {r|eur}. Berechnen Sie die Gesamtkosten.",
+      "prompt": "Ein Druckauftrag: {n|int} Flyer. Druckkosten {k1|eur} je 1.000 Stück, Papier {k2|eur} je 1.000 Stück, einmalige Rüstkosten {r|eur}. Berechnen Sie die Gesamtkosten.",
       "answer": "n/1000*(k1+k2)+r",
       "unit": "€",
       "decimals": 2,
       "steps": [
-       "{n|eur0} : 1.000 · ({k1|eur} + {k2|eur}) + Rüstkosten {r|eur}",
+       "{n|int} : 1.000 · ({k1|eur} + {k2|eur}) + Rüstkosten {r|eur}",
        "= {result|eur}"
       ]
      }

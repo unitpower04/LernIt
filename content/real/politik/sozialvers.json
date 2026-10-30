@@ -342,7 +342,7 @@
       }
      },
      "body": {
-      "prompt": "Eine Agentur zahlt im Jahr {h|eur0} € Honorare an selbstständige Künstler (keine GmbHs). Die Künstlersozialabgabe beträgt {s} %. Wie hoch ist die Abgabe?",
+      "prompt": "Eine Agentur zahlt im Jahr {h|eur0} Honorare an selbstständige Künstler (keine GmbHs). Die Künstlersozialabgabe beträgt {s} %. Wie hoch ist die Abgabe?",
       "answer": "h*s/100",
       "unit": "€",
       "decimals": 2,

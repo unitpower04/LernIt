@@ -302,27 +302,44 @@
      "difficulty": 2,
      "source": "FiCon LF11 (Unterricht, Prüfungsstil)",
      "vars": {
-      "f": {
-       "type": "int",
-       "min": 100000,
-       "max": 700000,
-       "step": 50000
+      "db": {
+       "type": "pick",
+       "options": [
+        4.5,
+        5,
+        6,
+        6.5,
+        7
+       ]
       },
       "kv": {
-       "type": "dec",
-       "min": 0.8,
-       "max": 2.5,
-       "decimals": 2
+       "type": "pick",
+       "options": [
+        1,
+        1.2,
+        1.5,
+        2
+       ]
       },
       "p": {
-       "type": "dec",
-       "min": 6,
-       "max": 10,
+       "type": "expr",
+       "expr": "kv+db",
+       "decimals": 2
+      },
+      "x": {
+       "type": "int",
+       "min": 50000,
+       "max": 150000,
+       "step": 10000
+      },
+      "f": {
+       "type": "expr",
+       "expr": "db*x",
        "decimals": 2
       }
      },
      "body": {
-      "prompt": "Fixkosten {f|eur}, variable Stückkosten pro Paar {kv|eur}, Verkaufspreis pro Paar netto {p|eur}. Berechnen Sie die Break-even-Menge (Paare, gerundet auf ganze Stück).",
+      "prompt": "Fixkosten {f|eur}, variable Stückkosten pro Paar {kv|eur}, Verkaufspreis pro Paar netto {p|eur}. Berechnen Sie die Break-even-Menge (Paare; Ergebnis ist ganzzahlig).",
       "answer": "f/(p-kv)",
       "unit": "Stück",
       "decimals": 0,
@@ -339,27 +356,40 @@
      "difficulty": 2,
      "source": "FiCon LF11 (Unterricht, Prüfungsstil)",
      "vars": {
-      "p": {
-       "type": "int",
-       "min": 70,
-       "max": 100,
-       "step": 5
-      },
       "kv": {
        "type": "int",
        "min": 40,
-       "max": 65,
+       "max": 60,
        "step": 5
       },
-      "f": {
+      "db": {
+       "type": "pick",
+       "options": [
+        15,
+        20,
+        25,
+        30
+       ]
+      },
+      "p": {
+       "type": "expr",
+       "expr": "kv+db",
+       "decimals": 0
+      },
+      "x": {
        "type": "int",
-       "min": 900,
-       "max": 3000,
-       "step": 100
+       "min": 40,
+       "max": 120,
+       "step": 10
+      },
+      "f": {
+       "type": "expr",
+       "expr": "db*x",
+       "decimals": 0
       }
      },
      "body": {
-      "prompt": "Die FAMK verkauft Laptop-Taschen für {p|eur} netto. Variable Stückkosten {kv|eur}, fixe Gesamtkosten {f|eur}. Bei welcher Menge wird der Break-even-Point erreicht?",
+      "prompt": "Die FAMK verkauft Laptop-Taschen für {p|eur} netto. Variable Stückkosten {kv|eur}, fixe Gesamtkosten {f|eur}. Bei welcher Menge (Stück) wird der Break-even-Point erreicht?",
       "answer": "f/(p-kv)",
       "unit": "Stück",
       "decimals": 0,

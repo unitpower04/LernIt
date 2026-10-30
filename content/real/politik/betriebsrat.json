@@ -17,7 +17,7 @@
     {
      "key": "politik-betriebsrat-c03",
      "front": "Wer ist wahlberechtigt zum Betriebsrat?",
-     "back": "Alle Arbeitnehmer ab 16 Jahren (inkl. Azubis)."
+     "back": "Alle Arbeitnehmer ab 18 Jahren (auch Azubis); Jüngere wählen nur die JAV."
     },
     {
      "key": "politik-betriebsrat-c04",
@@ -331,7 +331,7 @@
      "difficulty": 2,
      "source": "Politik/Tarifrecht (Unterricht, Prüfungsstil)",
      "body": {
-      "statement": "Azubis dürfen den Betriebsrat mitwählen.",
+      "statement": "Volljährige Azubis dürfen den Betriebsrat mitwählen.",
       "answer": true
      }
     },
@@ -362,7 +362,7 @@
    "summary": {
     "key": "politik-betriebsrat-zettel",
     "title": "Betriebsrat & Mitbestimmung",
-    "content_md": "\n**Betriebsverfassungsgesetz (BetrVG)**: Betriebsrat in Betrieben mit **mind. 5 wahlberechtigten Arbeitnehmern** (Wahl alle **4 Jahre**, Wahlberechtigt ab 16, wählbar ab 18 und 6 Monate Betriebszugehörigkeit). Gewählt durch die Belegschaft; Größe nach Betriebsgröße.\n**Beteiligungsrechte (Stufen)**: *Information* → *Anhörung* → *Beratung* → *Mitbestimmung* (Zustimmung nötig)\n- **Mitbestimmung** (§ 87): Arbeitszeit, Urlaubsgrundsätze, Lohnformen, Überwachung, Ordnung im Betrieb, Sozialeinrichtungen\n- **Mitwirkung**: Personalplanung, Stellenausschreibung, Kündigung (**Anhörung vor jeder Kündigung – sonst unwirksam**), Einstellung/Versetzung (Zustimmungsverweigerung möglich)\n- **Jugend- und Auszubildendenvertretung (JAV)**: ab 5 Beschäftigten unter 18 bzw. Azubis bis 25; Wahl alle 2 Jahre\n- **Betriebsvereinbarung**: Vertrag zwischen Arbeitgeber und Betriebsrat, gilt unmittelbar und zwingend für alle\n- **Unternehmensmitbestimmung**: **Drittelbeteiligung** (500–2000 Beschäftigte: 1/3 Arbeitnehmer im Aufsichtsrat), **Mitbestimmungsgesetz** (> 2000: paritätisch 50/50), Montan-Mitbestimmung.\n- **Betriebsversammlung**: mind. 1× pro Quartal\n"
+    "content_md": "\n**Betriebsverfassungsgesetz (BetrVG)**: Betriebsrat in Betrieben mit **mind. 5 wahlberechtigten Arbeitnehmern** (Wahl alle **4 Jahre**, Wahlberechtigt ab 18, wählbar ab 18 und 6 Monate Betriebszugehörigkeit). Gewählt durch die Belegschaft; Größe nach Betriebsgröße.\n**Beteiligungsrechte (Stufen)**: *Information* → *Anhörung* → *Beratung* → *Mitbestimmung* (Zustimmung nötig)\n- **Mitbestimmung** (§ 87): Arbeitszeit, Urlaubsgrundsätze, Lohnformen, Überwachung, Ordnung im Betrieb, Sozialeinrichtungen\n- **Mitwirkung**: Personalplanung, Stellenausschreibung, Kündigung (**Anhörung vor jeder Kündigung – sonst unwirksam**), Einstellung/Versetzung (Zustimmungsverweigerung möglich)\n- **Jugend- und Auszubildendenvertretung (JAV)**: ab 5 Beschäftigten unter 18 bzw. Azubis bis 25; Wahl alle 2 Jahre\n- **Betriebsvereinbarung**: Vertrag zwischen Arbeitgeber und Betriebsrat, gilt unmittelbar und zwingend für alle\n- **Unternehmensmitbestimmung**: **Drittelbeteiligung** (500–2000 Beschäftigte: 1/3 Arbeitnehmer im Aufsichtsrat), **Mitbestimmungsgesetz** (> 2000: paritätisch 50/50), Montan-Mitbestimmung.\n- **Betriebsversammlung**: mind. 1× pro Quartal\n"
    }
   }
  ]

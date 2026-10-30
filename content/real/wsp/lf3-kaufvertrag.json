@@ -236,18 +236,18 @@
      "key": "wsp-lf3-kaufvertrag-q03",
      "type": "mc",
      "exam_part": 2,
-     "difficulty": 3,
-     "explanation": "Kaufleute: Schweigen auf ein Angebot im Rahmen einer bestehenden Geschäftsbeziehung kann als Annahme gelten; Nichtkaufleute: Ablehnung.",
+     "difficulty": 2,
+     "explanation": "Schweigen ist grundsätzlich keine Willenserklärung, auch unter Kaufleuten; ein Massen-Sonderangebot ist zudem nur eine Aufforderung zur Abgabe von Angeboten.",
      "source": "WSP LF3 (Unterricht)",
      "body": {
       "prompt": "Ein Werbemittelhersteller schickt an 10.000 Firmen ein Sonderangebot. Eine Agentur, mit der er regelmäßig Geschäfte macht, schweigt. Was gilt?",
       "options": [
        {
-        "text": "Das Schweigen zählt hier als Annahme, wenn sie als Kaufmann regelmäßig Kontakt hat – Vorsicht!",
+        "text": "Das Schweigen ist keine Annahme – es kommt kein Vertrag zustande.",
         "correct": true
        },
        {
-        "text": "Schweigen ist nie eine Annahme.",
+        "text": "Das Schweigen gilt als Annahme, weil beide Kaufleute sind.",
         "correct": false
        },
        {
@@ -255,11 +255,11 @@
         "correct": false
        },
        {
-        "text": "Der Hersteller muss ein neues Angebot schicken.",
+        "text": "Der Vertrag ist anfechtbar.",
         "correct": false
        },
        {
-        "text": "Der Vertrag ist anfechtbar.",
+        "text": "Der Vertrag kommt nach 14 Tagen automatisch zustande.",
         "correct": false
        }
       ]
@@ -693,7 +693,7 @@
    "summary": {
     "key": "wsp-lf3-kaufvertrag-zettel",
     "title": "Kaufvertrag, Angebot & AGB",
-    "content_md": "\n**Zustandekommen**: Anfrage (unverbindlich) → **Angebot = Antrag** (rechtlich bindend) → **Annahme** → Kaufvertrag. Änderung des Angebots = neuer Antrag. *Schweigen*: bei Nichtkaufleuten Ablehnung; unter Kaufleuten mit laufender Geschäftsbeziehung kann es als Annahme gelten.\n\n**Inhalt des Angebots**: Art, Güte und Beschaffenheit · Menge · Preis · Lieferbedingungen · Zahlungsbedingungen · Erfüllungsort und Gerichtsstand.\n\n**Lieferbedingungen**: *frei Haus* (Verkäufer trägt alle Kosten) · *frachtfrei/frei dort* (Verkäufer trägt Fracht bis Bestimmungsort, nicht Entladung) · *unfrei/ab hier* (Käufer trägt Fracht) · *ab Lager/ab Werk* (Käufer trägt alle Kosten ab Lager).\n\n**Kaufvertragsarten**: Gattungskauf · Stückkauf · Ramschkauf · Kauf auf Probe · Kauf nach Probe · Kauf zur Probe · Fixkauf (Termin ist wesentlich).\n\n**Pflichten**: *Verkäufer* – mangelfrei liefern und Eigentum verschaffen · *Käufer* – Ware annehmen und bezahlen.\n\n**Angebotsvergleich (quantitativ)**\nListeneinkaufspreis − Rabatt = **Zieleinkaufspreis** − Skonto = **Bareinkaufspreis** + Bezugskosten = **Einstandspreis**\n*Qualitativ (Nutzwertanalyse/Scoring)*: Qualität, Umweltverträglichkeit, Lieferbedingungen, Zahlungsbedingungen, Service – gewichtet und bewertet.\n\n**AGB** (§§ 305 ff. BGB): vorformulierte Vertragsbedingungen für viele Verträge. *Individuelle Absprachen haben Vorrang*; überraschende/mehrdeutige Klauseln sind unwirksam; bei einer unwirksamen Klausel bleibt der Vertrag im Übrigen gültig.\n"
+    "content_md": "\n**Zustandekommen**: Anfrage (unverbindlich) → **Angebot = Antrag** (rechtlich bindend) → **Annahme** → Kaufvertrag. Änderung des Angebots = neuer Antrag. *Schweigen*: bei Nichtkaufleuten Ablehnung; auch unter Kaufleuten ist Schweigen grundsätzlich **keine Annahme** (Sonderfall: kaufmännisches Bestätigungsschreiben).\n\n**Inhalt des Angebots**: Art, Güte und Beschaffenheit · Menge · Preis · Lieferbedingungen · Zahlungsbedingungen · Erfüllungsort und Gerichtsstand.\n\n**Lieferbedingungen**: *frei Haus* (Verkäufer trägt alle Kosten) · *frachtfrei/frei dort* (Verkäufer trägt Fracht bis Bestimmungsort, nicht Entladung) · *unfrei/ab hier* (Käufer trägt Fracht) · *ab Lager/ab Werk* (Käufer trägt alle Kosten ab Lager).\n\n**Kaufvertragsarten**: Gattungskauf · Stückkauf · Ramschkauf · Kauf auf Probe · Kauf nach Probe · Kauf zur Probe · Fixkauf (Termin ist wesentlich).\n\n**Pflichten**: *Verkäufer* – mangelfrei liefern und Eigentum verschaffen · *Käufer* – Ware annehmen und bezahlen.\n\n**Angebotsvergleich (quantitativ)**\nListeneinkaufspreis − Rabatt = **Zieleinkaufspreis** − Skonto = **Bareinkaufspreis** + Bezugskosten = **Einstandspreis**\n*Qualitativ (Nutzwertanalyse/Scoring)*: Qualität, Umweltverträglichkeit, Lieferbedingungen, Zahlungsbedingungen, Service – gewichtet und bewertet.\n\n**AGB** (§§ 305 ff. BGB): vorformulierte Vertragsbedingungen für viele Verträge. *Individuelle Absprachen haben Vorrang*; überraschende/mehrdeutige Klauseln sind unwirksam; bei einer unwirksamen Klausel bleibt der Vertrag im Übrigen gültig.\n"
    }
   }
  ]

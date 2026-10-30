@@ -238,16 +238,16 @@ const bip = T("wsp-lf12-bip")
     ["Depression", "Tiefpunkt mit hoher Arbeitslosigkeit"],
   ])
   .tcalc(
-    "Das reale BIP einer Volkswirtschaft betrug im Vorjahr {a|eur0} Mrd. €, im laufenden Jahr {b|eur0} Mrd. €. Wie hoch ist das reale Wachstum in Prozent?",
+    "Das reale BIP einer Volkswirtschaft betrug im Vorjahr {a|int} Mrd. €, im laufenden Jahr {b|int} Mrd. €. Wie hoch ist das reale Wachstum in Prozent?",
     "(b-a)/a*100",
-    { a: V.int(2800, 3600, 100), b: V.int(2900, 3700, 50) },
-    { unit: "%", steps: ["Wachstum = ({b|eur0} − {a|eur0}) : {a|eur0} · 100", "= {result} %"] },
+    { a: V.int(2800, 3600, 100), g: V.pick([-2, -1, 0.5, 1, 1.5, 2, 3]), b: V.expr("a*(1+g/100)", 0, "int") },
+    { unit: "%", steps: ["Wachstum = ({b|int} − {a|int}) : {a|int} · 100", "= {result} %"] },
   )
   .tcalc(
-    "Konsum {c|eur0} Mrd. €, Investitionen {i|eur0} Mrd. €, Staatsausgaben {g|eur0} Mrd. €, Exporte {x|eur0} Mrd. €, Importe {m|eur0} Mrd. €. Berechnen Sie das BIP (Mrd. €).",
+    "Konsum {c|int} Mrd. €, Investitionen {i|int} Mrd. €, Staatsausgaben {g|int} Mrd. €, Exporte {x|int} Mrd. €, Importe {m|int} Mrd. €. Berechnen Sie das BIP (Mrd. €).",
     "c+i+g+x-m",
     { c: V.int(1500, 2000, 50), i: V.int(500, 800, 50), g: V.int(600, 900, 50), x: V.int(1400, 1800, 50), m: V.int(1200, 1700, 50) },
-    { unit: "Mrd. €", dec: 0, steps: ["BIP = C + I + G + (X − M)", "= {result|eur0} Mrd. €"] },
+    { unit: "Mrd. €", dec: 0, steps: ["BIP = C + I + G + (X − M)", "= {result|int} Mrd. €"] },
   )
   .tf("Das BIP zählt Schwarzarbeit mit.", false)
   .cloze("Auf den Aufschwung folgt der [[Boom]], danach die [[Rezession]].")
@@ -285,7 +285,7 @@ Messung: **Verbraucherpreisindex (VPI)** auf Basis eines **Warenkorbs**; Inflati
     ["VPI", "Verbraucherpreisindex."],
     ["Warenkorb", "Gewichtete Auswahl typischer Verbrauchsgüter."],
   ])
-  .mc("Was ist ein Beispiel für importierte Inflation?", "Die Erdölpreise steigen weltweit und verteuern Energie.", ["Der Staat erhöht die Mehrwertsteuer.", "Die Nachfrage sinkt.", "Der Euro wird abgewertet gegenüber dem Dollar.", "Die Löhne sinken."])
+  .mc("Was ist ein Beispiel für importierte Inflation?", "Die Erdölpreise steigen weltweit und verteuern Energie.", ["Der Staat erhöht die Mehrwertsteuer.", "Die Nachfrage sinkt.", "Der Staat erhöht den Mindestlohn.", "Die Löhne sinken."])
   .mc("Wer verliert bei Inflation?", "Sparer mit festverzinsten Guthaben", ["Schuldner", "Sachwertbesitzer", "Immobilieneigentümer", "Kreditnehmer mit Festzins"])
   .mc("Welche Folge hat Deflation?", "Konsum wird aufgeschoben – Abwärtsspirale", ["Kaufkraft sinkt", "Löhne steigen stark", "Schuldner profitieren", "Geld verliert an Wert"])
   .mc("Welche Aussage zum Verbraucherpreisindex trifft zu?", "Er misst die Preisentwicklung eines Warenkorbs.", ["Er misst das BIP.", "Er zeigt die Arbeitslosigkeit.", "Er misst die Geldmenge.", "Er wird von der EZB direkt festgelegt."])
@@ -349,10 +349,10 @@ const arbeit = T("wsp-lf12-arbeit")
     ["Saisonkräfte im Tourismus im Winter", "saisonal"],
   ])
   .tcalc(
-    "In einer Region gibt es {e|eur0} Erwerbstätige und {a|eur0} Arbeitslose. Berechnen Sie die Arbeitslosenquote in Prozent (bezogen auf alle Erwerbspersonen).",
+    "In einer Region gibt es {e|int} Erwerbstätige und {a|int} Arbeitslose. Berechnen Sie die Arbeitslosenquote in Prozent (bezogen auf alle Erwerbspersonen).",
     "a/(e+a)*100",
     { e: V.int(40000, 90000, 5000), a: V.int(2000, 9000, 500) },
-    { unit: "%", steps: ["Erwerbspersonen = {e|eur0} + {a|eur0}", "Quote = {a|eur0} : Erwerbspersonen · 100 = {result} %"] },
+    { unit: "%", steps: ["Erwerbspersonen = {e|int} + {a|int}", "Quote = {a|int} : Erwerbspersonen · 100 = {result} %"] },
   )
   .tf("Friktionelle Arbeitslosigkeit tritt beim Arbeitsplatzwechsel auf.", true)
   .cloze("Die Arbeitslosenquote misst Arbeitslose im Verhältnis zu den [[Erwerbspersonen]].")
@@ -398,10 +398,10 @@ Gleichgewicht: Außenbeitrag ≈ +1,5 % BIP (Exportüberschuss moderat); dauerha
     ["Abwertung", "Exporte billiger"],
   ])
   .tcalc(
-    "Exporte: {x|eur0} Mrd. €, Importe: {m|eur0} Mrd. €. Berechnen Sie den Außenbeitrag (Mrd. €).",
+    "Exporte: {x|int} Mrd. €, Importe: {m|int} Mrd. €. Berechnen Sie den Außenbeitrag (Mrd. €).",
     "x-m",
     { x: V.int(1200, 1700, 50), m: V.int(1000, 1500, 50) },
-    { unit: "Mrd. €", dec: 0, steps: ["{x|eur0} − {m|eur0} = {result|eur0}"] },
+    { unit: "Mrd. €", dec: 0, steps: ["{x|int} − {m|int} = {result|int}"] },
   )
   .tf("Bei einer Abwertung der eigenen Währung werden Exporte tendenziell billiger.", true)
   .cloze("Die [[WTO]] fördert den freien Welthandel, [[Zölle]] sind ein Instrument des Protektionismus.")
@@ -457,7 +457,7 @@ const geld = T("wsp-lf12-geld")
 **Instrumente**: **Leitzinsen** (Hauptrefinanzierungssatz, Einlagefazilität, Spitzenrefinanzierung) · **Mindestreserve** (Pflichtguthaben der Banken; derzeit 1 %) · **Offenmarktgeschäfte** (Wertpapierkauf/-verkauf, QE) · *ständige Fazilitäten*.
 **Expansiv** (Konjunktur ankurbeln): Zins ↓ → Kredite billiger → Investition/Konsum ↑ → Inflation ↑. **Restriktiv** (Inflation bremsen): Zins ↑ → Kredite teurer.
 **Geldmenge M1** (Bargeld + täglich fällige Einlagen), M2, M3. **Geldschöpfung**: Banken schaffen durch Kredite Giralgeld (Buchgeld). **Quantitätsgleichung**: M · V = P · Y.
-**Grenzen**: Zinsfalle, Time-Lag, Euroraum mit 20 Ländern.
+**Grenzen**: Zinsfalle, Time-Lag, Euroraum mit 21 Ländern.
 `)
   .cards([
     ["Oberstes Ziel der EZB?", "Preisstabilität (mittelfristig 2 % Inflation)."],

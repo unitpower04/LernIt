@@ -87,7 +87,7 @@ const ja = T("ficon-jahresabschluss")
   .tcalc(
     "Eine Agentur hat Fuhrpark {fp|eur}, BGA {bga|eur}, Forderungen {fo|eur}, Bank {ba|eur}, Kasse {ka|eur} und Verbindlichkeiten aLuL {vb|eur} sowie ein Darlehen {da|eur}. Berechnen Sie das Eigenkapital.",
     "fp+bga+fo+ba+ka-vb-da",
-    { fp: V.int(15000, 40000, 5000), bga: V.int(8000, 30000, 2000), fo: V.int(10000, 40000, 2000), ba: V.int(5000, 30000, 1000), ka: V.int(300, 2000, 100), vb: V.int(5000, 20000, 1000), da: V.int(10000, 40000, 5000) },
+    { fp: V.int(25000, 40000, 5000), bga: V.int(15000, 30000, 2000), fo: V.int(15000, 40000, 2000), ba: V.int(5000, 30000, 1000), ka: V.int(300, 2000, 100), vb: V.int(5000, 15000, 1000), da: V.int(5000, 20000, 5000) },
     { unit: "€", steps: ["Vermögen = Fuhrpark + BGA + Forderungen + Bank + Kasse", "Schulden = Verbindlichkeiten + Darlehen", "Eigenkapital = Vermögen − Schulden = {result|eur}"] },
   )
   .tcalc(

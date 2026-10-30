@@ -77,9 +77,9 @@ const ge = T("ficon-gehalt")
     { unit: "€", steps: ["Kirchensteuer = {l|eur} · 9 %", "Soli = {l|eur} · 5,5 %", "Summe = {result|eur}"] },
   )
   .tcalc(
-    "Bruttogehalt {b|eur}, Abzüge: Lohnsteuer {l|eur}, Sozialversicherung {sv|eur}, Kirchensteuer {k|eur}. Der Arbeitgeber zahlt {vl|eur} VL, die direkt an den Sparvertrag überwiesen werden. Wie hoch ist das Nettogehalt (b − Abzüge)?",
+    "Bruttogehalt {b|eur}, Abzüge: Lohnsteuer {l|eur}, Sozialversicherung {sv|eur}, Kirchensteuer {k|eur}. Wie hoch ist das Nettogehalt (b − Abzüge)?",
     "b-l-sv-k",
-    { b: V.int(2800, 4500, 100), l: V.int(300, 600, 50), sv: V.int(500, 900, 50), k: V.int(20, 50, 5), vl: V.pick([6.65, 20, 40]) },
+    { b: V.int(2800, 4500, 100), l: V.int(300, 600, 50), sv: V.expr("b*0.205", 2), k: V.expr("l*0.09", 2) },
     { unit: "€", steps: ["Netto = {b|eur} − {l|eur} − {sv|eur} − {k|eur} = {result|eur}"] },
   )
   .tf("Die Beiträge zur Unfallversicherung teilen sich Arbeitgeber und Arbeitnehmer.", false)
@@ -96,7 +96,7 @@ const ka = T("ficon-kostenarten")
 - **Anderskosten**: andere Beträge, z. B. **kalkulatorische Abschreibung** (Wiederbeschaffungswert) statt bilanzielle AfA; kalkulatorische Wagnisse
 - **Zusatzkosten**: nur in der KLR, kein Aufwand: **kalk. Unternehmerlohn** (Einzelunternehmer/Gesellschafter), **kalk. Eigenkapitalzinsen**, **kalk. Miete**
 - **Kosten** = Grundkosten + Anderskosten + Zusatzkosten
-- **Kalk. Abschreibung** = Wiederbeschaffungswert : Nutzungsdauer · **Kalk. Zinsen** = ½ (Anschaffung+Restwert) · Zinssatz / (betriebsnotwendiges Kapital · Zins) · **Kalk. Unternehmerlohn** = Gehalt vergleichbarer Angestellter.
+- **Kalk. Abschreibung** = Wiederbeschaffungswert : Nutzungsdauer · **Kalk. Zinsen** = betriebsnotwendiges Kapital · Zinssatz (Anlagevermögen zum Durchschnittswert ½ (AK + Restwert)) · **Kalk. Unternehmerlohn** = Gehalt vergleichbarer Angestellter.
 **Einzelkosten** (direkt zurechenbar: Fremdleistungen, Fertigungslohn) vs. **Gemeinkosten** (indirekt: Miete, Verwaltung). **Fixe** und **variable** Kosten.
 `)
   .cards([
@@ -185,7 +185,7 @@ const bab = T("ficon-bab")
   ])
   .mc("Wie berechnet sich der Gemeinkostenzuschlagssatz?", "Gemeinkosten : direkte Personalkosten · 100", ["Selbstkosten : Gemeinkosten", "Gewinn : Umsatz", "Gemeinkosten : Stunden", "Direkte Personalkosten : Gemeinkosten"])
   .mc("Wie wird die Miete im BAB üblicherweise verteilt?", "Nach Quadratmetern", ["Nach Mitarbeiterzahl", "Nach Umsatz", "Gar nicht", "Nach Gewinn"])
-  .mc("Bringen Sie in gedanklicher Ordnung: Was ist der erste Schritt der Kostenstellenrechnung?", "Übernahme der Gemeinkostenarten in den BAB", ["Ermittlung der Zuschlagssätze", "Gewinnaufschlag berechnen", "Angebotspreis festlegen", "Rabatt gewähren"])
+  .mc("Welcher Schritt steht am Anfang der Kostenstellenrechnung?", "Übernahme der Gemeinkostenarten in den BAB", ["Ermittlung der Zuschlagssätze", "Gewinnaufschlag berechnen", "Angebotspreis festlegen", "Rabatt gewähren"])
   .mc("Wofür steht der interne Stundensatz?", "Kosten je abgerechneter Stunde", ["Verkaufspreis je Stunde", "Gewinn je Stunde", "Lohn je Stunde brutto", "Marktpreis"])
   .order("Wie erfolgt die Kostenstellenrechnung? Bringen Sie die Schritte in die richtige Reihenfolge.", ["Übernahme der Gemeinkostenarten in den BAB", "Verteilung der Gemeinkosten auf die einzelnen Kostenstellen", "Ermittlung der Gesamtkosten der Kostenstellen", "Ermittlung der Zuschlagssätze für die Kostenstellen"], { d: 2 })
   .match("Ordnen Sie die Formel zu.", [
@@ -326,7 +326,7 @@ Agenturleistung: Stunden × interner Stundensatz = **Kosten Agenturleistung**
   .tcalc(
     "Ein Auftrag erzielt einen Erlös von {e|eur} netto. Die intern angefallenen Kosten betragen {k|eur}. Wie hoch ist der Gewinn?",
     "e-k",
-    { e: V.int(4000, 12000, 500), k: V.int(2500, 9500, 500) },
+    { k: V.int(2500, 7000, 500), e: V.expr("k+1500", 0) },
     { unit: "€", steps: ["Gewinn = Erlös − Kosten = {result|eur}"] },
   )
   .tcalc(
@@ -384,15 +384,15 @@ const db = T("ficon-db")
     ["Break-Even-Point", "Gewinn = 0"],
   ])
   .tcalc(
-    "Fixkosten {f|eur}, variable Stückkosten pro Paar {kv|eur}, Verkaufspreis pro Paar netto {p|eur}. Berechnen Sie die Break-even-Menge (Paare, gerundet auf ganze Stück).",
+    "Fixkosten {f|eur}, variable Stückkosten pro Paar {kv|eur}, Verkaufspreis pro Paar netto {p|eur}. Berechnen Sie die Break-even-Menge (Paare; Ergebnis ist ganzzahlig).",
     "f/(p-kv)",
-    { f: V.int(100000, 700000, 50000), kv: V.dec(0.8, 2.5, 2), p: V.dec(6, 10, 2) },
+    { db: V.pick([4.5, 5, 6, 6.5, 7]), kv: V.pick([1, 1.2, 1.5, 2]), p: V.expr("kv+db", 2), x: V.int(50000, 150000, 10000), f: V.expr("db*x", 2) },
     { unit: "Stück", dec: 0, steps: ["db = {p|eur} − {kv|eur}", "Break-even = {f|eur} : db = {result} Stück"] },
   )
   .tcalc(
-    "Die FAMK verkauft Laptop-Taschen für {p|eur} netto. Variable Stückkosten {kv|eur}, fixe Gesamtkosten {f|eur}. Bei welcher Menge wird der Break-even-Point erreicht?",
+    "Die FAMK verkauft Laptop-Taschen für {p|eur} netto. Variable Stückkosten {kv|eur}, fixe Gesamtkosten {f|eur}. Bei welcher Menge (Stück) wird der Break-even-Point erreicht?",
     "f/(p-kv)",
-    { p: V.int(70, 100, 5), kv: V.int(40, 65, 5), f: V.int(900, 3000, 100) },
+    { kv: V.int(40, 60, 5), db: V.pick([15, 20, 25, 30]), p: V.expr("kv+db", 0), x: V.int(40, 120, 10), f: V.expr("db*x", 0) },
     { unit: "Stück", dec: 0, steps: ["db = {p|eur} − {kv|eur}", "BEP = {f|eur} : db"] },
   )
   .tcalc(

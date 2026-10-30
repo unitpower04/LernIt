@@ -179,7 +179,7 @@
     {
      "key": "wsp-lf3-stoerungen-g07",
      "term": "Hemmung",
-     "definition": "Unterbrechung des Fristenlaufs der Verjährung."
+     "definition": "Ruhen des Fristenlaufs der Verjährung (Frist läuft danach weiter)."
     }
    ],
    "questions": [
@@ -541,7 +541,7 @@
       "items": [
        {
         "term": "2 Wochen",
-        "match": "Einspruch gegen den Mahnbescheid"
+        "match": "Widerspruch gegen den Mahnbescheid"
        },
        {
         "term": "3 Wochen",
@@ -773,8 +773,8 @@
         },
         {
          "zugang": "05.05.2026",
-         "zb": "zahlbar innerhalb von 14 Tagen nach Rechnungszugang (kalendermäßig nicht bestimmt, kein Zahlungstermin genannt)",
-         "richtig": "30 Tage nach Fälligkeit und Zugang der Rechnung – bei Fälligkeit mit Zugang also am 04.06.2026 (Ablauf)",
+         "zb": "sofort fällig, ohne Angabe einer Zahlungsfrist",
+         "richtig": "30 Tage nach Fälligkeit und Rechnungszugang, also mit Ablauf des 04.06.2026",
          "w1": "Mit Ablauf von 14 Tagen am 19.05.2026 automatisch",
          "w2": "Sofort mit Zugang der Rechnung",
          "w3": "Erst nach Zugang eines Mahnbescheids"
@@ -809,7 +809,7 @@
    "summary": {
     "key": "wsp-lf3-stoerungen-zettel",
     "title": "Kaufvertragsstörungen, Mahnverfahren & Verjährung",
-    "content_md": "\n| Störung | Voraussetzungen | Rechte |\n|---|---|---|\n| **Mangelhafte Lieferung** (Sach-/Rechtsmangel) | Mangel bei Übergabe; bei Handelskauf **unverzügliche Rüge** | zuerst **Nacherfüllung** (Nachbesserung/Ersatzlieferung), dann **Rücktritt**, **Minderung**, **Schadensersatz** |\n| **Lieferungsverzug** | fällig + **Mahnung** (entfällt bei Fixgeschäft/Kalendertermin) + Verschulden | auf Lieferung bestehen · nach Nachfrist: Rücktritt und/oder Schadensersatz |\n| **Annahmeverzug** | fällig + ordnungsgemäß angeboten + Käufer nimmt nicht an | Annahme verlangen · Lagerung auf Kosten des Käufers · **Selbsthilfeverkauf** · Rücktritt/Schadensersatz nach Nachfrist |\n| **Zahlungsverzug** | fällig + **Mahnung** (entfällt bei kalendermäßig bestimmtem Zahlungstermin) oder **30 Tage nach Fälligkeit und Rechnungszugang** + Verschulden | Zahlung + Verzugszinsen · nach Nachfrist: Rücktritt/Schadensersatz |\n\n**Verjährung**: Mängelansprüche **2 Jahre** (neue Sachen; **5 Jahre** Bauwerke); regelmäßige Verjährung **3 Jahre** (Beginn mit Ablauf des Entstehungsjahres, z. B. Forderung aus 2023 → 31.12.2026); **10 Jahre** Aufbewahrung; **30 Jahre** Titel (Urteile). **Hemmung** = Frist läuft für die Dauer des Hemmungsgrundes nicht (Verhandlungen, Klage, Mahnbescheid, höhere Gewalt).\n\n**Mahnverfahren**\n- *außergerichtlich*: Zahlungserinnerung → 1. Mahnung → 2. Mahnung → 3. Mahnung (mit Androhung rechtlicher Schritte)\n- *gerichtlich*: Antrag auf **Mahnbescheid** (Amtsgericht) → Widerspruch (2 Wochen) → **Vollstreckungsbescheid** → **Zwangsvollstreckung** (Gerichtsvollzieher, Pfändung) → eidesstattliche Versicherung\n"
+    "content_md": "\n| Störung | Voraussetzungen | Rechte |\n|---|---|---|\n| **Mangelhafte Lieferung** (Sach-/Rechtsmangel) | Mangel bei Übergabe; bei Handelskauf **unverzügliche Rüge** | zuerst **Nacherfüllung** (Nachbesserung/Ersatzlieferung), dann **Rücktritt**, **Minderung**, **Schadensersatz** |\n| **Lieferungsverzug** | fällig + **Mahnung** (entfällt bei Fixgeschäft/Kalendertermin) + Verschulden | auf Lieferung bestehen · nach Nachfrist: Rücktritt und/oder Schadensersatz |\n| **Annahmeverzug** | fällig + ordnungsgemäß angeboten + Käufer nimmt nicht an | Annahme verlangen · Lagerung auf Kosten des Käufers · **Selbsthilfeverkauf** · Rücktritt/Schadensersatz nach Nachfrist |\n| **Zahlungsverzug** | fällig + **Mahnung** (entfällt bei kalendermäßig bestimmtem Zahlungstermin) oder **30 Tage nach Fälligkeit und Rechnungszugang** + Verschulden | Zahlung + Verzugszinsen · nach Nachfrist: Rücktritt/Schadensersatz |\n\n**Verjährung**: Mängelansprüche **2 Jahre** (neue Sachen; **5 Jahre** Bauwerke); regelmäßige Verjährung **3 Jahre** (Beginn mit Ablauf des Entstehungsjahres, z. B. Forderung aus 2023 → 31.12.2026); **10 Jahre** Aufbewahrung; **30 Jahre** Titel (Urteile). **Hemmung** = Frist läuft für die Dauer des Hemmungsgrundes nicht (Verhandlungen, Klage, Mahnbescheid, höhere Gewalt).\n\n**Mahnverfahren**\n- *außergerichtlich*: Zahlungserinnerung → 1. Mahnung → 2. Mahnung → 3. Mahnung (mit Androhung rechtlicher Schritte)\n- *gerichtlich*: Antrag auf **Mahnbescheid** (Amtsgericht) → Widerspruch (2 Wochen) → **Vollstreckungsbescheid** → **Zwangsvollstreckung** (Gerichtsvollzieher, Pfändung) → Vermögensauskunft\n"
    }
   }
  ]

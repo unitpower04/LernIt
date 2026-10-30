@@ -488,15 +488,11 @@
      "difficulty": 2,
      "source": "MaKo (Skripte Vaaßen/Kuhn, Unterricht, Prüfungsstil)",
      "body": {
-      "prompt": "Welche Auflage ist höher oder gleich der verkauften Auflage?",
+      "prompt": "Welche Auflagenart ist stets mindestens so hoch wie die verkaufte Auflage, aber nie höher als die Druckauflage?",
       "options": [
        {
         "text": "Die tatsächlich verbreitete Auflage",
         "correct": true
-       },
-       {
-        "text": "Die Druckauflage ist niedriger",
-        "correct": false
        },
        {
         "text": "Die Leser pro Nummer",
@@ -507,7 +503,11 @@
         "correct": false
        },
        {
-        "text": "Keine",
+        "text": "Die Affinität",
+        "correct": false
+       },
+       {
+        "text": "Der Tausenderpreis",
         "correct": false
        }
       ]
@@ -649,7 +649,7 @@
         "Stern",
         "Focus",
         "Brigitte",
-        "Tempo"
+        "Bunte"
        ]
       },
       "p": {
@@ -770,12 +770,12 @@
       }
      },
      "body": {
-      "prompt": "Die Zielgruppe umfasst {zg|eur0} Personen. Ein Plan erreicht {n|eur0} Personen netto mit durchschnittlich {k} Kontakten. Berechnen Sie die GRP (Kontakte je 100 Zielpersonen).",
+      "prompt": "Die Zielgruppe umfasst {zg|int} Personen. Ein Plan erreicht {n|int} Personen netto mit durchschnittlich {k} Kontakten. Berechnen Sie die GRP (Kontakte je 100 Zielpersonen).",
       "answer": "n/zg*100*k",
       "unit": "GRP",
       "decimals": 2,
       "steps": [
-       "Reichweite in % = {n|eur0} : {zg|eur0} · 100",
+       "Reichweite in % = {n|int} : {zg|int} · 100",
        "GRP = Reichweite % · {k} Kontakte = {result}"
       ]
      }
@@ -822,15 +822,26 @@
        "max": 2000000,
        "step": 100000
       },
+      "ctr": {
+       "type": "pick",
+       "options": [
+        0.2,
+        0.4,
+        0.5,
+        0.8,
+        1.5,
+        2.5
+       ]
+      },
       "c": {
-       "type": "int",
-       "min": 2000,
-       "max": 40000,
-       "step": 2000
+       "type": "expr",
+       "expr": "i*ctr/100",
+       "decimals": 0,
+       "fmt": "int"
       }
      },
      "body": {
-      "prompt": "Eine Online-Kampagne erzielt {i|eur0} Ad Impressions und {c|eur0} Klicks. Berechnen Sie die Click-Through-Rate in Prozent.",
+      "prompt": "Eine Online-Kampagne erzielt {i|int} Ad Impressions und {c|int} Klicks. Berechnen Sie die Click-Through-Rate in Prozent.",
       "answer": "c/i*100",
       "unit": "%",
       "decimals": 2,
@@ -860,7 +871,7 @@
       }
      },
      "body": {
-      "prompt": "Online-Kampagnenkosten {k|eur}, Ad Impressions {i|eur0}. Berechnen Sie den TKP (Kosten je 1.000 Impressions).",
+      "prompt": "Online-Kampagnenkosten {k|eur}, Ad Impressions {i|int}. Berechnen Sie den TKP (Kosten je 1.000 Impressions).",
       "answer": "k/i*1000",
       "unit": "€",
       "decimals": 2,
@@ -874,7 +885,7 @@
    "summary": {
     "key": "mako-lf9-kennziffern-zettel",
     "title": "Mediakennziffern & Mediaplanbewertung",
-    "content_md": "\n**Auflagen**: *Druckauflage* → *tatsächlich verbreitete Auflage* (ohne Restexemplare/Archiv/Beleg/Remittenden, mit Freiexemplaren) → *verkaufte Auflage* (nur gegen Entgelt: Abo + Einzelverkauf).\n**Leser**: **LpN** (Leser pro Nummer), **LpA** (Leser pro Ausgabe, statistisch), **LpE** (Leser pro Exemplar).\n**Reichweiten**: *Reichweite* (Zielpersonen mit ≥ 1 Kontakt, in % der Zielgruppe) · **Bruttoreichweite (BRW)** (alle Kontakte inkl. Mehrfachkontakte) · **Nettoreichweite (NRW)** (Personen ohne Mehrfachkontakte; NRW = BRW − Mehrfachkontakte) · **kumulierte** Reichweite · **wirksame** Reichweite.\n**Kontakte pro Nutzer** = BRW : NRW. **GRP** (Gross Rating Points) = Summe der Bruttoreichweiten in % der Zielgruppe = Reichweite % × Kontakte pro Nutzer (Werbedruck).\n**Affinität** = Anteil der Zielgruppe an der Mediennutzerschaft. **Affinitätsindex** = (Anteil ZG in Medium : Anteil ZG in Grundgesamtheit) × 100 (> 100 überproportional).\n**Überschneidung**: *interne* (verschiedene Ausgaben desselben Mediums), *externe* (verschiedene Medien).\n**Preise**: **1000er-Seitenpreis (TKP)** = Seitenpreis × 1.000 : verbreitete Auflage · **1000er-Kontaktpreis (TKP)** = Preis × 1.000 : BRW · **1000er-Nutzerpreis (TNP)** = Preis × 1.000 : NRW · 1000er-mm-Preis = mm-Preis × 1.000 : Auflage.\n**Intermedialer Vergleich** = verschiedene Mediengattungen; **intramedialer Vergleich** = Werbeträger innerhalb einer Gattung.\n**Online**: **Visits/Unique Visitors** (Brutto-/Nettokontakte), **Page Impression**, **Ad Impression**, **Ad Click**, **CTR** = Clicks : Impressions × 100 (1–3 % gut), Geo-/Behavioural-/Predictive-Behavioural-Targeting, Retargeting; **TKP** online = Kosten × 1.000 : Ad Impressions.\n**Paid / Owned / Earned Media**.\n"
+    "content_md": "\n**Auflagen**: *Druckauflage* → *tatsächlich verbreitete Auflage* (ohne Restexemplare/Archiv/Beleg/Remittenden, mit Freiexemplaren) → *verkaufte Auflage* (nur gegen Entgelt: Abo + Einzelverkauf).\n**Leser**: **LpN** (Leser pro Nummer), **LpA** (Leser pro Ausgabe, statistisch), **LpE** (Leser pro Exemplar).\n**Reichweiten**: *Reichweite* (Zielpersonen mit ≥ 1 Kontakt, in % der Zielgruppe) · **Bruttoreichweite (BRW)** (alle Kontakte inkl. Mehrfachkontakte) · **Nettoreichweite (NRW)** (Personen ohne Mehrfachkontakte; NRW = BRW − Mehrfachkontakte) · **kumulierte** Reichweite · **wirksame** Reichweite.\n**Kontakte pro Nutzer** = BRW : NRW. **GRP** (Gross Rating Points) = Summe der Bruttoreichweiten in % der Zielgruppe = Reichweite % × Kontakte pro Nutzer (Werbedruck).\n**Affinität** = Anteil der Zielgruppe an der Mediennutzerschaft. **Affinitätsindex** = (Anteil ZG in Medium : Anteil ZG in Grundgesamtheit) × 100 (> 100 überproportional).\n**Überschneidung**: *interne* (verschiedene Ausgaben desselben Mediums), *externe* (verschiedene Medien).\n**Preise**: **1000er-Seitenpreis** = Seitenpreis × 1.000 : verbreitete Auflage · **1000er-Kontaktpreis (TKP)** = Preis × 1.000 : BRW · **1000er-Nutzerpreis (TNP)** = Preis × 1.000 : NRW · 1000er-mm-Preis = mm-Preis × 1.000 : Auflage.\n**Intermedialer Vergleich** = verschiedene Mediengattungen; **intramedialer Vergleich** = Werbeträger innerhalb einer Gattung.\n**Online**: **Visits/Unique Visitors** (Brutto-/Nettokontakte), **Page Impression**, **Ad Impression**, **Ad Click**, **CTR** = Clicks : Impressions × 100 (Display typ. unter 1 %, Suchanzeigen höher), Geo-/Behavioural-/Predictive-Behavioural-Targeting, Retargeting; **TKP** online = Kosten × 1.000 : Ad Impressions.\n**Paid / Owned / Earned Media**.\n"
    }
   }
  ]

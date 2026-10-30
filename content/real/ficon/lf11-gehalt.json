@@ -508,28 +508,18 @@
        "step": 50
       },
       "sv": {
-       "type": "int",
-       "min": 500,
-       "max": 900,
-       "step": 50
+       "type": "expr",
+       "expr": "b*0.205",
+       "decimals": 2
       },
       "k": {
-       "type": "int",
-       "min": 20,
-       "max": 50,
-       "step": 5
-      },
-      "vl": {
-       "type": "pick",
-       "options": [
-        6.65,
-        20,
-        40
-       ]
+       "type": "expr",
+       "expr": "l*0.09",
+       "decimals": 2
       }
      },
      "body": {
-      "prompt": "Bruttogehalt {b|eur}, Abzüge: Lohnsteuer {l|eur}, Sozialversicherung {sv|eur}, Kirchensteuer {k|eur}. Der Arbeitgeber zahlt {vl|eur} VL, die direkt an den Sparvertrag überwiesen werden. Wie hoch ist das Nettogehalt (b − Abzüge)?",
+      "prompt": "Bruttogehalt {b|eur}, Abzüge: Lohnsteuer {l|eur}, Sozialversicherung {sv|eur}, Kirchensteuer {k|eur}. Wie hoch ist das Nettogehalt (b − Abzüge)?",
       "answer": "b-l-sv-k",
       "unit": "€",
       "decimals": 2,

@@ -27,7 +27,7 @@ const ausb = topic("wsp-lf1-ausbildung", { part: 2, src: SRC })
 | Ruhezeit | mind. **12 Stunden** zwischen Arbeitsende und -beginn |
 | Nachtruhe | keine Arbeit **20–6 Uhr** |
 | Urlaub | 30 / 27 / 25 Werktage (unter 16 / 17 / 18 Jahren) |
-| Berufsschule | Freistellung; Schultag mit mind. 5 Unterrichtsstunden (à 45 Min) → danach keine Beschäftigung im Betrieb |
+| Berufsschule | Freistellung; Schultag mit mehr als 5 Unterrichtsstunden (à 45 Min), einmal pro Woche → danach keine Beschäftigung im Betrieb |
 `)
   .cards([
     ["Welches Gesetz regelt die duale Berufsausbildung?", "Das Berufsbildungsgesetz (BBiG)."],
@@ -49,7 +49,7 @@ const ausb = topic("wsp-lf1-ausbildung", { part: 2, src: SRC })
     ["Mindestruhezeit nach Arbeitsende (Jugendliche)?", "12 Stunden."],
     ["Nachtarbeitsverbot für Jugendliche?", "Keine Beschäftigung zwischen 20 und 6 Uhr (Ausnahmen in bestimmten Branchen)."],
     ["Urlaub nach JArbSchG?", "30 Werktage (unter 16), 27 Werktage (unter 17), 25 Werktage (unter 18)."],
-    ["Berufsschule und Jugendliche: Was gilt am Schultag?", "Bei mindestens 5 Unterrichtsstunden (à 45 Min) dürfen Jugendliche danach nicht mehr im Betrieb beschäftigt werden."],
+    ["Berufsschule und Jugendliche: Was gilt am Schultag?", "Bei mehr als 5 Unterrichtsstunden (à 45 Min, einmal pro Woche) dürfen Jugendliche danach nicht mehr im Betrieb beschäftigt werden."],
     ["Wer trägt die Kosten für Ausbildungsmittel (Werkzeug, Fachliteratur für Prüfungen)?", "Der Ausbildende – kostenlos für den Azubi."],
     ["Voraussetzungen der Zulassung zur Abschlussprüfung?", "Ausbildungszeit zurückgelegt, Teilnahme an der Zwischenprüfung, Ausbildungsnachweis geführt, Eintrag im Verzeichnis der Berufsausbildungsverhältnisse."],
     ["Spielt der Leistungsstand im Betrieb eine Rolle für die Zulassung zur Abschlussprüfung?", "Nein."],
@@ -69,7 +69,7 @@ const ausb = topic("wsp-lf1-ausbildung", { part: 2, src: SRC })
   .mc("In welchem Fall wird einem Auszubildenden die Zulassung zur Abschlussprüfung nicht gewährt?", "Er hat nicht an der Zwischenprüfung teilgenommen.", ["Die Leistungen im Betrieb sind unterdurchschnittlich.", "Die Berufsschulnoten im Rechnungswesen sind mangelhaft.", "Er war vier Wochen vor der Prüfung krank.", "Die Zwischenprüfung wurde nach 24 Monaten abgelegt."])
   .mc("Maja Müller beginnt am 1. August eine Ausbildung. Der Vertrag sieht die kürzestmögliche gesetzliche Probezeit vor. Wann endet sie?", "Am 31. August (Ablauf des ersten Monats)", ["Am 30. November", "Am 14. August", "Am 31. Dezember", "Am 31. Januar des Folgejahres"], { e: "Mindestprobezeit = 1 Monat." })
   .mc("Eine 17-jährige Auszubildende wird 12 Stunden täglich auf einer Messe eingesetzt. Welche Aussage ist richtig?", "Das ist unzulässig: Jugendliche dürfen höchstens 8 Stunden täglich beschäftigt werden.", ["Das ist zulässig, wenn der Betrieb es anordnet.", "Das ist zulässig bis 10 Stunden mit Ausgleich in 6 Monaten.", "Das ist zulässig, wenn die Berufsschule zustimmt.", "Das ist zulässig bei Messen immer."], { e: "Für Jugendliche gelten 8 h/Tag und 40 h/Woche." })
-  .mc("Ein 17-jähriger Azubi hat Berufsschule mit 7 Unterrichtsstunden. Darf er danach in den Betrieb gerufen werden?", "Nein – nach mindestens 5 Unterrichtsstunden darf er nicht mehr im Betrieb beschäftigt werden.", ["Ja, der Betrieb darf ihn noch 4 Stunden einsetzen.", "Ja, wenn er zustimmt.", "Ja, bis 22 Uhr.", "Nur an Samstagen nachzuholen."])
+  .mc("Ein 17-jähriger Azubi hat Berufsschule mit 7 Unterrichtsstunden. Darf er danach in den Betrieb gerufen werden?", "Nein – nach mehr als 5 Unterrichtsstunden darf er nicht mehr im Betrieb beschäftigt werden.", ["Ja, der Betrieb darf ihn noch 4 Stunden einsetzen.", "Ja, wenn er zustimmt.", "Ja, bis 22 Uhr.", "Nur an Samstagen nachzuholen."])
   .mc("Welche der folgenden Handlungen gehört nicht zu den Pflichten des Auszubildenden?", "Die Ausbildungsmittel für die Prüfungen selbst zu bezahlen", ["Aufgetragene Aufgaben sorgfältig auszuführen", "Weisungen des Ausbilders zu befolgen", "Die Betriebsordnung zu beachten", "Über Betriebsgeheimnisse zu schweigen"])
   .mc("Eine Auszubildende bemängelt, dass sie 14 Tage am Empfang eingesetzt wird. Welche Aussage ist richtig?", "Der Einsatz ist zulässig, wenn er dem Ausbildungszweck dient (Kennenlernen des Betriebs).", ["Der Einsatz ist unzulässig, weil Empfang nicht zum Beruf gehört.", "Der Einsatz ist nur mit Zustimmung der IHK zulässig.", "Der Einsatz ist nur bei Volljährigen erlaubt.", "Der Einsatz muss unbezahlt bleiben."])
   .match("Ordnen Sie jede Regelung der zutreffenden Altersgruppe/Regel zu.", [
@@ -220,7 +220,7 @@ Kündigungsfristen (Kündigung durch den Arbeitgeber): Grundfrist **4 Wochen zum
     ["10 Jahre", "4 Monate zum Monatsende"],
     ["20 Jahre", "7 Monate zum Monatsende"],
   ], ["1 Monat zum Monatsende", "6 Monate zum Monatsende"])
-  .tf("Eine fristlose Kündigung ohne Angabe von Gründen ist nur in der Probezeit möglich.", true)
+  .tf("In der Probezeit eines Arbeitsverhältnisses kann mit einer Frist von 2 Wochen gekündigt werden.", true)
   .tf("Das Kündigungsschutzgesetz gilt in jedem Betrieb ab dem ersten Arbeitstag.", false, { e: "Es gilt in Betrieben mit mehr als 10 Arbeitnehmern und nach 6 Monaten Beschäftigung." })
   .tf("Krankheitstage im Urlaub mit ärztlichem Attest werden auf den Urlaub angerechnet.", false)
   .tf("Die Zustimmung des Integrationsamtes ist für die Kündigung eines Schwerbehinderten nötig.", true)

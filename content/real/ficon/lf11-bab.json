@@ -169,7 +169,7 @@
      "difficulty": 2,
      "source": "FiCon LF11 (Unterricht, Prüfungsstil)",
      "body": {
-      "prompt": "Bringen Sie in gedanklicher Ordnung: Was ist der erste Schritt der Kostenstellenrechnung?",
+      "prompt": "Welcher Schritt steht am Anfang der Kostenstellenrechnung?",
       "options": [
        {
         "text": "Übernahme der Gemeinkostenarten in den BAB",

@@ -62,7 +62,7 @@
     {
      "key": "wsp-lf3-rechtsgeschaefte-c12",
      "front": "Beispiel gesetzliche Schriftform?",
-     "back": "Darlehensvertrag, Kündigung des Arbeitsvertrags, Ausbildungsvertrag."
+     "back": "Verbraucherdarlehensvertrag, Bürgschaftserklärung, Kündigung des Arbeitsvertrags."
     },
     {
      "key": "wsp-lf3-rechtsgeschaefte-c13",
@@ -474,7 +474,7 @@
       "items": [
        {
         "term": "gesetzliche Schriftform",
-        "match": "Darlehensvertrag"
+        "match": "Kündigung eines Arbeitsvertrags"
        },
        {
         "term": "öffentliche Beglaubigung",
@@ -585,7 +585,7 @@
       "prompt": "Welche Aussagen zu Rechtsgeschäften sind fehlerhaft?",
       "items": [
        {
-        "text": "Ein Darlehensvertrag bedarf der gesetzlichen Schriftform.",
+        "text": "Die Kündigung eines Arbeitsvertrags bedarf der gesetzlichen Schriftform.",
         "wrong": false
        },
        {
@@ -611,7 +611,7 @@
    "summary": {
     "key": "wsp-lf3-rechtsgeschaefte-zettel",
     "title": "Rechtsgeschäfte, Form, Nichtigkeit & Anfechtung",
-    "content_md": "\n**Rechtsgeschäft** = mindestens eine Willenserklärung, die eine Rechtswirkung herbeiführen soll.\n- **Einseitig**: *empfangsbedürftig* (Kündigung, Anfechtung, Mahnung) · *nicht empfangsbedürftig* (Testament)\n- **Zweiseitig** (Vertrag): zwei übereinstimmende Willenserklärungen (Antrag + Annahme) – *zweiseitig verpflichtend* (Kauf, Miete, Werk) oder *einseitig verpflichtend* (Schenkung, Leihe)\n\n**Form**: Grundsatz der **Formfreiheit** (mündlich, schriftlich, schlüssiges = konkludentes Verhalten). Vorgeschrieben ist Form z. B. bei: **gesetzliche Schriftform** (Darlehensvertrag, Bürgschaft*, Kündigung Arbeitsvertrag) · **öffentliche Beglaubigung** (Unterschrift vom Notar bestätigt: Anmeldung zum Handelsregister, Erbausschlagung) · **notarielle Beurkundung** (Grundstückskauf, GmbH-Gründung).\nWeitere Freiheiten: Abschluss- und Inhaltsfreiheit.\n\n**Nichtig** (von Anfang an unwirksam): Formmangel (§ 125) · Geschäftsunfähigkeit (§ 105) · Verstoß gegen ein gesetzliches Verbot (§ 134) · Sittenwidrigkeit/Wucher (§ 138) · Scheingeschäft (§ 117) · Scherzgeschäft (§ 118).\n\n**Anfechtbar** (zunächst wirksam, kann rückwirkend vernichtet werden):\n- **Irrtum** (§ 119): Inhalts-, Erklärungs-, Übermittlungs-, Eigenschaftsirrtum – Anfechtung **unverzüglich** nach Kenntnis\n- **arglistige Täuschung / widerrechtliche Drohung** (§ 123) – Anfechtung **binnen 1 Jahr**\n- Anfechtung ist ausgeschlossen nach **10 Jahren**.\n"
+    "content_md": "\n**Rechtsgeschäft** = mindestens eine Willenserklärung, die eine Rechtswirkung herbeiführen soll.\n- **Einseitig**: *empfangsbedürftig* (Kündigung, Anfechtung, Mahnung) · *nicht empfangsbedürftig* (Testament)\n- **Zweiseitig** (Vertrag): zwei übereinstimmende Willenserklärungen (Antrag + Annahme) – *zweiseitig verpflichtend* (Kauf, Miete, Werk) oder *einseitig verpflichtend* (Schenkung, Leihe)\n\n**Form**: Grundsatz der **Formfreiheit** (mündlich, schriftlich, schlüssiges = konkludentes Verhalten). Vorgeschrieben ist Form z. B. bei: **gesetzliche Schriftform** (Verbraucherdarlehensvertrag, Bürgschaftserklärung, Kündigung Arbeitsvertrag) · **öffentliche Beglaubigung** (Unterschrift vom Notar bestätigt: Anmeldung zum Handelsregister, Erbausschlagung) · **notarielle Beurkundung** (Grundstückskauf, GmbH-Gründung).\nWeitere Freiheiten: Abschluss- und Inhaltsfreiheit.\n\n**Nichtig** (von Anfang an unwirksam): Formmangel (§ 125) · Geschäftsunfähigkeit (§ 105) · Verstoß gegen ein gesetzliches Verbot (§ 134) · Sittenwidrigkeit/Wucher (§ 138) · Scheingeschäft (§ 117) · Scherzgeschäft (§ 118).\n\n**Anfechtbar** (zunächst wirksam, kann rückwirkend vernichtet werden):\n- **Irrtum** (§ 119): Inhalts-, Erklärungs-, Übermittlungs-, Eigenschaftsirrtum – Anfechtung **unverzüglich** nach Kenntnis\n- **arglistige Täuschung / widerrechtliche Drohung** (§ 123) – Anfechtung **binnen 1 Jahr**\n- Anfechtung ist ausgeschlossen nach **10 Jahren**.\n"
    }
   }
  ]

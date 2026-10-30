@@ -102,7 +102,7 @@
     {
      "key": "wsp-lf1-ausbildung-c20",
      "front": "Berufsschule und Jugendliche: Was gilt am Schultag?",
-     "back": "Bei mindestens 5 Unterrichtsstunden (à 45 Min) dürfen Jugendliche danach nicht mehr im Betrieb beschäftigt werden."
+     "back": "Bei mehr als 5 Unterrichtsstunden (à 45 Min, einmal pro Woche) dürfen Jugendliche danach nicht mehr im Betrieb beschäftigt werden."
     },
     {
      "key": "wsp-lf1-ausbildung-c21",
@@ -390,7 +390,7 @@
       "prompt": "Ein 17-jähriger Azubi hat Berufsschule mit 7 Unterrichtsstunden. Darf er danach in den Betrieb gerufen werden?",
       "options": [
        {
-        "text": "Nein – nach mindestens 5 Unterrichtsstunden darf er nicht mehr im Betrieb beschäftigt werden.",
+        "text": "Nein – nach mehr als 5 Unterrichtsstunden darf er nicht mehr im Betrieb beschäftigt werden.",
         "correct": true
        },
        {
@@ -794,7 +794,7 @@
    "summary": {
     "key": "wsp-lf1-ausbildung-zettel",
     "title": "Ausbildungsvertrag, BBiG & JArbSchG",
-    "content_md": "\n**Rechtsgrundlagen der dualen Ausbildung**: Berufsbildungsgesetz (**BBiG**), **Ausbildungsordnung** (Verordnung über die Berufsausbildung: Dauer, Berufsbild, Ausbildungsrahmenplan, Prüfungsanforderungen), Jugendarbeitsschutzgesetz (**JArbSchG**), Rahmenlehrplan der Berufsschule (Ländersache). *Zuständige Stelle* für Kaufleute für Marketingkommunikation: **IHK**.\n\n**Ausbildungsvertrag** (schriftlich, wirksam auch ohne IHK-Eintragung – die Eintragung ins Verzeichnis ist aber Voraussetzung für die Prüfungszulassung). Inhalt u. a.: Art, sachliche/zeitliche Gliederung, Beginn und Dauer, Ausbildungsstätte, tägliche Arbeitszeit, **Probezeit (1–4 Monate)**, Vergütung (jährlich steigend), Urlaub, Kündigungsvoraussetzungen.\n\n**Kündigung**\n- *Probezeit*: jederzeit **ohne Frist und ohne Grund**\n- *danach*: Ausbildender nur **aus wichtigem Grund** (fristlos); Azubi mit **4 Wochen Frist**, wenn er die Ausbildung aufgibt oder wechselt\n- *Nichtbestehen der Prüfung*: Verlängerung auf Verlangen bis zur Wiederholungsprüfung (max. 1 Jahr)\n\n**Rechte des Azubis**: Ausbildungsvergütung, kostenlose Ausbildungsmittel, Freistellung (Berufsschule, Prüfungen), Urlaub, Zeugnis, nur ausbildungsgemäße Aufgaben.\n**Pflichten des Azubis**: Lernpflicht, Weisungen befolgen, Ordnung beachten, Sorgfalt, Schweigepflicht, Berufsschule besuchen, Ausbildungsnachweis (Berichtsheft) führen, an Prüfungen teilnehmen.\n\n**Jugendarbeitsschutz (15–17 Jahre)**\n| Regel | Wert |\n|---|---|\n| Arbeitszeit | max. **8 h/Tag**, **40 h/Woche**, 5-Tage-Woche |\n| Ruhepausen | **30 min** bei > 4,5 bis 6 h, **60 min** bei > 6 h (Pause mind. 15 min) |\n| Ruhezeit | mind. **12 Stunden** zwischen Arbeitsende und -beginn |\n| Nachtruhe | keine Arbeit **20–6 Uhr** |\n| Urlaub | 30 / 27 / 25 Werktage (unter 16 / 17 / 18 Jahren) |\n| Berufsschule | Freistellung; Schultag mit mind. 5 Unterrichtsstunden (à 45 Min) → danach keine Beschäftigung im Betrieb |\n"
+    "content_md": "\n**Rechtsgrundlagen der dualen Ausbildung**: Berufsbildungsgesetz (**BBiG**), **Ausbildungsordnung** (Verordnung über die Berufsausbildung: Dauer, Berufsbild, Ausbildungsrahmenplan, Prüfungsanforderungen), Jugendarbeitsschutzgesetz (**JArbSchG**), Rahmenlehrplan der Berufsschule (Ländersache). *Zuständige Stelle* für Kaufleute für Marketingkommunikation: **IHK**.\n\n**Ausbildungsvertrag** (schriftlich, wirksam auch ohne IHK-Eintragung – die Eintragung ins Verzeichnis ist aber Voraussetzung für die Prüfungszulassung). Inhalt u. a.: Art, sachliche/zeitliche Gliederung, Beginn und Dauer, Ausbildungsstätte, tägliche Arbeitszeit, **Probezeit (1–4 Monate)**, Vergütung (jährlich steigend), Urlaub, Kündigungsvoraussetzungen.\n\n**Kündigung**\n- *Probezeit*: jederzeit **ohne Frist und ohne Grund**\n- *danach*: Ausbildender nur **aus wichtigem Grund** (fristlos); Azubi mit **4 Wochen Frist**, wenn er die Ausbildung aufgibt oder wechselt\n- *Nichtbestehen der Prüfung*: Verlängerung auf Verlangen bis zur Wiederholungsprüfung (max. 1 Jahr)\n\n**Rechte des Azubis**: Ausbildungsvergütung, kostenlose Ausbildungsmittel, Freistellung (Berufsschule, Prüfungen), Urlaub, Zeugnis, nur ausbildungsgemäße Aufgaben.\n**Pflichten des Azubis**: Lernpflicht, Weisungen befolgen, Ordnung beachten, Sorgfalt, Schweigepflicht, Berufsschule besuchen, Ausbildungsnachweis (Berichtsheft) führen, an Prüfungen teilnehmen.\n\n**Jugendarbeitsschutz (15–17 Jahre)**\n| Regel | Wert |\n|---|---|\n| Arbeitszeit | max. **8 h/Tag**, **40 h/Woche**, 5-Tage-Woche |\n| Ruhepausen | **30 min** bei > 4,5 bis 6 h, **60 min** bei > 6 h (Pause mind. 15 min) |\n| Ruhezeit | mind. **12 Stunden** zwischen Arbeitsende und -beginn |\n| Nachtruhe | keine Arbeit **20–6 Uhr** |\n| Urlaub | 30 / 27 / 25 Werktage (unter 16 / 17 / 18 Jahren) |\n| Berufsschule | Freistellung; Schultag mit mehr als 5 Unterrichtsstunden (à 45 Min), einmal pro Woche → danach keine Beschäftigung im Betrieb |\n"
    }
   }
  ]

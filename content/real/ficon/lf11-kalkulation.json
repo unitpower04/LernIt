@@ -280,17 +280,16 @@
      "difficulty": 2,
      "source": "FiCon LF11 (Unterricht, Prüfungsstil)",
      "vars": {
-      "e": {
-       "type": "int",
-       "min": 4000,
-       "max": 12000,
-       "step": 500
-      },
       "k": {
        "type": "int",
        "min": 2500,
-       "max": 9500,
+       "max": 7000,
        "step": 500
+      },
+      "e": {
+       "type": "expr",
+       "expr": "k+1500",
+       "decimals": 0
       }
      },
      "body": {

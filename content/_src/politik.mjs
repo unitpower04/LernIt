@@ -138,7 +138,7 @@ const ak = T("politik-arbeitskampf")
 
 const br = T("politik-betriebsrat")
   .summary("Betriebsrat & Mitbestimmung", `
-**Betriebsverfassungsgesetz (BetrVG)**: Betriebsrat in Betrieben mit **mind. 5 wahlberechtigten Arbeitnehmern** (Wahl alle **4 Jahre**, Wahlberechtigt ab 16, wählbar ab 18 und 6 Monate Betriebszugehörigkeit). Gewählt durch die Belegschaft; Größe nach Betriebsgröße.
+**Betriebsverfassungsgesetz (BetrVG)**: Betriebsrat in Betrieben mit **mind. 5 wahlberechtigten Arbeitnehmern** (Wahl alle **4 Jahre**, Wahlberechtigt ab 18, wählbar ab 18 und 6 Monate Betriebszugehörigkeit). Gewählt durch die Belegschaft; Größe nach Betriebsgröße.
 **Beteiligungsrechte (Stufen)**: *Information* → *Anhörung* → *Beratung* → *Mitbestimmung* (Zustimmung nötig)
 - **Mitbestimmung** (§ 87): Arbeitszeit, Urlaubsgrundsätze, Lohnformen, Überwachung, Ordnung im Betrieb, Sozialeinrichtungen
 - **Mitwirkung**: Personalplanung, Stellenausschreibung, Kündigung (**Anhörung vor jeder Kündigung – sonst unwirksam**), Einstellung/Versetzung (Zustimmungsverweigerung möglich)
@@ -150,7 +150,7 @@ const br = T("politik-betriebsrat")
   .cards([
     ["Ab wann kann ein Betriebsrat gewählt werden?", "In Betrieben mit mindestens 5 ständigen wahlberechtigten Arbeitnehmern (drei davon wählbar)."],
     ["Wie lange ist die Amtszeit des Betriebsrats?", "4 Jahre."],
-    ["Wer ist wahlberechtigt zum Betriebsrat?", "Alle Arbeitnehmer ab 16 Jahren (inkl. Azubis)."],
+    ["Wer ist wahlberechtigt zum Betriebsrat?", "Alle Arbeitnehmer ab 18 Jahren (auch Azubis); Jüngere wählen nur die JAV."],
     ["Wer ist wählbar zum Betriebsrat?", "Wahlberechtigte ab 18 Jahren mit 6 Monaten Betriebszugehörigkeit."],
     ["Welche Rechte hat der Betriebsrat bei Kündigungen?", "Er muss vor jeder Kündigung angehört werden – sonst ist sie unwirksam."],
     ["Beispiele für Mitbestimmung (§ 87 BetrVG)?", "Arbeitszeit, Urlaubsplan, Überwachung durch Technik, Lohngestaltung, Ordnungsregeln."],
@@ -182,7 +182,7 @@ const br = T("politik-betriebsrat")
     ["Information über Personalplanung", "Informationsrecht"],
     ["Betriebsvereinbarung", "Gemeinsame Regelung mit Zustimmung beider Seiten"],
   ])
-  .tf("Azubis dürfen den Betriebsrat mitwählen.", true)
+  .tf("Volljährige Azubis dürfen den Betriebsrat mitwählen.", true)
   .tf("Eine Betriebsvereinbarung steht über dem Tarifvertrag.", false)
   .cloze("Der Betriebsrat wird alle [[4]] Jahre gewählt, die JAV alle [[2]] Jahre.")
   .done();
@@ -235,7 +235,7 @@ const sv = T("politik-sozialvers")
     { unit: "€", steps: ["{b|eur} · 9,3 %", "= {result|eur}"] },
   )
   .tcalc(
-    "Eine Agentur zahlt im Jahr {h|eur0} € Honorare an selbstständige Künstler (keine GmbHs). Die Künstlersozialabgabe beträgt {s} %. Wie hoch ist die Abgabe?",
+    "Eine Agentur zahlt im Jahr {h|eur0} Honorare an selbstständige Künstler (keine GmbHs). Die Künstlersozialabgabe beträgt {s} %. Wie hoch ist die Abgabe?",
     "h*s/100",
     { h: V.int(10000, 80000, 5000), s: V.pick([4.2, 5, 5.2]) },
     { unit: "€", steps: ["{h|eur0} · {s} %", "= {result|eur}"] },
