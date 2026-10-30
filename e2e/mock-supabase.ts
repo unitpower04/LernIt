@@ -177,6 +177,7 @@ function rpc(name: string, args: Row, user: ReturnType<typeof userFromAuth>) {
         const a = T("answers").filter((x) => x.user_id === p.id);
         return { display_name: p.display_name, answered: a.length, correct: a.filter((x) => x.correct).length, streak: 0, is_me: p.id === uid };
       });
+    case "admin_members": return T("profiles").map((p) => ({ display_name: p.display_name, email: "mock@example.com", is_admin: !!p.is_admin, created_at: p.created_at ?? new Date().toISOString(), last_active: null, answers: 0, answers_7d: 0 }));
     case "my_friend_code": return "TEST42";
     case "send_friend_request": {
       const c = String(args.p_code).trim().toUpperCase();

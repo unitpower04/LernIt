@@ -36,6 +36,7 @@ export default function AdminPage() {
       <ImportBox />
       <Browser />
       <Runs />
+      <Members />
       <Invites />
     </div>
   );
@@ -236,6 +237,37 @@ function Invites() {
           <button className="btn !min-h-9" onClick={async () => { await supabase().rpc("set_invite_active", { p_code: i.code, p_active: !i.active }); load(); }}>{i.active ? "Sperren" : "Aktivieren"}</button>
         </div>
       ))}
+    </section>
+  );
+}
+
+type Member = { display_name: string; email: string; is_admin: boolean; created_at: string; last_active: string | null; answers: number; answers_7d: number };
+
+function Members() {
+  const [list, setList] = useState<Member[] | null>(null);
+  useEffect(() => {
+    supabase().rpc("admin_members").then(({ data }) => setList((data ?? []) as Member[]));
+  }, []);
+  const active7 = list?.filter((m) => m.answers_7d > 0).length ?? 0;
+  return (
+    <section className="card space-y-3" aria-label="Mitglieder">
+      <h2 className="h2">Mitglieder</h2>
+      {!list ? <Spinner /> : (
+        <>
+          <div className="grid grid-cols-3 gap-2 text-center">
+            <div className="rounded-xl bg-surface2 p-2"><p className="text-xl font-bold">{list.length}</p><p className="text-xs text-muted">angemeldet</p></div>
+            <div className="rounded-xl bg-surface2 p-2"><p className="text-xl font-bold">{active7}</p><p className="text-xs text-muted">aktiv (7 Tage)</p></div>
+            <div className="rounded-xl bg-surface2 p-2"><p className="text-xl font-bold">{list.reduce((s, m) => s + m.answers, 0)}</p><p className="text-xs text-muted">Antworten gesamt</p></div>
+          </div>
+          {list.map((m) => (
+            <div key={m.email} className="rounded-xl bg-surface2 p-2 text-sm">
+              <p className="truncate font-medium">{m.display_name}{m.is_admin ? " · Admin" : ""}</p>
+              <p className="truncate text-xs text-muted">{m.email}</p>
+              <p className="text-xs text-muted">seit {dateDE(m.created_at)} · zuletzt aktiv {m.last_active ? dateDE(m.last_active) : "noch nie"} · {m.answers} Antworten ({m.answers_7d} in 7 Tagen)</p>
+            </div>
+          ))}
+        </>
+      )}
     </section>
   );
 }
