@@ -34,3 +34,6 @@
 - Stand Supabase: MaKo 394 Aufgaben/410 Karten, WSP 368/516, FiCon 91/164, Politik 42/61, Deutsch 30/45.
 
 - Teil 1: 75 Fallsituationen (15 Prüfungen à 5 ohne Wiederholung); Prüfungsstart bevorzugt noch nicht geprüfte feste Aufgaben.
+
+## Freunde
+- Freundescode je Nutzer, Anfragen senden/annehmen/ablehnen/entfernen, Rangliste „Nur Freunde“ (Migration `friends`).

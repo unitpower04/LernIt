@@ -153,6 +153,16 @@ test("Glossar, Sprint, Einstellungen, Dark Mode, Freunde/Duell", async ({ page }
   await expect(page.getByText("Gespeichert")).toBeVisible();
   await page.goto("/freunde");
   await expect(page.getByRole("heading", { name: /Rangliste/ })).toBeVisible();
+  await expect(page.getByLabel("Dein Freundescode")).toHaveText("TEST42");
+  await page.getByLabel("Freundescode eingeben").fill("XXXXXX");
+  await page.getByRole("button", { name: "Anfrage senden" }).click();
+  await expect(page.getByText("Diesen Freundescode gibt es nicht.")).toBeVisible();
+  await page.getByLabel("Freundescode eingeben").fill("anna22");
+  await page.getByRole("button", { name: "Anfrage senden" }).click();
+  await expect(page.getByText("Anfrage gesendet")).toBeVisible();
+  await expect(page.getByText("wartet auf Antwort")).toBeVisible();
+  await page.getByRole("button", { name: "Annehmen" }).click();
+  await expect(page.getByRole("button", { name: "Ben entfernen" })).toBeVisible();
   await page.getByRole("button", { name: "Neues Duell starten" }).click();
   await expect(page).toHaveURL(/\/duell\/[A-Z0-9]{6}/);
   await expect(page.getByText(/Frage 1\//)).toBeVisible();

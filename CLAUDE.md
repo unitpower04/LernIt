@@ -29,7 +29,7 @@ Prüfungs-Lern-App für Kaufleute für Marketingkommunikation (IHK-Abschlussprü
 - Inhalte: `subjects → learning_fields → topics → flashcards/questions/question_templates/summaries/glossary/exam_cases`. Jede Zeile hat stabilen `key` (Upsert), `active`, `is_demo`.
 - Nutzerdaten: `profiles`, `answers`, `card_states`, `exam_attempts`, `duels`, `duel_results`. RLS überall; Inhalte schreibt nur Admin (`profiles.is_admin`, nicht vom Client änderbar).
 - Registrierung: DB-Trigger `before_user_insert` prüft/verbraucht Einladungscode und bestätigt die E-Mail automatisch; `after_user_insert` legt das Profil an (Admin-Code → Admin).
-- RPCs: `import_bundle(jsonb)`, `reset_demo()`, `check_invite_code`, `create_invite`, `leaderboard`, `my_streak`.
+- RPCs: `import_bundle(jsonb)`, `reset_demo()`, `check_invite_code`, `create_invite`, `leaderboard`, `my_streak`, Freunde: `my_friend_code`, `send_friend_request`, `respond_friend_request`, `remove_friendship`, `friends_list`, `leaderboard_friends` (Tabelle `friendships`, `profiles.friend_code`).
 - Migrationen liegen im Repo und wurden mit dem Supabase-MCP eingespielt. Neue Migration: Datei anlegen + anwenden.
 
 ## Aufgabentypen

@@ -177,6 +177,26 @@ function rpc(name: string, args: Row, user: ReturnType<typeof userFromAuth>) {
         const a = T("answers").filter((x) => x.user_id === p.id);
         return { display_name: p.display_name, answered: a.length, correct: a.filter((x) => x.correct).length, streak: 0, is_me: p.id === uid };
       });
+    case "my_friend_code": return "TEST42";
+    case "send_friend_request": {
+      const c = String(args.p_code).trim().toUpperCase();
+      if (c === "TEST42") return "self";
+      if (c !== "ANNA22") return "not_found";
+      if (T("friendships").some((f) => f.owner === uid && f.display_name === "Anna")) return "already_sent";
+      T("friendships").push({ id: randomUUID(), owner: uid, status: "pending", incoming: false, display_name: "Anna", answered: 0, correct: 0 });
+      T("friendships").push({ id: randomUUID(), owner: uid, status: "pending", incoming: true, display_name: "Ben", answered: 0, correct: 0 });
+      return "sent";
+    }
+    case "friends_list": return T("friendships").filter((f) => f.owner === uid);
+    case "respond_friend_request": {
+      const f = T("friendships").find((x) => x.id === args.p_id);
+      if (f && args.p_accept) f.status = "accepted";
+      else T("friendships").splice(T("friendships").findIndex((x) => x.id === args.p_id), 1);
+      return null;
+    }
+    case "remove_friendship": { const i = T("friendships").findIndex((x) => x.id === args.p_id); if (i >= 0) T("friendships").splice(i, 1); return null; }
+    case "leaderboard_friends":
+      return T("profiles").filter((p) => p.id === uid).map((p) => ({ display_name: p.display_name, answered: 0, correct: 0, streak: 0, is_me: true }));
     case "import_bundle": return importBundle(args.p, !!args.p.demo);
     case "reset_demo": return { subjects_deleted: 0, answers_deleted: 0 };
     case "create_invite": { const c = "LERN-" + randomUUID().slice(0, 10).toUpperCase(); CODES[c] = false; T("invite_codes").push({ code: c, note: args.p_note, uses: 0, max_uses: args.p_max_uses, active: true, created_at: new Date().toISOString() }); return c; }
