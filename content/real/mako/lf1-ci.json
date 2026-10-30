@@ -1,0 +1,357 @@
+{
+ "demo": false,
+ "items": [
+  {
+   "topic": "mako-lf1-ci",
+   "flashcards": [
+    {
+     "key": "mako-lf1-ci-c01",
+     "front": "Was ist Corporate Identity?",
+     "back": "Das Selbstbild und die einheitliche Selbstdarstellung eines Unternehmens."
+    },
+    {
+     "key": "mako-lf1-ci-c02",
+     "front": "Was ist ein Image?",
+     "back": "Das Fremdbild: Wie Außenstehende das Unternehmen wahrnehmen."
+    },
+    {
+     "key": "mako-lf1-ci-c03",
+     "front": "Nenne die drei Bausteine der CI.",
+     "back": "Corporate Design, Corporate Communications, Corporate Behaviour."
+    },
+    {
+     "key": "mako-lf1-ci-c04",
+     "front": "Was umfasst Corporate Design?",
+     "back": "Logo, Farben, Schriften, Bildsprache, Layoutraster."
+    },
+    {
+     "key": "mako-lf1-ci-c05",
+     "front": "Was ist Corporate Communications?",
+     "back": "Alle kommunikativen Auftritte nach innen und außen."
+    },
+    {
+     "key": "mako-lf1-ci-c06",
+     "front": "Was ist Corporate Behaviour?",
+     "back": "Das Verhalten des Unternehmens und seiner Mitarbeiter gegenüber Stakeholdern."
+    },
+    {
+     "key": "mako-lf1-ci-c07",
+     "front": "Ziele der CI?",
+     "back": "Wiedererkennung, Vertrauen, Abgrenzung, Identifikation."
+    },
+    {
+     "key": "mako-lf1-ci-c08",
+     "front": "Was macht der Kontakter?",
+     "back": "Betreut den Kunden, nimmt Briefings entgegen und koordiniert Aufträge (Account Management)."
+    },
+    {
+     "key": "mako-lf1-ci-c09",
+     "front": "Was macht der Art Director?",
+     "back": "Verantwortet die visuelle Gestaltung."
+    },
+    {
+     "key": "mako-lf1-ci-c10",
+     "front": "Was macht der Creative Director?",
+     "back": "Leitet das Kreativteam und verantwortet die kreative Gesamtidee."
+    },
+    {
+     "key": "mako-lf1-ci-c11",
+     "front": "Was macht der Trafficer?",
+     "back": "Überwacht Termine, Ablauf und Auftragsfluss in der Agentur."
+    },
+    {
+     "key": "mako-lf1-ci-c12",
+     "front": "Was macht der Mediaplaner?",
+     "back": "Plant die Auswahl und Schaltung von Werbeträgern."
+    },
+    {
+     "key": "mako-lf1-ci-c13",
+     "front": "Was ist eine Full-Service-Agentur?",
+     "back": "Bietet alle Leistungen von Strategie über Kreation bis Media und Produktion."
+    },
+    {
+     "key": "mako-lf1-ci-c14",
+     "front": "Was ist eine Spezialagentur?",
+     "back": "Konzentriert sich auf ein Feld (z. B. PR, Digital, Media)."
+    },
+    {
+     "key": "mako-lf1-ci-c15",
+     "front": "Aufbauorganisation vs. Ablauforganisation?",
+     "back": "Aufbau: Struktur (wer). Ablauf: Prozesse (wie und wann)."
+    }
+   ],
+   "glossary": [
+    {
+     "key": "mako-lf1-ci-g01",
+     "term": "Corporate Identity",
+     "definition": "Einheitliche Unternehmensidentität."
+    },
+    {
+     "key": "mako-lf1-ci-g02",
+     "term": "Corporate Design",
+     "definition": "Visuelles Erscheinungsbild."
+    },
+    {
+     "key": "mako-lf1-ci-g03",
+     "term": "Image",
+     "definition": "Fremdbild eines Unternehmens oder einer Marke."
+    },
+    {
+     "key": "mako-lf1-ci-g04",
+     "term": "Kontakter",
+     "definition": "Kundenberater in der Agentur."
+    },
+    {
+     "key": "mako-lf1-ci-g05",
+     "term": "Traffic",
+     "definition": "Termin- und Ablaufsteuerung in der Agentur."
+    }
+   ],
+   "questions": [
+    {
+     "key": "mako-lf1-ci-q01",
+     "type": "mc",
+     "exam_part": 1,
+     "difficulty": 2,
+     "source": "MaKo (Skripte Vaaßen/Kuhn, Zwischenprüfung, Unterricht)",
+     "body": {
+      "prompt": "Welcher Baustein der CI umfasst Logo, Farben und Schriften?",
+      "options": [
+       {
+        "text": "Corporate Design",
+        "correct": true
+       },
+       {
+        "text": "Corporate Communications",
+        "correct": false
+       },
+       {
+        "text": "Corporate Behaviour",
+        "correct": false
+       },
+       {
+        "text": "Corporate Culture",
+        "correct": false
+       },
+       {
+        "text": "Corporate Finance",
+        "correct": false
+       }
+      ]
+     }
+    },
+    {
+     "key": "mako-lf1-ci-q02",
+     "type": "mc",
+     "exam_part": 1,
+     "difficulty": 2,
+     "source": "MaKo (Skripte Vaaßen/Kuhn, Zwischenprüfung, Unterricht)",
+     "body": {
+      "prompt": "Ein Unternehmen wirbt mit Nachhaltigkeit, behandelt aber seine Lieferanten schlecht. Welcher CI-Baustein ist widersprüchlich?",
+      "options": [
+       {
+        "text": "Corporate Behaviour",
+        "correct": true
+       },
+       {
+        "text": "Corporate Design",
+        "correct": false
+       },
+       {
+        "text": "Logo",
+        "correct": false
+       },
+       {
+        "text": "Typografie",
+        "correct": false
+       },
+       {
+        "text": "Mediaplanung",
+        "correct": false
+       }
+      ]
+     }
+    },
+    {
+     "key": "mako-lf1-ci-q03",
+     "type": "mc",
+     "exam_part": 1,
+     "difficulty": 2,
+     "source": "MaKo (Skripte Vaaßen/Kuhn, Zwischenprüfung, Unterricht)",
+     "body": {
+      "prompt": "Wer steuert in der Agentur Termine und Abläufe?",
+      "options": [
+       {
+        "text": "Der Trafficer",
+        "correct": true
+       },
+       {
+        "text": "Der Art Director",
+        "correct": false
+       },
+       {
+        "text": "Der Texter",
+        "correct": false
+       },
+       {
+        "text": "Der Mediaplaner",
+        "correct": false
+       },
+       {
+        "text": "Der Kontakter",
+        "correct": false
+       }
+      ]
+     }
+    },
+    {
+     "key": "mako-lf1-ci-q04",
+     "type": "mc",
+     "exam_part": 1,
+     "difficulty": 2,
+     "source": "MaKo (Skripte Vaaßen/Kuhn, Zwischenprüfung, Unterricht)",
+     "body": {
+      "prompt": "Wer ist in der Agentur Ansprechpartner des Kunden?",
+      "options": [
+       {
+        "text": "Der Kontakter",
+        "correct": true
+       },
+       {
+        "text": "Der Grafiker",
+        "correct": false
+       },
+       {
+        "text": "Der Trafficer",
+        "correct": false
+       },
+       {
+        "text": "Der Texter",
+        "correct": false
+       },
+       {
+        "text": "Der Druckdienstleister",
+        "correct": false
+       }
+      ]
+     }
+    },
+    {
+     "key": "mako-lf1-ci-q05",
+     "type": "mc",
+     "exam_part": 1,
+     "difficulty": 2,
+     "source": "MaKo (Skripte Vaaßen/Kuhn, Zwischenprüfung, Unterricht)",
+     "body": {
+      "prompt": "Was ist das Image?",
+      "options": [
+       {
+        "text": "Das Bild, das Außenstehende vom Unternehmen haben",
+        "correct": true
+       },
+       {
+        "text": "Die interne Philosophie",
+        "correct": false
+       },
+       {
+        "text": "Das Logo",
+        "correct": false
+       },
+       {
+        "text": "Der Slogan",
+        "correct": false
+       },
+       {
+        "text": "Das Gehaltsgefüge",
+        "correct": false
+       }
+      ]
+     }
+    },
+    {
+     "key": "mako-lf1-ci-q06",
+     "type": "match",
+     "exam_part": 1,
+     "difficulty": 2,
+     "source": "MaKo (Skripte Vaaßen/Kuhn, Zwischenprüfung, Unterricht)",
+     "body": {
+      "prompt": "Ordnen Sie jeder Rolle die Aufgabe zu.",
+      "items": [
+       {
+        "term": "Kontakter",
+        "match": "Kundenbetreuung und Briefing"
+       },
+       {
+        "term": "Art Director",
+        "match": "Visuelle Umsetzung"
+       },
+       {
+        "term": "Mediaplaner",
+        "match": "Auswahl und Planung der Werbeträger"
+       },
+       {
+        "term": "Trafficer",
+        "match": "Terminüberwachung"
+       }
+      ],
+      "distractors": []
+     }
+    },
+    {
+     "key": "mako-lf1-ci-q07",
+     "type": "match",
+     "exam_part": 1,
+     "difficulty": 2,
+     "source": "MaKo (Skripte Vaaßen/Kuhn, Zwischenprüfung, Unterricht)",
+     "body": {
+      "prompt": "Ordnen Sie die CI-Maßnahme dem Baustein zu.",
+      "items": [
+       {
+        "term": "Neues Logo",
+        "match": "Corporate Design"
+       },
+       {
+        "term": "Pressemitteilung",
+        "match": "Corporate Communications"
+       },
+       {
+        "term": "Freundlicher Kundenumgang",
+        "match": "Corporate Behaviour"
+       }
+      ],
+      "distractors": []
+     }
+    },
+    {
+     "key": "mako-lf1-ci-q08",
+     "type": "tf",
+     "exam_part": 1,
+     "difficulty": 2,
+     "explanation": "Das ist das Image – CI ist das Selbstbild.",
+     "source": "MaKo (Skripte Vaaßen/Kuhn, Zwischenprüfung, Unterricht)",
+     "body": {
+      "statement": "Corporate Identity ist das Fremdbild eines Unternehmens.",
+      "answer": false
+     }
+    },
+    {
+     "key": "mako-lf1-ci-q09",
+     "type": "cloze",
+     "exam_part": 1,
+     "difficulty": 2,
+     "source": "MaKo (Skripte Vaaßen/Kuhn, Zwischenprüfung, Unterricht)",
+     "body": {
+      "text": "Zur CI gehören Corporate [[Design]], Corporate [[Communications]] und Corporate [[Behaviour]]."
+     }
+    }
+   ],
+   "templates": [],
+   "cases": [],
+   "summary": {
+    "key": "mako-lf1-ci-zettel",
+    "title": "Corporate Identity & Agenturaufbau",
+    "content_md": "\n**Corporate Identity (CI)** = Unternehmensidentität: Wie das Unternehmen sich selbst sieht und nach außen darstellt. **Image** = Fremdbild (Wahrnehmung).\n**CI-Bausteine**: **Corporate Design (CD)** – visuell (Logo, Farben, Schrift, Layout) · **Corporate Communications (CC)** – Kommunikation nach innen/außen · **Corporate Behaviour (CB)** – Verhalten (Umgang mit Kunden, Mitarbeitern) · evtl. **Corporate Culture/Philosophie**.\n**Ziele**: Wiedererkennung, Vertrauen, Unterscheidbarkeit, Identifikation.\n**Agenturaufbau (Full-Service)**: **Beratung/Kontakt** (Kundenbetreuer = Kontakter, Account Manager) · **Konzeption/Strategie** (Planner) · **Kreation** (Creative Director, Art Director, Texter, Grafiker) · **Media** (Mediaplaner, Mediaeinkauf) · **Produktion** (Druck-/Filmproduktion) · **Traffic** (Terminüberwachung, Ablaufsteuerung) · **Controlling/Verwaltung**.\n**Agenturtypen**: Full-Service, Spezialagentur (PR, Digital, Media, Design), Kreativagentur (Boutique), Netzwerkagentur.\n**Ablaufphasen**: Briefing → Strategie/Konzept → Kreation → Präsentation → Produktion → Mediaplanung/Einsatz → Controlling.\n"
+   }
+  }
+ ]
+}

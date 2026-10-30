@@ -1,0 +1,173 @@
+{
+ "demo": false,
+ "subjects": [
+  {
+   "key": "mako",
+   "name": "MaKo – Marketing & Kommunikation",
+   "description": "Marketing- und Kommunikationsmanagement (Prüfungsteil 1 Konzepte, teils Teil 3)",
+   "color": "#db2777",
+   "learning_fields": [
+    {
+     "key": "mako-lf1",
+     "code": "LF1",
+     "name": "Grundlagen der Marketingkommunikation",
+     "exam_parts": [
+      1
+     ],
+     "topics": [
+      {
+       "key": "mako-lf1-branche",
+       "name": "Werbewirtschaft, Verbände & Institutionen",
+       "exam_parts": [
+        1
+       ]
+      },
+      {
+       "key": "mako-lf1-marketing",
+       "name": "Marketing, Marketing-Mix & Begriffe",
+       "exam_parts": [
+        1
+       ]
+      },
+      {
+       "key": "mako-lf1-ci",
+       "name": "Corporate Identity & Agenturaufbau",
+       "exam_parts": [
+        1
+       ]
+      }
+     ]
+    },
+    {
+     "key": "mako-lf4",
+     "code": "LF4",
+     "name": "Briefing & Marktforschung",
+     "exam_parts": [
+      1
+     ],
+     "topics": [
+      {
+       "key": "mako-lf4-briefing",
+       "name": "Briefing & Re-Briefing",
+       "exam_parts": [
+        1
+       ]
+      },
+      {
+       "key": "mako-lf4-marktforschung",
+       "name": "Marktforschung & Zielgruppen",
+       "exam_parts": [
+        1
+       ]
+      }
+     ]
+    },
+    {
+     "key": "mako-lf6",
+     "code": "LF6",
+     "name": "Marketing-Mix",
+     "exam_parts": [
+      1
+     ],
+     "topics": [
+      {
+       "key": "mako-lf6-strategie",
+       "name": "Strategische Marketingplanung (SWOT, Ansoff, Portfolio)",
+       "exam_parts": [
+        1
+       ]
+      },
+      {
+       "key": "mako-lf6-produkt",
+       "name": "Produkt- und Markenpolitik",
+       "exam_parts": [
+        1
+       ]
+      },
+      {
+       "key": "mako-lf6-preis",
+       "name": "Preis- und Konditionenpolitik",
+       "exam_parts": [
+        1,
+        3
+       ]
+      },
+      {
+       "key": "mako-lf6-distribution",
+       "name": "Distributionspolitik",
+       "exam_parts": [
+        1
+       ]
+      }
+     ]
+    },
+    {
+     "key": "mako-lf7",
+     "code": "LF7/8",
+     "name": "Kommunikationspolitik & -konzept",
+     "exam_parts": [
+      1
+     ],
+     "topics": [
+      {
+       "key": "mako-lf7-instrumente",
+       "name": "Kommunikationsinstrumente (Werbung, PR, VKF, Sponsoring, Event, Online)",
+       "exam_parts": [
+        1
+       ]
+      },
+      {
+       "key": "mako-lf7-konzept",
+       "name": "Kommunikationskonzept, Werbeziele & AIDA",
+       "exam_parts": [
+        1
+       ]
+      }
+     ]
+    },
+    {
+     "key": "mako-lf9",
+     "code": "LF9",
+     "name": "Mediaplanung",
+     "exam_parts": [
+      3
+     ],
+     "topics": [
+      {
+       "key": "mako-lf9-kennziffern",
+       "name": "Mediakennziffern & Mediaplanbewertung",
+       "exam_parts": [
+        3
+       ]
+      },
+      {
+       "key": "mako-lf9-planung",
+       "name": "Mediaplanungsprozess, Mediagattungen & Online-Media",
+       "exam_parts": [
+        3
+       ]
+      }
+     ]
+    },
+    {
+     "key": "mako-lf10",
+     "code": "LF10",
+     "name": "Produktion & Umsetzung",
+     "exam_parts": [
+      3
+     ],
+     "topics": [
+      {
+       "key": "mako-lf10-produktion",
+       "name": "Druckverfahren, Papier & Produktionsablauf",
+       "exam_parts": [
+        3
+       ]
+      }
+     ]
+    }
+   ]
+  }
+ ],
+ "items": []
+}

@@ -1,0 +1,257 @@
+{
+ "demo": false,
+ "items": [
+  {
+   "topic": "mako-lf4-briefing",
+   "flashcards": [
+    {
+     "key": "mako-lf4-briefing-c01",
+     "front": "Was ist ein Briefing?",
+     "back": "Auftragsinformation des Kunden an die Agentur mit Zielen, Zielgruppe, Budget und Rahmen."
+    },
+    {
+     "key": "mako-lf4-briefing-c02",
+     "front": "Was ist ein Re-Briefing?",
+     "back": "Die Agentur fasst das Briefing zusammen und lässt es vom Kunden bestätigen, um Missverständnisse zu vermeiden."
+    },
+    {
+     "key": "mako-lf4-briefing-c03",
+     "front": "Nenne typische Briefinginhalte.",
+     "back": "Marke/Produkt, Ausgangslage, Ziele, Zielgruppe, Botschaft/USP, Budget, Termine, Vorgaben."
+    },
+    {
+     "key": "mako-lf4-briefing-c04",
+     "front": "Was ist ein Pitch?",
+     "back": "Wettbewerbspräsentation, in der Agenturen um einen Auftrag konkurrieren."
+    },
+    {
+     "key": "mako-lf4-briefing-c05",
+     "front": "Was ist ein USP?",
+     "back": "Unique Selling Proposition – Alleinstellungsmerkmal bzw. einzigartiges Nutzenversprechen."
+    },
+    {
+     "key": "mako-lf4-briefing-c06",
+     "front": "Was bedeutet SMART bei Zielen?",
+     "back": "Spezifisch, messbar, attraktiv, realistisch, terminiert."
+    },
+    {
+     "key": "mako-lf4-briefing-c07",
+     "front": "Warum ist ein schriftliches Briefing wichtig?",
+     "back": "Es sichert Verbindlichkeit und beugt Missverständnissen vor."
+    },
+    {
+     "key": "mako-lf4-briefing-c08",
+     "front": "Was ist ein Kreativbriefing?",
+     "back": "Internes Briefing der Agentur an das Kreativteam mit Strategie und Tonalität."
+    },
+    {
+     "key": "mako-lf4-briefing-c09",
+     "front": "Was sind Briefing-Lücken?",
+     "back": "Fehlende Informationen, die in Rückfragen geklärt werden müssen (z. B. Budget, Ziele)."
+    },
+    {
+     "key": "mako-lf4-briefing-c10",
+     "front": "Was ist ein Etat?",
+     "back": "Das Budget, das ein Kunde für Kommunikation/Agentur zur Verfügung stellt."
+    }
+   ],
+   "glossary": [
+    {
+     "key": "mako-lf4-briefing-g01",
+     "term": "Briefing",
+     "definition": "Auftragsinformation für die Agentur."
+    },
+    {
+     "key": "mako-lf4-briefing-g02",
+     "term": "Re-Briefing",
+     "definition": "Zusammenfassende Rückbestätigung des Briefings durch die Agentur."
+    },
+    {
+     "key": "mako-lf4-briefing-g03",
+     "term": "USP",
+     "definition": "Alleinstellungsmerkmal."
+    },
+    {
+     "key": "mako-lf4-briefing-g04",
+     "term": "Pitch",
+     "definition": "Wettbewerbspräsentation um einen Agenturauftrag."
+    }
+   ],
+   "questions": [
+    {
+     "key": "mako-lf4-briefing-q01",
+     "type": "mc",
+     "exam_part": 1,
+     "difficulty": 2,
+     "source": "MaKo (Skripte Vaaßen/Kuhn, Zwischenprüfung, Unterricht)",
+     "body": {
+      "prompt": "Wozu dient ein Re-Briefing?",
+      "options": [
+       {
+        "text": "Missverständnisse vermeiden und Auftragsverständnis abstimmen",
+        "correct": true
+       },
+       {
+        "text": "Den Preis senken",
+        "correct": false
+       },
+       {
+        "text": "Die Zielgruppe ändern",
+        "correct": false
+       },
+       {
+        "text": "Den Pitch ersetzen",
+        "correct": false
+       },
+       {
+        "text": "Das Produkt testen",
+        "correct": false
+       }
+      ]
+     }
+    },
+    {
+     "key": "mako-lf4-briefing-q02",
+     "type": "mc",
+     "exam_part": 1,
+     "difficulty": 2,
+     "source": "MaKo (Skripte Vaaßen/Kuhn, Zwischenprüfung, Unterricht)",
+     "body": {
+      "prompt": "Welche Information gehört nicht zwingend ins Kundenbriefing?",
+      "options": [
+       {
+        "text": "Gehälter der Agenturmitarbeiter",
+        "correct": true
+       },
+       {
+        "text": "Zielgruppe",
+        "correct": false
+       },
+       {
+        "text": "Budget",
+        "correct": false
+       },
+       {
+        "text": "Zeitplan",
+        "correct": false
+       },
+       {
+        "text": "Kommunikationsziel",
+        "correct": false
+       }
+      ]
+     }
+    },
+    {
+     "key": "mako-lf4-briefing-q03",
+     "type": "mc",
+     "exam_part": 1,
+     "difficulty": 2,
+     "source": "MaKo (Skripte Vaaßen/Kuhn, Zwischenprüfung, Unterricht)",
+     "body": {
+      "prompt": "Was ist ein Pitch?",
+      "options": [
+       {
+        "text": "Mehrere Agenturen präsentieren ihre Ideen für einen Auftrag.",
+        "correct": true
+       },
+       {
+        "text": "Ein Interview",
+        "correct": false
+       },
+       {
+        "text": "Ein Preisnachlass",
+        "correct": false
+       },
+       {
+        "text": "Eine Reklamation",
+        "correct": false
+       },
+       {
+        "text": "Eine Rechnung",
+        "correct": false
+       }
+      ]
+     }
+    },
+    {
+     "key": "mako-lf4-briefing-q04",
+     "type": "mc",
+     "exam_part": 1,
+     "difficulty": 2,
+     "source": "MaKo (Skripte Vaaßen/Kuhn, Zwischenprüfung, Unterricht)",
+     "body": {
+      "prompt": "Welches Ziel ist SMART formuliert?",
+      "options": [
+       {
+        "text": "Die Markenbekanntheit soll bei 18–29-Jährigen bis zum 31.12. von 20 % auf 30 % steigen.",
+        "correct": true
+       },
+       {
+        "text": "Wir wollen bekannter werden.",
+        "correct": false
+       },
+       {
+        "text": "Wir wollen mehr Umsatz.",
+        "correct": false
+       },
+       {
+        "text": "Die Marke soll cooler wirken.",
+        "correct": false
+       },
+       {
+        "text": "Wir möchten Kunden begeistern.",
+        "correct": false
+       }
+      ]
+     }
+    },
+    {
+     "key": "mako-lf4-briefing-q05",
+     "type": "order",
+     "exam_part": 1,
+     "difficulty": 1,
+     "source": "MaKo (Skripte Vaaßen/Kuhn, Zwischenprüfung, Unterricht)",
+     "body": {
+      "prompt": "Bringen Sie den Ablauf in die richtige Reihenfolge.",
+      "items": [
+       "Kundenbriefing",
+       "Rückfragen und Re-Briefing",
+       "Konzeption und Kreation",
+       "Präsentation beim Kunden"
+      ]
+     }
+    },
+    {
+     "key": "mako-lf4-briefing-q06",
+     "type": "tf",
+     "exam_part": 1,
+     "difficulty": 2,
+     "explanation": "Die Agentur erstellt es und lässt es bestätigen.",
+     "source": "MaKo (Skripte Vaaßen/Kuhn, Zwischenprüfung, Unterricht)",
+     "body": {
+      "statement": "Ein Re-Briefing wird vom Kunden erstellt.",
+      "answer": false
+     }
+    },
+    {
+     "key": "mako-lf4-briefing-q07",
+     "type": "cloze",
+     "exam_part": 1,
+     "difficulty": 2,
+     "source": "MaKo (Skripte Vaaßen/Kuhn, Zwischenprüfung, Unterricht)",
+     "body": {
+      "text": "Mit dem [[Re-Briefing]] fasst die Agentur den Auftrag zusammen und vermeidet [[Missverständnisse]]."
+     }
+    }
+   ],
+   "templates": [],
+   "cases": [],
+   "summary": {
+    "key": "mako-lf4-briefing-zettel",
+    "title": "Briefing & Re-Briefing",
+    "content_md": "\n**Briefing** = Auftragsinformation des Kunden an die Agentur (**Kundenbriefing**) bzw. der Agentur an interne Teams (**Agenturbriefing/Kreativbriefing**).\n**Typische Inhalte**: Unternehmen/Marke/Produkt · Ausgangssituation, Marktumfeld, Wettbewerb · Kommunikations-/Werbeziele · Zielgruppe · **Botschaft/USP (Nutzenversprechen)** · Budget · Zeitplan · rechtliche/CI-Vorgaben · Erfolgskontrolle.\n**Ablauf**: Briefinggespräch (Fragen stellen!) → **Re-Briefing** (Agentur fasst schriftlich zusammen und stimmt mit Kunden ab, um Missverständnisse zu vermeiden) → Konzeption.\n**Pitch** = Wettbewerbspräsentation mehrerer Agenturen; **Agenturetat**.\n**Gute Briefingfragen**: W-Fragen (Wer? Was? Wen? Wann? Wo? Wie viel? Warum?), SMART-Ziele (spezifisch, messbar, attraktiv, realistisch, terminiert).\n"
+   }
+  }
+ ]
+}

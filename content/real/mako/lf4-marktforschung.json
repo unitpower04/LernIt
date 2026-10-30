@@ -1,0 +1,566 @@
+{
+ "demo": false,
+ "items": [
+  {
+   "topic": "mako-lf4-marktforschung",
+   "flashcards": [
+    {
+     "key": "mako-lf4-marktforschung-c01",
+     "front": "Primär- vs. Sekundärforschung?",
+     "back": "Primär: neue Daten erheben. Sekundär: vorhandene Daten auswerten."
+    },
+    {
+     "key": "mako-lf4-marktforschung-c02",
+     "front": "Beispiele Sekundärforschung?",
+     "back": "Internetrecherche, Statistiken, Fachpresse, Geschäftsberichte."
+    },
+    {
+     "key": "mako-lf4-marktforschung-c03",
+     "front": "Beispiele Primärforschung?",
+     "back": "Befragung, Beobachtung, Experiment, Test, Gruppendiskussion."
+    },
+    {
+     "key": "mako-lf4-marktforschung-c04",
+     "front": "Was ist eine Panel-Befragung?",
+     "back": "Wiederholte Befragung derselben Personen über einen längeren Zeitraum."
+    },
+    {
+     "key": "mako-lf4-marktforschung-c05",
+     "front": "Was ist eine Omnibus-Befragung?",
+     "back": "Mehrthemenbefragung im Auftrag mehrerer Unternehmen."
+    },
+    {
+     "key": "mako-lf4-marktforschung-c06",
+     "front": "Was ist ein Testmarkt?",
+     "back": "Räumlich begrenztes Gebiet, in dem ein Produkt vor der Einführung getestet wird."
+    },
+    {
+     "key": "mako-lf4-marktforschung-c07",
+     "front": "Quantitativ vs. qualitativ?",
+     "back": "Quantitativ: Zahlen, große Stichprobe. Qualitativ: Motive/Meinungen, kleine Gruppen."
+    },
+    {
+     "key": "mako-lf4-marktforschung-c08",
+     "front": "Was bedeutet Repräsentativität?",
+     "back": "Die Stichprobe bildet die Grundgesamtheit strukturgleich und verkleinert ab."
+    },
+    {
+     "key": "mako-lf4-marktforschung-c09",
+     "front": "Was bedeutet Validität?",
+     "back": "Gültigkeit: Es wird gemessen, was gemessen werden soll."
+    },
+    {
+     "key": "mako-lf4-marktforschung-c10",
+     "front": "Was bedeutet Reliabilität?",
+     "back": "Zuverlässigkeit: Bei Wiederholung ergeben sich gleiche Ergebnisse."
+    },
+    {
+     "key": "mako-lf4-marktforschung-c11",
+     "front": "Was bedeutet Signifikanz?",
+     "back": "Das Ergebnis liegt über der Zufallswahrscheinlichkeit."
+    },
+    {
+     "key": "mako-lf4-marktforschung-c12",
+     "front": "Was ist das Quotaverfahren?",
+     "back": "Interviewer wählt Personen nach vorgegebenen Merkmalen (z. B. Alter, Geschlecht) frei aus."
+    },
+    {
+     "key": "mako-lf4-marktforschung-c13",
+     "front": "Was ist Zufallsauswahl?",
+     "back": "Jedes Element der Grundgesamtheit hat dieselbe Chance, gezogen zu werden."
+    },
+    {
+     "key": "mako-lf4-marktforschung-c14",
+     "front": "Was sind soziodemografische Merkmale?",
+     "back": "Alter, Geschlecht, Einkommen, Bildung, Beruf, Haushaltsgröße."
+    },
+    {
+     "key": "mako-lf4-marktforschung-c15",
+     "front": "Was sind psychografische Merkmale?",
+     "back": "Lebensstil, Werte, Einstellungen, Motive."
+    },
+    {
+     "key": "mako-lf4-marktforschung-c16",
+     "front": "Was sind verhaltensbezogene Merkmale?",
+     "back": "Kaufverhalten, Markentreue, Einkaufsstättenwahl, Mediennutzung."
+    },
+    {
+     "key": "mako-lf4-marktforschung-c17",
+     "front": "Was ist ein Insight?",
+     "back": "Ein tiefes Verständnis der (oft unausgesprochenen) Bedürfnisse einer Zielgruppe."
+    },
+    {
+     "key": "mako-lf4-marktforschung-c18",
+     "front": "Was ist eine Persona?",
+     "back": "Fiktive, typische Vertreterin einer Zielgruppe mit Eigenschaften und Bedürfnissen."
+    },
+    {
+     "key": "mako-lf4-marktforschung-c19",
+     "front": "Was ist eine Konkurrenzanalyse?",
+     "back": "Untersuchung von Wettbewerbern (Angebote, Preise, Kommunikation)."
+    },
+    {
+     "key": "mako-lf4-marktforschung-c20",
+     "front": "Was ist ein offenes Interview?",
+     "back": "Flexibles Gespräch mit Leitfaden – hohe Flexibilität, aber aufwendige Auswertung."
+    }
+   ],
+   "glossary": [
+    {
+     "key": "mako-lf4-marktforschung-g01",
+     "term": "Panel",
+     "definition": "Wiederholte Befragung derselben Personen."
+    },
+    {
+     "key": "mako-lf4-marktforschung-g02",
+     "term": "Omnibus",
+     "definition": "Befragung mehrerer Themen im Auftrag verschiedener Unternehmen."
+    },
+    {
+     "key": "mako-lf4-marktforschung-g03",
+     "term": "Validität",
+     "definition": "Gültigkeit einer Messung."
+    },
+    {
+     "key": "mako-lf4-marktforschung-g04",
+     "term": "Signifikanz",
+     "definition": "Statistische Bedeutsamkeit über den Zufall hinaus."
+    },
+    {
+     "key": "mako-lf4-marktforschung-g05",
+     "term": "Grundgesamtheit",
+     "definition": "Alle Elemente, über die eine Aussage getroffen werden soll."
+    },
+    {
+     "key": "mako-lf4-marktforschung-g06",
+     "term": "Stichprobe",
+     "definition": "Teilmenge der Grundgesamtheit."
+    },
+    {
+     "key": "mako-lf4-marktforschung-g07",
+     "term": "Insight",
+     "definition": "Tieferes Verständnis unausgesprochener Bedürfnisse."
+    }
+   ],
+   "questions": [
+    {
+     "key": "mako-lf4-marktforschung-q01",
+     "type": "mc",
+     "exam_part": 1,
+     "difficulty": 2,
+     "source": "MaKo (Skripte Vaaßen/Kuhn, Zwischenprüfung, Unterricht)",
+     "body": {
+      "prompt": "Welche Maßnahme gehört zur Sekundärforschung?",
+      "options": [
+       {
+        "text": "Internetrecherche",
+        "correct": true
+       },
+       {
+        "text": "Gruppendiskussion",
+        "correct": false
+       },
+       {
+        "text": "Einzelinterview",
+        "correct": false
+       },
+       {
+        "text": "Face-to-face-Befragung",
+        "correct": false
+       },
+       {
+        "text": "Online-Befragung",
+        "correct": false
+       }
+      ]
+     }
+    },
+    {
+     "key": "mako-lf4-marktforschung-q02",
+     "type": "mc",
+     "exam_part": 1,
+     "difficulty": 2,
+     "source": "MaKo (Skripte Vaaßen/Kuhn, Zwischenprüfung, Unterricht)",
+     "body": {
+      "prompt": "Welche Definition beschreibt eine Panel-Befragung?",
+      "options": [
+       {
+        "text": "Dauerhafte, wiederkehrende Befragung derselben Zielpersonen",
+        "correct": true
+       },
+       {
+        "text": "Befragung im öffentlichen Verkehrsmittel",
+        "correct": false
+       },
+       {
+        "text": "Befragung mit Bildern",
+        "correct": false
+       },
+       {
+        "text": "Kombinierte Befragung mehrerer Auftraggeber",
+        "correct": false
+       },
+       {
+        "text": "Einmalige Telefonbefragung",
+        "correct": false
+       }
+      ]
+     }
+    },
+    {
+     "key": "mako-lf4-marktforschung-q03",
+     "type": "mc",
+     "exam_part": 1,
+     "difficulty": 2,
+     "source": "MaKo (Skripte Vaaßen/Kuhn, Zwischenprüfung, Unterricht)",
+     "body": {
+      "prompt": "Welche Definition beschreibt eine Omnibus-Befragung?",
+      "options": [
+       {
+        "text": "Kombinierte Befragung im Auftrag mehrerer Unternehmen",
+        "correct": true
+       },
+       {
+        "text": "Wiederholte Befragung derselben Personen",
+        "correct": false
+       },
+       {
+        "text": "Befragung zufällig ausgewählter Personen im Bus",
+        "correct": false
+       },
+       {
+        "text": "Befragung mit Comics",
+        "correct": false
+       },
+       {
+        "text": "Eine Gruppendiskussion",
+        "correct": false
+       }
+      ]
+     }
+    },
+    {
+     "key": "mako-lf4-marktforschung-q04",
+     "type": "mc",
+     "exam_part": 1,
+     "difficulty": 2,
+     "source": "MaKo (Skripte Vaaßen/Kuhn, Zwischenprüfung, Unterricht)",
+     "body": {
+      "prompt": "Welche Aussage zur Repräsentativität ist zutreffend?",
+      "options": [
+       {
+        "text": "Die Stichprobe ist ein verkleinertes, strukturgleiches Abbild der Grundgesamtheit.",
+        "correct": true
+       },
+       {
+        "text": "Die Stichprobe umfasst mindestens 1.000 Personen.",
+        "correct": false
+       },
+       {
+        "text": "Es werden mindestens 3 % der Grundgesamtheit befragt.",
+        "correct": false
+       },
+       {
+        "text": "Männer und Frauen sind gleich verteilt.",
+        "correct": false
+       },
+       {
+        "text": "Die Grundgesamtheit ist ein Abbild der Stichprobe.",
+        "correct": false
+       }
+      ]
+     }
+    },
+    {
+     "key": "mako-lf4-marktforschung-q05",
+     "type": "mc",
+     "exam_part": 1,
+     "difficulty": 2,
+     "source": "MaKo (Skripte Vaaßen/Kuhn, Zwischenprüfung, Unterricht)",
+     "body": {
+      "prompt": "Ein Interviewer soll eine bestimmte Anzahl Personen mit vorgegebenen Merkmalen befragen, ist bei der Auswahl aber frei. Welches Verfahren?",
+      "options": [
+       {
+        "text": "Quotenauswahl",
+        "correct": true
+       },
+       {
+        "text": "Zufallsauswahl",
+        "correct": false
+       },
+       {
+        "text": "Klumpenauswahl",
+        "correct": false
+       },
+       {
+        "text": "Random-Route-Verfahren",
+        "correct": false
+       },
+       {
+        "text": "Listenverfahren",
+        "correct": false
+       }
+      ]
+     }
+    },
+    {
+     "key": "mako-lf4-marktforschung-q06",
+     "type": "mc",
+     "exam_part": 1,
+     "difficulty": 2,
+     "source": "MaKo (Skripte Vaaßen/Kuhn, Zwischenprüfung, Unterricht)",
+     "body": {
+      "prompt": "Welches Merkmal ist ein Vorteil offener Interviews?",
+      "options": [
+       {
+        "text": "Hohe Flexibilität",
+        "correct": true
+       },
+       {
+        "text": "Feste Fragebogenabfolge",
+        "correct": false
+       },
+       {
+        "text": "Multiple-Choice-Vorgaben",
+        "correct": false
+       },
+       {
+        "text": "Schnelle Auswertung",
+        "correct": false
+       },
+       {
+        "text": "Leichte Vergleichbarkeit",
+        "correct": false
+       }
+      ]
+     }
+    },
+    {
+     "key": "mako-lf4-marktforschung-q07",
+     "type": "mc",
+     "exam_part": 1,
+     "difficulty": 2,
+     "source": "MaKo (Skripte Vaaßen/Kuhn, Zwischenprüfung, Unterricht)",
+     "body": {
+      "prompt": "Welche Aussage kennzeichnet einen Testmarkt?",
+      "options": [
+       {
+        "text": "Geografisch begrenztes Gebiet",
+        "correct": true
+       },
+       {
+        "text": "Unbegrenzte Zahl von Marktteilnehmern",
+        "correct": false
+       },
+       {
+        "text": "Experiment der Sekundärforschung",
+        "correct": false
+       },
+       {
+        "text": "Nicht repräsentative Kaufkraft",
+        "correct": false
+       },
+       {
+        "text": "Nur Onlinekäufer",
+        "correct": false
+       }
+      ]
+     }
+    },
+    {
+     "key": "mako-lf4-marktforschung-q08",
+     "type": "mc",
+     "exam_part": 1,
+     "difficulty": 2,
+     "source": "MaKo (Skripte Vaaßen/Kuhn, Zwischenprüfung, Unterricht)",
+     "body": {
+      "prompt": "Welches Zielgruppenmerkmal ist soziodemografisch?",
+      "options": [
+       {
+        "text": "Lebensalter",
+        "correct": true
+       },
+       {
+        "text": "Lebensstil",
+        "correct": false
+       },
+       {
+        "text": "Einkaufsstättenwahl",
+        "correct": false
+       },
+       {
+        "text": "Qualitätsbewusstsein",
+        "correct": false
+       },
+       {
+        "text": "Markentreue",
+        "correct": false
+       }
+      ]
+     }
+    },
+    {
+     "key": "mako-lf4-marktforschung-q09",
+     "type": "mc",
+     "exam_part": 1,
+     "difficulty": 2,
+     "source": "MaKo (Skripte Vaaßen/Kuhn, Zwischenprüfung, Unterricht)",
+     "body": {
+      "prompt": "Was beschreibt der Begriff Insight?",
+      "options": [
+       {
+        "text": "Bedürfnisse und Motive von Menschen",
+        "correct": true
+       },
+       {
+        "text": "Geplante Käufe einer Zielgruppe",
+        "correct": false
+       },
+       {
+        "text": "Werbeausgaben der Konkurrenz",
+        "correct": false
+       },
+       {
+        "text": "Geheime Strategien",
+        "correct": false
+       },
+       {
+        "text": "Die Erfassung neuronaler Vorgänge",
+        "correct": false
+       }
+      ]
+     }
+    },
+    {
+     "key": "mako-lf4-marktforschung-q10",
+     "type": "mc",
+     "exam_part": 1,
+     "difficulty": 2,
+     "source": "MaKo (Skripte Vaaßen/Kuhn, Zwischenprüfung, Unterricht)",
+     "body": {
+      "prompt": "Welcher Weg wird bei der Konkurrenzanalyse NICHT empfohlen?",
+      "options": [
+       {
+        "text": "Schriftlich bei Konkurrenten nach Umsätzen fragen",
+        "correct": true
+       },
+       {
+        "text": "Werbeaufkommen messen",
+        "correct": false
+       },
+       {
+        "text": "Testkäufe am POS",
+        "correct": false
+       },
+       {
+        "text": "Geschäftsberichte analysieren",
+        "correct": false
+       },
+       {
+        "text": "Verbraucher befragen",
+        "correct": false
+       }
+      ]
+     }
+    },
+    {
+     "key": "mako-lf4-marktforschung-q11",
+     "type": "match",
+     "exam_part": 1,
+     "difficulty": 2,
+     "source": "MaKo (Skripte Vaaßen/Kuhn, Zwischenprüfung, Unterricht)",
+     "body": {
+      "prompt": "Ordnen Sie jeden Fachbegriff der Erklärung zu.",
+      "items": [
+       {
+        "term": "Panel-Befragung",
+        "match": "Wiederholtes Befragen derselben Personen"
+       },
+       {
+        "term": "Omnibus-Befragung",
+        "match": "Mehrthemenbefragung"
+       },
+       {
+        "term": "Validität",
+        "match": "Gültigkeit nachweisbar"
+       },
+       {
+        "term": "Signifikanz",
+        "match": "Ergebnis liegt über der Zufallswahrscheinlichkeit"
+       }
+      ],
+      "distractors": []
+     }
+    },
+    {
+     "key": "mako-lf4-marktforschung-q12",
+     "type": "match",
+     "exam_part": 1,
+     "difficulty": 2,
+     "source": "MaKo (Skripte Vaaßen/Kuhn, Zwischenprüfung, Unterricht)",
+     "body": {
+      "prompt": "Ordnen Sie jedes Zielgruppenmerkmal der Kategorie zu.",
+      "items": [
+       {
+        "term": "Alter",
+        "match": "soziodemografisch"
+       },
+       {
+        "term": "Lebensstil",
+        "match": "psychografisch"
+       },
+       {
+        "term": "Markentreue",
+        "match": "verhaltensbezogen"
+       },
+       {
+        "term": "Wohnort",
+        "match": "geografisch"
+       }
+      ],
+      "distractors": []
+     }
+    },
+    {
+     "key": "mako-lf4-marktforschung-q13",
+     "type": "tf",
+     "exam_part": 1,
+     "difficulty": 2,
+     "source": "MaKo (Skripte Vaaßen/Kuhn, Zwischenprüfung, Unterricht)",
+     "body": {
+      "statement": "Qualitative Forschung arbeitet meist mit großen Stichproben.",
+      "answer": false
+     }
+    },
+    {
+     "key": "mako-lf4-marktforschung-q14",
+     "type": "tf",
+     "exam_part": 1,
+     "difficulty": 2,
+     "source": "MaKo (Skripte Vaaßen/Kuhn, Zwischenprüfung, Unterricht)",
+     "body": {
+      "statement": "Eine Gruppendiskussion ist Primärforschung.",
+      "answer": true
+     }
+    },
+    {
+     "key": "mako-lf4-marktforschung-q15",
+     "type": "cloze",
+     "exam_part": 1,
+     "difficulty": 2,
+     "source": "MaKo (Skripte Vaaßen/Kuhn, Zwischenprüfung, Unterricht)",
+     "body": {
+      "text": "Bei der [[Sekundärforschung]] werden vorhandene Daten ausgewertet, bei der [[Primärforschung]] neue Daten erhoben."
+     }
+    }
+   ],
+   "templates": [],
+   "cases": [],
+   "summary": {
+    "key": "mako-lf4-marktforschung-zettel",
+    "title": "Marktforschung & Zielgruppen",
+    "content_md": "\n**Marktforschung**: systematische Beschaffung und Analyse von Marktdaten.\n- **Sekundärforschung** (Desk Research): vorhandene Daten (Internetrecherche, Statistiken, Geschäftsberichte, Studien) – schnell, günstig.\n- **Primärforschung** (Field Research): neue Daten – **Befragung** (schriftlich, mündlich, telefonisch, online; standardisiert/offen), **Beobachtung**, **Experiment**, **Test** (**Testmarkt**: geografisch begrenzt, möglichst repräsentatives Abbild), **Panel** (dieselben Personen dauerhaft/wiederholt), **Omnibus** (Mehrthemenbefragung im Auftrag mehrerer Unternehmen), Gruppendiskussion/Fokusgruppe (qualitativ).\n- **qualitativ** (Motive, Meinungen, Insights – kleine Gruppen) vs. **quantitativ** (Zahlen, große Stichprobe).\n**Gütekriterien**: **Validität** (Gültigkeit), **Reliabilität** (Zuverlässigkeit), **Objektivität**, **Repräsentativität** (Stichprobe = verkleinertes, strukturgleiches Abbild der Grundgesamtheit), **Signifikanz** (Ergebnis über dem Zufall).\n**Auswahlverfahren**: Zufallsauswahl, Klumpenauswahl, **Quotaverfahren** (Interviewer sucht Personen nach vorgegebenen Merkmalen), Random-Route.\n**Zielgruppen**: soziodemografisch (Alter, Geschlecht, Einkommen, Beruf, Bildung), **psychografisch** (Lebensstil, Werte, Einstellungen), Verhalten (Markentreue, Einkaufsstättenwahl), geografisch. **Milieus** (Sinus), **Personas**.\n**Insight**: tiefes Verständnis unausgesprochener Bedürfnisse.\n"
+   }
+  }
+ ]
+}

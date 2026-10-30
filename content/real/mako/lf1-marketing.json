@@ -1,0 +1,372 @@
+{
+ "demo": false,
+ "items": [
+  {
+   "topic": "mako-lf1-marketing",
+   "flashcards": [
+    {
+     "key": "mako-lf1-marketing-c01",
+     "front": "Was ist Marketing?",
+     "back": "Unternehmensfunktion und Führungskonzept, das alle Aktivitäten konsequent an den Bedürfnissen des Marktes ausrichtet."
+    },
+    {
+     "key": "mako-lf1-marketing-c02",
+     "front": "Nenne die 4 P des Marketing-Mix.",
+     "back": "Product, Price, Place, Promotion."
+    },
+    {
+     "key": "mako-lf1-marketing-c03",
+     "front": "Nenne die zusätzlichen 3 P im Dienstleistungsmarketing.",
+     "back": "People, Process, Physical Evidence."
+    },
+    {
+     "key": "mako-lf1-marketing-c04",
+     "front": "Was beschreibt die Produktpolitik?",
+     "back": "Gestaltung von Qualität, Design, Verpackung, Sortiment und Marke."
+    },
+    {
+     "key": "mako-lf1-marketing-c05",
+     "front": "Was beschreibt die Kontrahierungspolitik?",
+     "back": "Preise, Rabatte, Boni, Skonti, Zahlungs- und Lieferbedingungen."
+    },
+    {
+     "key": "mako-lf1-marketing-c06",
+     "front": "Was beschreibt die Distributionspolitik?",
+     "back": "Wie und wo das Produkt zum Kunden gelangt (Absatzwege, Logistik, Standorte)."
+    },
+    {
+     "key": "mako-lf1-marketing-c07",
+     "front": "Was beschreibt die Kommunikationspolitik?",
+     "back": "Alle Maßnahmen, mit denen Botschaften an Zielgruppen vermittelt werden."
+    },
+    {
+     "key": "mako-lf1-marketing-c08",
+     "front": "Warum müssen die Instrumente des Marketing-Mix abgestimmt sein?",
+     "back": "Widersprüche (z. B. Premium-Preis bei schlechter Qualität) schaden dem Image."
+    },
+    {
+     "key": "mako-lf1-marketing-c09",
+     "front": "Was ist Dialogmarketing?",
+     "back": "Kommunikation mit direkter Ansprache und Rückkanal (Mailing, Callcenter, E-Mail)."
+    },
+    {
+     "key": "mako-lf1-marketing-c10",
+     "front": "Was ist Guerilla-Marketing?",
+     "back": "Unkonventionelle, überraschende Aktionen mit geringem Budget und großer Wirkung."
+    },
+    {
+     "key": "mako-lf1-marketing-c11",
+     "front": "Was ist Öko-Marketing?",
+     "back": "Ausrichtung des Marketing an ökologischen Aspekten und Nachhaltigkeit."
+    },
+    {
+     "key": "mako-lf1-marketing-c12",
+     "front": "Was ist Eventmarketing?",
+     "back": "Inszenierte Ereignisse, um Zielgruppen emotional zu erreichen (interne/öffentliche Events)."
+    },
+    {
+     "key": "mako-lf1-marketing-c13",
+     "front": "Was ist Ethno-Marketing?",
+     "back": "Marketing für Zielgruppen mit besonderem kulturellem/sprachlichem Hintergrund."
+    },
+    {
+     "key": "mako-lf1-marketing-c14",
+     "front": "Was ist Content-Marketing?",
+     "back": "Wertvolle Inhalte, die Zielgruppen anziehen und binden, statt direkter Werbung."
+    },
+    {
+     "key": "mako-lf1-marketing-c15",
+     "front": "Was ist Influencer-Marketing?",
+     "back": "Zusammenarbeit mit reichweitenstarken Personen in sozialen Medien."
+    },
+    {
+     "key": "mako-lf1-marketing-c16",
+     "front": "Was ist ein Stakeholder?",
+     "back": "Jede Gruppe mit Interesse am Unternehmen (Kunden, Mitarbeiter, Lieferanten, Öffentlichkeit)."
+    }
+   ],
+   "glossary": [
+    {
+     "key": "mako-lf1-marketing-g01",
+     "term": "Marketing-Mix",
+     "definition": "Aufeinander abgestimmter Einsatz der Marketinginstrumente."
+    },
+    {
+     "key": "mako-lf1-marketing-g02",
+     "term": "Guerilla-Marketing",
+     "definition": "Unkonventionelle Marketingaktionen mit kleinem Budget."
+    },
+    {
+     "key": "mako-lf1-marketing-g03",
+     "term": "Stakeholder",
+     "definition": "Anspruchsgruppe eines Unternehmens."
+    },
+    {
+     "key": "mako-lf1-marketing-g04",
+     "term": "Dialogmarketing",
+     "definition": "Kommunikation mit direkter Ansprache und Rückkanal."
+    }
+   ],
+   "questions": [
+    {
+     "key": "mako-lf1-marketing-q01",
+     "type": "mc",
+     "exam_part": 1,
+     "difficulty": 2,
+     "source": "MaKo (Skripte Vaaßen/Kuhn, Zwischenprüfung, Unterricht)",
+     "body": {
+      "prompt": "Wie viele Instrumente umfasst der klassische Marketing-Mix?",
+      "options": [
+       {
+        "text": "Vier",
+        "correct": true
+       },
+       {
+        "text": "Drei",
+        "correct": false
+       },
+       {
+        "text": "Fünf",
+        "correct": false
+       },
+       {
+        "text": "Sieben",
+        "correct": false
+       },
+       {
+        "text": "Zwei",
+        "correct": false
+       }
+      ]
+     }
+    },
+    {
+     "key": "mako-lf1-marketing-q02",
+     "type": "mc",
+     "exam_part": 1,
+     "difficulty": 2,
+     "source": "MaKo (Skripte Vaaßen/Kuhn, Zwischenprüfung, Unterricht)",
+     "body": {
+      "prompt": "Ein hochwertiges Produkt wird als Premium beworben, aber ständig mit hohen Rabatten verramscht. Welches Problem liegt vor?",
+      "options": [
+       {
+        "text": "Der Marketing-Mix ist nicht aufeinander abgestimmt.",
+        "correct": true
+       },
+       {
+        "text": "Es gibt keine Kommunikationspolitik.",
+        "correct": false
+       },
+       {
+        "text": "Die Distribution ist falsch.",
+        "correct": false
+       },
+       {
+        "text": "Die Marktforschung wurde vergessen.",
+        "correct": false
+       },
+       {
+        "text": "Es handelt sich um Dialogmarketing.",
+        "correct": false
+       }
+      ]
+     }
+    },
+    {
+     "key": "mako-lf1-marketing-q03",
+     "type": "mc",
+     "exam_part": 1,
+     "difficulty": 2,
+     "source": "MaKo (Skripte Vaaßen/Kuhn, Zwischenprüfung, Unterricht)",
+     "body": {
+      "prompt": "Welches Instrument gehört zur Distributionspolitik?",
+      "options": [
+       {
+        "text": "Auswahl des Vertriebswegs",
+        "correct": true
+       },
+       {
+        "text": "Rabattgestaltung",
+        "correct": false
+       },
+       {
+        "text": "Anzeigenschaltung",
+        "correct": false
+       },
+       {
+        "text": "Verpackungsdesign",
+        "correct": false
+       },
+       {
+        "text": "Markenname",
+        "correct": false
+       }
+      ]
+     }
+    },
+    {
+     "key": "mako-lf1-marketing-q04",
+     "type": "mc",
+     "exam_part": 1,
+     "difficulty": 2,
+     "source": "MaKo (Skripte Vaaßen/Kuhn, Zwischenprüfung, Unterricht)",
+     "body": {
+      "prompt": "Welches Instrument gehört zur Kontrahierungspolitik?",
+      "options": [
+       {
+        "text": "Skonto- und Rabattgestaltung",
+        "correct": true
+       },
+       {
+        "text": "Vertriebswege",
+        "correct": false
+       },
+       {
+        "text": "Verpackungsdesign",
+        "correct": false
+       },
+       {
+        "text": "Pressearbeit",
+        "correct": false
+       },
+       {
+        "text": "Eventplanung",
+        "correct": false
+       }
+      ]
+     }
+    },
+    {
+     "key": "mako-lf1-marketing-q05",
+     "type": "mc",
+     "exam_part": 1,
+     "difficulty": 2,
+     "source": "MaKo (Skripte Vaaßen/Kuhn, Zwischenprüfung, Unterricht)",
+     "body": {
+      "prompt": "Was kennzeichnet Guerilla-Marketing?",
+      "options": [
+       {
+        "text": "Überraschende Aktionen mit geringem Budget",
+        "correct": true
+       },
+       {
+        "text": "Hohe Mediabudgets im TV",
+        "correct": false
+       },
+       {
+        "text": "Reine Preisaktionen",
+        "correct": false
+       },
+       {
+        "text": "Standardisierte Anzeigen",
+        "correct": false
+       },
+       {
+        "text": "Verkauf über den Großhandel",
+        "correct": false
+       }
+      ]
+     }
+    },
+    {
+     "key": "mako-lf1-marketing-q06",
+     "type": "match",
+     "exam_part": 1,
+     "difficulty": 2,
+     "source": "MaKo (Skripte Vaaßen/Kuhn, Zwischenprüfung, Unterricht)",
+     "body": {
+      "prompt": "Ordnen Sie jedes Instrument dem Marketing-Mix-Bereich zu.",
+      "items": [
+       {
+        "term": "Produktverpackung",
+        "match": "Produktpolitik"
+       },
+       {
+        "term": "Mengenrabatt",
+        "match": "Kontrahierungspolitik"
+       },
+       {
+        "term": "Franchising",
+        "match": "Distributionspolitik"
+       },
+       {
+        "term": "Sponsoring",
+        "match": "Kommunikationspolitik"
+       }
+      ],
+      "distractors": []
+     }
+    },
+    {
+     "key": "mako-lf1-marketing-q07",
+     "type": "match",
+     "exam_part": 1,
+     "difficulty": 2,
+     "source": "MaKo (Skripte Vaaßen/Kuhn, Zwischenprüfung, Unterricht)",
+     "body": {
+      "prompt": "Ordnen Sie die 4 P den deutschen Begriffen zu.",
+      "items": [
+       {
+        "term": "Product",
+        "match": "Produktpolitik"
+       },
+       {
+        "term": "Price",
+        "match": "Preispolitik"
+       },
+       {
+        "term": "Place",
+        "match": "Distributionspolitik"
+       },
+       {
+        "term": "Promotion",
+        "match": "Kommunikationspolitik"
+       }
+      ],
+      "distractors": []
+     }
+    },
+    {
+     "key": "mako-lf1-marketing-q08",
+     "type": "tf",
+     "exam_part": 1,
+     "difficulty": 2,
+     "explanation": "Werbung ist nur ein Teil der Kommunikationspolitik.",
+     "source": "MaKo (Skripte Vaaßen/Kuhn, Zwischenprüfung, Unterricht)",
+     "body": {
+      "statement": "Marketing und Werbung bedeuten dasselbe.",
+      "answer": false
+     }
+    },
+    {
+     "key": "mako-lf1-marketing-q09",
+     "type": "tf",
+     "exam_part": 1,
+     "difficulty": 2,
+     "source": "MaKo (Skripte Vaaßen/Kuhn, Zwischenprüfung, Unterricht)",
+     "body": {
+      "statement": "In einem Käufermarkt übersteigt das Angebot die Nachfrage.",
+      "answer": true
+     }
+    },
+    {
+     "key": "mako-lf1-marketing-q10",
+     "type": "cloze",
+     "exam_part": 1,
+     "difficulty": 2,
+     "source": "MaKo (Skripte Vaaßen/Kuhn, Zwischenprüfung, Unterricht)",
+     "body": {
+      "text": "Die [[4 P]] des Marketing-Mix sind Product, Price, [[Place]] und Promotion."
+     }
+    }
+   ],
+   "templates": [],
+   "cases": [],
+   "summary": {
+    "key": "mako-lf1-marketing-zettel",
+    "title": "Marketing, Marketing-Mix & Begriffe",
+    "content_md": "\n**Marketing** = Unternehmensbereich und **Führungskonzept**, das alle Aktivitäten am Markt und den Kundenbedürfnissen ausrichtet.\n**Marktentwicklung**: Verkäufermarkt (bis ca. 1960er) → **Käufermarkt** → Marketing, Marktforschung.\n**Marketing-Mix (4 P)**: **Product** (Produktpolitik), **Price** (Kontrahierungs-/Preispolitik), **Place** (Distributionspolitik), **Promotion** (Kommunikationspolitik); Dienstleistungs-Mix **7 P**: + **People, Process, Physical Evidence**. Grundlage: **Marktforschung**. Alle Instrumente müssen **abgestimmt** sein.\n**Kommunikationsmix**: Werbung, PR, Verkaufsförderung, Sponsoring, Event, Direktmarketing, Online.\n**Begriffe**: Dialogmarketing (Direktwerbung), Öko-Marketing, Eventmarketing (interne/externe Events), Ethno-Marketing, **Guerilla-Marketing** (unkonventionell, geringes Budget, Überraschung), Social-Media-Marketing, Content-Marketing, Influencer-Marketing, Product Placement.\n"
+   }
+  }
+ ]
+}

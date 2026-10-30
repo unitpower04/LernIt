@@ -1,0 +1,341 @@
+{
+ "demo": false,
+ "items": [
+  {
+   "topic": "mako-lf1-branche",
+   "flashcards": [
+    {
+     "key": "mako-lf1-branche-c01",
+     "front": "Wie groß ist der deutsche Werbemarkt (ZAW 2023)?",
+     "back": "Rund 48,8 Mrd. € Marktvolumen – etwa 1,2 % des BIP."
+    },
+    {
+     "key": "mako-lf1-branche-c02",
+     "front": "Wie viele Menschen arbeiten in der Werbebranche?",
+     "back": "Rund 900.000."
+    },
+    {
+     "key": "mako-lf1-branche-c03",
+     "front": "Wer ist der ZAW?",
+     "back": "Zentralverband der deutschen Werbewirtschaft – Dachverband der Werbebranche."
+    },
+    {
+     "key": "mako-lf1-branche-c04",
+     "front": "Wer ist der GWA?",
+     "back": "Gesamtverband Kommunikationsagenturen – Interessenverband der Agenturen."
+    },
+    {
+     "key": "mako-lf1-branche-c05",
+     "front": "Wer ist der Deutsche Werberat?",
+     "back": "Selbstkontrolleinrichtung der Werbewirtschaft; behandelt Beschwerden, spricht Rügen aus."
+    },
+    {
+     "key": "mako-lf1-branche-c06",
+     "front": "Wer ist der ADC?",
+     "back": "Art Directors Club für Deutschland – Verband der Kreativen mit Wettbewerben."
+    },
+    {
+     "key": "mako-lf1-branche-c07",
+     "front": "Wer ist die DPRG?",
+     "back": "Deutsche Public Relations Gesellschaft – Berufsverband der PR-Fachleute."
+    },
+    {
+     "key": "mako-lf1-branche-c08",
+     "front": "Aufgabe der IVW?",
+     "back": "Kontrolle und Feststellung der Verbreitung von Werbeträgern (Auflagen)."
+    },
+    {
+     "key": "mako-lf1-branche-c09",
+     "front": "Aufgabe der AGOF?",
+     "back": "Erhebung von Reichweiten und Nutzerdaten im Online-Bereich."
+    },
+    {
+     "key": "mako-lf1-branche-c10",
+     "front": "Was ist der BVDW?",
+     "back": "Bundesverband Digitale Wirtschaft – Verband der Digitalbranche."
+    },
+    {
+     "key": "mako-lf1-branche-c11",
+     "front": "Wer sind Werbungtreibende?",
+     "back": "Unternehmen, die Werbung für ihre Produkte betreiben (Auftraggeber)."
+    },
+    {
+     "key": "mako-lf1-branche-c12",
+     "front": "Wer sind Werbeträger/Medien?",
+     "back": "Medien, die Werbebotschaften verbreiten (Zeitungen, TV, Plattformen)."
+    },
+    {
+     "key": "mako-lf1-branche-c13",
+     "front": "Was macht eine Agentur?",
+     "back": "Berät Werbungtreibende, entwickelt Konzepte und setzt Kommunikation um."
+    },
+    {
+     "key": "mako-lf1-branche-c14",
+     "front": "Verkäufermarkt vs. Käufermarkt?",
+     "back": "Verkäufermarkt: Nachfrage > Angebot. Käufermarkt: Angebot > Nachfrage – Marketing entsteht."
+    }
+   ],
+   "glossary": [
+    {
+     "key": "mako-lf1-branche-g01",
+     "term": "ZAW",
+     "definition": "Zentralverband der deutschen Werbewirtschaft."
+    },
+    {
+     "key": "mako-lf1-branche-g02",
+     "term": "GWA",
+     "definition": "Gesamtverband Kommunikationsagenturen."
+    },
+    {
+     "key": "mako-lf1-branche-g03",
+     "term": "Werbungtreibende",
+     "definition": "Unternehmen als Auftraggeber von Werbung."
+    },
+    {
+     "key": "mako-lf1-branche-g04",
+     "term": "Werbeträger",
+     "definition": "Medium, das Werbemittel zum Umworbenen bringt."
+    },
+    {
+     "key": "mako-lf1-branche-g05",
+     "term": "Werbemittel",
+     "definition": "Gestaltete Werbebotschaft (Anzeige, Spot, Banner)."
+    }
+   ],
+   "questions": [
+    {
+     "key": "mako-lf1-branche-q01",
+     "type": "mc",
+     "exam_part": 1,
+     "difficulty": 2,
+     "source": "MaKo (Skripte Vaaßen/Kuhn, Zwischenprüfung, Unterricht)",
+     "body": {
+      "prompt": "Welche Organisation prüft Beschwerden gegen Werbung und kann Rügen aussprechen?",
+      "options": [
+       {
+        "text": "Deutscher Werberat",
+        "correct": true
+       },
+       {
+        "text": "ZAW",
+        "correct": false
+       },
+       {
+        "text": "ADC",
+        "correct": false
+       },
+       {
+        "text": "IVW",
+        "correct": false
+       },
+       {
+        "text": "AGOF",
+        "correct": false
+       }
+      ]
+     }
+    },
+    {
+     "key": "mako-lf1-branche-q02",
+     "type": "mc",
+     "exam_part": 1,
+     "difficulty": 2,
+     "source": "MaKo (Skripte Vaaßen/Kuhn, Zwischenprüfung, Unterricht)",
+     "body": {
+      "prompt": "Welche Organisation ermittelt die Auflagen von Printmedien?",
+      "options": [
+       {
+        "text": "IVW",
+        "correct": true
+       },
+       {
+        "text": "AGOF",
+        "correct": false
+       },
+       {
+        "text": "ADC",
+        "correct": false
+       },
+       {
+        "text": "GWA",
+        "correct": false
+       },
+       {
+        "text": "DPRG",
+        "correct": false
+       }
+      ]
+     }
+    },
+    {
+     "key": "mako-lf1-branche-q03",
+     "type": "mc",
+     "exam_part": 1,
+     "difficulty": 2,
+     "source": "MaKo (Skripte Vaaßen/Kuhn, Zwischenprüfung, Unterricht)",
+     "body": {
+      "prompt": "Welcher Verband vertritt die Kommunikationsagenturen?",
+      "options": [
+       {
+        "text": "GWA",
+        "correct": true
+       },
+       {
+        "text": "ZAW",
+        "correct": false
+       },
+       {
+        "text": "DPRG",
+        "correct": false
+       },
+       {
+        "text": "IVW",
+        "correct": false
+       },
+       {
+        "text": "ADC",
+        "correct": false
+       }
+      ]
+     }
+    },
+    {
+     "key": "mako-lf1-branche-q04",
+     "type": "mc",
+     "exam_part": 1,
+     "difficulty": 2,
+     "source": "MaKo (Skripte Vaaßen/Kuhn, Zwischenprüfung, Unterricht)",
+     "body": {
+      "prompt": "Wer ist Werbungtreibender?",
+      "options": [
+       {
+        "text": "Ein Möbelhersteller, der seine Produkte bewerben lässt",
+        "correct": true
+       },
+       {
+        "text": "Eine Zeitung",
+        "correct": false
+       },
+       {
+        "text": "Eine Werbeagentur",
+        "correct": false
+       },
+       {
+        "text": "Der Werberat",
+        "correct": false
+       },
+       {
+        "text": "Ein Plakatanschlagbetrieb",
+        "correct": false
+       }
+      ]
+     }
+    },
+    {
+     "key": "mako-lf1-branche-q05",
+     "type": "mc",
+     "exam_part": 1,
+     "difficulty": 2,
+     "source": "MaKo (Skripte Vaaßen/Kuhn, Zwischenprüfung, Unterricht)",
+     "body": {
+      "prompt": "Was bedeutet ein Käufermarkt?",
+      "options": [
+       {
+        "text": "Das Angebot übersteigt die Nachfrage.",
+        "correct": true
+       },
+       {
+        "text": "Die Nachfrage übersteigt das Angebot.",
+        "correct": false
+       },
+       {
+        "text": "Es gibt nur einen Käufer.",
+        "correct": false
+       },
+       {
+        "text": "Der Staat legt Preise fest.",
+        "correct": false
+       },
+       {
+        "text": "Es gibt keine Konkurrenz.",
+        "correct": false
+       }
+      ]
+     }
+    },
+    {
+     "key": "mako-lf1-branche-q06",
+     "type": "match",
+     "exam_part": 1,
+     "difficulty": 2,
+     "source": "MaKo (Skripte Vaaßen/Kuhn, Zwischenprüfung, Unterricht)",
+     "body": {
+      "prompt": "Ordnen Sie die Institution der Aufgabe zu.",
+      "items": [
+       {
+        "term": "ADC",
+        "match": "Kreativwettbewerbe und Verband der Kreativen"
+       },
+       {
+        "term": "DPRG",
+        "match": "Berufsverband für Öffentlichkeitsarbeit"
+       },
+       {
+        "term": "IVW",
+        "match": "Auflagenkontrolle"
+       },
+       {
+        "term": "AGOF",
+        "match": "Online-Reichweitenforschung"
+       },
+       {
+        "term": "Deutscher Werberat",
+        "match": "Selbstkontrolle der Werbung"
+       }
+      ],
+      "distractors": []
+     }
+    },
+    {
+     "key": "mako-lf1-branche-q07",
+     "type": "tf",
+     "exam_part": 1,
+     "difficulty": 2,
+     "source": "MaKo (Skripte Vaaßen/Kuhn, Zwischenprüfung, Unterricht)",
+     "body": {
+      "statement": "Der Deutsche Werberat kann Bußgelder verhängen.",
+      "answer": false
+     }
+    },
+    {
+     "key": "mako-lf1-branche-q08",
+     "type": "tf",
+     "exam_part": 1,
+     "difficulty": 2,
+     "source": "MaKo (Skripte Vaaßen/Kuhn, Zwischenprüfung, Unterricht)",
+     "body": {
+      "statement": "Die Werbewirtschaft trägt rund 1,2 % zum BIP bei.",
+      "answer": true
+     }
+    },
+    {
+     "key": "mako-lf1-branche-q09",
+     "type": "cloze",
+     "exam_part": 1,
+     "difficulty": 2,
+     "source": "MaKo (Skripte Vaaßen/Kuhn, Zwischenprüfung, Unterricht)",
+     "body": {
+      "text": "Der [[ZAW]] ist der Dachverband der Werbewirtschaft, die [[IVW]] kontrolliert Auflagen."
+     }
+    }
+   ],
+   "templates": [],
+   "cases": [],
+   "summary": {
+    "key": "mako-lf1-branche-zettel",
+    "title": "Werbewirtschaft, Verbände & Institutionen",
+    "content_md": "\n**Werbemarkt Deutschland 2023** (ZAW): Marktvolumen ca. **48,8 Mrd. €**, Anteil am BIP **1,2 %**, rund **900.000 Beschäftigte**; Agenturen schreiben ca. 81 % der Stellenangebote aus; KI hält Einzug.\n**Verbände & Institutionen**\n- **ZAW** – Zentralverband der deutschen Werbewirtschaft (Dachverband, Interessenvertretung gegenüber Politik)\n- **GWA** – Gesamtverband Kommunikationsagenturen (Agenturen)\n- **Deutscher Werberat** – freiwillige Selbstkontrolle (Beschwerden, Rügen)\n- **ADC** – Art Directors Club (Kreative, Wettbewerb)\n- **DPRG** – Deutsche Public Relations Gesellschaft (PR-Fachleute)\n- **BVDW** – Bundesverband Digitale Wirtschaft · **OWM** – Organisation Werbungtreibende im Markenverband\n- **IVW** – Informationsgemeinschaft zur Feststellung der Verbreitung von Werbeträgern (Auflagenkontrolle) · **AGOF** – Arbeitsgemeinschaft Onlineforschung (Online-Reichweiten)\n- **Bundesverband Marketing Clubs**\n- **Werbungtreibende** (Unternehmen) – **Agenturen** (Dienstleister) – **Medien/Werbeträger** (Verlage, Sender) – **Marktforschung/Dienstleister**.\n"
+   }
+  }
+ ]
+}
