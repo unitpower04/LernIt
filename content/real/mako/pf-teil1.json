@@ -275,6 +275,312 @@
        }
       ]
      }
+    },
+    {
+     "key": "mako-pf-teil1-q06",
+     "type": "case",
+     "exam_part": 1,
+     "difficulty": 2,
+     "points": 20,
+     "source": "Prüfungsstil (eigene Fallsituationen, angelehnt an IHK-Aufbau)",
+     "body": {
+      "situation": "Die Agentur Pixelwerk soll für die Hochschulbibliothek der Stadt Aurelia („BiblioPlus“) eine Kampagne entwickeln, um die Zahl der Erstsemester-Nutzerinnen und -Nutzer um 20 % zu steigern. Das Budget beträgt 35.000 €. Die Bibliothek hat ein altmodisches Image, bietet aber neue Services (24/7-Zugang, Lernräume, E-Books). Die Zielgruppe nutzt vor allem Instagram, TikTok und Messenger.",
+      "tasks": [
+       {
+        "text": "Formulieren Sie ein SMART-Ziel für die Kampagne.",
+        "points": 4,
+        "sample": "Die Zahl der registrierten Erstsemester-Nutzer soll von 1.500 auf 1.800 (+20 %) bis zum Ende des Wintersemesters steigen.",
+        "checklist": [
+         "spezifisch",
+         "messbar",
+         "terminiert",
+         "realistisch"
+        ]
+       },
+       {
+        "text": "Begründen Sie zwei geeignete Kommunikationskanäle für die Zielgruppe.",
+        "points": 6,
+        "sample": "Instagram/TikTok: hohe Nutzung der Studierenden, kurze Videos, Influencer-Kooperationen mit Studierenden. Campus-Events/Erstsemesterwoche: direkter Kontakt, Führungen, Gewinnspiel. Alternative: Plakate in Mensa/Uni, Newsletter der Hochschule.",
+        "checklist": [
+         "zwei Kanäle",
+         "Zielgruppenbezug",
+         "Budgetbezug"
+        ]
+       },
+       {
+        "text": "Nennen Sie drei Botschaften (Consumer Benefits) für die Kampagne.",
+        "points": 5,
+        "sample": "Immer verfügbar (24/7-Zugang), ruhige Lernräume, kostenloser Zugriff auf Fachliteratur und E-Books, Spaß/Community.",
+        "checklist": [
+         "drei Benefits",
+         "Zielgruppenbezug",
+         "Nutzenformulierung"
+        ]
+       },
+       {
+        "text": "Welche Kennzahl nutzen Sie, um den Erfolg zu kontrollieren? Begründen Sie.",
+        "points": 5,
+        "sample": "Zahl der neuen Registrierungen im Vergleich zum Vorjahr (Conversion), ergänzt um Reichweite/Engagement der Social-Posts und Event-Teilnahmen.",
+        "checklist": [
+         "Kennzahl benannt",
+         "Bezug zum Ziel",
+         "Zeitraum/Vergleich"
+        ]
+       }
+      ]
+     }
+    },
+    {
+     "key": "mako-pf-teil1-q07",
+     "type": "case",
+     "exam_part": 1,
+     "difficulty": 2,
+     "points": 20,
+     "source": "Prüfungsstil (eigene Fallsituationen, angelehnt an IHK-Aufbau)",
+     "body": {
+      "situation": "Die FAMK GmbH berät den E-Bike-Hersteller „Pedaltreter“, der eine Imagekampagne für seine neue Citybike-Serie (Preis ab 2.490 €) plant. Zielgruppe: umweltbewusste Berufspendler (30–50 Jahre) in Großstädten. Ziel: Markenbekanntheit in der Zielgruppe von 15 % auf 30 % innerhalb von neun Monaten. Budget 180.000 €. Wettbewerber: etablierte Fahrradmarken und Direktanbieter online.",
+      "tasks": [
+       {
+        "text": "Führen Sie eine Positionierung durch: Beschreiben Sie Ist- und Soll-Positionierung.",
+        "points": 5,
+        "sample": "Ist: unbekannter Newcomer mit mittlerem Preis, hohe Qualität nicht bekannt. Soll: moderne, nachhaltige und alltagstaugliche E-Bike-Marke für Pendler mit Premium-Anspruch.",
+        "checklist": [
+         "Ist",
+         "Soll",
+         "Abgrenzung zum Wettbewerb"
+        ]
+       },
+       {
+        "text": "Schlagen Sie einen Kommunikationsmix aus mindestens drei Instrumenten vor.",
+        "points": 7,
+        "sample": "Out-of-Home-Plakate an Bahnhöfen/Haltestellen (Pendlerkontakt); Social Ads/Influencer (Reichweite, Bekanntheit); Event/Probefahrtaktion am Bahnhof (Produkterlebnis); PR in Mobilitätsmedien (Glaubwürdigkeit).",
+        "checklist": [
+         "drei Instrumente",
+         "Begründung",
+         "Abstimmung"
+        ]
+       },
+       {
+        "text": "Welche Rolle spielt die Distribution (Marketing-Mix) bei dieser Kampagne?",
+        "points": 4,
+        "sample": "Probefahrten und Kauf müssen zeitnah möglich sein: Fachhandel, Flagship-Store, Online-Bestellung; Verfügbarkeit stärkt Glaubwürdigkeit.",
+        "checklist": [
+         "Distribution erwähnt",
+         "Bezug zum Fall"
+        ]
+       },
+       {
+        "text": "Berechnen Sie, welche absolute Reichweite nötig ist, wenn die Zielgruppe 800.000 Personen umfasst und 30 % Bekanntheit erreicht werden sollen.",
+        "points": 4,
+        "sample": "800.000 · 0,30 = 240.000 Personen müssen die Marke kennen.",
+        "checklist": [
+         "Rechnung",
+         "Ergebnis 240.000"
+        ]
+       }
+      ]
+     }
+    },
+    {
+     "key": "mako-pf-teil1-q08",
+     "type": "case",
+     "exam_part": 1,
+     "difficulty": 2,
+     "points": 20,
+     "source": "Prüfungsstil (eigene Fallsituationen, angelehnt an IHK-Aufbau)",
+     "body": {
+      "situation": "Die Spielwarenkette „Kunterbunt“ (60 Filialen) plant vor Weihnachten eine Verkaufsförderungsaktion. Die Agentur Mediahaus Rhein schlägt einen „Adventskalender-Wettbewerb“ vor: Pro 20 € Einkauf gibt es ein Los, Hauptgewinn ist ein Familienurlaub. Ziel: Umsatzplus von 12 % im Dezember. Der Umsatz im Vorjahresdezember betrug 3,4 Mio. €. Im Briefing steht, dass das Gewinnspiel auch online beworben wird.",
+      "tasks": [
+       {
+        "text": "Berechnen Sie den Ziel-Umsatz für Dezember.",
+        "points": 3,
+        "sample": "3,4 Mio. € · 1,12 = 3,808 Mio. €.",
+        "checklist": [
+         "Rechnung",
+         "Ergebnis"
+        ]
+       },
+       {
+        "text": "Beurteilen Sie rechtlich zwei Punkte, die bei dem Gewinnspiel beachtet werden müssen.",
+        "points": 6,
+        "sample": "Teilnahmebedingungen und Transparenz (UWG), Datenschutz (Einwilligung bei Datenerhebung, DSGVO), Kennzeichnung, Kopplung nicht unzulässig (Kopplung an Kauf ist erlaubt, muss aber klar sein), Gewinnerziehung nach Zufall, Minderjährige.",
+        "checklist": [
+         "zwei Punkte",
+         "rechtlich begründet"
+        ]
+       },
+       {
+        "text": "Ordnen Sie die Maßnahme einem Kommunikationsinstrument zu und begründen Sie, ob es für das Ziel passt.",
+        "points": 5,
+        "sample": "Verkaufsförderung (Consumer Promotion), da kurzfristiger Umsatz das Ziel ist; Gewinnspiel setzt Kaufanreiz.",
+        "checklist": [
+         "Zuordnung korrekt",
+         "Begründung",
+         "Zielbezug"
+        ]
+       },
+       {
+        "text": "Nennen Sie zwei Maßnahmen zur Erfolgskontrolle.",
+        "points": 6,
+        "sample": "Umsatzvergleich Dezember vs. Vorjahr, Zahl ausgegebener/eingelöster Lose, Teilnehmerzahl, Online-Besucher auf der Aktionsseite, Befragung.",
+        "checklist": [
+         "zwei Maßnahmen",
+         "Bezug zum Ziel"
+        ]
+       }
+      ]
+     }
+    },
+    {
+     "key": "mako-pf-teil1-q09",
+     "type": "case",
+     "exam_part": 1,
+     "difficulty": 2,
+     "points": 20,
+     "source": "Prüfungsstil (eigene Fallsituationen, angelehnt an IHK-Aufbau)",
+     "body": {
+      "situation": "Das Fitnessstudio „FlexGym“ eröffnet einen neuen Standort in Aurelia. Die Agentur Kreativkontor plant die Eröffnungskommunikation. Ziel: 1.200 Mitglieder in den ersten drei Monaten. Das Budget beträgt 60.000 €. Zielgruppe: 18–35-Jährige im Umkreis von 5 km. Preisbewusste Konkurrenz (Discount-Studios) und Premium-Studios sind in der Nähe.",
+      "tasks": [
+       {
+        "text": "Wählen Sie eine Preisstrategie für die Eröffnung und begründen Sie sie.",
+        "points": 5,
+        "sample": "Penetrationsstrategie/Einführungsangebot (z. B. kostenlose Probemonate, Gebühr entfällt), um schnell Mitglieder zu gewinnen; später Preis anheben.",
+        "checklist": [
+         "Strategie",
+         "Begründung",
+         "Wettbewerbsbezug"
+        ]
+       },
+       {
+        "text": "Welche lokalen Medien setzen Sie ein? Nennen Sie zwei und begründen Sie.",
+        "points": 6,
+        "sample": "Plakate/Citylights im Umkreis, regionale Radiospots, Social Ads mit Geotargeting, Flyer/Verteilaktion, Kooperation mit Hochschulen.",
+        "checklist": [
+         "zwei Medien",
+         "regionaler Bezug"
+        ]
+       },
+       {
+        "text": "Berechnen Sie den Werbebudgetanteil je gewonnenem Mitglied (Kosten pro Neukunde).",
+        "points": 4,
+        "sample": "60.000 € : 1.200 Mitglieder = 50 € pro Mitglied.",
+        "checklist": [
+         "Rechnung",
+         "Ergebnis"
+        ]
+       },
+       {
+        "text": "Skizzieren Sie ein Event zur Eröffnung (Ziel, Ablauf, Erfolgskennzahl).",
+        "points": 5,
+        "sample": "Ziel: Bekanntheit und Probetrainings. Ablauf: Tag der offenen Tür mit Probekursen, Gewinnspiel, Social-Media-Aktion. Kennzahlen: Teilnehmerzahl, Probemitgliedschaften, Abschlussquote.",
+        "checklist": [
+         "Ziel",
+         "Ablauf",
+         "Kennzahl"
+        ]
+       }
+      ]
+     }
+    },
+    {
+     "key": "mako-pf-teil1-q10",
+     "type": "case",
+     "exam_part": 1,
+     "difficulty": 2,
+     "points": 20,
+     "source": "Prüfungsstil (eigene Fallsituationen, angelehnt an IHK-Aufbau)",
+     "body": {
+      "situation": "Die Hilfsorganisation „Wasser für alle e. V.“ (gemeinnützig) möchte mit einer Spendenkampagne 150.000 € sammeln. Die Agentur Pixelwerk entwickelt das Konzept. Zielgruppe: Menschen ab 40 mit mittlerem Einkommen, bisherige Spender sind überwiegend 60+. Es steht ein Budget von 25.000 € zur Verfügung. Es gelten Datenschutz- und Werbebeschränkungen für Spendenaufrufe.",
+      "tasks": [
+       {
+        "text": "Erläutern Sie Unterschiede zwischen kommerzieller Werbung und Spendenkommunikation (zwei Punkte).",
+        "points": 4,
+        "sample": "Ziel: Spende statt Kauf; Glaubwürdigkeit und Transparenz (Mittelverwendung) wichtig; emotionalere Ansprache, aber seriös; Vertrauenssiegel (DZI).",
+        "checklist": [
+         "zwei Unterschiede",
+         "Bezug zum Fall"
+        ]
+       },
+       {
+        "text": "Welche Kanäle eignen sich für die Zielgruppe? Nennen Sie zwei und begründen Sie.",
+        "points": 6,
+        "sample": "Direktmailing/Spendenbrief (ältere Zielgruppe, hohe Rücklaufquoten), Zeitungsanzeigen/Beilagen, E-Mail-Newsletter mit Double-Opt-in, Facebook; PR in regionalen Medien.",
+        "checklist": [
+         "zwei Kanäle",
+         "Zielgruppenbezug"
+        ]
+       },
+       {
+        "text": "Berechnen Sie die Mindestanzahl Spender, wenn die durchschnittliche Spende 50 € beträgt.",
+        "points": 4,
+        "sample": "150.000 € : 50 € = 3.000 Spender.",
+        "checklist": [
+         "Rechnung",
+         "Ergebnis"
+        ]
+       },
+       {
+        "text": "Welche Datenschutzanforderung ist beim Versand von E-Mail-Spendenaufrufen zu beachten?",
+        "points": 6,
+        "sample": "Einwilligung der Empfänger (Opt-in, Double-Opt-in), Widerrufsmöglichkeit, Datenschutzerklärung, Speicherbegrenzung (DSGVO, UWG § 7).",
+        "checklist": [
+         "Einwilligung",
+         "Rechtsgrundlage",
+         "Dokumentation"
+        ]
+       }
+      ]
+     }
+    },
+    {
+     "key": "mako-pf-teil1-q11",
+     "type": "case",
+     "exam_part": 1,
+     "difficulty": 2,
+     "points": 20,
+     "source": "Prüfungsstil (eigene Fallsituationen, angelehnt an IHK-Aufbau)",
+     "body": {
+      "situation": "Die Brauerei „Rheinhopfen“ bringt ein alkoholfreies Craft-Bier („Hopfen Null“) auf den Markt. Zielgruppe: sportliche 25–45-Jährige, die bewusst auf Alkohol verzichten. Die Agentur Mediahaus Rhein soll ein Konzept entwickeln. Es gelten die Verhaltensregeln des Deutschen Werberats zur Alkoholwerbung. Der Kunde wünscht den Claim „Gibt dir Energie für den Tag“.",
+      "tasks": [
+       {
+        "text": "Beurteilen Sie den gewünschten Claim aus Sicht des Werberats bzw. des Wettbewerbsrechts.",
+        "points": 5,
+        "sample": "Aussagen, die auf eine Verbesserung der Leistungsfähigkeit durch Konsum (alkoholhaltiger) Getränke abzielen, werden vom Werberat beanstandet; für ein alkoholfreies Bier prüfen, ob gesundheitsbezogene Angaben belegbar sind (Health-Claims-VO, UWG § 5). Alternative: „Voller Geschmack. Ohne Alkohol.“",
+        "checklist": [
+         "Beurteilung",
+         "Rechtsbezug",
+         "Alternative"
+        ]
+       },
+       {
+        "text": "Entwickeln Sie eine Tonality und begründen Sie sie anhand der Zielgruppe.",
+        "points": 5,
+        "sample": "Selbstbewusst, locker, sportlich-genussvoll – die Zielgruppe will keine Verzichtsrhetorik, sondern Genuss und Lifestyle.",
+        "checklist": [
+         "Tonality",
+         "Zielgruppenbezug"
+        ]
+       },
+       {
+        "text": "Nennen Sie zwei Maßnahmen der Verkaufsförderung für die Einführung im Handel.",
+        "points": 5,
+        "sample": "Sampling/Verkostungen am POS, Zweitplatzierung/Display im Getränkemarkt, Coupons, Trade Promotion mit Staffelrabatt.",
+        "checklist": [
+         "zwei Maßnahmen",
+         "Handelsbezug"
+        ]
+       },
+       {
+        "text": "Ordnen Sie den Preis (im Premium-Segment, 2,20 € je Flasche) einer Preisstrategie zu und begründen Sie.",
+        "points": 5,
+        "sample": "Premium-/Hochpreisstrategie (Skimming) – unterstreicht Hochwertigkeit der Craft-Marke und Positionierung.",
+        "checklist": [
+         "Strategie",
+         "Begründung"
+        ]
+       }
+      ]
+     }
     }
    ],
    "templates": [],

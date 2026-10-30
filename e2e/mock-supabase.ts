@@ -1,5 +1,5 @@
 /* Lokaler Supabase-Ersatz NUR für automatisierte UI-Tests (die Sandbox erreicht supabase.co nicht).
- * Bildet Auth + die genutzten PostgREST-Funktionen im Speicher nach, Inhalte stammen aus content/demo.
+ * Bildet Auth + die genutzten PostgREST-Funktionen im Speicher nach, Inhalte stammen aus e2e/fixtures/demo.
  * Start: npx tsx e2e/mock-supabase.ts [port]
  */
 import { randomUUID } from "node:crypto";
@@ -51,7 +51,7 @@ function importBundle(p: Row, demo: boolean) {
 }
 
 function seed() {
-  const dir = join(__dirname, "..", "content", "demo");
+  const dir = join(__dirname, "fixtures", "demo");
   const files = readdirSync(dir).filter((f) => f.endsWith(".json")).sort((a, b) => (a.startsWith("struktur") ? -1 : b.startsWith("struktur") ? 1 : 0));
   for (const f of files) {
     const b = withKeys(bundleSchema.parse(JSON.parse(readFileSync(join(dir, f), "utf8"))));
