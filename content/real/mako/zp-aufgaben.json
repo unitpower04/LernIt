@@ -1,0 +1,1690 @@
+{
+ "demo": false,
+ "items": [
+  {
+   "topic": "mako-zp-aufgaben",
+   "flashcards": [
+    {
+     "key": "mako-zp-aufgaben-c01",
+     "front": "Ein Kunde der Agentur ist Einzelhändler und möchte seine Strategie mit Marktforschung unterstützen. Bei der Konkurrenzanalyse empfehlen Sie ihm NICHT, …",
+     "back": "schriftlich bei den Konkurrenten nach deren Umsätzen zu fragen."
+    },
+    {
+     "key": "mako-zp-aufgaben-c02",
+     "front": "Welche Definition gehört zur Panel-Befragung?",
+     "back": "Dauerhafte, wiederkehrende Befragung derselben Zielpersonen"
+    },
+    {
+     "key": "mako-zp-aufgaben-c03",
+     "front": "Welche Definition gehört zur Omnibus-Befragung?",
+     "back": "Kombinierte Befragung von Personen im Auftrag mehrerer Unternehmen"
+    },
+    {
+     "key": "mako-zp-aufgaben-c04",
+     "front": "Ein Unternehmen möchte kurzfristig den Umsatz steigern. Zu welcher Aktion raten Sie?",
+     "back": "Consumer Promotion"
+    },
+    {
+     "key": "mako-zp-aufgaben-c05",
+     "front": "Eine Teilerhebung ist repräsentativ, wenn …",
+     "back": "die Stichprobe ein verkleinertes, strukturgleiches Abbild der Grundgesamtheit darstellt."
+    },
+    {
+     "key": "mako-zp-aufgaben-c06",
+     "front": "Ein Interviewer erhält den Auftrag, eine bestimmte Anzahl Personen mit vorgegebenen Merkmalen zu befragen, ist in der Auswahl aber frei. Welches Verfahren?",
+     "back": "Quotenauswahl"
+    },
+    {
+     "key": "mako-zp-aufgaben-c07",
+     "front": "Ein Unternehmen bringt neben seiner Marke „Super Crema“ (Süßwaren) auch Joghurt unter der Marke „Fruitimio“ auf den Markt. Welche Markenstrategie?",
+     "back": "Mehrmarkenstrategie"
+    },
+    {
+     "key": "mako-zp-aufgaben-c08",
+     "front": "Welches Merkmal ist ein Vorteil offener Interviews gegenüber standardisierten?",
+     "back": "Hohe Flexibilität"
+    },
+    {
+     "key": "mako-zp-aufgaben-c09",
+     "front": "Welche Definition kennzeichnet einen Testmarkt?",
+     "back": "Geografisch begrenztes Gebiet, in dem ein Produkt vor der Einführung getestet wird"
+    },
+    {
+     "key": "mako-zp-aufgaben-c10",
+     "front": "Welche Maßnahme gehört zur Sekundärforschung?",
+     "back": "Internetrecherche"
+    },
+    {
+     "key": "mako-zp-aufgaben-c11",
+     "front": "Was beschreibt der Begriff „Insight“?",
+     "back": "Bedürfnisse und Motive von Menschen"
+    },
+    {
+     "key": "mako-zp-aufgaben-c12",
+     "front": "Welches Merkmal beschreibt die Soziodemografie?",
+     "back": "Lebensalter"
+    },
+    {
+     "key": "mako-zp-aufgaben-c13",
+     "front": "Welche Aussage zu Validität ist richtig?",
+     "back": "Validität bedeutet die Gültigkeit einer Messung."
+    },
+    {
+     "key": "mako-zp-aufgaben-c14",
+     "front": "Was bedeutet Signifikanz?",
+     "back": "Das Ergebnis liegt über der Zufallswahrscheinlichkeit."
+    },
+    {
+     "key": "mako-zp-aufgaben-c15",
+     "front": "Was ist eine Grundgesamtheit?",
+     "back": "Alle Elemente, über die eine Aussage getroffen werden soll"
+    },
+    {
+     "key": "mako-zp-aufgaben-c16",
+     "front": "Welche Aussage zu qualitativer Marktforschung stimmt?",
+     "back": "Sie untersucht Motive und Meinungen in kleinen Gruppen."
+    },
+    {
+     "key": "mako-zp-aufgaben-c17",
+     "front": "Welche Methode ist typisch für die Beobachtung?",
+     "back": "Mystery Shopping bzw. Testkauf"
+    },
+    {
+     "key": "mako-zp-aufgaben-c18",
+     "front": "Welche Methode gehört zur Primärforschung?",
+     "back": "Gruppendiskussion"
+    },
+    {
+     "key": "mako-zp-aufgaben-c19",
+     "front": "Welche Aufgabe haben die Werbeverbände ZAW und GWA?",
+     "back": "Interessenvertretung der Werbewirtschaft bzw. der Kommunikationsagenturen"
+    },
+    {
+     "key": "mako-zp-aufgaben-c20",
+     "front": "Wer führt die Selbstkontrolle der Werbewirtschaft durch?",
+     "back": "Der Deutsche Werberat"
+    },
+    {
+     "key": "mako-zp-aufgaben-c21",
+     "front": "Wer ermittelt die verbreiteten Auflagen der Printmedien?",
+     "back": "IVW"
+    },
+    {
+     "key": "mako-zp-aufgaben-c22",
+     "front": "Welche Berufsbezeichnung beschreibt die Person, die in der Agentur Termine überwacht?",
+     "back": "Trafficer"
+    },
+    {
+     "key": "mako-zp-aufgaben-c23",
+     "front": "Welche Berufsbezeichnung beschreibt die Kundenbetreuung in der Agentur?",
+     "back": "Kontakter bzw. Kundenberater"
+    },
+    {
+     "key": "mako-zp-aufgaben-c24",
+     "front": "Welche Abteilung einer Agentur plant die Auswahl der Werbeträger?",
+     "back": "Media"
+    },
+    {
+     "key": "mako-zp-aufgaben-c25",
+     "front": "Welche Aussage zur Corporate Identity ist richtig?",
+     "back": "Sie ist das Selbstbild und die einheitliche Selbstdarstellung eines Unternehmens."
+    },
+    {
+     "key": "mako-zp-aufgaben-c26",
+     "front": "Das Image eines Unternehmens ist …",
+     "back": "das Fremdbild, das Außenstehende vom Unternehmen haben."
+    },
+    {
+     "key": "mako-zp-aufgaben-c27",
+     "front": "Welche Aussage zum Marketing-Mix ist richtig?",
+     "back": "Die Instrumente Produkt, Preis, Distribution und Kommunikation müssen aufeinander abgestimmt sein."
+    },
+    {
+     "key": "mako-zp-aufgaben-c28",
+     "front": "Welcher Begriff beschreibt die Entwicklung vom Verkäufer- zum Käufermarkt?",
+     "back": "Das Angebot übersteigt die Nachfrage; der Kunde rückt in den Mittelpunkt."
+    },
+    {
+     "key": "mako-zp-aufgaben-c29",
+     "front": "Wofür steht die Abkürzung GWA?",
+     "back": "Gesamtverband Kommunikationsagenturen"
+    },
+    {
+     "key": "mako-zp-aufgaben-c30",
+     "front": "Wofür steht die Abkürzung DPRG?",
+     "back": "Deutsche Public Relations Gesellschaft"
+    },
+    {
+     "key": "mako-zp-aufgaben-c31",
+     "front": "Welche Stelle vergibt in Deutschland Kreativpreise und vertritt Kreative?",
+     "back": "ADC (Art Directors Club)"
+    },
+    {
+     "key": "mako-zp-aufgaben-c32",
+     "front": "Welche Information gehört zum Kundenbriefing?",
+     "back": "Zielgruppe, Ziele, Budget, Zeitrahmen"
+    },
+    {
+     "key": "mako-zp-aufgaben-c33",
+     "front": "Welche Funktion hat das Re-Briefing?",
+     "back": "Das Auftragsverständnis wird schriftlich zusammengefasst und vom Kunden bestätigt."
+    },
+    {
+     "key": "mako-zp-aufgaben-c34",
+     "front": "Was versteht man unter einem Pitch?",
+     "back": "Wettbewerbspräsentation mehrerer Agenturen um einen Auftrag"
+    },
+    {
+     "key": "mako-zp-aufgaben-c35",
+     "front": "Welche Aussage zu Zielgruppen ist richtig?",
+     "back": "Zielgruppen werden anhand soziodemografischer, psychografischer und verhaltensbezogener Merkmale beschrieben."
+    },
+    {
+     "key": "mako-zp-aufgaben-c36",
+     "front": "Welches Merkmal ist ein verhaltensbezogenes Zielgruppenmerkmal?",
+     "back": "Markentreue"
+    },
+    {
+     "key": "mako-zp-aufgaben-c37",
+     "front": "Welches Merkmal ist ein psychografisches Zielgruppenmerkmal?",
+     "back": "Wertehaltung und Lebensstil"
+    },
+    {
+     "key": "mako-zp-aufgaben-c38",
+     "front": "Welches Merkmal ist ein geografisches Zielgruppenmerkmal?",
+     "back": "Postleitzahlgebiet"
+    },
+    {
+     "key": "mako-zp-aufgaben-c39",
+     "front": "Was ist eine Persona?",
+     "back": "Eine fiktive, typische Vertreterin einer Zielgruppe mit Bedürfnissen und Verhalten"
+    },
+    {
+     "key": "mako-zp-aufgaben-c40",
+     "front": "Welche Aussage zum Deutschen Werberat ist richtig?",
+     "back": "Er spricht Rügen aus, kann aber keine Bußgelder verhängen."
+    },
+    {
+     "key": "mako-zp-aufgaben-c41",
+     "front": "Welche Aussage zur Werbewirtschaft in Deutschland trifft zu?",
+     "back": "Die Werbewirtschaft trägt mit rund 1 % zum BIP bei und beschäftigt rund 900.000 Menschen."
+    }
+   ],
+   "glossary": [],
+   "questions": [
+    {
+     "key": "mako-zp-aufgaben-q01",
+     "type": "mc",
+     "exam_part": 1,
+     "difficulty": 2,
+     "source": "Abgewandelt nach Zwischenprüfung MaKo (Joseph-DuMont-Berufskolleg) und eigene Grundlagenaufgaben",
+     "body": {
+      "prompt": "Ein Kunde der Agentur ist Einzelhändler und möchte seine Strategie mit Marktforschung unterstützen. Bei der Konkurrenzanalyse empfehlen Sie ihm NICHT, …",
+      "options": [
+       {
+        "text": "schriftlich bei den Konkurrenten nach deren Umsätzen zu fragen.",
+        "correct": true
+       },
+       {
+        "text": "das Werbeaufkommen zu messen.",
+        "correct": false
+       },
+       {
+        "text": "Testkäufe am POS durchzuführen.",
+        "correct": false
+       },
+       {
+        "text": "Geschäftsberichte zu analysieren.",
+        "correct": false
+       },
+       {
+        "text": "Verbraucher über ein Marktforschungsunternehmen zu befragen.",
+        "correct": false
+       }
+      ]
+     }
+    },
+    {
+     "key": "mako-zp-aufgaben-q02",
+     "type": "mc",
+     "exam_part": 1,
+     "difficulty": 2,
+     "source": "Abgewandelt nach Zwischenprüfung MaKo (Joseph-DuMont-Berufskolleg) und eigene Grundlagenaufgaben",
+     "body": {
+      "prompt": "Welche Definition gehört zur Panel-Befragung?",
+      "options": [
+       {
+        "text": "Dauerhafte, wiederkehrende Befragung derselben Zielpersonen",
+        "correct": true
+       },
+       {
+        "text": "Befragung zufällig ausgewählter Personen im Bus",
+        "correct": false
+       },
+       {
+        "text": "Befragung mithilfe bildlicher Darstellung (Comics)",
+        "correct": false
+       },
+       {
+        "text": "Kombinierte Befragung im Auftrag mehrerer Unternehmen",
+        "correct": false
+       }
+      ]
+     }
+    },
+    {
+     "key": "mako-zp-aufgaben-q03",
+     "type": "mc",
+     "exam_part": 1,
+     "difficulty": 2,
+     "source": "Abgewandelt nach Zwischenprüfung MaKo (Joseph-DuMont-Berufskolleg) und eigene Grundlagenaufgaben",
+     "body": {
+      "prompt": "Welche Definition gehört zur Omnibus-Befragung?",
+      "options": [
+       {
+        "text": "Kombinierte Befragung von Personen im Auftrag mehrerer Unternehmen",
+        "correct": true
+       },
+       {
+        "text": "Dauerhafte Befragung derselben Personen",
+        "correct": false
+       },
+       {
+        "text": "Befragung während der Fahrt",
+        "correct": false
+       },
+       {
+        "text": "Befragung mit Bildmaterial",
+        "correct": false
+       }
+      ]
+     }
+    },
+    {
+     "key": "mako-zp-aufgaben-q04",
+     "type": "mc",
+     "exam_part": 1,
+     "difficulty": 2,
+     "source": "Abgewandelt nach Zwischenprüfung MaKo (Joseph-DuMont-Berufskolleg) und eigene Grundlagenaufgaben",
+     "body": {
+      "prompt": "Ein Unternehmen möchte kurzfristig den Umsatz steigern. Zu welcher Aktion raten Sie?",
+      "options": [
+       {
+        "text": "Consumer Promotion",
+        "correct": true
+       },
+       {
+        "text": "Public Relations",
+        "correct": false
+       },
+       {
+        "text": "Sponsoring",
+        "correct": false
+       },
+       {
+        "text": "Eventmarketing",
+        "correct": false
+       }
+      ]
+     }
+    },
+    {
+     "key": "mako-zp-aufgaben-q05",
+     "type": "mc",
+     "exam_part": 1,
+     "difficulty": 2,
+     "source": "Abgewandelt nach Zwischenprüfung MaKo (Joseph-DuMont-Berufskolleg) und eigene Grundlagenaufgaben",
+     "body": {
+      "prompt": "Eine Teilerhebung ist repräsentativ, wenn …",
+      "options": [
+       {
+        "text": "die Stichprobe ein verkleinertes, strukturgleiches Abbild der Grundgesamtheit darstellt.",
+        "correct": true
+       },
+       {
+        "text": "die Stichprobe mindestens 1.000 Personen umfasst.",
+        "correct": false
+       },
+       {
+        "text": "mindestens 3 % der Grundgesamtheit befragt werden.",
+        "correct": false
+       },
+       {
+        "text": "der Anteil von Männern und Frauen gleich ist.",
+        "correct": false
+       },
+       {
+        "text": "die Grundgesamtheit ein Abbild der Stichprobe ist.",
+        "correct": false
+       }
+      ]
+     }
+    },
+    {
+     "key": "mako-zp-aufgaben-q06",
+     "type": "mc",
+     "exam_part": 1,
+     "difficulty": 2,
+     "source": "Abgewandelt nach Zwischenprüfung MaKo (Joseph-DuMont-Berufskolleg) und eigene Grundlagenaufgaben",
+     "body": {
+      "prompt": "Ein Interviewer erhält den Auftrag, eine bestimmte Anzahl Personen mit vorgegebenen Merkmalen zu befragen, ist in der Auswahl aber frei. Welches Verfahren?",
+      "options": [
+       {
+        "text": "Quotenauswahl",
+        "correct": true
+       },
+       {
+        "text": "Zufallsauswahl",
+        "correct": false
+       },
+       {
+        "text": "Klumpenauswahl",
+        "correct": false
+       },
+       {
+        "text": "Random-Route-Verfahren",
+        "correct": false
+       },
+       {
+        "text": "Listenverfahren",
+        "correct": false
+       }
+      ]
+     }
+    },
+    {
+     "key": "mako-zp-aufgaben-q07",
+     "type": "mc",
+     "exam_part": 1,
+     "difficulty": 2,
+     "explanation": "Mehrere eigenständige Marken desselben Unternehmens (Zwischenprüfungs-Lösungslogik).",
+     "source": "Abgewandelt nach Zwischenprüfung MaKo (Joseph-DuMont-Berufskolleg) und eigene Grundlagenaufgaben",
+     "body": {
+      "prompt": "Ein Unternehmen bringt neben seiner Marke „Super Crema“ (Süßwaren) auch Joghurt unter der Marke „Fruitimio“ auf den Markt. Welche Markenstrategie?",
+      "options": [
+       {
+        "text": "Mehrmarkenstrategie",
+        "correct": true
+       },
+       {
+        "text": "Familienmarkenstrategie",
+        "correct": false
+       },
+       {
+        "text": "Dachmarkenstrategie",
+        "correct": false
+       },
+       {
+        "text": "Einzelmarkenstrategie ohne weitere Marke",
+        "correct": false
+       },
+       {
+        "text": "Handelsmarkenstrategie",
+        "correct": false
+       }
+      ]
+     }
+    },
+    {
+     "key": "mako-zp-aufgaben-q08",
+     "type": "mc",
+     "exam_part": 1,
+     "difficulty": 2,
+     "source": "Abgewandelt nach Zwischenprüfung MaKo (Joseph-DuMont-Berufskolleg) und eigene Grundlagenaufgaben",
+     "body": {
+      "prompt": "Welches Merkmal ist ein Vorteil offener Interviews gegenüber standardisierten?",
+      "options": [
+       {
+        "text": "Hohe Flexibilität",
+        "correct": true
+       },
+       {
+        "text": "Feste Fragebogenabfolge",
+        "correct": false
+       },
+       {
+        "text": "Multiple-Choice-Antwortvorgaben",
+        "correct": false
+       },
+       {
+        "text": "Geringer Auswertungsaufwand",
+        "correct": false
+       },
+       {
+        "text": "Leichte Vergleichbarkeit",
+        "correct": false
+       }
+      ]
+     }
+    },
+    {
+     "key": "mako-zp-aufgaben-q09",
+     "type": "mc",
+     "exam_part": 1,
+     "difficulty": 2,
+     "source": "Abgewandelt nach Zwischenprüfung MaKo (Joseph-DuMont-Berufskolleg) und eigene Grundlagenaufgaben",
+     "body": {
+      "prompt": "Welche Definition kennzeichnet einen Testmarkt?",
+      "options": [
+       {
+        "text": "Geografisch begrenztes Gebiet, in dem ein Produkt vor der Einführung getestet wird",
+        "correct": true
+       },
+       {
+        "text": "Unbegrenzte Zahl von Marktteilnehmern",
+        "correct": false
+       },
+       {
+        "text": "Experiment der Sekundärforschung",
+        "correct": false
+       },
+       {
+        "text": "Nicht repräsentative Kaufkraft",
+        "correct": false
+       },
+       {
+        "text": "Reiner Onlinemarkt",
+        "correct": false
+       }
+      ]
+     }
+    },
+    {
+     "key": "mako-zp-aufgaben-q10",
+     "type": "mc",
+     "exam_part": 1,
+     "difficulty": 2,
+     "source": "Abgewandelt nach Zwischenprüfung MaKo (Joseph-DuMont-Berufskolleg) und eigene Grundlagenaufgaben",
+     "body": {
+      "prompt": "Welche Maßnahme gehört zur Sekundärforschung?",
+      "options": [
+       {
+        "text": "Internetrecherche",
+        "correct": true
+       },
+       {
+        "text": "Gruppendiskussion",
+        "correct": false
+       },
+       {
+        "text": "Einzelinterview",
+        "correct": false
+       },
+       {
+        "text": "Face-to-Face-Befragung",
+        "correct": false
+       },
+       {
+        "text": "Onlinebefragung",
+        "correct": false
+       }
+      ]
+     }
+    },
+    {
+     "key": "mako-zp-aufgaben-q11",
+     "type": "mc",
+     "exam_part": 1,
+     "difficulty": 2,
+     "source": "Abgewandelt nach Zwischenprüfung MaKo (Joseph-DuMont-Berufskolleg) und eigene Grundlagenaufgaben",
+     "body": {
+      "prompt": "Was beschreibt der Begriff „Insight“?",
+      "options": [
+       {
+        "text": "Bedürfnisse und Motive von Menschen",
+        "correct": true
+       },
+       {
+        "text": "Geplante Käufe von Zielgruppen",
+        "correct": false
+       },
+       {
+        "text": "Werbeausgaben der Konkurrenz",
+        "correct": false
+       },
+       {
+        "text": "Geheime Marketingstrategien der Konkurrenz",
+        "correct": false
+       },
+       {
+        "text": "Neuronale Vorgänge bei Produkttests",
+        "correct": false
+       }
+      ]
+     }
+    },
+    {
+     "key": "mako-zp-aufgaben-q12",
+     "type": "mc",
+     "exam_part": 1,
+     "difficulty": 2,
+     "source": "Abgewandelt nach Zwischenprüfung MaKo (Joseph-DuMont-Berufskolleg) und eigene Grundlagenaufgaben",
+     "body": {
+      "prompt": "Welches Merkmal beschreibt die Soziodemografie?",
+      "options": [
+       {
+        "text": "Lebensalter",
+        "correct": true
+       },
+       {
+        "text": "Lebensstil",
+        "correct": false
+       },
+       {
+        "text": "Einkaufsstättenwahl",
+        "correct": false
+       },
+       {
+        "text": "Qualitätsbewusstsein",
+        "correct": false
+       },
+       {
+        "text": "Markentreue",
+        "correct": false
+       }
+      ]
+     }
+    },
+    {
+     "key": "mako-zp-aufgaben-q13",
+     "type": "mc",
+     "exam_part": 1,
+     "difficulty": 2,
+     "source": "Abgewandelt nach Zwischenprüfung MaKo (Joseph-DuMont-Berufskolleg) und eigene Grundlagenaufgaben",
+     "body": {
+      "prompt": "Welche Aussage zu Validität ist richtig?",
+      "options": [
+       {
+        "text": "Validität bedeutet die Gültigkeit einer Messung.",
+        "correct": true
+       },
+       {
+        "text": "Validität beschreibt die Zuverlässigkeit bei Wiederholung.",
+        "correct": false
+       },
+       {
+        "text": "Validität beschreibt die Stichprobengröße.",
+        "correct": false
+       },
+       {
+        "text": "Validität bedeutet Repräsentativität.",
+        "correct": false
+       }
+      ]
+     }
+    },
+    {
+     "key": "mako-zp-aufgaben-q14",
+     "type": "mc",
+     "exam_part": 1,
+     "difficulty": 2,
+     "source": "Abgewandelt nach Zwischenprüfung MaKo (Joseph-DuMont-Berufskolleg) und eigene Grundlagenaufgaben",
+     "body": {
+      "prompt": "Was bedeutet Signifikanz?",
+      "options": [
+       {
+        "text": "Das Ergebnis liegt über der Zufallswahrscheinlichkeit.",
+        "correct": true
+       },
+       {
+        "text": "Das Ergebnis ist valide.",
+        "correct": false
+       },
+       {
+        "text": "Das Ergebnis ist repräsentativ.",
+        "correct": false
+       },
+       {
+        "text": "Das Ergebnis ist unveränderlich.",
+        "correct": false
+       }
+      ]
+     }
+    },
+    {
+     "key": "mako-zp-aufgaben-q15",
+     "type": "mc",
+     "exam_part": 1,
+     "difficulty": 2,
+     "source": "Abgewandelt nach Zwischenprüfung MaKo (Joseph-DuMont-Berufskolleg) und eigene Grundlagenaufgaben",
+     "body": {
+      "prompt": "Was ist eine Grundgesamtheit?",
+      "options": [
+       {
+        "text": "Alle Elemente, über die eine Aussage getroffen werden soll",
+        "correct": true
+       },
+       {
+        "text": "Die befragten Personen",
+        "correct": false
+       },
+       {
+        "text": "Die Hälfte aller Personen",
+        "correct": false
+       },
+       {
+        "text": "Die Stichprobe nach Zufallsauswahl",
+        "correct": false
+       }
+      ]
+     }
+    },
+    {
+     "key": "mako-zp-aufgaben-q16",
+     "type": "mc",
+     "exam_part": 1,
+     "difficulty": 2,
+     "source": "Abgewandelt nach Zwischenprüfung MaKo (Joseph-DuMont-Berufskolleg) und eigene Grundlagenaufgaben",
+     "body": {
+      "prompt": "Welche Aussage zu qualitativer Marktforschung stimmt?",
+      "options": [
+       {
+        "text": "Sie untersucht Motive und Meinungen in kleinen Gruppen.",
+        "correct": true
+       },
+       {
+        "text": "Sie arbeitet mit sehr großen Stichproben.",
+        "correct": false
+       },
+       {
+        "text": "Sie liefert ausschließlich Zahlen.",
+        "correct": false
+       },
+       {
+        "text": "Sie ersetzt immer die quantitative Forschung.",
+        "correct": false
+       }
+      ]
+     }
+    },
+    {
+     "key": "mako-zp-aufgaben-q17",
+     "type": "mc",
+     "exam_part": 1,
+     "difficulty": 2,
+     "source": "Abgewandelt nach Zwischenprüfung MaKo (Joseph-DuMont-Berufskolleg) und eigene Grundlagenaufgaben",
+     "body": {
+      "prompt": "Welche Methode ist typisch für die Beobachtung?",
+      "options": [
+       {
+        "text": "Mystery Shopping bzw. Testkauf",
+        "correct": true
+       },
+       {
+        "text": "Telefonbefragung",
+        "correct": false
+       },
+       {
+        "text": "Desk Research",
+        "correct": false
+       },
+       {
+        "text": "Auswertung des Handelsregisters",
+        "correct": false
+       }
+      ]
+     }
+    },
+    {
+     "key": "mako-zp-aufgaben-q18",
+     "type": "mc",
+     "exam_part": 1,
+     "difficulty": 2,
+     "source": "Abgewandelt nach Zwischenprüfung MaKo (Joseph-DuMont-Berufskolleg) und eigene Grundlagenaufgaben",
+     "body": {
+      "prompt": "Welche Methode gehört zur Primärforschung?",
+      "options": [
+       {
+        "text": "Gruppendiskussion",
+        "correct": true
+       },
+       {
+        "text": "Auswertung von Statistischen Jahrbüchern",
+        "correct": false
+       },
+       {
+        "text": "Analyse von Geschäftsberichten",
+        "correct": false
+       },
+       {
+        "text": "Internetrecherche",
+        "correct": false
+       }
+      ]
+     }
+    },
+    {
+     "key": "mako-zp-aufgaben-q19",
+     "type": "mc",
+     "exam_part": 1,
+     "difficulty": 2,
+     "source": "Abgewandelt nach Zwischenprüfung MaKo (Joseph-DuMont-Berufskolleg) und eigene Grundlagenaufgaben",
+     "body": {
+      "prompt": "Welche Aufgabe haben die Werbeverbände ZAW und GWA?",
+      "options": [
+       {
+        "text": "Interessenvertretung der Werbewirtschaft bzw. der Kommunikationsagenturen",
+        "correct": true
+       },
+       {
+        "text": "Auflagenkontrolle",
+        "correct": false
+       },
+       {
+        "text": "Reichweitenmessung",
+        "correct": false
+       },
+       {
+        "text": "Verleihung von Kreativpreisen",
+        "correct": false
+       }
+      ]
+     }
+    },
+    {
+     "key": "mako-zp-aufgaben-q20",
+     "type": "mc",
+     "exam_part": 1,
+     "difficulty": 2,
+     "source": "Abgewandelt nach Zwischenprüfung MaKo (Joseph-DuMont-Berufskolleg) und eigene Grundlagenaufgaben",
+     "body": {
+      "prompt": "Wer führt die Selbstkontrolle der Werbewirtschaft durch?",
+      "options": [
+       {
+        "text": "Der Deutsche Werberat",
+        "correct": true
+       },
+       {
+        "text": "Der ZAW-Bundestag",
+        "correct": false
+       },
+       {
+        "text": "Das Bundeskartellamt",
+        "correct": false
+       },
+       {
+        "text": "Die Landesmedienanstalt",
+        "correct": false
+       }
+      ]
+     }
+    },
+    {
+     "key": "mako-zp-aufgaben-q21",
+     "type": "mc",
+     "exam_part": 1,
+     "difficulty": 2,
+     "source": "Abgewandelt nach Zwischenprüfung MaKo (Joseph-DuMont-Berufskolleg) und eigene Grundlagenaufgaben",
+     "body": {
+      "prompt": "Wer ermittelt die verbreiteten Auflagen der Printmedien?",
+      "options": [
+       {
+        "text": "IVW",
+        "correct": true
+       },
+       {
+        "text": "AGOF",
+        "correct": false
+       },
+       {
+        "text": "GWA",
+        "correct": false
+       },
+       {
+        "text": "ADC",
+        "correct": false
+       }
+      ]
+     }
+    },
+    {
+     "key": "mako-zp-aufgaben-q22",
+     "type": "mc",
+     "exam_part": 1,
+     "difficulty": 2,
+     "source": "Abgewandelt nach Zwischenprüfung MaKo (Joseph-DuMont-Berufskolleg) und eigene Grundlagenaufgaben",
+     "body": {
+      "prompt": "Welche Berufsbezeichnung beschreibt die Person, die in der Agentur Termine überwacht?",
+      "options": [
+       {
+        "text": "Trafficer",
+        "correct": true
+       },
+       {
+        "text": "Texter",
+        "correct": false
+       },
+       {
+        "text": "Mediaplaner",
+        "correct": false
+       },
+       {
+        "text": "Art Director",
+        "correct": false
+       }
+      ]
+     }
+    },
+    {
+     "key": "mako-zp-aufgaben-q23",
+     "type": "mc",
+     "exam_part": 1,
+     "difficulty": 2,
+     "source": "Abgewandelt nach Zwischenprüfung MaKo (Joseph-DuMont-Berufskolleg) und eigene Grundlagenaufgaben",
+     "body": {
+      "prompt": "Welche Berufsbezeichnung beschreibt die Kundenbetreuung in der Agentur?",
+      "options": [
+       {
+        "text": "Kontakter bzw. Kundenberater",
+        "correct": true
+       },
+       {
+        "text": "Trafficer",
+        "correct": false
+       },
+       {
+        "text": "Controller",
+        "correct": false
+       },
+       {
+        "text": "Creative Director",
+        "correct": false
+       }
+      ]
+     }
+    },
+    {
+     "key": "mako-zp-aufgaben-q24",
+     "type": "mc",
+     "exam_part": 1,
+     "difficulty": 2,
+     "source": "Abgewandelt nach Zwischenprüfung MaKo (Joseph-DuMont-Berufskolleg) und eigene Grundlagenaufgaben",
+     "body": {
+      "prompt": "Welche Abteilung einer Agentur plant die Auswahl der Werbeträger?",
+      "options": [
+       {
+        "text": "Media",
+        "correct": true
+       },
+       {
+        "text": "Kreation",
+        "correct": false
+       },
+       {
+        "text": "Produktion",
+        "correct": false
+       },
+       {
+        "text": "Verwaltung",
+        "correct": false
+       }
+      ]
+     }
+    },
+    {
+     "key": "mako-zp-aufgaben-q25",
+     "type": "mc",
+     "exam_part": 1,
+     "difficulty": 2,
+     "source": "Abgewandelt nach Zwischenprüfung MaKo (Joseph-DuMont-Berufskolleg) und eigene Grundlagenaufgaben",
+     "body": {
+      "prompt": "Welche Aussage zur Corporate Identity ist richtig?",
+      "options": [
+       {
+        "text": "Sie ist das Selbstbild und die einheitliche Selbstdarstellung eines Unternehmens.",
+        "correct": true
+       },
+       {
+        "text": "Sie ist das Fremdbild.",
+        "correct": false
+       },
+       {
+        "text": "Sie beschreibt nur das Logo.",
+        "correct": false
+       },
+       {
+        "text": "Sie entsteht ausschließlich durch Werbung.",
+        "correct": false
+       }
+      ]
+     }
+    },
+    {
+     "key": "mako-zp-aufgaben-q26",
+     "type": "mc",
+     "exam_part": 1,
+     "difficulty": 2,
+     "source": "Abgewandelt nach Zwischenprüfung MaKo (Joseph-DuMont-Berufskolleg) und eigene Grundlagenaufgaben",
+     "body": {
+      "prompt": "Das Image eines Unternehmens ist …",
+      "options": [
+       {
+        "text": "das Fremdbild, das Außenstehende vom Unternehmen haben.",
+        "correct": true
+       },
+       {
+        "text": "das Selbstbild.",
+        "correct": false
+       },
+       {
+        "text": "das Logo.",
+        "correct": false
+       },
+       {
+        "text": "die Rechtsform.",
+        "correct": false
+       }
+      ]
+     }
+    },
+    {
+     "key": "mako-zp-aufgaben-q27",
+     "type": "mc",
+     "exam_part": 1,
+     "difficulty": 2,
+     "source": "Abgewandelt nach Zwischenprüfung MaKo (Joseph-DuMont-Berufskolleg) und eigene Grundlagenaufgaben",
+     "body": {
+      "prompt": "Welche Aussage zum Marketing-Mix ist richtig?",
+      "options": [
+       {
+        "text": "Die Instrumente Produkt, Preis, Distribution und Kommunikation müssen aufeinander abgestimmt sein.",
+        "correct": true
+       },
+       {
+        "text": "Jedes Instrument wird unabhängig geplant.",
+        "correct": false
+       },
+       {
+        "text": "Es besteht nur aus Werbung.",
+        "correct": false
+       },
+       {
+        "text": "Die Distribution ist nicht Teil des Marketing-Mix.",
+        "correct": false
+       }
+      ]
+     }
+    },
+    {
+     "key": "mako-zp-aufgaben-q28",
+     "type": "mc",
+     "exam_part": 1,
+     "difficulty": 2,
+     "source": "Abgewandelt nach Zwischenprüfung MaKo (Joseph-DuMont-Berufskolleg) und eigene Grundlagenaufgaben",
+     "body": {
+      "prompt": "Welcher Begriff beschreibt die Entwicklung vom Verkäufer- zum Käufermarkt?",
+      "options": [
+       {
+        "text": "Das Angebot übersteigt die Nachfrage; der Kunde rückt in den Mittelpunkt.",
+        "correct": true
+       },
+       {
+        "text": "Die Nachfrage übersteigt das Angebot.",
+        "correct": false
+       },
+       {
+        "text": "Der Staat steuert die Märkte.",
+        "correct": false
+       },
+       {
+        "text": "Marketing wird abgeschafft.",
+        "correct": false
+       }
+      ]
+     }
+    },
+    {
+     "key": "mako-zp-aufgaben-q29",
+     "type": "mc",
+     "exam_part": 1,
+     "difficulty": 2,
+     "source": "Abgewandelt nach Zwischenprüfung MaKo (Joseph-DuMont-Berufskolleg) und eigene Grundlagenaufgaben",
+     "body": {
+      "prompt": "Wofür steht die Abkürzung GWA?",
+      "options": [
+       {
+        "text": "Gesamtverband Kommunikationsagenturen",
+        "correct": true
+       },
+       {
+        "text": "Gesellschaft für Werbeanalyse",
+        "correct": false
+       },
+       {
+        "text": "Gewerbeverband Werbung und Absatz",
+        "correct": false
+       },
+       {
+        "text": "Gesamtverband der Werbeartikelhersteller",
+        "correct": false
+       }
+      ]
+     }
+    },
+    {
+     "key": "mako-zp-aufgaben-q30",
+     "type": "mc",
+     "exam_part": 1,
+     "difficulty": 2,
+     "source": "Abgewandelt nach Zwischenprüfung MaKo (Joseph-DuMont-Berufskolleg) und eigene Grundlagenaufgaben",
+     "body": {
+      "prompt": "Wofür steht die Abkürzung DPRG?",
+      "options": [
+       {
+        "text": "Deutsche Public Relations Gesellschaft",
+        "correct": true
+       },
+       {
+        "text": "Deutsche Plakat-Reklame-Gesellschaft",
+        "correct": false
+       },
+       {
+        "text": "Digitale Planungs- und Reichweitengemeinschaft",
+        "correct": false
+       },
+       {
+        "text": "Deutscher Produktions- und Rechtsverband",
+        "correct": false
+       }
+      ]
+     }
+    },
+    {
+     "key": "mako-zp-aufgaben-q31",
+     "type": "mc",
+     "exam_part": 1,
+     "difficulty": 2,
+     "source": "Abgewandelt nach Zwischenprüfung MaKo (Joseph-DuMont-Berufskolleg) und eigene Grundlagenaufgaben",
+     "body": {
+      "prompt": "Welche Stelle vergibt in Deutschland Kreativpreise und vertritt Kreative?",
+      "options": [
+       {
+        "text": "ADC (Art Directors Club)",
+        "correct": true
+       },
+       {
+        "text": "IVW",
+        "correct": false
+       },
+       {
+        "text": "AGOF",
+        "correct": false
+       },
+       {
+        "text": "DPRG",
+        "correct": false
+       }
+      ]
+     }
+    },
+    {
+     "key": "mako-zp-aufgaben-q32",
+     "type": "mc",
+     "exam_part": 1,
+     "difficulty": 2,
+     "source": "Abgewandelt nach Zwischenprüfung MaKo (Joseph-DuMont-Berufskolleg) und eigene Grundlagenaufgaben",
+     "body": {
+      "prompt": "Welche Information gehört zum Kundenbriefing?",
+      "options": [
+       {
+        "text": "Zielgruppe, Ziele, Budget, Zeitrahmen",
+        "correct": true
+       },
+       {
+        "text": "Interne Gehälter der Agentur",
+        "correct": false
+       },
+       {
+        "text": "Mitarbeiterbewertung",
+        "correct": false
+       },
+       {
+        "text": "Rechtsform der Druckerei",
+        "correct": false
+       }
+      ]
+     }
+    },
+    {
+     "key": "mako-zp-aufgaben-q33",
+     "type": "mc",
+     "exam_part": 1,
+     "difficulty": 2,
+     "source": "Abgewandelt nach Zwischenprüfung MaKo (Joseph-DuMont-Berufskolleg) und eigene Grundlagenaufgaben",
+     "body": {
+      "prompt": "Welche Funktion hat das Re-Briefing?",
+      "options": [
+       {
+        "text": "Das Auftragsverständnis wird schriftlich zusammengefasst und vom Kunden bestätigt.",
+        "correct": true
+       },
+       {
+        "text": "Der Kunde zahlt eine Anzahlung.",
+        "correct": false
+       },
+       {
+        "text": "Die Agentur kündigt den Auftrag.",
+        "correct": false
+       },
+       {
+        "text": "Die Agentur beginnt mit der Produktion.",
+        "correct": false
+       }
+      ]
+     }
+    },
+    {
+     "key": "mako-zp-aufgaben-q34",
+     "type": "mc",
+     "exam_part": 1,
+     "difficulty": 2,
+     "source": "Abgewandelt nach Zwischenprüfung MaKo (Joseph-DuMont-Berufskolleg) und eigene Grundlagenaufgaben",
+     "body": {
+      "prompt": "Was versteht man unter einem Pitch?",
+      "options": [
+       {
+        "text": "Wettbewerbspräsentation mehrerer Agenturen um einen Auftrag",
+        "correct": true
+       },
+       {
+        "text": "Eine Produktpräsentation im Handel",
+        "correct": false
+       },
+       {
+        "text": "Ein Preisnachlass",
+        "correct": false
+       },
+       {
+        "text": "Eine Beschwerde",
+        "correct": false
+       }
+      ]
+     }
+    },
+    {
+     "key": "mako-zp-aufgaben-q35",
+     "type": "mc",
+     "exam_part": 1,
+     "difficulty": 2,
+     "source": "Abgewandelt nach Zwischenprüfung MaKo (Joseph-DuMont-Berufskolleg) und eigene Grundlagenaufgaben",
+     "body": {
+      "prompt": "Welche Aussage zu Zielgruppen ist richtig?",
+      "options": [
+       {
+        "text": "Zielgruppen werden anhand soziodemografischer, psychografischer und verhaltensbezogener Merkmale beschrieben.",
+        "correct": true
+       },
+       {
+        "text": "Zielgruppen sind immer alle Einwohner.",
+        "correct": false
+       },
+       {
+        "text": "Zielgruppen werden nur über das Alter definiert.",
+        "correct": false
+       },
+       {
+        "text": "Zielgruppen sind für die Mediaplanung unwichtig.",
+        "correct": false
+       }
+      ]
+     }
+    },
+    {
+     "key": "mako-zp-aufgaben-q36",
+     "type": "mc",
+     "exam_part": 1,
+     "difficulty": 2,
+     "source": "Abgewandelt nach Zwischenprüfung MaKo (Joseph-DuMont-Berufskolleg) und eigene Grundlagenaufgaben",
+     "body": {
+      "prompt": "Welches Merkmal ist ein verhaltensbezogenes Zielgruppenmerkmal?",
+      "options": [
+       {
+        "text": "Markentreue",
+        "correct": true
+       },
+       {
+        "text": "Alter",
+        "correct": false
+       },
+       {
+        "text": "Wohnort",
+        "correct": false
+       },
+       {
+        "text": "Berufsabschluss",
+        "correct": false
+       }
+      ]
+     }
+    },
+    {
+     "key": "mako-zp-aufgaben-q37",
+     "type": "mc",
+     "exam_part": 1,
+     "difficulty": 2,
+     "source": "Abgewandelt nach Zwischenprüfung MaKo (Joseph-DuMont-Berufskolleg) und eigene Grundlagenaufgaben",
+     "body": {
+      "prompt": "Welches Merkmal ist ein psychografisches Zielgruppenmerkmal?",
+      "options": [
+       {
+        "text": "Wertehaltung und Lebensstil",
+        "correct": true
+       },
+       {
+        "text": "Einkommen",
+        "correct": false
+       },
+       {
+        "text": "Geschlecht",
+        "correct": false
+       },
+       {
+        "text": "Haushaltsgröße",
+        "correct": false
+       }
+      ]
+     }
+    },
+    {
+     "key": "mako-zp-aufgaben-q38",
+     "type": "mc",
+     "exam_part": 1,
+     "difficulty": 2,
+     "source": "Abgewandelt nach Zwischenprüfung MaKo (Joseph-DuMont-Berufskolleg) und eigene Grundlagenaufgaben",
+     "body": {
+      "prompt": "Welches Merkmal ist ein geografisches Zielgruppenmerkmal?",
+      "options": [
+       {
+        "text": "Postleitzahlgebiet",
+        "correct": true
+       },
+       {
+        "text": "Lebensstil",
+        "correct": false
+       },
+       {
+        "text": "Markentreue",
+        "correct": false
+       },
+       {
+        "text": "Mediennutzung",
+        "correct": false
+       }
+      ]
+     }
+    },
+    {
+     "key": "mako-zp-aufgaben-q39",
+     "type": "mc",
+     "exam_part": 1,
+     "difficulty": 2,
+     "source": "Abgewandelt nach Zwischenprüfung MaKo (Joseph-DuMont-Berufskolleg) und eigene Grundlagenaufgaben",
+     "body": {
+      "prompt": "Was ist eine Persona?",
+      "options": [
+       {
+        "text": "Eine fiktive, typische Vertreterin einer Zielgruppe mit Bedürfnissen und Verhalten",
+        "correct": true
+       },
+       {
+        "text": "Eine reale Kundin im Kundenstamm",
+        "correct": false
+       },
+       {
+        "text": "Ein Markenlogo",
+        "correct": false
+       },
+       {
+        "text": "Ein Konkurrenzprodukt",
+        "correct": false
+       }
+      ]
+     }
+    },
+    {
+     "key": "mako-zp-aufgaben-q40",
+     "type": "mc",
+     "exam_part": 1,
+     "difficulty": 2,
+     "source": "Abgewandelt nach Zwischenprüfung MaKo (Joseph-DuMont-Berufskolleg) und eigene Grundlagenaufgaben",
+     "body": {
+      "prompt": "Welche Aussage zum Deutschen Werberat ist richtig?",
+      "options": [
+       {
+        "text": "Er spricht Rügen aus, kann aber keine Bußgelder verhängen.",
+        "correct": true
+       },
+       {
+        "text": "Er verhängt Bußgelder bis 100.000 €.",
+        "correct": false
+       },
+       {
+        "text": "Er ist eine staatliche Behörde.",
+        "correct": false
+       },
+       {
+        "text": "Er prüft nur Fernsehwerbung.",
+        "correct": false
+       }
+      ]
+     }
+    },
+    {
+     "key": "mako-zp-aufgaben-q41",
+     "type": "mc",
+     "exam_part": 1,
+     "difficulty": 2,
+     "source": "Abgewandelt nach Zwischenprüfung MaKo (Joseph-DuMont-Berufskolleg) und eigene Grundlagenaufgaben",
+     "body": {
+      "prompt": "Welche Aussage zur Werbewirtschaft in Deutschland trifft zu?",
+      "options": [
+       {
+        "text": "Die Werbewirtschaft trägt mit rund 1 % zum BIP bei und beschäftigt rund 900.000 Menschen.",
+        "correct": true
+       },
+       {
+        "text": "Die Werbewirtschaft ist volkswirtschaftlich unbedeutend.",
+        "correct": false
+       },
+       {
+        "text": "Die meisten Beschäftigten arbeiten in Behörden.",
+        "correct": false
+       },
+       {
+        "text": "Der Werbemarkt schrumpft seit Jahrzehnten.",
+        "correct": false
+       }
+      ]
+     }
+    },
+    {
+     "key": "mako-zp-aufgaben-q42",
+     "type": "tf",
+     "exam_part": 1,
+     "difficulty": 2,
+     "source": "Abgewandelt nach Zwischenprüfung MaKo (Joseph-DuMont-Berufskolleg) und eigene Grundlagenaufgaben",
+     "body": {
+      "statement": "Eine Omnibus-Befragung wird im Auftrag mehrerer Unternehmen durchgeführt.",
+      "answer": true
+     }
+    },
+    {
+     "key": "mako-zp-aufgaben-q43",
+     "type": "tf",
+     "exam_part": 1,
+     "difficulty": 2,
+     "source": "Abgewandelt nach Zwischenprüfung MaKo (Joseph-DuMont-Berufskolleg) und eigene Grundlagenaufgaben",
+     "body": {
+      "statement": "Die Panel-Befragung befragt jedes Mal neue Personen.",
+      "answer": false
+     }
+    },
+    {
+     "key": "mako-zp-aufgaben-q44",
+     "type": "tf",
+     "exam_part": 1,
+     "difficulty": 2,
+     "source": "Abgewandelt nach Zwischenprüfung MaKo (Joseph-DuMont-Berufskolleg) und eigene Grundlagenaufgaben",
+     "body": {
+      "statement": "Eine Quotenstichprobe wird nach Zufall gezogen.",
+      "answer": false
+     }
+    },
+    {
+     "key": "mako-zp-aufgaben-q45",
+     "type": "tf",
+     "exam_part": 1,
+     "difficulty": 2,
+     "source": "Abgewandelt nach Zwischenprüfung MaKo (Joseph-DuMont-Berufskolleg) und eigene Grundlagenaufgaben",
+     "body": {
+      "statement": "Die ungestützte Bekanntheit ist in der Regel niedriger als die gestützte.",
+      "answer": true
+     }
+    },
+    {
+     "key": "mako-zp-aufgaben-q46",
+     "type": "tf",
+     "exam_part": 1,
+     "difficulty": 2,
+     "source": "Abgewandelt nach Zwischenprüfung MaKo (Joseph-DuMont-Berufskolleg) und eigene Grundlagenaufgaben",
+     "body": {
+      "statement": "Die Konkurrenzanalyse ist Teil der Marktforschung.",
+      "answer": true
+     }
+    },
+    {
+     "key": "mako-zp-aufgaben-q47",
+     "type": "match",
+     "exam_part": 1,
+     "difficulty": 2,
+     "source": "Abgewandelt nach Zwischenprüfung MaKo (Joseph-DuMont-Berufskolleg) und eigene Grundlagenaufgaben",
+     "body": {
+      "prompt": "Ordnen Sie dem Fachbegriff die Erklärung zu.",
+      "items": [
+       {
+        "term": "Panel-Befragung",
+        "match": "Wiederholtes Befragen derselben Personen"
+       },
+       {
+        "term": "Omnibus-Befragung",
+        "match": "Mehrthemenbefragung"
+       },
+       {
+        "term": "Validität",
+        "match": "Gültigkeit nachweisbar"
+       },
+       {
+        "term": "Signifikanz",
+        "match": "Ergebnis über der Zufallswahrscheinlichkeit"
+       }
+      ],
+      "distractors": []
+     }
+    },
+    {
+     "key": "mako-zp-aufgaben-q48",
+     "type": "match",
+     "exam_part": 1,
+     "difficulty": 2,
+     "source": "Abgewandelt nach Zwischenprüfung MaKo (Joseph-DuMont-Berufskolleg) und eigene Grundlagenaufgaben",
+     "body": {
+      "prompt": "Ordnen Sie jeden Verband der Aufgabe zu.",
+      "items": [
+       {
+        "term": "ZAW",
+        "match": "Dachverband der Werbewirtschaft"
+       },
+       {
+        "term": "GWA",
+        "match": "Verband der Kommunikationsagenturen"
+       },
+       {
+        "term": "ADC",
+        "match": "Kreativverband mit Wettbewerben"
+       },
+       {
+        "term": "IVW",
+        "match": "Auflagenkontrolle"
+       }
+      ],
+      "distractors": []
+     }
+    },
+    {
+     "key": "mako-zp-aufgaben-q49",
+     "type": "match",
+     "exam_part": 1,
+     "difficulty": 2,
+     "source": "Abgewandelt nach Zwischenprüfung MaKo (Joseph-DuMont-Berufskolleg) und eigene Grundlagenaufgaben",
+     "body": {
+      "prompt": "Ordnen Sie jedem Zielgruppenmerkmal die Kategorie zu.",
+      "items": [
+       {
+        "term": "Haushaltseinkommen",
+        "match": "soziodemografisch"
+       },
+       {
+        "term": "Umweltbewusstsein",
+        "match": "psychografisch"
+       },
+       {
+        "term": "Einkaufsstättenwahl",
+        "match": "verhaltensbezogen"
+       },
+       {
+        "term": "Wohnort",
+        "match": "geografisch"
+       }
+      ],
+      "distractors": []
+     }
+    },
+    {
+     "key": "mako-zp-aufgaben-q50",
+     "type": "order",
+     "exam_part": 1,
+     "difficulty": 2,
+     "source": "Abgewandelt nach Zwischenprüfung MaKo (Joseph-DuMont-Berufskolleg) und eigene Grundlagenaufgaben",
+     "body": {
+      "prompt": "Bringen Sie den Ablauf einer Marktforschung in die richtige Reihenfolge.",
+      "items": [
+       "Problemdefinition und Zielsetzung",
+       "Auswahl der Methode und Stichprobe",
+       "Datenerhebung",
+       "Auswertung und Interpretation",
+       "Präsentation der Ergebnisse"
+      ]
+     }
+    },
+    {
+     "key": "mako-zp-aufgaben-q51",
+     "type": "cloze",
+     "exam_part": 1,
+     "difficulty": 2,
+     "source": "Abgewandelt nach Zwischenprüfung MaKo (Joseph-DuMont-Berufskolleg) und eigene Grundlagenaufgaben",
+     "body": {
+      "text": "Bei der [[Primärforschung]] werden neue Daten erhoben, bei der [[Sekundärforschung]] vorhandene ausgewertet."
+     }
+    },
+    {
+     "key": "mako-zp-aufgaben-q52",
+     "type": "cloze",
+     "exam_part": 1,
+     "difficulty": 2,
+     "source": "Abgewandelt nach Zwischenprüfung MaKo (Joseph-DuMont-Berufskolleg) und eigene Grundlagenaufgaben",
+     "body": {
+      "text": "Eine Stichprobe ist [[repräsentativ]], wenn sie ein [[verkleinertes]] Abbild der Grundgesamtheit darstellt."
+     }
+    },
+    {
+     "key": "mako-zp-aufgaben-q53",
+     "type": "error",
+     "exam_part": 1,
+     "difficulty": 2,
+     "source": "Abgewandelt nach Zwischenprüfung MaKo (Joseph-DuMont-Berufskolleg) und eigene Grundlagenaufgaben",
+     "body": {
+      "prompt": "Welche Aussagen zur Marktforschung sind fehlerhaft?",
+      "items": [
+       {
+        "text": "Qualitative Forschung arbeitet mit großen Stichproben und Zahlen.",
+        "wrong": true,
+        "fix": "Das ist quantitative Forschung."
+       },
+       {
+        "text": "Ein Testmarkt ist ein geografisch begrenztes Gebiet.",
+        "wrong": false
+       },
+       {
+        "text": "Sekundärforschung erhebt grundsätzlich neue Daten.",
+        "wrong": true,
+        "fix": "Sie wertet vorhandene Daten aus."
+       },
+       {
+        "text": "Panel-Befragungen befragen dieselben Personen wiederholt.",
+        "wrong": false
+       }
+      ]
+     }
+    }
+   ],
+   "templates": [
+    {
+     "key": "mako-zp-aufgaben-t01",
+     "type": "calc",
+     "exam_part": 1,
+     "difficulty": 2,
+     "source": "Abgewandelt nach Zwischenprüfung MaKo (Joseph-DuMont-Berufskolleg) und eigene Grundlagenaufgaben",
+     "vars": {
+      "n": {
+       "type": "pick",
+       "options": [
+        500,
+        800,
+        1000,
+        1200
+       ]
+      },
+      "p": {
+       "type": "pick",
+       "options": [
+        0.15,
+        0.2,
+        0.25,
+        0.3
+       ]
+      },
+      "k": {
+       "type": "expr",
+       "expr": "n*p",
+       "decimals": 0
+      }
+     },
+     "body": {
+      "prompt": "Bei einer Umfrage unter {n} zufällig ausgewählten Personen kennen {k} die Marke ungestützt. Berechnen Sie die ungestützte Bekanntheit in Prozent.",
+      "answer": "k/n*100",
+      "unit": "%",
+      "decimals": 2,
+      "steps": [
+       "{k} : {n} · 100 = {result} %"
+      ]
+     }
+    },
+    {
+     "key": "mako-zp-aufgaben-t02",
+     "type": "calc",
+     "exam_part": 1,
+     "difficulty": 2,
+     "source": "Abgewandelt nach Zwischenprüfung MaKo (Joseph-DuMont-Berufskolleg) und eigene Grundlagenaufgaben",
+     "vars": {
+      "g": {
+       "type": "pick",
+       "options": [
+        40,
+        55,
+        65,
+        80,
+        85
+       ]
+      },
+      "zg": {
+       "type": "int",
+       "min": 100000,
+       "max": 2000000,
+       "step": 100000
+      }
+     },
+     "body": {
+      "prompt": "Eine Marke hat eine gestützte Bekanntheit von {g} % in einer Zielgruppe von {zg|int} Personen. Wie viele Personen kennen die Marke gestützt?",
+      "answer": "zg*g/100",
+      "unit": "Personen",
+      "decimals": 0,
+      "steps": [
+       "{zg|int} · {g} % = {result}"
+      ]
+     }
+    }
+   ],
+   "cases": []
+  }
+ ]
+}

@@ -1,0 +1,958 @@
+{
+ "demo": false,
+ "items": [
+  {
+   "topic": "wsp-pr-aufgaben",
+   "flashcards": [],
+   "glossary": [],
+   "questions": [
+    {
+     "key": "wsp-pr-aufgaben-q01",
+     "type": "mc",
+     "exam_part": 2,
+     "difficulty": 2,
+     "points": 4,
+     "source": "Abgewandelt nach IHK-Abschlussprüfungen (WiSo, Teil 2) – Fortune Agentur (FAMK) / Kunde Zweitschatz",
+     "body": {
+      "prompt": "Die FAMK schlägt ihrem Kunden Zweitschatz vor, Sitzkissen aus alten Fahrradschläuchen herstellen zu lassen. Sie stoßen auf das Einzelunternehmen Reifenwerk Brandt e. K. und recherchieren die Vertretungsbefugnis. Die Vertretungsbefugnis hat bei einer Einzelunternehmung der …",
+      "options": [
+       {
+        "text": "Inhaber.",
+        "correct": true
+       },
+       {
+        "text": "Vorstand.",
+        "correct": false
+       },
+       {
+        "text": "Aufsichtsrat.",
+        "correct": false
+       },
+       {
+        "text": "Geschäftsführer.",
+        "correct": false
+       },
+       {
+        "text": "Komplementär.",
+        "correct": false
+       }
+      ]
+     }
+    },
+    {
+     "key": "wsp-pr-aufgaben-q02",
+     "type": "mc",
+     "exam_part": 2,
+     "difficulty": 2,
+     "points": 4,
+     "source": "Abgewandelt nach IHK-Abschlussprüfungen (WiSo, Teil 2) – Fortune Agentur (FAMK) / Kunde Zweitschatz",
+     "body": {
+      "prompt": "Welches der folgenden Kriterien wird bei der Entscheidung über die Eintragungspflicht eines Einzelunternehmens ins Handelsregister NICHT herangezogen? Das Kriterium betrifft Informationen über …",
+      "options": [
+       {
+        "text": "den Ort der Firmengründung.",
+        "correct": true
+       },
+       {
+        "text": "den Jahresumsatz.",
+        "correct": false
+       },
+       {
+        "text": "die Art und Anzahl der Geschäftsvorgänge.",
+        "correct": false
+       },
+       {
+        "text": "die Anzahl der Beschäftigten.",
+        "correct": false
+       },
+       {
+        "text": "die Notwendigkeit einer kaufmännischen Buchführung.",
+        "correct": false
+       }
+      ]
+     }
+    },
+    {
+     "key": "wsp-pr-aufgaben-q03",
+     "type": "mc",
+     "exam_part": 2,
+     "difficulty": 2,
+     "points": 4,
+     "source": "Abgewandelt nach IHK-Abschlussprüfungen (WiSo, Teil 2) – Fortune Agentur (FAMK) / Kunde Zweitschatz",
+     "body": {
+      "prompt": "Welche Aussage entspricht der Haftungsregelung bei einem Einzelunternehmen? Bei einem Einzelunternehmen haftet der …",
+      "options": [
+       {
+        "text": "Einzelunternehmer mit seinem Privat- und Geschäftsvermögen.",
+        "correct": true
+       },
+       {
+        "text": "Einzelunternehmer nur mit seinem Geschäftsvermögen.",
+        "correct": false
+       },
+       {
+        "text": "Kapitalgeber mit der höchsten Kapitaleinlage.",
+        "correct": false
+       },
+       {
+        "text": "Bankangestellte, der den Unternehmenskredit gewährt hat.",
+        "correct": false
+       },
+       {
+        "text": "Arbeitnehmer, der den Auftrag weitergegeben hat.",
+        "correct": false
+       }
+      ]
+     }
+    },
+    {
+     "key": "wsp-pr-aufgaben-q04",
+     "type": "mc",
+     "exam_part": 2,
+     "difficulty": 2,
+     "points": 4,
+     "explanation": "Vorrang hat die Nacherfüllung (Nachbesserung/Ersatzlieferung).",
+     "source": "Abgewandelt nach IHK-Abschlussprüfungen (WiSo, Teil 2) – Fortune Agentur (FAMK) / Kunde Zweitschatz",
+     "body": {
+      "prompt": "Die FAMK lässt bei Reifenwerk Brandt e. K. den Schriftzug „Sitzen für Zweitschatz“ in die Kissenbezüge prägen. Beim ersten Einsatz auf einem Event löst sich bei mehreren Kissen die Prägung ab. Welches Recht steht der FAMK gegenüber dem Reifenwerk vorrangig zu? Der FAMK steht vorrangig …",
+      "options": [
+       {
+        "text": "die Beseitigung des Mangels zu.",
+        "correct": true
+       },
+       {
+        "text": "kein Recht zu, da der offene Mangel sofort nach Lieferung hätte gerügt werden müssen.",
+        "correct": false
+       },
+       {
+        "text": "der Rücktritt vom Kaufvertrag sowie Schadensersatz neben der Leistung zu.",
+        "correct": false
+       },
+       {
+        "text": "der Rücktritt vom Kaufvertrag sowie Schadensersatz statt der Leistung zu.",
+        "correct": false
+       },
+       {
+        "text": "die Minderung des Kaufpreises zu.",
+        "correct": false
+       }
+      ]
+     }
+    },
+    {
+     "key": "wsp-pr-aufgaben-q05",
+     "type": "mc",
+     "exam_part": 2,
+     "difficulty": 2,
+     "points": 4,
+     "explanation": "§ 29 GmbHG: Verteilung nach dem Verhältnis der Geschäftsanteile.",
+     "source": "Abgewandelt nach IHK-Abschlussprüfungen (WiSo, Teil 2) – Fortune Agentur (FAMK) / Kunde Zweitschatz",
+     "body": {
+      "prompt": "Neben den Kissen werden von der Gleitschirm-Manufaktur Nordwind GmbH Windsäcke mit dem Slogan „Weht für Zweitschatz“ gefertigt. Welche Aussage beschreibt die gesetzliche Regelung zur Gewinnverteilung bei einer GmbH?",
+      "options": [
+       {
+        "text": "Der Gewinn wird nach dem Verhältnis der Geschäftsanteile auf die Gesellschafter verteilt.",
+        "correct": true
+       },
+       {
+        "text": "Alle Gesellschafter erhalten den gleichen Gewinnanteil.",
+        "correct": false
+       },
+       {
+        "text": "Der Geschäftsführer erhält vorab 4 % auf sein Jahresgehalt, der Rest wird nach Köpfen verteilt.",
+        "correct": false
+       },
+       {
+        "text": "Jeder Gesellschafter erhält vorab 4 % auf seinen Kapitalanteil, der Restgewinn wird nach Köpfen verteilt.",
+        "correct": false
+       },
+       {
+        "text": "Jeder Gesellschafter erhält vorab 4 % auf seinen erwirtschafteten Umsatzanteil, der Rest wird nach Kapitalanteilen verteilt.",
+        "correct": false
+       }
+      ]
+     }
+    },
+    {
+     "key": "wsp-pr-aufgaben-q06",
+     "type": "mc",
+     "exam_part": 2,
+     "difficulty": 2,
+     "points": 4,
+     "explanation": "Geschuldet ist ein Erfolg (Herstellung eines bestimmten Werks).",
+     "source": "Abgewandelt nach IHK-Abschlussprüfungen (WiSo, Teil 2) – Fortune Agentur (FAMK) / Kunde Zweitschatz",
+     "body": {
+      "prompt": "Die FAMK beauftragt die Saitenwerk Hamburg e. K. mit Produktion und Branding von 24 Ukulelen mit dem Schriftzug „Zupfen für Zweitschatz“ zu einem Festpreis. Um welche Vertragsart handelt es sich? Es handelt sich um einen …",
+      "options": [
+       {
+        "text": "Werkvertrag.",
+        "correct": true
+       },
+       {
+        "text": "Dienstleistungsvertrag.",
+        "correct": false
+       },
+       {
+        "text": "Mietvertrag.",
+        "correct": false
+       },
+       {
+        "text": "Leasingvertrag.",
+        "correct": false
+       },
+       {
+        "text": "Honorarvertrag.",
+        "correct": false
+       }
+      ]
+     }
+    },
+    {
+     "key": "wsp-pr-aufgaben-q07",
+     "type": "mc",
+     "exam_part": 2,
+     "difficulty": 2,
+     "points": 4,
+     "source": "Abgewandelt nach IHK-Abschlussprüfungen (WiSo, Teil 2) – Fortune Agentur (FAMK) / Kunde Zweitschatz",
+     "body": {
+      "prompt": "Die FAMK hat für die Ukulele-Gruppe eine freiberufliche Musikerin als Lehrerin engagiert. An welche Institution müssen wegen der Beauftragung der Musikerin Zahlungen geleistet werden?",
+      "options": [
+       {
+        "text": "Künstlersozialkasse.",
+        "correct": true
+       },
+       {
+        "text": "Rentenversicherung.",
+        "correct": false
+       },
+       {
+        "text": "Krankenkasse.",
+        "correct": false
+       },
+       {
+        "text": "Arbeitslosenversicherung.",
+        "correct": false
+       },
+       {
+        "text": "Berufsunfähigkeitsversicherung.",
+        "correct": false
+       }
+      ]
+     }
+    },
+    {
+     "key": "wsp-pr-aufgaben-q08",
+     "type": "mc",
+     "exam_part": 2,
+     "difficulty": 2,
+     "points": 4,
+     "explanation": "Fixgeschäft: Verzug ohne Mahnung, da am falschen Ort geleistet wurde.",
+     "source": "Abgewandelt nach IHK-Abschlussprüfungen (WiSo, Teil 2) – Fortune Agentur (FAMK) / Kunde Zweitschatz",
+     "body": {
+      "prompt": "Das Saitenwerk sollte die Ukulelen laut Vertrag am 12.02. um 9:00 Uhr fix frei Haus an die FAMK liefern, liefert aber an die Adresse der Musikerin, wo niemand angetroffen wird. Die Instrumente werden im Fahrradschuppen abgestellt. Das Saitenwerk befindet sich ab 12.02., 9:00 Uhr …",
+      "options": [
+       {
+        "text": "im Lieferungsverzug.",
+        "correct": true
+       },
+       {
+        "text": "durch die Lieferung an die Musikerin nicht mehr in einer Lieferverpflichtung.",
+        "correct": false
+       },
+       {
+        "text": "im Annahmeverzug.",
+        "correct": false
+       },
+       {
+        "text": "im Zahlungsverzug.",
+        "correct": false
+       },
+       {
+        "text": "in keinem Verzug.",
+        "correct": false
+       }
+      ]
+     }
+    },
+    {
+     "key": "wsp-pr-aufgaben-q09",
+     "type": "mc",
+     "exam_part": 2,
+     "difficulty": 2,
+     "points": 4,
+     "source": "Abgewandelt nach IHK-Abschlussprüfungen (WiSo, Teil 2) – Fortune Agentur (FAMK) / Kunde Zweitschatz",
+     "body": {
+      "prompt": "Das geplante Auftakttreffen muss abgesagt werden, da die Instrumente fehlen. Zu Hause stellt die Musikerin fest, dass eine Ukulele aus dem Schuppen entwendet wurde. Welches Recht hat die FAMK gegenüber dem Saitenwerk?",
+      "options": [
+       {
+        "text": "Das Recht auf Schadensersatz für die Cateringkosten sowie die Nachlieferung der fehlenden Ukulele.",
+        "correct": true
+       },
+       {
+        "text": "Das Recht auf Nachlieferung. Das Catering kann von den Mitarbeitern gegessen werden.",
+        "correct": false
+       },
+       {
+        "text": "Das Recht auf Übernahme der Cateringkosten – die Lieferung erfolgte an einen trockenen, einwandfreien Ort.",
+        "correct": false
+       },
+       {
+        "text": "Das Recht auf eine Gutschrift über 50 % der Kosten, denn beide Seiten tragen Schuld.",
+        "correct": false
+       },
+       {
+        "text": "Keine Rechte, denn das Saitenwerk hat sich korrekt verhalten.",
+        "correct": false
+       }
+      ]
+     }
+    },
+    {
+     "key": "wsp-pr-aufgaben-q10",
+     "type": "mc",
+     "exam_part": 2,
+     "difficulty": 2,
+     "points": 4,
+     "explanation": "Kalendermäßig bestimmter Zahlungstermin → Verzug ohne Mahnung.",
+     "source": "Abgewandelt nach IHK-Abschlussprüfungen (WiSo, Teil 2) – Fortune Agentur (FAMK) / Kunde Zweitschatz",
+     "body": {
+      "prompt": "Am 05.03.2026 erhält die Zweitschatz GmbH die Rechnung der FAMK mit dem Zahlungsziel „zahlbar bis zum 20.03.2026“. Zu welchem Zeitpunkt gerät sie in Zahlungsverzug?",
+      "options": [
+       {
+        "text": "Nach Ablauf des 20.03.2026.",
+        "correct": true
+       },
+       {
+        "text": "30 Tage nach Zugang und Fälligkeit der Rechnung.",
+        "correct": false
+       },
+       {
+        "text": "Nach Zugang der Rechnung.",
+        "correct": false
+       },
+       {
+        "text": "Nach Zugang einer Mahnung und Ablauf der Nachfrist.",
+        "correct": false
+       },
+       {
+        "text": "Nach Zugang eines Mahnbescheides.",
+        "correct": false
+       }
+      ]
+     }
+    },
+    {
+     "key": "wsp-pr-aufgaben-q11",
+     "type": "mc",
+     "exam_part": 2,
+     "difficulty": 3,
+     "points": 4,
+     "source": "Abgewandelt nach IHK-Abschlussprüfungen (WiSo, Teil 2) – Fortune Agentur (FAMK) / Kunde Zweitschatz",
+     "body": {
+      "prompt": "Ein Auszubildender der FAMK fotografiert beim Straßenfest auch Porträts Jugendlicher, ohne um Erlaubnis zu fragen. Die FAMK verkauft das Material an Zweitschatz. Da keine Einwilligung eingeholt wurde, liegt eine …",
+      "options": [
+       {
+        "text": "mangelhafte Lieferung (Rechtsmangel) vor.",
+        "correct": true
+       },
+       {
+        "text": "Annahmeverzug vor.",
+        "correct": false
+       },
+       {
+        "text": "Hemmung vor.",
+        "correct": false
+       },
+       {
+        "text": "Stundung vor.",
+        "correct": false
+       },
+       {
+        "text": "Zahlungsverzug vor.",
+        "correct": false
+       }
+      ]
+     }
+    },
+    {
+     "key": "wsp-pr-aufgaben-q12",
+     "type": "match",
+     "exam_part": 2,
+     "difficulty": 1,
+     "points": 4,
+     "source": "Abgewandelt nach IHK-Abschlussprüfungen (WiSo, Teil 2) – Fortune Agentur (FAMK) / Kunde Zweitschatz",
+     "body": {
+      "prompt": "Welche Sicherheitszeichen sind den Farb-/Formvarianten zuzuordnen?",
+      "items": [
+       {
+        "term": "Gelb und dreieckig",
+        "match": "Warnzeichen: Stolpergefahr"
+       },
+       {
+        "term": "Grün und viereckig",
+        "match": "Rettungszeichen: Erste Hilfe"
+       },
+       {
+        "term": "Rot und viereckig",
+        "match": "Brandschutzzeichen: Löschschlauch"
+       },
+       {
+        "term": "Rot und rund",
+        "match": "Verbotszeichen: Rauchen verboten"
+       }
+      ],
+      "distractors": []
+     }
+    },
+    {
+     "key": "wsp-pr-aufgaben-q13",
+     "type": "mc",
+     "exam_part": 2,
+     "difficulty": 2,
+     "points": 4,
+     "source": "Abgewandelt nach IHK-Abschlussprüfungen (WiSo, Teil 2) – Fortune Agentur (FAMK) / Kunde Zweitschatz",
+     "body": {
+      "prompt": "Für die T-Shirts beim Straßenfest soll die Nachhaltigkeit der Kleidung über ein Siegel belegt werden. Welches Umweltsiegel kennzeichnet umweltschonend produzierte Textilien?",
+      "options": [
+       {
+        "text": "GOTS (Global Organic Textile Standard)",
+        "correct": true
+       },
+       {
+        "text": "Bioland",
+        "correct": false
+       },
+       {
+        "text": "demeter",
+        "correct": false
+       },
+       {
+        "text": "EU-Bio-Logo für Lebensmittel",
+        "correct": false
+       },
+       {
+        "text": "Grüner Punkt",
+        "correct": false
+       }
+      ]
+     }
+    },
+    {
+     "key": "wsp-pr-aufgaben-q14",
+     "type": "mc",
+     "exam_part": 2,
+     "difficulty": 2,
+     "points": 4,
+     "source": "Abgewandelt nach IHK-Abschlussprüfungen (WiSo, Teil 2) – Fortune Agentur (FAMK) / Kunde Zweitschatz",
+     "body": {
+      "prompt": "Der Veranstalter schreibt für alkoholfreie Getränke Pfandflaschen vor. Durch welches Zeichen wird ein Getränkepfandsystem gekennzeichnet?",
+      "options": [
+       {
+        "text": "Das DPG-Pfandlogo (Einwegpfand)",
+        "correct": true
+       },
+       {
+        "text": "Grüner Punkt",
+        "correct": false
+       },
+       {
+        "text": "Recyclingdreieck",
+        "correct": false
+       },
+       {
+        "text": "Blauer Engel",
+        "correct": false
+       },
+       {
+        "text": "FSC-Logo",
+        "correct": false
+       }
+      ]
+     }
+    },
+    {
+     "key": "wsp-pr-aufgaben-q15",
+     "type": "mc",
+     "exam_part": 2,
+     "difficulty": 2,
+     "points": 4,
+     "source": "Abgewandelt nach IHK-Abschlussprüfungen (WiSo, Teil 2) – Fortune Agentur (FAMK) / Kunde Zweitschatz",
+     "body": {
+      "prompt": "Bei einem Kunden soll in den nächsten Jahren massiv Personal abgebaut werden. Für welche Personengruppe existiert nur der allgemeine Kündigungsschutz? Ein allgemeiner Kündigungsschutz existiert …",
+      "options": [
+       {
+        "text": "in sozial ungerechtfertigten Fällen (nach dem KSchG).",
+        "correct": true
+       },
+       {
+        "text": "für Mitglieder des Betriebsrates.",
+        "correct": false
+       },
+       {
+        "text": "für Personen mit Schwerbehinderung.",
+        "correct": false
+       },
+       {
+        "text": "für Eltern in Elternzeit.",
+        "correct": false
+       },
+       {
+        "text": "für Auszubildende nach Ablauf der Probezeit.",
+        "correct": false
+       }
+      ]
+     }
+    },
+    {
+     "key": "wsp-pr-aufgaben-q16",
+     "type": "mc",
+     "exam_part": 2,
+     "difficulty": 2,
+     "points": 4,
+     "explanation": "Sozialeinrichtungen (§ 87 Abs. 1 Nr. 8 BetrVG) sind mitbestimmungspflichtig.",
+     "source": "Abgewandelt nach IHK-Abschlussprüfungen (WiSo, Teil 2) – Fortune Agentur (FAMK) / Kunde Zweitschatz",
+     "body": {
+      "prompt": "Welche Aussage zu Aufgaben, Rechten und Pflichten eines Betriebsrates ist zutreffend?",
+      "options": [
+       {
+        "text": "Der Betriebsrat hat Mitbestimmungsrechte bei der Ausgestaltung der Betriebskantine.",
+        "correct": true
+       },
+       {
+        "text": "Betriebsräte erhalten für ihre Tätigkeit eine Betriebsratszulage.",
+        "correct": false
+       },
+       {
+        "text": "Die Sitzungen eines Betriebsrates sind öffentlich.",
+        "correct": false
+       },
+       {
+        "text": "Der Betriebsrat organisiert bei gescheiterten Tarifverhandlungen die Urabstimmung und den Streik im Unternehmen.",
+        "correct": false
+       },
+       {
+        "text": "Bei der Terminplanung der Sitzungen sind betriebliche Belange nicht zu beachten.",
+        "correct": false
+       }
+      ]
+     }
+    },
+    {
+     "key": "wsp-pr-aufgaben-q17",
+     "type": "mc",
+     "exam_part": 2,
+     "difficulty": 2,
+     "points": 4,
+     "source": "Abgewandelt nach IHK-Abschlussprüfungen (WiSo, Teil 2) – Fortune Agentur (FAMK) / Kunde Zweitschatz",
+     "body": {
+      "prompt": "Eine schwangere Auszubildende im 2. Lehrjahr hat Fragen zum Mutterschutz. Welche Information zum Mutterschutzgesetz ist richtig?",
+      "options": [
+       {
+        "text": "Es gilt ein absolutes Beschäftigungsverbot sechs Wochen vor bis acht Wochen nach der Geburt.",
+        "correct": true
+       },
+       {
+        "text": "Schwangeren darf trotz Mutterschutzgesetz jederzeit gekündigt werden.",
+        "correct": false
+       },
+       {
+        "text": "Nach der Entbindung gibt es nur ein relatives Beschäftigungsverbot.",
+        "correct": false
+       },
+       {
+        "text": "Das Mutterschutzgesetz gilt im Rahmen der Gleichstellung auch für werdende Väter.",
+        "correct": false
+       },
+       {
+        "text": "Überstunden für vollzeitbeschäftigte Schwangere sind gesetzlich immer erlaubt.",
+        "correct": false
+       }
+      ]
+     }
+    },
+    {
+     "key": "wsp-pr-aufgaben-q18",
+     "type": "mc",
+     "exam_part": 2,
+     "difficulty": 2,
+     "points": 4,
+     "source": "Abgewandelt nach IHK-Abschlussprüfungen (WiSo, Teil 2) – Fortune Agentur (FAMK) / Kunde Zweitschatz",
+     "body": {
+      "prompt": "Bei der FAMK können sich Mitarbeiter zu Ersthelfern ausbilden lassen. Wer ist für die Organisation der betrieblichen Ersthelfer-Ausbildung rechtlich verpflichtet?",
+      "options": [
+       {
+        "text": "Der Arbeitgeber",
+        "correct": true
+       },
+       {
+        "text": "Die IHK",
+        "correct": false
+       },
+       {
+        "text": "Die zuständige Berufsgenossenschaft",
+        "correct": false
+       },
+       {
+        "text": "Der Betriebsrat",
+        "correct": false
+       },
+       {
+        "text": "Die Ausbildungsleitung",
+        "correct": false
+       }
+      ]
+     }
+    },
+    {
+     "key": "wsp-pr-aufgaben-q19",
+     "type": "mc",
+     "exam_part": 2,
+     "difficulty": 2,
+     "points": 4,
+     "source": "Abgewandelt nach IHK-Abschlussprüfungen (WiSo, Teil 2) – Fortune Agentur (FAMK) / Kunde Zweitschatz",
+     "body": {
+      "prompt": "Welche Aussage zur Tarifautonomie ist richtig?",
+      "options": [
+       {
+        "text": "Die Tarifvertragsparteien handeln ohne staatliche Mitwirkung für ihre Mitglieder verbindliche Vereinbarungen über Löhne und Arbeitsbedingungen aus.",
+        "correct": true
+       },
+       {
+        "text": "Der Betriebsrat ist in seiner Arbeit nicht an staatliche Weisungen gebunden.",
+        "correct": false
+       },
+       {
+        "text": "Kommt nach dem Auslaufen eines Tarifvertrags keine neue Vereinbarung zustande, muss die Regierung eine Zwangsschlichtung herbeiführen.",
+        "correct": false
+       },
+       {
+        "text": "Jeder Arbeitnehmer kann mit seinem Arbeitgeber einen Einzelarbeitsvertrag unabhängig von jeder Regelung vereinbaren.",
+        "correct": false
+       },
+       {
+        "text": "Tarifautonomie ist die staatliche Ermächtigung der Tarifparteien, die Mitbestimmung in allen Unternehmen zu regeln.",
+        "correct": false
+       }
+      ]
+     }
+    },
+    {
+     "key": "wsp-pr-aufgaben-q20",
+     "type": "mc",
+     "exam_part": 2,
+     "difficulty": 2,
+     "points": 4,
+     "source": "Abgewandelt nach IHK-Abschlussprüfungen (WiSo, Teil 2) – Fortune Agentur (FAMK) / Kunde Zweitschatz",
+     "body": {
+      "prompt": "Welche Auswirkung hat eine Erhöhung der gesetzlichen Rentenversicherungsbeiträge auf die Personalkosten der FAMK?",
+      "options": [
+       {
+        "text": "Da die Arbeitgeber die Hälfte der Beiträge tragen, erhöhen sich in der Regel die Personalkosten.",
+        "correct": true
+       },
+       {
+        "text": "Keine, denn die Erhöhung betrifft nur den Arbeitnehmeranteil.",
+        "correct": false
+       },
+       {
+        "text": "Es werden automatisch die Beitragsbemessungsgrenzen vermindert, damit die Belastung gleich bleibt.",
+        "correct": false
+       },
+       {
+        "text": "Die Beiträge sind an die Nettolohnentwicklung gekoppelt und müssen durch höhere Löhne ausgeglichen werden.",
+        "correct": false
+       },
+       {
+        "text": "Die Beitragsbemessungsgrenze wird im selben Umfang erhöht.",
+        "correct": false
+       }
+      ]
+     }
+    },
+    {
+     "key": "wsp-pr-aufgaben-q21",
+     "type": "mc",
+     "exam_part": 2,
+     "difficulty": 2,
+     "points": 4,
+     "explanation": "Anmeldungen zum Handelsregister: öffentlich beglaubigte Form (§ 12 HGB).",
+     "source": "Abgewandelt nach IHK-Abschlussprüfungen (WiSo, Teil 2) – Fortune Agentur (FAMK) / Kunde Zweitschatz",
+     "body": {
+      "prompt": "Welches Rechtsgeschäft bedarf zu seiner Wirksamkeit der öffentlichen Beglaubigung?",
+      "options": [
+       {
+        "text": "Die Anmeldung zur Eintragung ins Handelsregister",
+        "correct": true
+       },
+       {
+        "text": "Die Bürgschaftserklärung eines Kaufmanns",
+        "correct": false
+       },
+       {
+        "text": "Die Ernennung einer Prokuristin",
+        "correct": false
+       },
+       {
+        "text": "Ein Mietvertrag über eine längere Dauer als ein Jahr",
+        "correct": false
+       },
+       {
+        "text": "Beschlüsse der Hauptversammlung einer AG",
+        "correct": false
+       }
+      ]
+     }
+    },
+    {
+     "key": "wsp-pr-aufgaben-q22",
+     "type": "mc",
+     "exam_part": 2,
+     "difficulty": 2,
+     "points": 4,
+     "source": "Abgewandelt nach IHK-Abschlussprüfungen (WiSo, Teil 2) – Fortune Agentur (FAMK) / Kunde Zweitschatz",
+     "body": {
+      "prompt": "In welcher Antwort sind staatliche Unternehmenssubventionen richtig beschrieben?",
+      "options": [
+       {
+        "text": "Geldstrom vom Staat in Richtung Unternehmen",
+        "correct": true
+       },
+       {
+        "text": "Leistungsstrom vom Staat in Richtung Unternehmen",
+        "correct": false
+       },
+       {
+        "text": "Geldstrom von Banken in Richtung Unternehmen",
+        "correct": false
+       },
+       {
+        "text": "Güterstrom von den Unternehmen in Richtung Staat",
+        "correct": false
+       },
+       {
+        "text": "Leistungsstrom von den Banken in Richtung Unternehmen",
+        "correct": false
+       }
+      ]
+     }
+    },
+    {
+     "key": "wsp-pr-aufgaben-q23",
+     "type": "mc",
+     "exam_part": 2,
+     "difficulty": 2,
+     "points": 4,
+     "source": "Abgewandelt nach IHK-Abschlussprüfungen (WiSo, Teil 2) – Fortune Agentur (FAMK) / Kunde Zweitschatz",
+     "body": {
+      "prompt": "Ein Mitarbeiter der FAMK wechselt zu einem tarifgebundenen Unternehmen. Im Einzelarbeitsvertrag soll von tariflichen und gesetzlichen Bestimmungen abgewichen werden. Welche Vereinbarungen müssen beachtet werden, damit der Vertrag gilt? Die Vereinbarungen …",
+      "options": [
+       {
+        "text": "müssen für den Arbeitnehmer günstiger sein als die tariflichen und gesetzlichen Regelungen (Günstigkeitsprinzip).",
+        "correct": true
+       },
+       {
+        "text": "müssen günstiger als die tariflichen, aber nicht günstiger als die gesetzlichen Regelungen sein.",
+        "correct": false
+       },
+       {
+        "text": "gelten unabhängig von tariflichen und gesetzlichen Regelungen.",
+        "correct": false
+       },
+       {
+        "text": "dürfen ungünstiger als die tariflichen, aber nicht ungünstiger als die gesetzlichen Regelungen sein.",
+        "correct": false
+       },
+       {
+        "text": "dürfen ungünstiger als die tariflichen, aber nicht günstiger als die gesetzlichen Regelungen sein.",
+        "correct": false
+       }
+      ]
+     }
+    },
+    {
+     "key": "wsp-pr-aufgaben-q24",
+     "type": "order",
+     "exam_part": 2,
+     "difficulty": 2,
+     "points": 4,
+     "source": "Abgewandelt nach IHK-Abschlussprüfungen (WiSo, Teil 2) – Fortune Agentur (FAMK) / Kunde Zweitschatz",
+     "body": {
+      "prompt": "Nachdem der bisherige Tarifvertrag fristgerecht gekündigt wurde: Bringen Sie die Schritte zum Zustandekommen eines neuen Tarifvertrags in die richtige Reihenfolge.",
+      "items": [
+       "Aufnahme von Tarifverhandlungen durch die Tarifpartner",
+       "Erklärung des Scheiterns der Verhandlungen durch eine Partei",
+       "Urabstimmung über den Arbeitskampf mit nachfolgendem Streik",
+       "Neue Verhandlungen während des Streiks",
+       "Urabstimmung über das Ergebnis der neuen Tarifrunde und Ende des Streiks"
+      ]
+     }
+    },
+    {
+     "key": "wsp-pr-aufgaben-q25",
+     "type": "match",
+     "exam_part": 2,
+     "difficulty": 1,
+     "points": 4,
+     "source": "Abgewandelt nach IHK-Abschlussprüfungen (WiSo, Teil 2) – Fortune Agentur (FAMK) / Kunde Zweitschatz",
+     "body": {
+      "prompt": "Ordnen Sie den Streikarten die Erklärungen zu.",
+      "items": [
+       {
+        "term": "Warnstreik",
+        "match": "Dieser Streik ist zeitlich begrenzt."
+       },
+       {
+        "term": "Schwerpunktstreik",
+        "match": "Nur bestimmte Bereiche eines Wirtschaftszweiges streiken."
+       },
+       {
+        "term": "Wilder Streik",
+        "match": "Dieser Streik ist nicht von der Gewerkschaft organisiert."
+       },
+       {
+        "term": "Flächenstreik",
+        "match": "Ein ganzes Tarifgebiet streikt."
+       }
+      ],
+      "distractors": []
+     }
+    },
+    {
+     "key": "wsp-pr-aufgaben-q26",
+     "type": "mc",
+     "exam_part": 2,
+     "difficulty": 2,
+     "points": 4,
+     "source": "Abgewandelt nach IHK-Abschlussprüfungen (WiSo, Teil 2) – Fortune Agentur (FAMK) / Kunde Zweitschatz",
+     "body": {
+      "prompt": "Welche Aussage zu Tarifverträgen ist richtig?",
+      "options": [
+       {
+        "text": "Das Recht, Tarifverträge abzuschließen, nennt sich Tarifautonomie und ist im Grundgesetz verankert.",
+        "correct": true
+       },
+       {
+        "text": "Tarifverträge werden für eine Laufzeit von mindestens vier Jahren abgeschlossen.",
+        "correct": false
+       },
+       {
+        "text": "Rahmen- und Manteltarifvertrag werden immer für dieselbe Laufzeit abgeschlossen.",
+        "correct": false
+       },
+       {
+        "text": "Damit für einen Arbeitnehmer die Bestimmungen gelten, muss er bei Einstellung Mitglied der Gewerkschaft werden.",
+        "correct": false
+       },
+       {
+        "text": "Ein Unternehmen ist immer tarifgebunden, wenn es einen Betriebsrat hat.",
+        "correct": false
+       }
+      ]
+     }
+    }
+   ],
+   "templates": [
+    {
+     "key": "wsp-pr-aufgaben-t01",
+     "type": "calc",
+     "exam_part": 2,
+     "difficulty": 2,
+     "points": 4,
+     "source": "Abgewandelt nach IHK-Abschlussprüfungen (WiSo, Teil 2) – Fortune Agentur (FAMK) / Kunde Zweitschatz",
+     "vars": {
+      "m": {
+       "type": "int",
+       "min": 100,
+       "max": 400,
+       "step": 50
+      },
+      "p": {
+       "type": "dec",
+       "min": 6,
+       "max": 14,
+       "decimals": 2
+      },
+      "r": {
+       "type": "pick",
+       "options": [
+        5,
+        8,
+        10
+       ]
+      },
+      "s": {
+       "type": "pick",
+       "options": [
+        2,
+        3
+       ]
+      }
+     },
+     "body": {
+      "prompt": "Das Reifenwerk Brandt e. K. liefert {m} Sitzkissen. Listenpreis {p|eur} je Stück, {r} % Rabatt, {s} % Skonto bei Zahlung innerhalb von 10 Tagen. Wie hoch ist der Überweisungsbetrag (netto), wenn die FAMK Skonto nutzt?",
+      "answer": "m*p*(1-r/100)*(1-s/100)",
+      "unit": "€",
+      "decimals": 2,
+      "steps": [
+       "Listenpreis gesamt = {m} · {p|eur}",
+       "− {r} % Rabatt, − {s} % Skonto = {result|eur}"
+      ]
+     }
+    },
+    {
+     "key": "wsp-pr-aufgaben-t02",
+     "type": "mc",
+     "exam_part": 2,
+     "difficulty": 3,
+     "points": 4,
+     "source": "Abgewandelt nach IHK-Abschlussprüfungen (WiSo, Teil 2) – Fortune Agentur (FAMK) / Kunde Zweitschatz",
+     "vars": {
+      "ctx": {
+       "type": "pick",
+       "options": [
+        {
+         "rf": "GmbH",
+         "verhaeltnis": "Geschäftsanteile von 60.000 € und 20.000 € halten",
+         "richtig": "Der Gewinn wird im Verhältnis der Geschäftsanteile verteilt (3 : 1).",
+         "w1": "Der Gewinn wird zu gleichen Teilen verteilt.",
+         "w2": "Vorab 4 % auf die Kapitalanteile, Rest nach Köpfen.",
+         "w3": "Der Geschäftsführer erhält den Gewinn allein."
+        },
+        {
+         "rf": "OHG (ohne abweichende Vereinbarung, seit MoPeG)",
+         "verhaeltnis": "Beteiligungen im Verhältnis 2 : 1 haben",
+         "richtig": "Der Gewinn wird nach dem Verhältnis der Anteile verteilt.",
+         "w1": "Alle Gesellschafter erhalten den gleichen Anteil.",
+         "w2": "Vorab 4 % auf die Einlagen, Rest nach Köpfen.",
+         "w3": "Der Gewinn wird nach der Arbeitsleistung verteilt."
+        }
+       ]
+      }
+     },
+     "body": {
+      "prompt": "Welche Aussage zur gesetzlichen Gewinnverteilung bei einer {ctx.rf} ist richtig, wenn die Gesellschafter {ctx.verhaeltnis}?",
+      "options": [
+       {
+        "text": "{ctx.richtig}",
+        "correct": true
+       },
+       {
+        "text": "{ctx.w1}",
+        "correct": false
+       },
+       {
+        "text": "{ctx.w2}",
+        "correct": false
+       },
+       {
+        "text": "{ctx.w3}",
+        "correct": false
+       }
+      ]
+     }
+    }
+   ],
+   "cases": []
+  }
+ ]
+}

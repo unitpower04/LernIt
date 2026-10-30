@@ -1,0 +1,739 @@
+{
+ "demo": false,
+ "items": [
+  {
+   "topic": "mako-pu-aufgaben",
+   "flashcards": [],
+   "glossary": [],
+   "questions": [
+    {
+     "key": "mako-pu-aufgaben-q01",
+     "type": "mc",
+     "exam_part": 3,
+     "difficulty": 3,
+     "points": 4,
+     "source": "Abgewandelt nach IHK-Abschlussprüfungen (Umsetzung & Steuerung, Teil 3) – FAMK / Kunde Zweitschatz",
+     "body": {
+      "prompt": "Ihr Kunde Zweitschatz plant ein komplettes Redesign seiner App und möchte ein Update des Ein- und Verkaufserlebnisses. Die FAMK hat dafür kein Know-how. Welche Maßnahme ist am sinnvollsten?",
+      "options": [
+       {
+        "text": "Sie buchen über eine Plattform für digitale Dienstleistungen einen freien Mitarbeiter für UI-/UX-Design, die Abrechnung erfolgt per ordnungsgemäßer Rechnung über die Plattform.",
+        "correct": true
+       },
+       {
+        "text": "Sie bitten einen befreundeten Webdesigner, die App zu überarbeiten – wegen der privaten Bekanntschaft ohne Rechnung.",
+        "correct": false
+       },
+       {
+        "text": "Sie lassen einen Kollegen aus der IT-Abteilung der FAMK die App gegen einen kleinen Barbetrag ohne Beleg umbauen.",
+        "correct": false
+       },
+       {
+        "text": "Sie schlagen einer Webagentur ein Tauschgeschäft (App-Gestaltung gegen Werbefläche) vor, um die Umsatzsteuer zu sparen.",
+        "correct": false
+       },
+       {
+        "text": "Sie empfehlen dem Kunden, nur die mobile Website anzupassen, weil eine App ohnehin nur ein Rahmen sei.",
+        "correct": false
+       }
+      ]
+     }
+    },
+    {
+     "key": "mako-pu-aufgaben-q02",
+     "type": "mc",
+     "exam_part": 3,
+     "difficulty": 2,
+     "points": 4,
+     "source": "Abgewandelt nach IHK-Abschlussprüfungen (Umsetzung & Steuerung, Teil 3) – FAMK / Kunde Zweitschatz",
+     "body": {
+      "prompt": "Sie sollen für Zweitschatz einen Dienstleister mit Schaltung und Betreuung von Social-Media-Anzeigen beauftragen. Worauf müssen Sie besonders achten, bevor Sie ihn verbindlich beauftragen?",
+      "options": [
+       {
+        "text": "Der Dienstleister legt ein detailliertes Angebot mit Leistungsbeschreibung, Laufzeit und Abrechnungsmodalitäten vor.",
+        "correct": true
+       },
+       {
+        "text": "Der Dienstleister hat Zugriff auf die privaten Social-Media-Konten der Mitarbeiter.",
+        "correct": false
+       },
+       {
+        "text": "Der Dienstleister verspricht, selbst besonders viele Likes zu generieren.",
+        "correct": false
+       },
+       {
+        "text": "Der Dienstleister bedient möglichst viele Plattformen gleichzeitig.",
+        "correct": false
+       },
+       {
+        "text": "Der Dienstleister versichert, wahrscheinlich mit niedrigen Kosten arbeiten zu können.",
+        "correct": false
+       }
+      ]
+     }
+    },
+    {
+     "key": "mako-pu-aufgaben-q03",
+     "type": "mc",
+     "exam_part": 3,
+     "difficulty": 3,
+     "points": 4,
+     "source": "Abgewandelt nach IHK-Abschlussprüfungen (Umsetzung & Steuerung, Teil 3) – FAMK / Kunde Zweitschatz",
+     "body": {
+      "prompt": "Kundinnen und Kunden beschweren sich, dass Pakete in deutlich schlechterem Zustand ankommen als angeboten; teils wird Geld eingezogen, aber nur Lumpen geliefert. Welche Vorgehensweise empfehlen Sie Zweitschatz?",
+      "options": [
+       {
+        "text": "Zweitschatz weist die verkaufenden Nutzer auf die AGB hin, fordert Nachbesserung und sperrt andernfalls diese Verkäufer für weitere Transaktionen.",
+        "correct": true
+       },
+       {
+        "text": "Zweitschatz bittet betroffene Käufer, den Verkäufern eine Nachlieferung abzuverlangen.",
+        "correct": false
+       },
+       {
+        "text": "Zweitschatz mahnt beschwerdeführende Käufer mit AGB-Auszug und droht mit Ausschluss.",
+        "correct": false
+       },
+       {
+        "text": "Zweitschatz bietet Käufern 25 € Gutschein an, wenn sie die negative Bewertung in eine positive ändern.",
+        "correct": false
+       },
+       {
+        "text": "Zweitschatz empfiehlt Käufern, zur Polizei zu gehen, da man nur Vermittler sei und selbst nichts tun könne.",
+        "correct": false
+       }
+      ]
+     }
+    },
+    {
+     "key": "mako-pu-aufgaben-q04",
+     "type": "match",
+     "exam_part": 3,
+     "difficulty": 2,
+     "points": 4,
+     "source": "Abgewandelt nach IHK-Abschlussprüfungen (Umsetzung & Steuerung, Teil 3) – FAMK / Kunde Zweitschatz",
+     "body": {
+      "prompt": "Welche Zuständigkeiten haben die Kolleginnen und Kollegen in der FAMK?",
+      "items": [
+       {
+        "term": "Selin Aksoy, Produktionerin",
+        "match": "Druckabnahme"
+       },
+       {
+        "term": "Ivo Petric, Grafikdesigner",
+        "match": "Erstellung Mood für Anzeigengestaltung"
+       },
+       {
+        "term": "Dana Fricke, Texterin",
+        "match": "Formulierung Mailing"
+       },
+       {
+        "term": "Stefan Maler, Kundenberater",
+        "match": "Erstellung Kreationsbriefing"
+       },
+       {
+        "term": "Dirk Goldmann, Buchhalter",
+        "match": "Rechnungsabwicklung"
+       }
+      ],
+      "distractors": []
+     }
+    },
+    {
+     "key": "mako-pu-aufgaben-q05",
+     "type": "match",
+     "exam_part": 3,
+     "difficulty": 2,
+     "points": 4,
+     "source": "Abgewandelt nach IHK-Abschlussprüfungen (Umsetzung & Steuerung, Teil 3) – FAMK / Kunde Zweitschatz",
+     "body": {
+      "prompt": "Ordnen Sie die Druckverfahren den Beschreibungen zu.",
+      "items": [
+       {
+        "term": "Flexodruck",
+        "match": "Druckende Teile sind erhaben und seitenverkehrt, für kleine bis mittlere Auflagen, z. B. Verpackungen"
+       },
+       {
+        "term": "Tiefdruck",
+        "match": "Druckende Teile liegen tiefer, für sehr hohe Auflagen, z. B. Zeitschriften und Kataloge"
+       },
+       {
+        "term": "Offsetdruck",
+        "match": "Indirekter Druck über ein Gummituch, für mittlere bis hohe Auflagen, z. B. Flyer"
+       },
+       {
+        "term": "Siebdruck",
+        "match": "Belichtung von Sieben aus Polyester, Nylon oder Metall, für kleine Auflagen, z. B. Trinkflaschen"
+       },
+       {
+        "term": "Digitaldruck",
+        "match": "Am PC erstellte Dateien werden direkt zum Drucker übertragen, für kleine Auflagen, z. B. personalisierte Mailings"
+       }
+      ],
+      "distractors": []
+     }
+    },
+    {
+     "key": "mako-pu-aufgaben-q06",
+     "type": "mc",
+     "exam_part": 3,
+     "difficulty": 1,
+     "points": 4,
+     "source": "Abgewandelt nach IHK-Abschlussprüfungen (Umsetzung & Steuerung, Teil 3) – FAMK / Kunde Zweitschatz",
+     "body": {
+      "prompt": "Sie besprechen mit einem Drucker die Andrucke für Fotos in einer Broschüre. Welchen Farbraum finden Sie beim Offsetdruck?",
+      "options": [
+       {
+        "text": "CMYK",
+        "correct": true
+       },
+       {
+        "text": "PAL",
+        "correct": false
+       },
+       {
+        "text": "RGB",
+        "correct": false
+       },
+       {
+        "text": "NTSC",
+        "correct": false
+       },
+       {
+        "text": "RAL",
+        "correct": false
+       }
+      ]
+     }
+    },
+    {
+     "key": "mako-pu-aufgaben-q07",
+     "type": "mc",
+     "exam_part": 3,
+     "difficulty": 2,
+     "points": 4,
+     "source": "Abgewandelt nach IHK-Abschlussprüfungen (Umsetzung & Steuerung, Teil 3) – FAMK / Kunde Zweitschatz",
+     "body": {
+      "prompt": "Zweitschatz beauftragt die FAMK mit einem hochwertigen 45-Sekunden-Werbevideo. Welche Aussage zur Organisation der Videoproduktion ist zutreffend?",
+      "options": [
+       {
+        "text": "Zur Post-Production gehören Videoschnitt, Farbkorrektur und Tonbearbeitung.",
+        "correct": true
+       },
+       {
+        "text": "Die Pre-Production umfasst unter anderem Casting und die Durchführung der Dreharbeiten.",
+        "correct": false
+       },
+       {
+        "text": "Die Post-Production beginnt meist noch vor dem Dreh, parallel zur Pre-Production.",
+        "correct": false
+       },
+       {
+        "text": "Die Kosten eines Werbevideos lassen sich standardisiert berechnen, individuelle Wünsche spielen keine Rolle.",
+        "correct": false
+       },
+       {
+        "text": "Eine Videoproduktion besteht meist nur aus dem Dreh; Pre- und Post-Production sind optional.",
+        "correct": false
+       }
+      ]
+     }
+    },
+    {
+     "key": "mako-pu-aufgaben-q08",
+     "type": "order",
+     "exam_part": 3,
+     "difficulty": 2,
+     "points": 4,
+     "source": "Abgewandelt nach IHK-Abschlussprüfungen (Umsetzung & Steuerung, Teil 3) – FAMK / Kunde Zweitschatz",
+     "body": {
+      "prompt": "Beschreiben Sie, in welchen Schritten Sie vorgehen, um ein geeignetes Model für den Dreh zu beauftragen.",
+      "items": [
+       "Modelbriefing mit Anforderungen erstellen und an Modelagenturen senden",
+       "Selektion der angebotenen Model-Alternativen",
+       "Überprüfung der Verfügbarkeit der ausgewählten Models",
+       "Präsentation der Modelauswahl vor dem Kunden und Kundenfreigabe",
+       "Kundenfreigabe des Kostenvoranschlags und Auftragsvergabe an die Modelagentur"
+      ]
+     }
+    },
+    {
+     "key": "mako-pu-aufgaben-q09",
+     "type": "mc",
+     "exam_part": 3,
+     "difficulty": 3,
+     "points": 4,
+     "explanation": "Anzeigenhöhe in mm × Spalten × mm-Preis ergibt den Bruttopreis; die AE-Provision wird abgezogen (Agentur-Netto).",
+     "source": "Abgewandelt nach IHK-Abschlussprüfungen (Umsetzung & Steuerung, Teil 3) – FAMK / Kunde Zweitschatz",
+     "body": {
+      "prompt": "Die FAMK plant Anzeigen in ausgewählten Tageszeitungen. Welche Formel wenden Sie zur Ermittlung des Anzeigenpreises (Agentur-Netto) an?",
+      "options": [
+       {
+        "text": "Millimeter-Anzeigenhöhe × Spaltenzahl × Millimeterpreis − AE-Provision",
+        "correct": true
+       },
+       {
+        "text": "Seitenpreis : Spaltenzahl × Millimeter-Kombi-Preis + AE-Provision",
+        "correct": false
+       },
+       {
+        "text": "Anzeigenhöhe × Anzeigenbreite × Millimeterpreis",
+        "correct": false
+       },
+       {
+        "text": "Millimeter-Spaltenbreite × Anzeigenhöhe × Millimeterpreis − AE-Provision",
+        "correct": false
+       },
+       {
+        "text": "Auflagenhöhe × Spaltenzahl × Millimeterpreis + AE-Provision",
+        "correct": false
+       }
+      ]
+     }
+    },
+    {
+     "key": "mako-pu-aufgaben-q10",
+     "type": "mc",
+     "exam_part": 3,
+     "difficulty": 2,
+     "points": 4,
+     "source": "Abgewandelt nach IHK-Abschlussprüfungen (Umsetzung & Steuerung, Teil 3) – FAMK / Kunde Zweitschatz",
+     "body": {
+      "prompt": "Sie haben Online-Displays erstellt und senden sie an den Vermarkter. Welche Information muss enthalten sein bzw. mitgeteilt werden, damit ein Klick auf das Banner auf die gewünschte Landingpage führt?",
+      "options": [
+       {
+        "text": "Die Ziel-URL des Click-Tags",
+        "correct": true
+       },
+       {
+        "text": "Die IP der Website des Kunden",
+        "correct": false
+       },
+       {
+        "text": "Das gültige SSL-Zertifikat der Website",
+        "correct": false
+       },
+       {
+        "text": "Die IP des DNS-Eintrags der Website",
+        "correct": false
+       },
+       {
+        "text": "Die FTPS-Zugangsdaten der Website",
+        "correct": false
+       }
+      ]
+     }
+    },
+    {
+     "key": "mako-pu-aufgaben-q11",
+     "type": "mc",
+     "exam_part": 3,
+     "difficulty": 3,
+     "points": 4,
+     "source": "Abgewandelt nach IHK-Abschlussprüfungen (Umsetzung & Steuerung, Teil 3) – FAMK / Kunde Zweitschatz",
+     "body": {
+      "prompt": "Welche zwei Aussagen lassen sich aus den YouTube-Mediadaten ableiten (TrueView In-Stream: 0,05 € je View, zählt ab 30 Sek. oder Klick; Bumper Ads: 6 € CPM, 6 Sek., nicht überspringbar; Discovery Ads: 0,30 € CPC, müssen aktiv angeklickt werden)?",
+      "options": [
+       {
+        "text": "TrueView In-Stream Ads zählen nur als View, wenn der Nutzer mindestens 30 Sekunden zusieht oder klickt.",
+        "correct": true
+       },
+       {
+        "text": "Bei Discovery Ads zahlt man nur, wenn ein Nutzer aktiv auf die Anzeige klickt.",
+        "correct": true
+       },
+       {
+        "text": "Bumper Ads werden nach 6 Sekunden automatisch übersprungen.",
+        "correct": false
+       },
+       {
+        "text": "Discovery Ads laufen automatisch vor Videos.",
+        "correct": false
+       },
+       {
+        "text": "TrueView In-Stream Ads kosten 0,05 € pro Klick.",
+        "correct": false
+       },
+       {
+        "text": "TrueView In-Stream Ads erscheinen nur in den Suchergebnissen.",
+        "correct": false
+       }
+      ]
+     }
+    },
+    {
+     "key": "mako-pu-aufgaben-q12",
+     "type": "mc",
+     "exam_part": 3,
+     "difficulty": 3,
+     "points": 4,
+     "source": "Abgewandelt nach IHK-Abschlussprüfungen (Umsetzung & Steuerung, Teil 3) – FAMK / Kunde Zweitschatz",
+     "body": {
+      "prompt": "Für das Werbevideo sollen Szenen in einer belebten Innenstadt gedreht werden. Welche zwei Aussagen sind rechtlich zutreffend?",
+      "options": [
+       {
+        "text": "Auch bei öffentlichen Drehs müssen klar erkennbare Personen im Bild vorab um Zustimmung gebeten werden.",
+        "correct": true
+       },
+       {
+        "text": "Für umfangreiche Dreharbeiten im öffentlichen Raum einer belebten Innenstadt muss vorher eine behördliche Drehgenehmigung eingeholt werden.",
+        "correct": true
+       },
+       {
+        "text": "Dreharbeiten im öffentlichen Raum sind immer genehmigungsfrei.",
+        "correct": false
+       },
+       {
+        "text": "Drohnenaufnahmen sind in Innenstädten ohne Genehmigung erlaubt, solange die Drohne unter 100 m bleibt.",
+        "correct": false
+       },
+       {
+        "text": "Öffentliche Gebäude als Kulisse müssen immer gesondert lizenziert werden.",
+        "correct": false
+       },
+       {
+        "text": "Personen im öffentlichen Raum dürfen ohne Einschränkung gezeigt werden, weil der Aufenthalt als Zustimmung gilt.",
+        "correct": false
+       }
+      ]
+     }
+    },
+    {
+     "key": "mako-pu-aufgaben-q13",
+     "type": "mc",
+     "exam_part": 3,
+     "difficulty": 3,
+     "points": 4,
+     "source": "Abgewandelt nach IHK-Abschlussprüfungen (Umsetzung & Steuerung, Teil 3) – FAMK / Kunde Zweitschatz",
+     "body": {
+      "prompt": "Ein Berliner Secondhand-Laden verwendet ein dem beim DPMA geschützten Logo von Zweitschatz sehr ähnliches Logo. Gegen welche zwei Rechtsbereiche könnte das verstoßen und zu einer Abmahnung führen?",
+      "options": [
+       {
+        "text": "Markenrecht (MarkenG)",
+        "correct": true
+       },
+       {
+        "text": "Designschutz (DesignG)",
+        "correct": true
+       },
+       {
+        "text": "Gebrauchsmusterschutz (GebrMG)",
+        "correct": false
+       },
+       {
+        "text": "Patentrecht (PatG)",
+        "correct": false
+       },
+       {
+        "text": "Datenschutz-Grundverordnung (DSGVO)",
+        "correct": false
+       },
+       {
+        "text": "Urheberrecht für technische Erfindungen",
+        "correct": false
+       }
+      ]
+     }
+    },
+    {
+     "key": "mako-pu-aufgaben-q14",
+     "type": "mc",
+     "exam_part": 3,
+     "difficulty": 2,
+     "points": 4,
+     "source": "Abgewandelt nach IHK-Abschlussprüfungen (Umsetzung & Steuerung, Teil 3) – FAMK / Kunde Zweitschatz",
+     "body": {
+      "prompt": "Die Anzahl von Fake-Profilen auf der Zweitschatz-App steigt. Wie verhalten Sie sich richtig, um sie einzudämmen?",
+      "options": [
+       {
+        "text": "Eine Zwei-Faktor-Authentifizierung mit einem Bestätigungscode über einen zweiten Kanal (E-Mail oder Handynummer) einführen.",
+        "correct": true
+       },
+       {
+        "text": "Registrierung nur auf Empfehlung eines bestehenden Accounts erlauben.",
+        "correct": false
+       },
+       {
+        "text": "Per Post eine eidesstattliche Erklärung zur Freischaltung verlangen.",
+        "correct": false
+       },
+       {
+        "text": "Mitarbeiter eines Callcenters stichprobenartig anrufen und nach Bankverbindungen fragen lassen.",
+        "correct": false
+       },
+       {
+        "text": "Verlangen, dass Nutzer denselben Account-Namen wie bei TikTok verwenden.",
+        "correct": false
+       }
+      ]
+     }
+    },
+    {
+     "key": "mako-pu-aufgaben-q15",
+     "type": "mc",
+     "exam_part": 3,
+     "difficulty": 3,
+     "points": 4,
+     "source": "Abgewandelt nach IHK-Abschlussprüfungen (Umsetzung & Steuerung, Teil 3) – FAMK / Kunde Zweitschatz",
+     "body": {
+      "prompt": "Bei einem Hackerangriff auf Zweitschatz wurden Kundendaten (Name, Adresse, Geburtsdatum, Bankverbindung) teilweise kopiert. Wie verhalten Sie sich nach der DSGVO richtig?",
+      "options": [
+       {
+        "text": "Unverzüglich die Datenschutz-Aufsichtsbehörde und die Betroffenen informieren, die Art der Datenpanne darlegen und Empfehlungen zur Minderung nachteiliger Folgen geben.",
+        "correct": true
+       },
+       {
+        "text": "Alle Betroffenen in einem Newsletter kurz und ohne Details informieren, ansonsten besteht kein Handlungsbedarf.",
+        "correct": false
+       },
+       {
+        "text": "Nur interne Maßnahmen ergreifen; es besteht keine Informationspflicht.",
+        "correct": false
+       },
+       {
+        "text": "Nur betroffene Kunden informieren und raten, die Bankverbindung zu ändern.",
+        "correct": false
+       },
+       {
+        "text": "Alle gestohlenen Daten veröffentlichen, damit die Aufsicht die Bankdaten sperren kann.",
+        "correct": false
+       }
+      ]
+     }
+    }
+   ],
+   "templates": [
+    {
+     "key": "mako-pu-aufgaben-t01",
+     "type": "calc",
+     "exam_part": 3,
+     "difficulty": 2,
+     "points": 4,
+     "source": "Abgewandelt nach IHK-Abschlussprüfungen (Umsetzung & Steuerung, Teil 3) – FAMK / Kunde Zweitschatz",
+     "vars": {
+      "i": {
+       "type": "int",
+       "min": 300000,
+       "max": 1200000,
+       "step": 50000
+      },
+      "cpm": {
+       "type": "pick",
+       "options": [
+        4,
+        5,
+        6,
+        7,
+        8
+       ]
+      }
+     },
+     "body": {
+      "prompt": "Für Zweitschatz soll eine nicht überspringbare Bumper Ad (6 Sek.) auf YouTube geschaltet werden. Ziel: {i|int} Ad-Impressions. Abrechnung nach CPM (Kosten je 1.000 Impressions): {cpm|eur}. Ermitteln Sie das voraussichtliche Kunden-Netto.",
+      "answer": "i/1000*cpm",
+      "unit": "€",
+      "decimals": 2,
+      "steps": [
+       "Kosten = Impressions : 1.000 · CPM",
+       "= {i|int} : 1.000 · {cpm|eur} = {result|eur}"
+      ]
+     }
+    },
+    {
+     "key": "mako-pu-aufgaben-t02",
+     "type": "calc",
+     "exam_part": 3,
+     "difficulty": 2,
+     "points": 4,
+     "source": "Abgewandelt nach IHK-Abschlussprüfungen (Umsetzung & Steuerung, Teil 3) – FAMK / Kunde Zweitschatz",
+     "vars": {
+      "cpc": {
+       "type": "pick",
+       "options": [
+        0.2,
+        0.25,
+        0.3,
+        0.4,
+        0.5
+       ]
+      },
+      "x": {
+       "type": "int",
+       "min": 2000,
+       "max": 10000,
+       "step": 500
+      },
+      "b": {
+       "type": "expr",
+       "expr": "x*cpc",
+       "decimals": 2
+      }
+     },
+     "body": {
+      "prompt": "Eine Discovery-Ad-Kampagne wird nach CPC abgerechnet ({cpc|eur} je Klick). Für das Budget von {b|eur} sollen so viele Klicks wie möglich gekauft werden. Wie viele Klicks sind es?",
+      "answer": "b/cpc",
+      "unit": "Klicks",
+      "decimals": 0,
+      "steps": [
+       "Klicks = Budget : CPC = {b|eur} : {cpc|eur} = {result}"
+      ]
+     }
+    },
+    {
+     "key": "mako-pu-aufgaben-t03",
+     "type": "calc",
+     "exam_part": 3,
+     "difficulty": 2,
+     "points": 4,
+     "source": "Abgewandelt nach IHK-Abschlussprüfungen (Umsetzung & Steuerung, Teil 3) – FAMK / Kunde Zweitschatz",
+     "vars": {
+      "cpv": {
+       "type": "pick",
+       "options": [
+        0.03,
+        0.04,
+        0.05,
+        0.06
+       ]
+      },
+      "v": {
+       "type": "int",
+       "min": 100000,
+       "max": 600000,
+       "step": 50000
+      }
+     },
+     "body": {
+      "prompt": "Eine TrueView-In-Stream-Kampagne kostet {cpv|eur} je View. Es sollen {v|int} Views erzielt werden. Wie hoch ist das Kunden-Netto?",
+      "answer": "v*cpv",
+      "unit": "€",
+      "decimals": 2,
+      "steps": [
+       "{v|int} · {cpv|eur} = {result|eur}"
+      ]
+     }
+    },
+    {
+     "key": "mako-pu-aufgaben-t04",
+     "type": "calc",
+     "exam_part": 3,
+     "difficulty": 2,
+     "points": 4,
+     "source": "Abgewandelt nach IHK-Abschlussprüfungen (Umsetzung & Steuerung, Teil 3) – FAMK / Kunde Zweitschatz",
+     "vars": {
+      "h": {
+       "type": "int",
+       "min": 50,
+       "max": 200,
+       "step": 10
+      },
+      "sp": {
+       "type": "int",
+       "min": 2,
+       "max": 5,
+       "step": 1
+      },
+      "mm": {
+       "type": "dec",
+       "min": 3,
+       "max": 9,
+       "decimals": 2
+      },
+      "ae": {
+       "type": "pick",
+       "options": [
+        10,
+        15
+       ]
+      }
+     },
+     "body": {
+      "prompt": "Anzeige in einer Tageszeitung: Höhe {h} mm, {sp} Spalten, Millimeterpreis {mm|eur} (Grundpreis je mm-Spalte), AE-Provision {ae} % der Brutto-Schaltkosten. Berechnen Sie das Agentur-Netto.",
+      "answer": "h*sp*mm*(1-ae/100)",
+      "unit": "€",
+      "decimals": 2,
+      "steps": [
+       "Brutto = {h} mm · {sp} Spalten · {mm|eur}",
+       "− {ae} % AE-Provision = {result|eur}"
+      ]
+     }
+    },
+    {
+     "key": "mako-pu-aufgaben-t05",
+     "type": "mc",
+     "exam_part": 3,
+     "difficulty": 2,
+     "points": 4,
+     "source": "Abgewandelt nach IHK-Abschlussprüfungen (Umsetzung & Steuerung, Teil 3) – FAMK / Kunde Zweitschatz",
+     "vars": {
+      "a": {
+       "type": "int",
+       "min": 1000,
+       "max": 5000,
+       "step": 500
+      },
+      "ctx": {
+       "type": "pick",
+       "options": [
+        {
+         "auflage": "einer Auflage von 30 Stück",
+         "wunsch": "individuellen Namen auf jedem Exemplar",
+         "richtig": "Digitaldruck",
+         "w1": "Tiefdruck",
+         "w2": "Offsetdruck",
+         "w3": "Siebdruck"
+        },
+        {
+         "auflage": "einer Auflage von 500.000 Katalogen",
+         "wunsch": "gleichbleibender Bildqualität zu minimalen Stückkosten",
+         "richtig": "Tiefdruck",
+         "w1": "Digitaldruck",
+         "w2": "Tampondruck",
+         "w3": "Siebdruck"
+        },
+        {
+         "auflage": "bedruckten Trinkflaschen",
+         "wunsch": "hoher Farbdeckung auf rundem Material in kleiner Auflage",
+         "richtig": "Siebdruck",
+         "w1": "Offsetdruck",
+         "w2": "Tiefdruck",
+         "w3": "Digitaldruck auf Rollenmaterial"
+        },
+        {
+         "auflage": "20.000 Flyern",
+         "wunsch": "guter Qualität und mittlerem Preis je Stück",
+         "richtig": "Offsetdruck",
+         "w1": "Digitaldruck",
+         "w2": "Siebdruck",
+         "w3": "Tampondruck"
+        }
+       ]
+      }
+     },
+     "body": {
+      "prompt": "Für den Offsetdruck von {a|int} Flyern kalkuliert die Druckerei Rüstkosten und Druckkosten. Welches Verfahren ist bei {ctx.auflage} und {ctx.wunsch} am besten geeignet?",
+      "options": [
+       {
+        "text": "{ctx.richtig}",
+        "correct": true
+       },
+       {
+        "text": "{ctx.w1}",
+        "correct": false
+       },
+       {
+        "text": "{ctx.w2}",
+        "correct": false
+       },
+       {
+        "text": "{ctx.w3}",
+        "correct": false
+       }
+      ]
+     }
+    }
+   ],
+   "cases": []
+  }
+ ]
+}

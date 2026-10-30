@@ -27,3 +27,8 @@
 ## 30.10.2026 – Echte Inhalte
 - 5 Fächer, ~1.040 Karten, ~660 Aufgaben, 71 Vorlagen, 6 Fachgesprächsfälle, 11 Teil-1-Fallsituationen importiert; Demo entfernt; fachliche Gegenprüfung durchgeführt und Korrekturen eingearbeitet.
 - Migration `reset_demo_fix` (WHERE-Klausel).
+
+## 30.10.2026 – Prüfungsnahe Aufgaben & MaKo-Ausbau
+- Aufgaben der IHK Sommer 2026 (WiSo, Umsetzung, Teil 1) und älterer Prüfungen abgewandelt nachgebaut (Kunde „Zweitschatz“, andere Zahlen/Szenarien).
+- 18 Teil-1-Fallsituationen, 14 Teil-4-Fälle, MaKo-Transferaufgaben, Zwischenprüfungs-Aufgaben.
+- Stand Supabase: MaKo 394 Aufgaben/410 Karten, WSP 368/516, FiCon 91/164, Politik 42/61, Deutsch 30/45.

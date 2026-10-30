@@ -129,6 +129,23 @@
      ]
     },
     {
+     "key": "wsp-pr",
+     "code": "PR",
+     "name": "Prüfungsnahe WiSo-Aufgaben (Teil 2)",
+     "exam_parts": [
+      2
+     ],
+     "topics": [
+      {
+       "key": "wsp-pr-aufgaben",
+       "name": "Prüfungsnahe Aufgaben im IHK-Stil",
+       "exam_parts": [
+        2
+       ]
+      }
+     ]
+    },
+    {
      "key": "wsp-lf5",
      "code": "LF5",
      "name": "Werberecht",

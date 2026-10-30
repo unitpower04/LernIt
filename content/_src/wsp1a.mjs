@@ -23,6 +23,9 @@ const struktur = structure([
       tp("wsp-lf3-stoerungen", "Kaufvertragsstörungen, Mahnverfahren & Verjährung", [2]),
       tp("wsp-lf3-finanzierung", "Finanzierung, Kredit & Leasing", [3]),
     ]),
+    lf("wsp-pr", "PR", "Prüfungsnahe WiSo-Aufgaben (Teil 2)", [2], [
+      tp("wsp-pr-aufgaben", "Prüfungsnahe Aufgaben im IHK-Stil", [2]),
+    ]),
     lf("wsp-lf5", "LF5", "Werberecht", [3], [
       tp("wsp-lf5-schutzrechte", "Schutzrechte: Marke, Patent, Design & Urheberrecht", [3]),
       tp("wsp-lf5-datenschutz", "Datenschutz (DSGVO) & Recht am eigenen Bild", [3]),

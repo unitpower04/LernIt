@@ -53,6 +53,23 @@
      ]
     },
     {
+     "key": "ficon-pr",
+     "code": "PR",
+     "name": "Prüfungsnahe Aufgaben Rechnungswesen (Teil 3)",
+     "exam_parts": [
+      3
+     ],
+     "topics": [
+      {
+       "key": "ficon-pr-aufgaben",
+       "name": "Prüfungsnahe Rechen- und Belegaufgaben",
+       "exam_parts": [
+        3
+       ]
+      }
+     ]
+    },
+    {
      "key": "ficon-lf11",
      "code": "LF11",
      "name": "Gehaltsabrechnung & Kosten- und Leistungsrechnung",

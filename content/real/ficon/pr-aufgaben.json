@@ -1,0 +1,585 @@
+{
+ "demo": false,
+ "items": [
+  {
+   "topic": "ficon-pr-aufgaben",
+   "flashcards": [],
+   "glossary": [],
+   "questions": [
+    {
+     "key": "ficon-pr-aufgaben-q01",
+     "type": "mc",
+     "exam_part": 3,
+     "difficulty": 3,
+     "points": 4,
+     "source": "Abgewandelt nach IHK-Abschlussprüfungen (Umsetzung & Steuerung, Teil 3) – FAMK / Kunde Zweitschatz",
+     "body": {
+      "prompt": "Die Praktikantin fragt nach der Gehaltsabrechnung bei den festen Mitarbeitern der FAMK. Welche zwei Aussagen sind richtig?",
+      "options": [
+       {
+        "text": "Die Sozialversicherungsbeiträge werden nur bis zur Beitragsbemessungsgrenze berechnet – darüberliegendes Einkommen bleibt beitragsfrei.",
+        "correct": true
+       },
+       {
+        "text": "In der gesetzlichen Sozialversicherung werden die Beiträge in der Regel jeweils hälftig von Arbeitgeber und Arbeitnehmer getragen.",
+        "correct": true
+       },
+       {
+        "text": "Der Bruttolohn entspricht dem Betrag, den Arbeitnehmer tatsächlich auf ihr Konto überwiesen bekommen.",
+        "correct": false
+       },
+       {
+        "text": "Alle Arbeitnehmer zahlen unabhängig vom Einkommen denselben Lohnsteuersatz.",
+        "correct": false
+       },
+       {
+        "text": "Kirchensteuer muss in Deutschland von allen Arbeitnehmern gezahlt werden.",
+        "correct": false
+       },
+       {
+        "text": "Die Steuerklasse beeinflusst nur die Höhe der Kirchensteuer.",
+        "correct": false
+       }
+      ]
+     }
+    },
+    {
+     "key": "ficon-pr-aufgaben-q02",
+     "type": "order",
+     "exam_part": 3,
+     "difficulty": 2,
+     "points": 4,
+     "source": "Abgewandelt nach IHK-Abschlussprüfungen (Umsetzung & Steuerung, Teil 3) – FAMK / Kunde Zweitschatz",
+     "body": {
+      "prompt": "Bringen Sie die Schritte der Buchhaltung zum Jahresabschluss in die richtige Reihenfolge.",
+      "items": [
+       "Erstellen der Eröffnungsbilanz",
+       "Durchführen einer Inventur",
+       "Erstellen eines Inventars",
+       "Ermitteln des Erfolgs in der Gewinn- und Verlustrechnung",
+       "Erstellen der Schlussbilanz"
+      ]
+     }
+    },
+    {
+     "key": "ficon-pr-aufgaben-q03",
+     "type": "mc",
+     "exam_part": 3,
+     "difficulty": 3,
+     "points": 4,
+     "source": "Abgewandelt nach IHK-Abschlussprüfungen (Umsetzung & Steuerung, Teil 3) – FAMK / Kunde Zweitschatz",
+     "body": {
+      "prompt": "Welche Aussage trifft auf eine Bilanz zu, in der das Umlaufvermögen die kurzfristigen Verbindlichkeiten nicht einmal zur Hälfte abdeckt?",
+      "options": [
+       {
+        "text": "Das Unternehmen hat deutliche Liquiditätsdefizite, weil der Wert des Umlaufvermögens die kurzfristigen Verbindlichkeiten nicht abdeckt.",
+        "correct": true
+       },
+       {
+        "text": "Das Unternehmen hat eine ausreichende Liquidität, um kurzfristige Verbindlichkeiten problemlos zu begleichen.",
+        "correct": false
+       },
+       {
+        "text": "Durch hohe Werte des Anlagevermögens stehen kurzfristig Liquiditätsreserven zur Verfügung.",
+        "correct": false
+       },
+       {
+        "text": "Durch eine hohe Eigenkapitalrentabilität können Liquiditätsdefizite ausgeglichen werden.",
+        "correct": false
+       },
+       {
+        "text": "Die Kapitalstruktur zeigt zwingend ein ausgeglichenes Verhältnis zwischen Eigen- und Fremdkapital.",
+        "correct": false
+       }
+      ]
+     }
+    }
+   ],
+   "templates": [
+    {
+     "key": "ficon-pr-aufgaben-t01",
+     "type": "calc",
+     "exam_part": 3,
+     "difficulty": 2,
+     "points": 4,
+     "source": "Abgewandelt nach IHK-Abschlussprüfungen (Umsetzung & Steuerung, Teil 3) – FAMK / Kunde Zweitschatz",
+     "vars": {
+      "a": {
+       "type": "int",
+       "min": 1000000,
+       "max": 1500000,
+       "step": 20000
+      },
+      "e": {
+       "type": "int",
+       "min": 1100000,
+       "max": 1700000,
+       "step": 20000
+      },
+      "na": {
+       "type": "int",
+       "min": 20000,
+       "max": 90000,
+       "step": 5000
+      },
+      "ne": {
+       "type": "int",
+       "min": 10000,
+       "max": 120000,
+       "step": 5000
+      }
+     },
+     "body": {
+      "prompt": "Aus der Ergebnistabelle der FAMK: Aufwendungen laut GuV {a|eur}, Erträge laut GuV {e|eur}. Der neutrale Aufwand beträgt {na|eur}, der neutrale Ertrag {ne|eur}. Ermitteln Sie das neutrale Ergebnis (neutraler Ertrag − neutraler Aufwand; negativ = Verlust).",
+      "answer": "ne-na",
+      "unit": "€",
+      "decimals": 2,
+      "steps": [
+       "Neutrales Ergebnis = {ne|eur} − {na|eur} = {result|eur}"
+      ]
+     }
+    },
+    {
+     "key": "ficon-pr-aufgaben-t02",
+     "type": "calc",
+     "exam_part": 3,
+     "difficulty": 2,
+     "points": 4,
+     "source": "Abgewandelt nach IHK-Abschlussprüfungen (Umsetzung & Steuerung, Teil 3) – FAMK / Kunde Zweitschatz",
+     "vars": {
+      "a": {
+       "type": "int",
+       "min": 1000000,
+       "max": 1500000,
+       "step": 20000
+      },
+      "e": {
+       "type": "int",
+       "min": 1100000,
+       "max": 1700000,
+       "step": 20000
+      },
+      "na": {
+       "type": "int",
+       "min": 20000,
+       "max": 90000,
+       "step": 5000
+      },
+      "ne": {
+       "type": "int",
+       "min": 10000,
+       "max": 120000,
+       "step": 5000
+      }
+     },
+     "body": {
+      "prompt": "Aus der Ergebnistabelle der FAMK: Aufwendungen laut GuV {a|eur}, Erträge laut GuV {e|eur}, neutraler Aufwand {na|eur}, neutraler Ertrag {ne|eur}. Ermitteln Sie das Betriebsergebnis (Leistungen − Kosten).",
+      "answer": "(e-ne)-(a-na)",
+      "unit": "€",
+      "decimals": 2,
+      "steps": [
+       "Kosten = Aufwendungen − neutraler Aufwand = {a|eur} − {na|eur}",
+       "Leistungen = Erträge − neutraler Ertrag = {e|eur} − {ne|eur}",
+       "Betriebsergebnis = Leistungen − Kosten = {result|eur}"
+      ]
+     }
+    },
+    {
+     "key": "ficon-pr-aufgaben-t03",
+     "type": "calc",
+     "exam_part": 3,
+     "difficulty": 2,
+     "points": 4,
+     "source": "Abgewandelt nach IHK-Abschlussprüfungen (Umsetzung & Steuerung, Teil 3) – FAMK / Kunde Zweitschatz",
+     "vars": {
+      "x": {
+       "type": "int",
+       "min": 150,
+       "max": 600,
+       "step": 50
+      },
+      "p": {
+       "type": "dec",
+       "min": 5,
+       "max": 8,
+       "decimals": 2
+      },
+      "kv": {
+       "type": "dec",
+       "min": 1.8,
+       "max": 3.2,
+       "decimals": 2
+      },
+      "f": {
+       "type": "int",
+       "min": 800,
+       "max": 2200,
+       "step": 50
+      }
+     },
+     "body": {
+      "prompt": "Die FAMK bietet einem Kunden {x} gebrandete Keramiktassen zu {p|eur} netto je Stück an. Anteilige monatliche Fixkosten {f|eur}, variable Stückkosten {kv|eur}. Berechnen Sie den gesamten Deckungsbeitrag dieses Auftrags.",
+      "answer": "x*(p-kv)",
+      "unit": "€",
+      "decimals": 2,
+      "steps": [
+       "db = {p|eur} − {kv|eur}",
+       "Gesamt-DB = {x} · db = {result|eur}"
+      ]
+     }
+    },
+    {
+     "key": "ficon-pr-aufgaben-t04",
+     "type": "calc",
+     "exam_part": 3,
+     "difficulty": 2,
+     "points": 4,
+     "source": "Abgewandelt nach IHK-Abschlussprüfungen (Umsetzung & Steuerung, Teil 3) – FAMK / Kunde Zweitschatz",
+     "vars": {
+      "p": {
+       "type": "pick",
+       "options": [
+        5.5,
+        6,
+        6.5,
+        7
+       ]
+      },
+      "kv": {
+       "type": "pick",
+       "options": [
+        2,
+        2.5,
+        3
+       ]
+      },
+      "f": {
+       "type": "int",
+       "min": 900,
+       "max": 2000,
+       "step": 100
+      }
+     },
+     "body": {
+      "prompt": "Die FAMK bietet gebrandete Keramiktassen zu {p|eur} netto je Stück an. Anteilige monatliche Fixkosten {f|eur}, variable Stückkosten {kv|eur}. Bei wie vielen Tassen ist die Gewinnschwelle erreicht (auf ganze Stück aufrunden)?",
+      "answer": "ceil(f/(p-kv))",
+      "unit": "Stück",
+      "decimals": 0,
+      "steps": [
+       "db = {p|eur} − {kv|eur}",
+       "Break-even = {f|eur} : db, aufgerundet = {result}"
+      ]
+     }
+    },
+    {
+     "key": "ficon-pr-aufgaben-t05",
+     "type": "calc",
+     "exam_part": 3,
+     "difficulty": 2,
+     "points": 4,
+     "source": "Abgewandelt nach IHK-Abschlussprüfungen (Umsetzung & Steuerung, Teil 3) – FAMK / Kunde Zweitschatz",
+     "vars": {
+      "gesamt": {
+       "type": "pick",
+       "options": [
+        400,
+        500,
+        600
+       ]
+      },
+      "qm": {
+       "type": "pick",
+       "options": [
+        60,
+        80,
+        100,
+        120
+       ]
+      },
+      "m": {
+       "type": "pick",
+       "options": [
+        8000,
+        10000,
+        12000
+       ]
+      }
+     },
+     "body": {
+      "prompt": "Im BAB der FAMK sind Mietkosten von {m|eur} für {gesamt} m² Gesamtfläche nach Quadratmetern zu verteilen. Die Kostenstelle Strategie nutzt {qm} m². Berechnen Sie die Mietkosten der Kostenstelle Strategie.",
+      "answer": "m/gesamt*qm",
+      "unit": "€",
+      "decimals": 2,
+      "steps": [
+       "Miete je m² = {m|eur} : {gesamt}",
+       "Anteil = {qm} m² · Miete je m² = {result|eur}"
+      ]
+     }
+    },
+    {
+     "key": "ficon-pr-aufgaben-t06",
+     "type": "calc",
+     "exam_part": 3,
+     "difficulty": 2,
+     "points": 4,
+     "source": "Abgewandelt nach IHK-Abschlussprüfungen (Umsetzung & Steuerung, Teil 3) – FAMK / Kunde Zweitschatz",
+     "vars": {
+      "ek": {
+       "type": "int",
+       "min": 40000,
+       "max": 90000,
+       "step": 5000
+      },
+      "gk": {
+       "type": "int",
+       "min": 25000,
+       "max": 70000,
+       "step": 5000
+      }
+     },
+     "body": {
+      "prompt": "Kostenstelle Kundenberatung: Einzelkosten (direkte Personal-, Einkaufs-, Reise- und Bewirtungskosten) {ek|eur}, Summe der Gemeinkosten {gk|eur}. Berechnen Sie den Gemeinkostenzuschlagssatz in Prozent (eine Nachkommastelle).",
+      "answer": "gk/ek*100",
+      "unit": "%",
+      "decimals": 1,
+      "steps": [
+       "{gk|eur} : {ek|eur} · 100 = {result} %"
+      ]
+     }
+    },
+    {
+     "key": "ficon-pr-aufgaben-t07",
+     "type": "calc",
+     "exam_part": 3,
+     "difficulty": 2,
+     "points": 4,
+     "source": "Abgewandelt nach IHK-Abschlussprüfungen (Umsetzung & Steuerung, Teil 3) – FAMK / Kunde Zweitschatz",
+     "vars": {
+      "u": {
+       "type": "int",
+       "min": 1200,
+       "max": 2400,
+       "step": 100
+      },
+      "s": {
+       "type": "pick",
+       "options": [
+        2,
+        3
+       ]
+      },
+      "v1": {
+       "type": "int",
+       "min": 200,
+       "max": 450,
+       "step": 25
+      },
+      "v2": {
+       "type": "int",
+       "min": 200,
+       "max": 450,
+       "step": 25
+      }
+     },
+     "body": {
+      "prompt": "Ermitteln Sie die Umsatzsteuerzahllast der FAMK. Eigene Ausgangsrechnung: Umsatzsteuer {u|eur}; der Kunde zahlt mit {s} % Skonto auf den Rechnungsbetrag (Umsatzsteuer entsprechend gekürzt). Eingangsrechnungen mit Vorsteuer {v1|eur} und {v2|eur} werden ohne Skonto bezahlt.",
+      "answer": "u*(1-s/100)-v1-v2",
+      "unit": "€",
+      "decimals": 2,
+      "steps": [
+       "Umsatzsteuer nach Skonto = {u|eur} · (1 − {s} %)",
+       "− Vorsteuer {v1|eur} − {v2|eur} = {result|eur}"
+      ]
+     }
+    },
+    {
+     "key": "ficon-pr-aufgaben-t08",
+     "type": "calc",
+     "exam_part": 3,
+     "difficulty": 2,
+     "points": 4,
+     "source": "Abgewandelt nach IHK-Abschlussprüfungen (Umsetzung & Steuerung, Teil 3) – FAMK / Kunde Zweitschatz",
+     "vars": {
+      "ba": {
+       "type": "int",
+       "min": 8000,
+       "max": 25000,
+       "step": 1000
+      },
+      "ka": {
+       "type": "int",
+       "min": 2000,
+       "max": 5000,
+       "step": 500
+      },
+      "vb": {
+       "type": "int",
+       "min": 100000,
+       "max": 200000,
+       "step": 5000
+      }
+     },
+     "body": {
+      "prompt": "Bilanzauszug der Smart-Think GmbH: Bank {ba|eur}, Kasse {ka|eur}, Verbindlichkeiten aLuL {vb|eur} (alle kurzfristig). Berechnen Sie die Liquidität 1. Grades (Barliquidität) in Prozent.",
+      "answer": "(ba+ka)/vb*100",
+      "unit": "%",
+      "decimals": 2,
+      "steps": [
+       "(Bank + Kasse) : kurzfristige Verbindlichkeiten · 100",
+       "= {result} %"
+      ]
+     }
+    },
+    {
+     "key": "ficon-pr-aufgaben-t09",
+     "type": "calc",
+     "exam_part": 3,
+     "difficulty": 2,
+     "points": 4,
+     "source": "Abgewandelt nach IHK-Abschlussprüfungen (Umsetzung & Steuerung, Teil 3) – FAMK / Kunde Zweitschatz",
+     "vars": {
+      "fk": {
+       "type": "int",
+       "min": 400000,
+       "max": 600000,
+       "step": 25000
+      },
+      "g": {
+       "type": "int",
+       "min": 8000,
+       "max": 20000,
+       "step": 1000
+      },
+      "ek": {
+       "type": "int",
+       "min": 80000,
+       "max": 150000,
+       "step": 10000
+      },
+      "bs": {
+       "type": "expr",
+       "expr": "fk+ek+g",
+       "decimals": 0
+      }
+     },
+     "body": {
+      "prompt": "Bilanzsumme der Smart-Think GmbH zum Jahresende {bs|eur}, davon Jahresüberschuss {g|eur} und Fremdkapital {fk|eur}. Der Gewinn wird vollständig ausgeschüttet. Berechnen Sie die Fremdkapitalquote zu Beginn des neuen Jahres in Prozent.",
+      "answer": "fk/(bs-g)*100",
+      "unit": "%",
+      "decimals": 2,
+      "steps": [
+       "Gesamtkapital nach Ausschüttung = {bs|eur} − {g|eur}",
+       "FK-Quote = Fremdkapital : Gesamtkapital · 100 = {result} %"
+      ]
+     }
+    },
+    {
+     "key": "ficon-pr-aufgaben-t10",
+     "type": "calc",
+     "exam_part": 3,
+     "difficulty": 2,
+     "points": 4,
+     "source": "Abgewandelt nach IHK-Abschlussprüfungen (Umsetzung & Steuerung, Teil 3) – FAMK / Kunde Zweitschatz",
+     "vars": {
+      "h1": {
+       "type": "int",
+       "min": 10,
+       "max": 14,
+       "step": 1
+      },
+      "s1": {
+       "type": "pick",
+       "options": [
+        90,
+        95,
+        100
+       ]
+      },
+      "h2": {
+       "type": "int",
+       "min": 8,
+       "max": 12,
+       "step": 1
+      },
+      "s2": {
+       "type": "pick",
+       "options": [
+        110,
+        120,
+        130
+       ]
+      },
+      "loc": {
+       "type": "int",
+       "min": 700,
+       "max": 1000,
+       "step": 50
+      },
+      "mod": {
+       "type": "int",
+       "min": 1000,
+       "max": 1400,
+       "step": 50
+      },
+      "sf": {
+       "type": "pick",
+       "options": [
+        10,
+        15,
+        20
+       ]
+      },
+      "fa": {
+       "type": "int",
+       "min": 200,
+       "max": 400,
+       "step": 20
+      },
+      "h1n": {
+       "type": "int",
+       "min": 11,
+       "max": 17,
+       "step": 1
+      },
+      "h2n": {
+       "type": "int",
+       "min": 9,
+       "max": 14,
+       "step": 1
+      },
+      "locn": {
+       "type": "int",
+       "min": 650,
+       "max": 1000,
+       "step": 50
+      },
+      "modn": {
+       "type": "int",
+       "min": 1100,
+       "max": 1500,
+       "step": 50
+      },
+      "fan": {
+       "type": "int",
+       "min": 100,
+       "max": 350,
+       "step": 10
+      }
+     },
+     "body": {
+      "prompt": "Der Kostenvoranschlag (KVA) für ein Model-Shooting enthielt: Koordination {h1} Std. à {s1|eur}, Kreativdirection {h2} Std. à {s2|eur} (die Stundensätze enthalten bereits den Gewinnaufschlag), Locationmiete {loc|eur} und Modelhonorar {mod|eur} (beide zzgl. {sf} % Service Fee), Fahrtkosten {fa|eur} (ohne Aufschlag). Nach Projektende fielen {h1n} Std. Koordination, {h2n} Std. Kreativdirection, Locationmiete {locn|eur}, Modelhonorar {modn|eur} und Fahrtkosten {fan|eur} an. Wie hoch ist die Differenz zum KVA (Neu − KVA; positiv = teurer)?",
+      "answer": "(h1n*s1+h2n*s2+(locn+modn)*(1+sf/100)+fan)-(h1*s1+h2*s2+(loc+mod)*(1+sf/100)+fa)",
+      "unit": "€",
+      "decimals": 2,
+      "steps": [
+       "KVA = {h1}·{s1|eur} + {h2}·{s2|eur} + ({loc|eur}+{mod|eur})·(1+{sf} %) + {fa|eur}",
+       "Neu = {h1n}·{s1|eur} + {h2n}·{s2|eur} + ({locn|eur}+{modn|eur})·(1+{sf} %) + {fan|eur}",
+       "Differenz = {result|eur}"
+      ]
+     }
+    }
+   ],
+   "cases": []
+  }
+ ]
+}

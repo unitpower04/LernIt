@@ -1,0 +1,1313 @@
+{
+ "demo": false,
+ "items": [
+  {
+   "topic": "mako-ex-umsetzung",
+   "flashcards": [
+    {
+     "key": "mako-ex-umsetzung-c01",
+     "front": "Welche Datei ist für den Druck am besten geeignet?",
+     "back": "Ein PDF/X mit eingebetteten Schriften, CMYK, Beschnitt"
+    },
+    {
+     "key": "mako-ex-umsetzung-c02",
+     "front": "Wozu dient ein Proof?",
+     "back": "Zur farbverbindlichen Freigabe vor dem Druck"
+    },
+    {
+     "key": "mako-ex-umsetzung-c03",
+     "front": "Welche Auflösung ist für Druckbilder üblich?",
+     "back": "300 dpi"
+    },
+    {
+     "key": "mako-ex-umsetzung-c04",
+     "front": "Welches Farbmodell eignet sich für den Offsetdruck?",
+     "back": "CMYK"
+    },
+    {
+     "key": "mako-ex-umsetzung-c05",
+     "front": "Wie groß ist DIN A5?",
+     "back": "148 × 210 mm"
+    },
+    {
+     "key": "mako-ex-umsetzung-c06",
+     "front": "Wie groß ist DIN lang?",
+     "back": "99 × 210 mm"
+    },
+    {
+     "key": "mako-ex-umsetzung-c07",
+     "front": "Was bedeutet 4/4-farbig?",
+     "back": "Vorder- und Rückseite in CMYK bedruckt"
+    },
+    {
+     "key": "mako-ex-umsetzung-c08",
+     "front": "Was ist ein Beschnitt?",
+     "back": "Überstand über das Endformat, der Schnittungenauigkeiten ausgleicht"
+    },
+    {
+     "key": "mako-ex-umsetzung-c09",
+     "front": "Welche Veredelung macht Oberflächen hochglänzend und kratzfest?",
+     "back": "UV-Lack"
+    },
+    {
+     "key": "mako-ex-umsetzung-c10",
+     "front": "Welches Druckverfahren ist für sehr hohe Zeitschriftenauflagen typisch?",
+     "back": "Tiefdruck"
+    },
+    {
+     "key": "mako-ex-umsetzung-c11",
+     "front": "Welches Druckverfahren eignet sich für Kugelschreiber und Tassen?",
+     "back": "Tampondruck bzw. Siebdruck"
+    },
+    {
+     "key": "mako-ex-umsetzung-c12",
+     "front": "Was bedeutet Grammatur?",
+     "back": "Das Papiergewicht in g/m²"
+    },
+    {
+     "key": "mako-ex-umsetzung-c13",
+     "front": "Was kennzeichnet das FSC-Siegel?",
+     "back": "Papier aus nachhaltiger Forstwirtschaft"
+    },
+    {
+     "key": "mako-ex-umsetzung-c14",
+     "front": "Was versteht man unter Preflight?",
+     "back": "Technische Prüfung der Druckdaten vor der Produktion"
+    },
+    {
+     "key": "mako-ex-umsetzung-c15",
+     "front": "Was gehört zur Pre-Production eines Videos?",
+     "back": "Konzept, Drehbuch, Casting, Locationsuche"
+    },
+    {
+     "key": "mako-ex-umsetzung-c16",
+     "front": "Was gehört zur Post-Production eines Videos?",
+     "back": "Schnitt, Farbkorrektur, Tonbearbeitung"
+    },
+    {
+     "key": "mako-ex-umsetzung-c17",
+     "front": "Was bedeutet KVA?",
+     "back": "Kostenvoranschlag"
+    },
+    {
+     "key": "mako-ex-umsetzung-c18",
+     "front": "Der Kunde ändert nach Freigabe das Format. Was ist zu tun?",
+     "back": "Mehrkosten und Termine prüfen und eine Änderung schriftlich freigeben lassen"
+    },
+    {
+     "key": "mako-ex-umsetzung-c19",
+     "front": "Welcher Vertrag liegt vor, wenn eine Agentur die Produktion eines Spots zum Festpreis übernimmt?",
+     "back": "Werkvertrag"
+    },
+    {
+     "key": "mako-ex-umsetzung-c20",
+     "front": "Wer ist Urheber eines Fotos?",
+     "back": "Der Fotograf als natürliche Person"
+    },
+    {
+     "key": "mako-ex-umsetzung-c21",
+     "front": "Welche Rechte erwirbt die Agentur für die Nutzung des Fotos?",
+     "back": "Nutzungsrechte nach Umfang, Dauer, Medium und Gebiet"
+    },
+    {
+     "key": "mako-ex-umsetzung-c22",
+     "front": "Ein Model ist erkennbar abgebildet. Was ist für die Veröffentlichung erforderlich?",
+     "back": "Eine Einwilligung (Model Release)"
+    },
+    {
+     "key": "mako-ex-umsetzung-c23",
+     "front": "Wer ist für Kinderfotos in Werbung einwilligungsbefugt?",
+     "back": "Die Erziehungsberechtigten (ggf. mit Einwilligung des Kindes)"
+    },
+    {
+     "key": "mako-ex-umsetzung-c24",
+     "front": "Welche Zeichen schützen die Marke?",
+     "back": "®/™ weisen auf Markenschutz hin; Wirkung folgt aus der Eintragung bzw. Benutzung."
+    },
+    {
+     "key": "mako-ex-umsetzung-c25",
+     "front": "Welches Schutzrecht schützt ein Logo als Zeichen im Wettbewerb?",
+     "back": "Markenrecht"
+    },
+    {
+     "key": "mako-ex-umsetzung-c26",
+     "front": "Was ist eine strafbewehrte Unterlassungserklärung?",
+     "back": "Verpflichtung, ein Verhalten zu unterlassen, mit Vertragsstrafe bei Verstoß"
+    },
+    {
+     "key": "mako-ex-umsetzung-c27",
+     "front": "Wer haftet gegenüber dem Kunden, wenn die Agentur ein Foto ohne Lizenz nutzt?",
+     "back": "Die Agentur kann haftbar sein; der Kunde ggf. mit."
+    },
+    {
+     "key": "mako-ex-umsetzung-c28",
+     "front": "Welche Pflicht besteht bei Newsletter-Versand per E-Mail?",
+     "back": "Vorherige Einwilligung (Opt-in) und Abmeldemöglichkeit"
+    },
+    {
+     "key": "mako-ex-umsetzung-c29",
+     "front": "Wie muss ein Influencer entgeltliche Kooperation kennzeichnen?",
+     "back": "Deutlich erkennbar, z. B. #Werbung oder #Anzeige"
+    }
+   ],
+   "glossary": [],
+   "questions": [
+    {
+     "key": "mako-ex-umsetzung-q01",
+     "type": "mc",
+     "exam_part": 3,
+     "difficulty": 2,
+     "source": "MaKo Prüfungstraining (eigene Aufgaben im IHK-Niveau, Rahmen: FAMK/Zweitschatz u. a.)",
+     "body": {
+      "prompt": "Welche Datei ist für den Druck am besten geeignet?",
+      "options": [
+       {
+        "text": "Ein PDF/X mit eingebetteten Schriften, CMYK, Beschnitt",
+        "correct": true
+       },
+       {
+        "text": "Ein Word-Dokument mit Systemschriften",
+        "correct": false
+       },
+       {
+        "text": "Ein Bildschirmfoto",
+        "correct": false
+       },
+       {
+        "text": "Eine PowerPoint-Datei mit RGB-Bildern",
+        "correct": false
+       }
+      ]
+     }
+    },
+    {
+     "key": "mako-ex-umsetzung-q02",
+     "type": "mc",
+     "exam_part": 3,
+     "difficulty": 2,
+     "source": "MaKo Prüfungstraining (eigene Aufgaben im IHK-Niveau, Rahmen: FAMK/Zweitschatz u. a.)",
+     "body": {
+      "prompt": "Wozu dient ein Proof?",
+      "options": [
+       {
+        "text": "Zur farbverbindlichen Freigabe vor dem Druck",
+        "correct": true
+       },
+       {
+        "text": "Zur Berechnung der Auflage",
+        "correct": false
+       },
+       {
+        "text": "Zur Rechnungsstellung",
+        "correct": false
+       },
+       {
+        "text": "Zur Terminplanung",
+        "correct": false
+       }
+      ]
+     }
+    },
+    {
+     "key": "mako-ex-umsetzung-q03",
+     "type": "mc",
+     "exam_part": 3,
+     "difficulty": 2,
+     "source": "MaKo Prüfungstraining (eigene Aufgaben im IHK-Niveau, Rahmen: FAMK/Zweitschatz u. a.)",
+     "body": {
+      "prompt": "Welche Auflösung ist für Druckbilder üblich?",
+      "options": [
+       {
+        "text": "300 dpi",
+        "correct": true
+       },
+       {
+        "text": "72 dpi",
+        "correct": false
+       },
+       {
+        "text": "20 dpi",
+        "correct": false
+       },
+       {
+        "text": "10 dpi",
+        "correct": false
+       }
+      ]
+     }
+    },
+    {
+     "key": "mako-ex-umsetzung-q04",
+     "type": "mc",
+     "exam_part": 3,
+     "difficulty": 2,
+     "source": "MaKo Prüfungstraining (eigene Aufgaben im IHK-Niveau, Rahmen: FAMK/Zweitschatz u. a.)",
+     "body": {
+      "prompt": "Welches Farbmodell eignet sich für den Offsetdruck?",
+      "options": [
+       {
+        "text": "CMYK",
+        "correct": true
+       },
+       {
+        "text": "RGB",
+        "correct": false
+       },
+       {
+        "text": "Pantone Web",
+        "correct": false
+       },
+       {
+        "text": "HEX",
+        "correct": false
+       }
+      ]
+     }
+    },
+    {
+     "key": "mako-ex-umsetzung-q05",
+     "type": "mc",
+     "exam_part": 3,
+     "difficulty": 2,
+     "source": "MaKo Prüfungstraining (eigene Aufgaben im IHK-Niveau, Rahmen: FAMK/Zweitschatz u. a.)",
+     "body": {
+      "prompt": "Wie groß ist DIN A5?",
+      "options": [
+       {
+        "text": "148 × 210 mm",
+        "correct": true
+       },
+       {
+        "text": "210 × 297 mm",
+        "correct": false
+       },
+       {
+        "text": "105 × 148 mm",
+        "correct": false
+       },
+       {
+        "text": "99 × 210 mm",
+        "correct": false
+       }
+      ]
+     }
+    },
+    {
+     "key": "mako-ex-umsetzung-q06",
+     "type": "mc",
+     "exam_part": 3,
+     "difficulty": 2,
+     "source": "MaKo Prüfungstraining (eigene Aufgaben im IHK-Niveau, Rahmen: FAMK/Zweitschatz u. a.)",
+     "body": {
+      "prompt": "Wie groß ist DIN lang?",
+      "options": [
+       {
+        "text": "99 × 210 mm",
+        "correct": true
+       },
+       {
+        "text": "105 × 148 mm",
+        "correct": false
+       },
+       {
+        "text": "148 × 210 mm",
+        "correct": false
+       },
+       {
+        "text": "210 × 297 mm",
+        "correct": false
+       }
+      ]
+     }
+    },
+    {
+     "key": "mako-ex-umsetzung-q07",
+     "type": "mc",
+     "exam_part": 3,
+     "difficulty": 2,
+     "source": "MaKo Prüfungstraining (eigene Aufgaben im IHK-Niveau, Rahmen: FAMK/Zweitschatz u. a.)",
+     "body": {
+      "prompt": "Was bedeutet 4/4-farbig?",
+      "options": [
+       {
+        "text": "Vorder- und Rückseite in CMYK bedruckt",
+        "correct": true
+       },
+       {
+        "text": "Vorderseite vierfarbig, Rückseite unbedruckt",
+        "correct": false
+       },
+       {
+        "text": "Vier Seiten, ein Farbton",
+        "correct": false
+       },
+       {
+        "text": "Vier Sonderfarben",
+        "correct": false
+       }
+      ]
+     }
+    },
+    {
+     "key": "mako-ex-umsetzung-q08",
+     "type": "mc",
+     "exam_part": 3,
+     "difficulty": 2,
+     "source": "MaKo Prüfungstraining (eigene Aufgaben im IHK-Niveau, Rahmen: FAMK/Zweitschatz u. a.)",
+     "body": {
+      "prompt": "Was ist ein Beschnitt?",
+      "options": [
+       {
+        "text": "Überstand über das Endformat, der Schnittungenauigkeiten ausgleicht",
+        "correct": true
+       },
+       {
+        "text": "Ein Falz",
+        "correct": false
+       },
+       {
+        "text": "Ein Druckkontrollstreifen",
+        "correct": false
+       },
+       {
+        "text": "Eine Papiersorte",
+        "correct": false
+       }
+      ]
+     }
+    },
+    {
+     "key": "mako-ex-umsetzung-q09",
+     "type": "mc",
+     "exam_part": 3,
+     "difficulty": 2,
+     "source": "MaKo Prüfungstraining (eigene Aufgaben im IHK-Niveau, Rahmen: FAMK/Zweitschatz u. a.)",
+     "body": {
+      "prompt": "Welche Veredelung macht Oberflächen hochglänzend und kratzfest?",
+      "options": [
+       {
+        "text": "UV-Lack",
+        "correct": true
+       },
+       {
+        "text": "Prägung",
+        "correct": false
+       },
+       {
+        "text": "Perforation",
+        "correct": false
+       },
+       {
+        "text": "Heißfolie ohne Lack",
+        "correct": false
+       }
+      ]
+     }
+    },
+    {
+     "key": "mako-ex-umsetzung-q10",
+     "type": "mc",
+     "exam_part": 3,
+     "difficulty": 2,
+     "source": "MaKo Prüfungstraining (eigene Aufgaben im IHK-Niveau, Rahmen: FAMK/Zweitschatz u. a.)",
+     "body": {
+      "prompt": "Welches Druckverfahren ist für sehr hohe Zeitschriftenauflagen typisch?",
+      "options": [
+       {
+        "text": "Tiefdruck",
+        "correct": true
+       },
+       {
+        "text": "Digitaldruck",
+        "correct": false
+       },
+       {
+        "text": "Siebdruck",
+        "correct": false
+       },
+       {
+        "text": "Tampondruck",
+        "correct": false
+       }
+      ]
+     }
+    },
+    {
+     "key": "mako-ex-umsetzung-q11",
+     "type": "mc",
+     "exam_part": 3,
+     "difficulty": 2,
+     "source": "MaKo Prüfungstraining (eigene Aufgaben im IHK-Niveau, Rahmen: FAMK/Zweitschatz u. a.)",
+     "body": {
+      "prompt": "Welches Druckverfahren eignet sich für Kugelschreiber und Tassen?",
+      "options": [
+       {
+        "text": "Tampondruck bzw. Siebdruck",
+        "correct": true
+       },
+       {
+        "text": "Offsetdruck",
+        "correct": false
+       },
+       {
+        "text": "Tiefdruck",
+        "correct": false
+       },
+       {
+        "text": "Digitaldruck auf Rolle",
+        "correct": false
+       }
+      ]
+     }
+    },
+    {
+     "key": "mako-ex-umsetzung-q12",
+     "type": "mc",
+     "exam_part": 3,
+     "difficulty": 2,
+     "source": "MaKo Prüfungstraining (eigene Aufgaben im IHK-Niveau, Rahmen: FAMK/Zweitschatz u. a.)",
+     "body": {
+      "prompt": "Was bedeutet Grammatur?",
+      "options": [
+       {
+        "text": "Das Papiergewicht in g/m²",
+        "correct": true
+       },
+       {
+        "text": "Die Papierfarbe",
+        "correct": false
+       },
+       {
+        "text": "Die Papierstärke in mm",
+        "correct": false
+       },
+       {
+        "text": "Die Laufrichtung",
+        "correct": false
+       }
+      ]
+     }
+    },
+    {
+     "key": "mako-ex-umsetzung-q13",
+     "type": "mc",
+     "exam_part": 3,
+     "difficulty": 2,
+     "source": "MaKo Prüfungstraining (eigene Aufgaben im IHK-Niveau, Rahmen: FAMK/Zweitschatz u. a.)",
+     "body": {
+      "prompt": "Was kennzeichnet das FSC-Siegel?",
+      "options": [
+       {
+        "text": "Papier aus nachhaltiger Forstwirtschaft",
+        "correct": true
+       },
+       {
+        "text": "Recyclingpapier ausschließlich",
+        "correct": false
+       },
+       {
+        "text": "Hochweiße Papiere",
+        "correct": false
+       },
+       {
+        "text": "Säurefreies Papier",
+        "correct": false
+       }
+      ]
+     }
+    },
+    {
+     "key": "mako-ex-umsetzung-q14",
+     "type": "mc",
+     "exam_part": 3,
+     "difficulty": 2,
+     "source": "MaKo Prüfungstraining (eigene Aufgaben im IHK-Niveau, Rahmen: FAMK/Zweitschatz u. a.)",
+     "body": {
+      "prompt": "Was versteht man unter Preflight?",
+      "options": [
+       {
+        "text": "Technische Prüfung der Druckdaten vor der Produktion",
+        "correct": true
+       },
+       {
+        "text": "Ein Farbprofil",
+        "correct": false
+       },
+       {
+        "text": "Eine Rechnung",
+        "correct": false
+       },
+       {
+        "text": "Ein Verteilerplan",
+        "correct": false
+       }
+      ]
+     }
+    },
+    {
+     "key": "mako-ex-umsetzung-q15",
+     "type": "mc",
+     "exam_part": 3,
+     "difficulty": 2,
+     "source": "MaKo Prüfungstraining (eigene Aufgaben im IHK-Niveau, Rahmen: FAMK/Zweitschatz u. a.)",
+     "body": {
+      "prompt": "Was gehört zur Pre-Production eines Videos?",
+      "options": [
+       {
+        "text": "Konzept, Drehbuch, Casting, Locationsuche",
+        "correct": true
+       },
+       {
+        "text": "Schnitt und Farbkorrektur",
+        "correct": false
+       },
+       {
+        "text": "Tonmischung",
+        "correct": false
+       },
+       {
+        "text": "Ausspielung im Web",
+        "correct": false
+       }
+      ]
+     }
+    },
+    {
+     "key": "mako-ex-umsetzung-q16",
+     "type": "mc",
+     "exam_part": 3,
+     "difficulty": 2,
+     "source": "MaKo Prüfungstraining (eigene Aufgaben im IHK-Niveau, Rahmen: FAMK/Zweitschatz u. a.)",
+     "body": {
+      "prompt": "Was gehört zur Post-Production eines Videos?",
+      "options": [
+       {
+        "text": "Schnitt, Farbkorrektur, Tonbearbeitung",
+        "correct": true
+       },
+       {
+        "text": "Casting",
+        "correct": false
+       },
+       {
+        "text": "Drehbuch",
+        "correct": false
+       },
+       {
+        "text": "Locationsuche",
+        "correct": false
+       }
+      ]
+     }
+    },
+    {
+     "key": "mako-ex-umsetzung-q17",
+     "type": "mc",
+     "exam_part": 3,
+     "difficulty": 2,
+     "source": "MaKo Prüfungstraining (eigene Aufgaben im IHK-Niveau, Rahmen: FAMK/Zweitschatz u. a.)",
+     "body": {
+      "prompt": "Was bedeutet KVA?",
+      "options": [
+       {
+        "text": "Kostenvoranschlag",
+        "correct": true
+       },
+       {
+        "text": "Kreativverteilungsabsprache",
+        "correct": false
+       },
+       {
+        "text": "Kundenverwaltungsakte",
+        "correct": false
+       },
+       {
+        "text": "Kontrollvorlage für Auftrag",
+        "correct": false
+       }
+      ]
+     }
+    },
+    {
+     "key": "mako-ex-umsetzung-q18",
+     "type": "mc",
+     "exam_part": 3,
+     "difficulty": 2,
+     "source": "MaKo Prüfungstraining (eigene Aufgaben im IHK-Niveau, Rahmen: FAMK/Zweitschatz u. a.)",
+     "body": {
+      "prompt": "Der Kunde ändert nach Freigabe das Format. Was ist zu tun?",
+      "options": [
+       {
+        "text": "Mehrkosten und Termine prüfen und eine Änderung schriftlich freigeben lassen",
+        "correct": true
+       },
+       {
+        "text": "Änderung stillschweigend umsetzen",
+        "correct": false
+       },
+       {
+        "text": "Auftrag ohne Rückfrage kündigen",
+        "correct": false
+       },
+       {
+        "text": "Rechnung unverändert lassen",
+        "correct": false
+       }
+      ]
+     }
+    },
+    {
+     "key": "mako-ex-umsetzung-q19",
+     "type": "mc",
+     "exam_part": 3,
+     "difficulty": 2,
+     "source": "MaKo Prüfungstraining (eigene Aufgaben im IHK-Niveau, Rahmen: FAMK/Zweitschatz u. a.)",
+     "body": {
+      "prompt": "Welcher Vertrag liegt vor, wenn eine Agentur die Produktion eines Spots zum Festpreis übernimmt?",
+      "options": [
+       {
+        "text": "Werkvertrag",
+        "correct": true
+       },
+       {
+        "text": "Dienstvertrag",
+        "correct": false
+       },
+       {
+        "text": "Mietvertrag",
+        "correct": false
+       },
+       {
+        "text": "Leihvertrag",
+        "correct": false
+       }
+      ]
+     }
+    },
+    {
+     "key": "mako-ex-umsetzung-q20",
+     "type": "mc",
+     "exam_part": 3,
+     "difficulty": 2,
+     "source": "MaKo Prüfungstraining (eigene Aufgaben im IHK-Niveau, Rahmen: FAMK/Zweitschatz u. a.)",
+     "body": {
+      "prompt": "Wer ist Urheber eines Fotos?",
+      "options": [
+       {
+        "text": "Der Fotograf als natürliche Person",
+        "correct": true
+       },
+       {
+        "text": "Der Auftraggeber",
+        "correct": false
+       },
+       {
+        "text": "Die Agentur",
+        "correct": false
+       },
+       {
+        "text": "Das abgebildete Model",
+        "correct": false
+       }
+      ]
+     }
+    },
+    {
+     "key": "mako-ex-umsetzung-q21",
+     "type": "mc",
+     "exam_part": 3,
+     "difficulty": 2,
+     "source": "MaKo Prüfungstraining (eigene Aufgaben im IHK-Niveau, Rahmen: FAMK/Zweitschatz u. a.)",
+     "body": {
+      "prompt": "Welche Rechte erwirbt die Agentur für die Nutzung des Fotos?",
+      "options": [
+       {
+        "text": "Nutzungsrechte nach Umfang, Dauer, Medium und Gebiet",
+        "correct": true
+       },
+       {
+        "text": "Das Urheberrecht",
+        "correct": false
+       },
+       {
+        "text": "Das Eigentum an der Bildidee",
+        "correct": false
+       },
+       {
+        "text": "Keine Rechte",
+        "correct": false
+       }
+      ]
+     }
+    },
+    {
+     "key": "mako-ex-umsetzung-q22",
+     "type": "mc",
+     "exam_part": 3,
+     "difficulty": 2,
+     "source": "MaKo Prüfungstraining (eigene Aufgaben im IHK-Niveau, Rahmen: FAMK/Zweitschatz u. a.)",
+     "body": {
+      "prompt": "Ein Model ist erkennbar abgebildet. Was ist für die Veröffentlichung erforderlich?",
+      "options": [
+       {
+        "text": "Eine Einwilligung (Model Release)",
+        "correct": true
+       },
+       {
+        "text": "Keine Einwilligung",
+        "correct": false
+       },
+       {
+        "text": "Nur die Zustimmung der Agentur",
+        "correct": false
+       },
+       {
+        "text": "Nur eine Vergütung ohne Vertrag",
+        "correct": false
+       }
+      ]
+     }
+    },
+    {
+     "key": "mako-ex-umsetzung-q23",
+     "type": "mc",
+     "exam_part": 3,
+     "difficulty": 2,
+     "source": "MaKo Prüfungstraining (eigene Aufgaben im IHK-Niveau, Rahmen: FAMK/Zweitschatz u. a.)",
+     "body": {
+      "prompt": "Wer ist für Kinderfotos in Werbung einwilligungsbefugt?",
+      "options": [
+       {
+        "text": "Die Erziehungsberechtigten (ggf. mit Einwilligung des Kindes)",
+        "correct": true
+       },
+       {
+        "text": "Der Fotograf",
+        "correct": false
+       },
+       {
+        "text": "Die Agentur",
+        "correct": false
+       },
+       {
+        "text": "Der Auftraggeber",
+        "correct": false
+       }
+      ]
+     }
+    },
+    {
+     "key": "mako-ex-umsetzung-q24",
+     "type": "mc",
+     "exam_part": 3,
+     "difficulty": 2,
+     "source": "MaKo Prüfungstraining (eigene Aufgaben im IHK-Niveau, Rahmen: FAMK/Zweitschatz u. a.)",
+     "body": {
+      "prompt": "Welche Zeichen schützen die Marke?",
+      "options": [
+       {
+        "text": "®/™ weisen auf Markenschutz hin; Wirkung folgt aus der Eintragung bzw. Benutzung.",
+        "correct": true
+       },
+       {
+        "text": "© schützt die Marke",
+        "correct": false
+       },
+       {
+        "text": "Patentzeichen schützen die Marke",
+        "correct": false
+       },
+       {
+        "text": "Nur Farben sind schützbar",
+        "correct": false
+       }
+      ]
+     }
+    },
+    {
+     "key": "mako-ex-umsetzung-q25",
+     "type": "mc",
+     "exam_part": 3,
+     "difficulty": 2,
+     "source": "MaKo Prüfungstraining (eigene Aufgaben im IHK-Niveau, Rahmen: FAMK/Zweitschatz u. a.)",
+     "body": {
+      "prompt": "Welches Schutzrecht schützt ein Logo als Zeichen im Wettbewerb?",
+      "options": [
+       {
+        "text": "Markenrecht",
+        "correct": true
+       },
+       {
+        "text": "Patentrecht",
+        "correct": false
+       },
+       {
+        "text": "Gebrauchsmusterrecht",
+        "correct": false
+       },
+       {
+        "text": "Datenschutzrecht",
+        "correct": false
+       }
+      ]
+     }
+    },
+    {
+     "key": "mako-ex-umsetzung-q26",
+     "type": "mc",
+     "exam_part": 3,
+     "difficulty": 2,
+     "source": "MaKo Prüfungstraining (eigene Aufgaben im IHK-Niveau, Rahmen: FAMK/Zweitschatz u. a.)",
+     "body": {
+      "prompt": "Was ist eine strafbewehrte Unterlassungserklärung?",
+      "options": [
+       {
+        "text": "Verpflichtung, ein Verhalten zu unterlassen, mit Vertragsstrafe bei Verstoß",
+        "correct": true
+       },
+       {
+        "text": "Eine Rechnung",
+        "correct": false
+       },
+       {
+        "text": "Eine Genehmigung der Behörde",
+        "correct": false
+       },
+       {
+        "text": "Ein Vertrag über Nutzungsrechte",
+        "correct": false
+       }
+      ]
+     }
+    },
+    {
+     "key": "mako-ex-umsetzung-q27",
+     "type": "mc",
+     "exam_part": 3,
+     "difficulty": 2,
+     "source": "MaKo Prüfungstraining (eigene Aufgaben im IHK-Niveau, Rahmen: FAMK/Zweitschatz u. a.)",
+     "body": {
+      "prompt": "Wer haftet gegenüber dem Kunden, wenn die Agentur ein Foto ohne Lizenz nutzt?",
+      "options": [
+       {
+        "text": "Die Agentur kann haftbar sein; der Kunde ggf. mit.",
+        "correct": true
+       },
+       {
+        "text": "Nur der Fotograf",
+        "correct": false
+       },
+       {
+        "text": "Niemand",
+        "correct": false
+       },
+       {
+        "text": "Nur die Druckerei",
+        "correct": false
+       }
+      ]
+     }
+    },
+    {
+     "key": "mako-ex-umsetzung-q28",
+     "type": "mc",
+     "exam_part": 3,
+     "difficulty": 2,
+     "source": "MaKo Prüfungstraining (eigene Aufgaben im IHK-Niveau, Rahmen: FAMK/Zweitschatz u. a.)",
+     "body": {
+      "prompt": "Welche Pflicht besteht bei Newsletter-Versand per E-Mail?",
+      "options": [
+       {
+        "text": "Vorherige Einwilligung (Opt-in) und Abmeldemöglichkeit",
+        "correct": true
+       },
+       {
+        "text": "Keine besonderen Pflichten",
+        "correct": false
+       },
+       {
+        "text": "Nur Hinweis im Impressum",
+        "correct": false
+       },
+       {
+        "text": "Nur Genehmigung der Behörde",
+        "correct": false
+       }
+      ]
+     }
+    },
+    {
+     "key": "mako-ex-umsetzung-q29",
+     "type": "mc",
+     "exam_part": 3,
+     "difficulty": 2,
+     "source": "MaKo Prüfungstraining (eigene Aufgaben im IHK-Niveau, Rahmen: FAMK/Zweitschatz u. a.)",
+     "body": {
+      "prompt": "Wie muss ein Influencer entgeltliche Kooperation kennzeichnen?",
+      "options": [
+       {
+        "text": "Deutlich erkennbar, z. B. #Werbung oder #Anzeige",
+        "correct": true
+       },
+       {
+        "text": "Gar nicht",
+        "correct": false
+       },
+       {
+        "text": "Nur im Impressum",
+        "correct": false
+       },
+       {
+        "text": "Nur in der Bio",
+        "correct": false
+       }
+      ]
+     }
+    },
+    {
+     "key": "mako-ex-umsetzung-q30",
+     "type": "tf",
+     "exam_part": 3,
+     "difficulty": 2,
+     "explanation": "Es kommt auf den Einzelfall an (Zufallsaufnahmen, Beiwerk, Personen der Zeitgeschichte); bei gezielter Abbildung ist Einwilligung nötig.",
+     "source": "MaKo Prüfungstraining (eigene Aufgaben im IHK-Niveau, Rahmen: FAMK/Zweitschatz u. a.)",
+     "body": {
+      "statement": "Für Dreharbeiten mit erkennbaren Personen im öffentlichen Raum benötigt man in jedem Fall deren Einwilligung.",
+      "answer": false
+     }
+    },
+    {
+     "key": "mako-ex-umsetzung-q31",
+     "type": "tf",
+     "exam_part": 3,
+     "difficulty": 2,
+     "source": "MaKo Prüfungstraining (eigene Aufgaben im IHK-Niveau, Rahmen: FAMK/Zweitschatz u. a.)",
+     "body": {
+      "statement": "Die Pre-Production umfasst Konzept, Casting und Planung.",
+      "answer": true
+     }
+    },
+    {
+     "key": "mako-ex-umsetzung-q32",
+     "type": "tf",
+     "exam_part": 3,
+     "difficulty": 2,
+     "source": "MaKo Prüfungstraining (eigene Aufgaben im IHK-Niveau, Rahmen: FAMK/Zweitschatz u. a.)",
+     "body": {
+      "statement": "Beim Offsetdruck wird indirekt über ein Gummituch gedruckt.",
+      "answer": true
+     }
+    },
+    {
+     "key": "mako-ex-umsetzung-q33",
+     "type": "tf",
+     "exam_part": 3,
+     "difficulty": 2,
+     "source": "MaKo Prüfungstraining (eigene Aufgaben im IHK-Niveau, Rahmen: FAMK/Zweitschatz u. a.)",
+     "body": {
+      "statement": "Grammatur und Format sind dasselbe.",
+      "answer": false
+     }
+    },
+    {
+     "key": "mako-ex-umsetzung-q34",
+     "type": "match",
+     "exam_part": 3,
+     "difficulty": 2,
+     "source": "MaKo Prüfungstraining (eigene Aufgaben im IHK-Niveau, Rahmen: FAMK/Zweitschatz u. a.)",
+     "body": {
+      "prompt": "Ordnen Sie jede Produktionsphase der Tätigkeit zu.",
+      "items": [
+       {
+        "term": "Pre-Production",
+        "match": "Konzeption und Casting"
+       },
+       {
+        "term": "Production",
+        "match": "Dreharbeiten"
+       },
+       {
+        "term": "Post-Production",
+        "match": "Schnitt und Vertonung"
+       }
+      ],
+      "distractors": []
+     }
+    },
+    {
+     "key": "mako-ex-umsetzung-q35",
+     "type": "match",
+     "exam_part": 3,
+     "difficulty": 2,
+     "source": "MaKo Prüfungstraining (eigene Aufgaben im IHK-Niveau, Rahmen: FAMK/Zweitschatz u. a.)",
+     "body": {
+      "prompt": "Ordnen Sie jedes Rechtsgebiet dem Schutzgegenstand zu.",
+      "items": [
+       {
+        "term": "Markenrecht",
+        "match": "Zeichen zur Unterscheidung von Waren/Dienstleistungen"
+       },
+       {
+        "term": "Patentrecht",
+        "match": "Technische Erfindung"
+       },
+       {
+        "term": "Designrecht",
+        "match": "Gestaltung eines Erzeugnisses"
+       },
+       {
+        "term": "Urheberrecht",
+        "match": "Werk als persönliche geistige Schöpfung"
+       }
+      ],
+      "distractors": []
+     }
+    },
+    {
+     "key": "mako-ex-umsetzung-q36",
+     "type": "match",
+     "exam_part": 3,
+     "difficulty": 2,
+     "source": "MaKo Prüfungstraining (eigene Aufgaben im IHK-Niveau, Rahmen: FAMK/Zweitschatz u. a.)",
+     "body": {
+      "prompt": "Ordnen Sie jedem Format die Maße zu.",
+      "items": [
+       {
+        "term": "DIN A3",
+        "match": "297 × 420 mm"
+       },
+       {
+        "term": "DIN A4",
+        "match": "210 × 297 mm"
+       },
+       {
+        "term": "DIN A5",
+        "match": "148 × 210 mm"
+       },
+       {
+        "term": "DIN A6",
+        "match": "105 × 148 mm"
+       }
+      ],
+      "distractors": []
+     }
+    },
+    {
+     "key": "mako-ex-umsetzung-q37",
+     "type": "order",
+     "exam_part": 3,
+     "difficulty": 2,
+     "source": "MaKo Prüfungstraining (eigene Aufgaben im IHK-Niveau, Rahmen: FAMK/Zweitschatz u. a.)",
+     "body": {
+      "prompt": "Bringen Sie die Schritte eines Druckauftrags in die richtige Reihenfolge.",
+      "items": [
+       "Angebot und Auftrag",
+       "Datenanlieferung und Preflight",
+       "Proof und Druckfreigabe",
+       "Druck",
+       "Weiterverarbeitung und Versand"
+      ]
+     }
+    },
+    {
+     "key": "mako-ex-umsetzung-q38",
+     "type": "order",
+     "exam_part": 3,
+     "difficulty": 2,
+     "source": "MaKo Prüfungstraining (eigene Aufgaben im IHK-Niveau, Rahmen: FAMK/Zweitschatz u. a.)",
+     "body": {
+      "prompt": "Bringen Sie die Phasen einer Videoproduktion in die richtige Reihenfolge.",
+      "items": [
+       "Konzept und Drehbuch",
+       "Casting und Location",
+       "Dreh",
+       "Schnitt und Farbkorrektur",
+       "Abnahme und Auslieferung"
+      ]
+     }
+    },
+    {
+     "key": "mako-ex-umsetzung-q39",
+     "type": "cloze",
+     "exam_part": 3,
+     "difficulty": 2,
+     "source": "MaKo Prüfungstraining (eigene Aufgaben im IHK-Niveau, Rahmen: FAMK/Zweitschatz u. a.)",
+     "body": {
+      "text": "Ein Foto ist urheberrechtlich geschützt; der Urheber überträgt der Agentur [[Nutzungsrechte]]."
+     }
+    },
+    {
+     "key": "mako-ex-umsetzung-q40",
+     "type": "cloze",
+     "exam_part": 3,
+     "difficulty": 2,
+     "source": "MaKo Prüfungstraining (eigene Aufgaben im IHK-Niveau, Rahmen: FAMK/Zweitschatz u. a.)",
+     "body": {
+      "text": "Die [[Pre-Production]] ist die Planungsphase einer Filmproduktion, die [[Post-Production]] die Nachbearbeitung."
+     }
+    }
+   ],
+   "templates": [
+    {
+     "key": "mako-ex-umsetzung-t01",
+     "type": "calc",
+     "exam_part": 3,
+     "difficulty": 2,
+     "source": "MaKo Prüfungstraining (eigene Aufgaben im IHK-Niveau, Rahmen: FAMK/Zweitschatz u. a.)",
+     "vars": {
+      "h": {
+       "type": "int",
+       "min": 8,
+       "max": 40,
+       "step": 2
+      },
+      "s": {
+       "type": "int",
+       "min": 90,
+       "max": 130,
+       "step": 5
+      },
+      "f": {
+       "type": "int",
+       "min": 1500,
+       "max": 8000,
+       "step": 250
+      },
+      "sf": {
+       "type": "pick",
+       "options": [
+        10,
+        15,
+        20
+       ]
+      }
+     },
+     "body": {
+      "prompt": "Eine Agentur kalkuliert einen Auftrag: {h} Stunden Kreation zu {s|eur} extern, Fremdleistung Druck {f|eur} netto mit {sf} % Service Fee. Berechnen Sie den Netto-Angebotspreis.",
+      "answer": "h*s+f*(1+sf/100)",
+      "unit": "€",
+      "decimals": 2,
+      "steps": [
+       "Kreation = {h} · {s|eur}",
+       "Fremdleistung inkl. Service Fee = {f|eur} · (1 + {sf} %)",
+       "Summe = {result|eur}"
+      ]
+     }
+    },
+    {
+     "key": "mako-ex-umsetzung-t02",
+     "type": "calc",
+     "exam_part": 3,
+     "difficulty": 2,
+     "source": "MaKo Prüfungstraining (eigene Aufgaben im IHK-Niveau, Rahmen: FAMK/Zweitschatz u. a.)",
+     "vars": {
+      "a": {
+       "type": "int",
+       "min": 2000,
+       "max": 20000,
+       "step": 1000
+      },
+      "k1": {
+       "type": "int",
+       "min": 40,
+       "max": 90,
+       "step": 5
+      },
+      "k2": {
+       "type": "int",
+       "min": 20,
+       "max": 50,
+       "step": 5
+      },
+      "k3": {
+       "type": "int",
+       "min": 10,
+       "max": 30,
+       "step": 2
+      },
+      "r": {
+       "type": "int",
+       "min": 100,
+       "max": 400,
+       "step": 20
+      }
+     },
+     "body": {
+      "prompt": "Eine Broschüre wird {a|int} Mal gedruckt: Druckkosten {k1|eur} je 1.000 Exemplare, Papier {k2|eur} je 1.000 Exemplare, Weiterverarbeitung (Falzen und Heften) {k3|eur} je 1.000, einmalige Plattenkosten {r|eur}. Berechnen Sie die Gesamtkosten.",
+      "answer": "a/1000*(k1+k2+k3)+r",
+      "unit": "€",
+      "decimals": 2,
+      "steps": [
+       "({k1|eur} + {k2|eur} + {k3|eur}) · {a|int} : 1.000 + {r|eur} = {result|eur}"
+      ]
+     }
+    },
+    {
+     "key": "mako-ex-umsetzung-t03",
+     "type": "calc",
+     "exam_part": 3,
+     "difficulty": 2,
+     "source": "MaKo Prüfungstraining (eigene Aufgaben im IHK-Niveau, Rahmen: FAMK/Zweitschatz u. a.)",
+     "vars": {
+      "g": {
+       "type": "pick",
+       "options": [
+        80,
+        90,
+        100,
+        135,
+        170
+       ]
+      },
+      "a": {
+       "type": "int",
+       "min": 2000,
+       "max": 20000,
+       "step": 1000
+      }
+     },
+     "body": {
+      "prompt": "Ein A4-Mailing (210 × 297 mm) mit {g} g/m² wird {a|int} Mal gedruckt. Wie viel Papier in kg wird benötigt (Fläche je Blatt 0,06237 m²; Gewicht = Fläche · Grammatur · Auflage)?",
+      "answer": "0.06237*g*a/1000",
+      "unit": "kg",
+      "decimals": 0,
+      "steps": [
+       "0,06237 m² · {g} g/m² · {a|int} Blatt : 1.000 = {result} kg"
+      ]
+     }
+    },
+    {
+     "key": "mako-ex-umsetzung-t04",
+     "type": "calc",
+     "exam_part": 3,
+     "difficulty": 2,
+     "source": "MaKo Prüfungstraining (eigene Aufgaben im IHK-Niveau, Rahmen: FAMK/Zweitschatz u. a.)",
+     "vars": {
+      "a": {
+       "type": "int",
+       "min": 20,
+       "max": 200,
+       "step": 10
+      },
+      "p": {
+       "type": "int",
+       "min": 8,
+       "max": 24,
+       "step": 1
+      }
+     },
+     "body": {
+      "prompt": "Eine Plakatserie hat {a} Plakate im Format DIN A1 (0,594 × 0,841 m). Kosten je m² Druckfläche {p|eur}. Wie hoch sind die Druckkosten (Fläche = 0,4996 m²)?",
+      "answer": "a*0.4996*p",
+      "unit": "€",
+      "decimals": 2,
+      "steps": [
+       "{a} · 0,4996 m² · {p|eur} = {result|eur}"
+      ]
+     }
+    }
+   ],
+   "cases": []
+  }
+ ]
+}

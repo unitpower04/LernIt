@@ -118,6 +118,74 @@ mk(
   ],
 );
 
+
+/* ---- Teil 1 im Prüfungsstil (Rahmensituation Zweitschatz, abgewandelt) ---- */
+const RS = "Die Fortune Agentur für Marketingkommunikation GmbH (FAMK, Berlin, 50 Mitarbeiter, Full-Service) betreut den Kunden Zweitschatz Deutschland GmbH, eine Secondhand-Plattform (App und Website) für Mode, Kinderartikel und zunehmend gebrauchte Elektronik. Umsatz Deutschland: 2023 1,2 Mio. €, 2024 4,6 Mio. €, 2025 6,8 Mio. €. Gestützte Markenbekanntheit in der Zielgruppe 82 %, ungestützte 22 %. Marketingziel: +20 % Umsatz pro Jahr. Marketingbudget 2026: 1,8 Mio. €. Marktinformation: Secondhand hat am deutschen Modemarkt einen Anteil von rund 2 %; rund 70 % der Verbraucher wollen künftig Secondhand kaufen. Wettbewerber: eBay Kleinanzeigen, Momox, Zalando Pre-owned, Rebuy (Elektronik). ";
+
+mk(
+  RS + "Situation: Sie bereiten die strategische Ausrichtung vor und sollen Empfehlungen zum weiteren Ausbau des Geschäftsmodells geben.",
+  [
+    ["Erstellen Sie eine SWOT-Matrix für Zweitschatz und beantworten Sie dabei zwei der vier Fragen: Welche Stärken nutzen vorhandene Chancen? Welche Stärken bewältigen Risiken? Welche Chancen verpassen wir wegen Schwächen? Welchen Risiken sind wir wegen Schwächen ausgesetzt?", 10, "Beispiele: SO: hohe gestützte Bekanntheit (82 %) und App-Reichweite nutzen den wachsenden Secondhand-Markt (Chance: 70 % kaufbereit). ST: starke Marke und schnelles Umsatzwachstum schützen gegen Konkurrenz durch Zalando/Momox. WO: geringe ungestützte Bekanntheit (22 %) lässt die Chance verstreichen, ein Top-of-Mind-Anbieter zu werden. WT: Abhängigkeit von Provisionsumsatz und Fake-Profil-Risiko setzen die Plattform dem Vertrauensverlust und Wettbewerbern aus.", ["zwei Fragen beantwortet", "Stärken/Schwächen intern korrekt", "Chancen/Risiken extern korrekt", "Bezug zu Daten der Rahmensituation", "Schlussfolgerung/Strategieansatz"]],
+    ["Skizzieren Sie das Modell der Wachstumsstrategien nach Ansoff als Schaubild (4 P.) und nennen Sie für drei der vier Marktfeldstrategien je eine Marketingmaßnahme (6 P.).", 10, "Matrix: Achsen Produkte (bestehend/neu) × Märkte (bestehend/neu): Marktdurchdringung, Marktentwicklung, Produktentwicklung, Diversifikation. Maßnahmen: Marktdurchdringung – Aktion „Verkaufe 3 Teile, gewinne Gutschein“ (mehr Nutzung bestehender Nutzer); Marktentwicklung – Start in Österreich oder Ansprache älterer Zielgruppen; Produktentwicklung – Premium-Authentifizierungsservice für Designerartikel; Diversifikation – eigener Reparatur-/Upcycling-Service.", ["Schaubild vollständig und korrekt beschriftet", "drei Strategien richtig zugeordnet", "Maßnahmen konkret und plausibel", "Bezug zum Kunden"]],
+  ],
+);
+
+mk(
+  RS + "Situation: Zweitschatz will das Elektronik-Segment stärker ausbauen. Dazu sollen die Portfolio-Analyse (BCG-Matrix) und eine Marktforschung genutzt werden. Bisherige Einordnung: Mode = Cash Cow, Designer-Artikel = Star, Spielzeug = Poor Dog.",
+  [
+    ["Ordnen Sie das neue Segment „gebrauchte Elektronik“ (hohes Marktwachstum, derzeit kleiner relativer Marktanteil gegenüber Rebuy/Refurbed) in die BCG-Matrix ein und begründen Sie mit zwei Argumenten.", 5, "Question Mark: hohes Marktwachstum (starke Nachfrage nach Gebrauchtelektronik) bei niedrigem relativem Marktanteil gegenüber etablierten Wettbewerbern.", ["Feld korrekt", "Argument Wachstum", "Argument Marktanteil"]],
+    ["Geben Sie eine begründete Strategieempfehlung für künftige Investitionen in dem Segment.", 3, "Selektiv investieren/Offensivstrategie: gezielt Marktanteil aufbauen, um zum Star zu werden; Gewinne der Cash Cow Mode zur Finanzierung nutzen; bei ausbleibendem Erfolg Rückzug prüfen.", ["Strategie benannt", "Begründung", "Bezug zu Cash Cow/Budget"]],
+    ["Erläutern Sie zwei konkrete Zielsetzungen einer Marktforschung zum Ausbau des Elektronik-Sortiments.", 4, "(1) Bedarf und Preisbereitschaft der Zielgruppe ermitteln (welche Geräte, welcher Preis). (2) Image und Vertrauen in Gebrauchtelektronik/Garantie erfragen; Konkurrenzanalyse zu Rebuy/Refurbed.", ["zwei Ziele", "konkret", "Bezug zum Segment"]],
+    ["Empfehlen Sie für jedes der beiden Ziele eine Marktforschungsmethode und begründen Sie, warum sie im Fall sinnvoll ist.", 8, "Ziel 1: quantitative Online-Befragung (repräsentative Stichprobe) – schnell, große Zahl, Preisbereitschaft messbar (z. B. Conjoint). Ziel 2: qualitative Gruppendiskussion/Tiefeninterviews – Motive und Bedenken zu Vertrauen, Garantie. Sekundärforschung zur Konkurrenz (Marktberichte, Websites).", ["je Ziel eine Methode", "Begründung", "quantitativ/qualitativ treffend", "Bezug zum Kunden"]],
+  ],
+);
+
+mk(
+  RS + "Situation: Sie definieren die wichtigste Zielgruppe und entwickeln eine Copy-Strategie. Zielgruppen laut Tabelle: (A) Gen Z, 16–25, markenbewusst, nutzt TikTok; (B) Young Parents, 28–40, preisbewusst, kauft Kinderartikel; (C) Best Ager, 55–70, qualitätsbewusst, wenig digital; (D) Luxus-Sammler, 30–50, Designerartikel.",
+  [
+    ["Wählen Sie die wichtigste Zielgruppe aus und begründen Sie mit zwei Argumenten (4 P.). Beschreiben Sie diese Zielgruppe anhand von sechs Merkmalen aus Soziodemografie, Psychografie und Verhalten (6 P.).", 10, "Auswahl z. B. Gen Z: wachstumsstark im Secondhand-Konsum, hohe Social-Media-Nutzung/App-Affinität. Merkmale: soziodemografisch – 16–25 Jahre, Schüler/Studierende, geringes Einkommen; psychografisch – statusbewusst, nachhaltigkeitsorientiert, trendaffin; verhaltensbezogen – kauft mobil, nutzt Social Media täglich, Preisvergleich.", ["Zielgruppe gewählt", "zwei Argumente", "sechs Merkmale", "alle drei Kategorien", "Bezug zum Fall"]],
+    ["Nehmen Sie eine Copy-Analyse einer Online-Anzeige des Wettbewerbers Momox Fashion vor (Headline „Verkaufe, was du nicht mehr trägst – in 3 Minuten bei uns“; Visual: lachende Frau mit Paketen; Reason Why: „Kostenlose Abholung, sofort Geld“; Tonalität freundlich-locker) (5 P.) und formulieren Sie danach eine differenzierende, glaubwürdige Copy-Strategie für Zweitschatz (5 P.).", 10, "Copy-Analyse: Consumer Benefit: schnell und bequem Geld für Gebrauchtes; Reason Why: kostenlose Abholung, Sofortauszahlung; Tonality: freundlich-locker, Alltag. Copy-Strategie Zweitschatz: Benefit: „Dein Style bekommt ein zweites Leben – und du verdienst gebührenfrei.“ Reason Why: 0 % Verkaufsgebühr, Käuferschutz, geprüfte Profile. Tonality: selbstbewusst, humorvoll, Community-nah.", ["Benefit erkannt", "Reason Why erkannt", "Tonalität", "Strategie differenzierend", "glaubwürdig begründet"]],
+  ],
+);
+
+mk(
+  RS + "Situation: Für Zweitschatz soll ab dem Sommer eine Mediakampagne ältere Secondhand-Käufer erschließen. Marketingziel: Neukunden. Kommunikationsziele: Aufmerksamkeit, Bekanntheit, Vertrauen, App-Downloads. Mediabudget 0,9 Mio. €: Zeitschriften 300.000 €, Online 250.000 €, weiteres Offlinemedium max. 350.000 €. Rangreihe Zeitschriften (Nettoreichweite in der Mediazielgruppe, Affinitätsindex, TKP): Brigitte (NR 18 %, AI 125, TKP 31 €), Stern (NR 22 %, AI 98, TKP 24 €), Landlust (NR 9 %, AI 150, TKP 38 €), TV Spielfilm (NR 20 %, AI 105, TKP 19 €), Bunte (NR 14 %, AI 130, TKP 28 €).",
+  [
+    ["Empfehlen Sie dem Kunden drei Titel und begründen Sie die Auswahl anhand von Erreichbarkeit des Mediaziels (Priorität Reichweite), Affinität, Wirtschaftlichkeit und Kontaktqualität.", 9, "Empfehlung z. B. TV Spielfilm (hohe NR 20 %, niedrigster TKP 19 €, AI 105), Brigitte (NR 18 %, AI 125, passende Kontaktqualität für Frauen 45+) und Bunte (AI 130, 14 % NR, Image- und Vertrauensumfeld); Stern wegen hoher Reichweite (22 %) und gutem TKP als Alternative, aber AI < 100 (Streuverluste). Landlust: hohe Affinität, aber kleine Reichweite und hoher TKP.", ["drei Titel", "vier Kriterien berücksichtigt", "Kennziffern genutzt", "Ablehnung begründet"]],
+    ["Geben Sie eine begründete Empfehlung für zwei Onlinemarketing-Instrumente (Budget 250.000 €), mit denen die App-Downloads effektiv erhöht werden (6 P.), und für ein Offlinemedium, das die Online-Kampagne unterstützt (5 P.).", 11, "Online: App-Install-Ads (Social/Search) – zielgenau, direkte Downloads messbar (CPI); Suchmaschinenwerbung (SEA) für „Secondhand App“, Kleidung gebraucht kaufen – Nachfrage abschöpfen. Offline: Radio (regional/bundesweit, Reichweite bei Älteren, Aufmerksamkeit durch Audio) oder Out-of-Home an Bahnhöfen – Reichweite im Budgetrahmen, QR-Code zur App.", ["zwei Instrumente begründet", "Bezug Downloads", "ein Offlinemedium begründet", "Budgetbezug"]],
+  ],
+);
+
+mk(
+  RS + "Situation: Für die Zielgruppe Gen Z entwickeln Sie Kommunikationsmaßnahmen. Es stehen zwei Ansätze zur Diskussion: Performance-Strategie (Abverkauf) oder Branding-Strategie (Markenaufbau). Während der Fußball-WM plant der Kunde eine Aktion mit Secondhand-Nationaltrikots. Im Sommer findet zudem eine Modewoche in Berlin statt, auf der Zweitschatz einen Upcycling-Wettbewerb veranstalten möchte.",
+  [
+    ["Empfehlen Sie eine der beiden Strategien (Performance/Branding) und begründen Sie mit zwei Argumenten.", 6, "Branding: Die ungestützte Bekanntheit ist nur 22 %, Gen Z kauft Marken, die Status und Haltung zeigen; Markenaufbau schafft langfristig Präferenz und senkt Abhängigkeit von Performance-Kosten; kombiniert mit Performance für Downloads. (Alternative: Performance – bei kurzfristigem Wachstumsziel, Messbarkeit.)", ["Strategie gewählt", "zwei Argumente", "Bezug zur Zielgruppe"]],
+    ["Empfehlen Sie zwei Social-Media-Plattformen mit je einer passenden Werbeform.", 4, "TikTok – In-Feed-Video-Ads/Creator-Kooperationen (Spark Ads); Instagram – Reels-Ads oder Stories mit Shopping-Tag.", ["zwei Plattformen", "je Werbeform"]],
+    ["Nennen Sie für die Trikot-Aktion je ein Beispiel für Owned-, Paid-, Earned- und Shared-Media.", 4, "Owned: Aktionsseite/Newsletter/App-Banner; Paid: Social-Ads/Display zu „Retro-Trikots“; Earned: Presseberichte, Erwähnungen durch Medien/Influencer; Shared: User teilen Trikot-Fotos mit Hashtag.", ["vier Kategorien", "je plausibel", "Bezug zur WM-Aktion"]],
+    ["Erstellen Sie eine Checkliste für die Vorbereitung des Upcycling-Wettbewerbs-Events mit sechs Punkten.", 6, "Ziele/Budget; Location, Termin und Genehmigungen; Jury, Preisgeld und Teilnahmebedingungen; Bewerbung/Ausschreibung (Hochschulen, Social Media); Technik/Catering/Sicherheit; Pressearbeit, Dokumentation (Foto/Video, Einwilligungen), Nachbereitung.", ["sechs Punkte", "vollständig/sinnvoll", "Bezug zum Event"]],
+  ],
+);
+
+mk(
+  "Die Fortune Agentur (FAMK) betreut die Lebensmittelmarke „Fresh & Fair“ (Bio-Snackriegel, 1,79 €). Neukundenziel: +25 % Absatz in 12 Monaten. Budget 1,2 Mio. €. Der Kunde plant Einführung einer Veggie-Linie. Marktinfos: Bio-Snacks wachsen 8 % p. a.; wichtigste Wettbewerber sind Märkte der Handelsmarken; die Zielgruppe (20–35, urban, gesundheitsbewusst) nutzt Instagram, Podcasts und kauft im Supermarkt.",
+  [
+    ["Entwickeln Sie ein SMART-Ziel für die Einführungskampagne und leiten Sie daraus zwei Mediaziele ab.", 5, "Ziel: Bekanntheit in der Zielgruppe von 30 auf 45 % bis Jahresende. Mediaziele: Reichweite 60 % der Zielgruppe mit mindestens 3 Kontakten; GRP 250 im Einführungsmonat.", ["SMART", "Mediaziele", "Bezug Zielgruppe"]],
+    ["Wählen Sie die Marktfeldstrategie nach Ansoff für die Veggie-Linie und begründen Sie.", 4, "Produktentwicklung (neues Produkt, bestehender Markt der Bio-Snacks) – nutzt vorhandene Marke und Distribution.", ["Strategie", "Begründung"]],
+    ["Empfehlen Sie drei Kommunikationsinstrumente und beschreiben Sie je eine konkrete Maßnahme.", 7, "Social/Influencer (Reels mit Foodcreatorn), Verkaufsförderung am POS (Probierstände, Zweitplatzierung), Podcast-Sponsoring (Audioreichweite), PR (Pressemitteilung zu Nachhaltigkeit).", ["drei Instrumente", "konkrete Maßnahmen", "Passung Zielgruppe"]],
+    ["Nennen Sie vier KPIs zur Erfolgskontrolle.", 4, "Markenbekanntheit (gestützt/ungestützt), Abverkauf/Marktanteil, Reichweite/Engagement, Gutscheineinlösequote, Share of Voice.", ["vier KPIs", "passend zu Zielen"]],
+  ],
+);
+
+mk(
+  "Die FAMK betreut die Regionalbank „Rheinsparkasse Aurelia“ (Image: seriös, bieder). Ziel: junge Berufseinsteiger (22–30) als Neukunden für Girokonto und Altersvorsorge gewinnen. Budget 450.000 €. Gesetzliche Vorgaben zur Werbung für Finanzprodukte (Pflichtangaben, Preisangaben) sind einzuhalten. Die Bank wünscht eine Aktion „Konto wechseln – 100 € Prämie“.",
+  [
+    ["Analysieren Sie die Positionierung der Bank (Ist) und schlagen Sie eine Soll-Positionierung für die junge Zielgruppe vor.", 5, "Ist: traditionell, vertrauenswürdig, lokal. Soll: modern, transparent, ‚dein Finanzbegleiter fürs Berufsleben‘ – Vertrauen + digitale Services.", ["Ist", "Soll", "Zielgruppenbezug"]],
+    ["Beurteilen Sie die geplante Aktion „Konto wechseln – 100 € Prämie“ hinsichtlich Zielerreichung und rechtlicher Aspekte (zwei Punkte).", 5, "Verkaufsförderung (Consumer Promotion) – kurzfristiger Neukundeneffekt; rechtlich: Transparenz der Teilnahmebedingungen (UWG), Preisangabenverordnung/Kontoführungsgebühren darstellen, Datenschutz bei Datenerhebung; ggf. Prämie steuerpflichtig.", ["Instrument benannt", "zwei rechtliche Aspekte", "Beurteilung"]],
+    ["Skizzieren Sie einen integrierten Kommunikationsmix aus drei Elementen mit Medien und Timing.", 6, "Social Ads/Instagram + Hochschul-/Ausbildungsmessen (Event) + Radio-/Podcast-Spot; Timing: Start zu Ausbildungsbeginn im Spätsommer, Flights über 8 Wochen, einheitliche Botschaft und Key Visual.", ["drei Elemente", "Timing", "Abstimmung"]],
+    ["Nennen Sie zwei Kennzahlen zur Erfolgskontrolle der Kampagne und erläutern Sie, wie Sie sie erheben.", 4, "Neu eröffnete Konten (aus Aktionscode/CRM), Cost per Acquisition (Kosten : Neukunden), Bekanntheit/Image per Befragung vor/nach.", ["zwei Kennzahlen", "Erhebung"]],
+  ],
+);
+
 /* ======================= Teil 4: Fachgespräch (Praxisfälle) ======================= */
 const t4 = topic("mako-pf-teil4", { part: 4, src: SRC });
 
@@ -180,6 +248,71 @@ t4.caseDef(
     ["Welche Tools/Methoden der Ablaufplanung kennst du?", ["Zeitplan/Gantt-Diagramm, Kanban-Board, Projektmanagement-Software", "Checklisten und Briefing-Protokolle", "Ampelstatus für Aufgaben"]],
   ],
 );
+
+
+t4.caseDef("Fall 7: Kunde fordert kurzfristig drastische Änderung der Kampagne",
+  "Drei Tage vor dem Druckstart der Plakate verlangt der Kunde „Rheinbrot“ eine komplett neue Headline und ein anderes Key Visual, weil die Geschäftsführung die erste Idee plötzlich nicht mehr mag. Die Freigabe war bereits schriftlich erteilt.",
+  [
+    ["Wie reagierst du gegenüber dem Kunden?", ["Verständnis zeigen, Anliegen aufnehmen, auf die erteilte Freigabe und den Zeitplan hinweisen", "Mehrkosten und Terminfolgen transparent machen und Lösungsvarianten anbieten", "Rücksprache mit Kundenberatung/Teamleitung vor Zusagen"]],
+    ["Welche vertraglichen Aspekte spielen eine Rolle?", ["Werkvertrag: Änderungswünsche nach Abnahme/Freigabe sind zusätzliche Leistungen", "Angebotsbedingungen/AGB zu Änderungen und Freigaben", "Schriftliche Dokumentation (Freigabeprotokoll)"]],
+    ["Wie könnte man das Risiko solcher Änderungen verringern?", ["Freigabeprozess mit klaren Stufen und Verantwortlichen", "Zwischenpräsentationen mit dem Entscheider", "Change-Request-Regelung im Angebot"]],
+  ]);
+
+t4.caseDef("Fall 8: Preisverhandlung und Rabatt",
+  "Ein Neukunde möchte für ein Jahresprojekt (Social Media und Newsletter) 25 % Rabatt auf den Angebotspreis von 48.000 € netto. Die Agentur kalkuliert mit 20 % Gewinnaufschlag; die Selbstkosten betragen 40.000 €.",
+  [
+    ["Berechne den Preis nach 25 % Rabatt und beurteile die Wirtschaftlichkeit.", ["48.000 € · 0,75 = 36.000 €", "Das liegt unter den Selbstkosten von 40.000 € → Verlust von 4.000 €", "Rabatt in dieser Höhe ist nicht wirtschaftlich"]],
+    ["Welche Alternativen schlägst du dem Kunden vor?", ["Leistungsumfang reduzieren oder in Phasen aufteilen", "Mengen-/Treuerabatt an Folgeaufträge koppeln", "Kleineren Rabatt (z. B. 5–8 %) oder Zahlungsziel/Skonto anbieten"]],
+    ["Welche Rolle spielt die Preisuntergrenze?", ["Kurzfristig: variable Kosten, langfristig Selbstkosten + Gewinn", "Unterhalb der Selbstkosten nur in begründeten Ausnahmen (z. B. Referenzkunde)", "Entscheidung gehört in die Geschäftsleitung"]],
+  ]);
+
+t4.caseDef("Fall 9: Beschwerde über diskriminierende Werbung",
+  "Nach Start einer Plakatkampagne für einen Getränkehersteller gehen beim Kunden und beim Deutschen Werberat Beschwerden ein: Das Motiv wirke herabwürdigend gegenüber Frauen.",
+  [
+    ["Wie gehst du mit der Situation um?", ["Beschwerde ernst nehmen, intern eskalieren, Fakten zum Motiv und zur Resonanz sammeln", "Stellungnahme gemeinsam mit dem Kunden vorbereiten", "Gegebenenfalls Motiv anpassen oder zurückziehen"]],
+    ["Welche Rolle hat der Deutsche Werberat?", ["Selbstkontrolle der Werbewirtschaft", "Prüft Beschwerden und kann Rügen aussprechen – keine Bußgelder", "Verhaltensregeln (z. B. gegen Diskriminierung)"]],
+    ["Wie lässt sich so etwas künftig vermeiden?", ["Vorab-Check von Motiven (Pre-Test, Compliance)", "Divers besetztes Team und Feedback von Zielgruppen", "Kenntnis der Verhaltensregeln des Werberats"]],
+  ]);
+
+t4.caseDef("Fall 10: Mediaplanung – Streuverluste",
+  "Eine regionale Möbelkette (Einzugsgebiet 30 km) wollte in einer überregionalen Zeitschrift werben. Die Agentur rät davon ab und schlägt Regionalmedien vor.",
+  [
+    ["Begründe die Empfehlung der Agentur.", ["Streuverluste: Nur ein Bruchteil der Leser lebt im Einzugsgebiet", "Hohe Kosten je erreichter relevanter Person (TKP bezogen auf Zielgruppe)", "Regionale Medien erreichen genauer und günstiger"]],
+    ["Welche Regionalmedien schlägst du vor?", ["Lokalzeitung/Anzeigenblatt, regionales Radio", "Plakat/City-Light im Einzugsgebiet, Kino lokal", "Social Ads mit Geotargeting und Newsletter"]],
+    ["Wie misst du den Erfolg?", ["Besucherzahlen/Abverkauf mit Aktionscode", "Reichweite/Affinität laut Mediaplan, Klicks und Conversions", "Pre-/Post-Befragung zur Bekanntheit"]],
+  ]);
+
+t4.caseDef("Fall 11: Fehler im Druck – Reklamation",
+  "Die Druckerei liefert 10.000 Flyer, bei denen das Logo des Kunden einen falschen Farbton hat (deutliche Abweichung vom Pantone-Wert). Der Kunde möchte sofort Neudruck auf Kosten der Agentur. Der Fehler wurde im Proof nicht bemerkt.",
+  [
+    ["Wie klärst du die Verantwortlichkeit?", ["Datenlage prüfen (Datei, Farbprofil, freigegebener Proof, Auftrag)", "Abweichung gegen Freigabe/Sollwert messen", "Kommunikation mit Druckerei über Reklamation und Nachbesserung"]],
+    ["Welche Rechte bestehen gegenüber der Druckerei?", ["Werkvertragsrecht: Nacherfüllung (Neudruck) vorrangig", "Rüge unverzüglich; Frist zur Nacherfüllung setzen", "Bei Scheitern Minderung/Rücktritt/Schadensersatz"]],
+    ["Wie kommunizierst du mit dem Kunden?", ["Offen über Ursache und Lösung informieren", "Termin- und Kostenfolgen darstellen", "Prozessverbesserung (Proof-Prüfung, Checkliste) zusagen"]],
+  ]);
+
+t4.caseDef("Fall 12: Nachhaltigkeit und Greenwashing",
+  "Ein Kunde will eine Anzeige mit dem Claim „Zu 100 % klimaneutral“ schalten. Belege gibt es nur für die Verpackung, nicht für die Produktion.",
+  [
+    ["Beurteile den Claim rechtlich.", ["Irreführende Werbung (UWG § 5) – pauschale Umweltaussagen müssen belegbar sein", "Abmahnrisiko durch Wettbewerber/Verbände", "EU-Vorgaben gegen Greenwashing"]],
+    ["Wie könnte der Claim korrekt lauten?", ["Konkrete, belegte Aussage: „Verpackung aus 100 % Recyclingmaterial“", "Quellenangabe/Siegel (z. B. Blauer Engel) nur bei Vorliegen", "Transparente Erläuterung der Maßnahmen"]],
+    ["Wie reagierst du gegenüber dem Kunden?", ["Rechtliche Risiken sachlich erklären", "Alternative Formulierungen und Belege vorschlagen", "Dokumentation der Beratung"]],
+  ]);
+
+t4.caseDef("Fall 13: Social-Media-Shitstorm",
+  "Ein Post der Agentur für einen Kunden wird missverstanden; innerhalb von zwei Stunden erscheinen hunderte negative Kommentare.",
+  [
+    ["Welche ersten Maßnahmen ergreifst du?", ["Krisenverantwortliche informieren, Kommentare beobachten, Post ggf. offline nehmen", "Nicht löschen/zensieren ohne Absprache, sachlich reagieren", "Einheitliche Sprachregelung abstimmen"]],
+    ["Wie sieht eine gute Krisenkommunikation aus?", ["Schnell, ehrlich, empathisch, mit klarer Entschuldigung bzw. Klarstellung", "Einheitliche Ansprache auf allen Kanälen", "Dialog statt Rechtfertigung"]],
+    ["Was lernst du für die Zukunft?", ["Krisenplan und Verantwortlichkeiten definieren", "Vorab-Check von Posts (Vier-Augen-Prinzip)", "Monitoring und Community-Management"]],
+  ]);
+
+t4.caseDef("Fall 14: Kalkulation eines Einzelprojekts",
+  "Für einen Kunden sollen ein Flyer (A5, 4/4) und eine Landingpage erstellt werden. Zu kalkulieren sind: 6 Stunden Beratung (70 €/Std. intern), 18 Stunden Grafik (62 €/Std.), 12 Stunden Programmierung (75 €/Std.) und Fremdleistung Druck 1.150 € netto. Gewinnaufschlag 20 % auf Agenturleistung, Handling Fee 10 % auf Fremdleistung.",
+  [
+    ["Berechne die Agenturleistung und den Angebotspreis netto.", ["Agenturleistung: 6·70 + 18·62 + 12·75 = 420 + 1.116 + 900 = 2.436 €", "Mit 20 % Gewinn: 2.923,20 €; Fremdleistung 1.150 € · 1,10 = 1.265 €", "Angebotspreis netto: 4.188,20 €"]],
+    ["Wie hoch ist der Bruttopreis?", ["4.188,20 € · 1,19 = 4.984,06 €"]],
+    ["Wie reagierst du auf die Bitte des Kunden um 10 % Rabatt?", ["Rabatt und Preisuntergrenze prüfen, Leistungsumfang oder Zahlungsziel als Alternative", "Rückfrage bei Vorgesetzten, Angebot anpassen und dokumentieren"]],
+  ]);
 
 export default [
   { file: "mako/pf-teil1.json", bundle: { items: [t1.done()] } },

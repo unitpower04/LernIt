@@ -1,0 +1,1282 @@
+{
+ "demo": false,
+ "items": [
+  {
+   "topic": "mako-ex-kommunikation",
+   "flashcards": [
+    {
+     "key": "mako-ex-kommunikation-c01",
+     "front": "Welche Maßnahme ist geeignet, wenn ein Unternehmen kurzfristig den Absatz steigern möchte?",
+     "back": "Consumer Promotion (z. B. Coupon-Aktion)"
+    },
+    {
+     "key": "mako-ex-kommunikation-c02",
+     "front": "Ein Hersteller schult Verkäufer im Handel und stellt Displays bereit. Welches Instrument?",
+     "back": "Trade Promotion"
+    },
+    {
+     "key": "mako-ex-kommunikation-c03",
+     "front": "Welches Ziel ist ein psychologisches (außerökonomisches) Kommunikationsziel?",
+     "back": "Die Markenbekanntheit in der Zielgruppe steigern"
+    },
+    {
+     "key": "mako-ex-kommunikation-c04",
+     "front": "Was beschreibt der Reason Why in der Copy-Strategie?",
+     "back": "Die Begründung bzw. den Beweis für das Nutzenversprechen"
+    },
+    {
+     "key": "mako-ex-kommunikation-c05",
+     "front": "Was beschreibt der Consumer Benefit?",
+     "back": "Das Nutzenversprechen aus Sicht des Konsumenten"
+    },
+    {
+     "key": "mako-ex-kommunikation-c06",
+     "front": "Was ist ein USP?",
+     "back": "Ein einzigartiges Verkaufsversprechen, das den Anbieter vom Wettbewerb abhebt."
+    },
+    {
+     "key": "mako-ex-kommunikation-c07",
+     "front": "Ein Unternehmen sponsert den lokalen Fußballverein und erhält Bandenwerbung. Welches Instrument?",
+     "back": "Sponsoring"
+    },
+    {
+     "key": "mako-ex-kommunikation-c08",
+     "front": "Ein Unternehmen lädt Journalisten zu einer Pressekonferenz ein. Welches Instrument?",
+     "back": "Public Relations"
+    },
+    {
+     "key": "mako-ex-kommunikation-c09",
+     "front": "Welche Eigenschaft ist typisch für Public Relations?",
+     "back": "Sie baut langfristig Vertrauen und Image auf."
+    },
+    {
+     "key": "mako-ex-kommunikation-c10",
+     "front": "Welche Maßnahme ist Direktmarketing?",
+     "back": "Ein personalisiertes Mailing an ausgewählte Kunden"
+    },
+    {
+     "key": "mako-ex-kommunikation-c11",
+     "front": "Ein Unternehmen platziert sein Produkt gegen Entgelt in einer Fernsehserie. Welches Instrument?",
+     "back": "Product Placement"
+    },
+    {
+     "key": "mako-ex-kommunikation-c12",
+     "front": "Welche Aussage zu Guerilla-Marketing ist richtig?",
+     "back": "Es nutzt überraschende, unkonventionelle Aktionen mit geringem Budget."
+    },
+    {
+     "key": "mako-ex-kommunikation-c13",
+     "front": "Welche Aussage zu Influencer-Marketing ist richtig?",
+     "back": "Werbliche Beiträge müssen als Werbung gekennzeichnet werden."
+    },
+    {
+     "key": "mako-ex-kommunikation-c14",
+     "front": "Welche Aussage zur Suchmaschinenoptimierung (SEO) ist richtig?",
+     "back": "Sie verbessert die organische Platzierung in Suchergebnissen."
+    },
+    {
+     "key": "mako-ex-kommunikation-c15",
+     "front": "Welche Aussage zu SEA ist richtig?",
+     "back": "SEA umfasst bezahlte Anzeigen in Suchmaschinen, häufig mit Abrechnung pro Klick."
+    },
+    {
+     "key": "mako-ex-kommunikation-c16",
+     "front": "Welche Stufe folgt im AIDA-Modell auf Interest?",
+     "back": "Desire"
+    },
+    {
+     "key": "mako-ex-kommunikation-c17",
+     "front": "Welche Funktion hat die Headline einer Anzeige?",
+     "back": "Aufmerksamkeit wecken"
+    },
+    {
+     "key": "mako-ex-kommunikation-c18",
+     "front": "Eine Kampagne soll auf allen Kanälen mit gleicher Botschaft und Optik erscheinen. Welches Prinzip?",
+     "back": "Integrierte Kommunikation"
+    },
+    {
+     "key": "mako-ex-kommunikation-c19",
+     "front": "Welche Form des Eventmarketings spricht ein breites Publikum an?",
+     "back": "Öffentliche (offene) Events"
+    },
+    {
+     "key": "mako-ex-kommunikation-c20",
+     "front": "Welche Messe richtet sich überwiegend an Fachbesucher?",
+     "back": "Fachmesse"
+    },
+    {
+     "key": "mako-ex-kommunikation-c21",
+     "front": "Welche Aussage zur Erfolgskontrolle von Kommunikation ist richtig?",
+     "back": "Sie sollte anhand vorher festgelegter Ziele und Kennzahlen (KPIs) erfolgen."
+    },
+    {
+     "key": "mako-ex-kommunikation-c22",
+     "front": "Was ist ein Pre-Test?",
+     "back": "Ein Test von Werbemitteln vor dem Einsatz"
+    },
+    {
+     "key": "mako-ex-kommunikation-c23",
+     "front": "Was beschreibt der Begriff Recall?",
+     "back": "Ungestützte Erinnerung an Werbung oder Marke"
+    },
+    {
+     "key": "mako-ex-kommunikation-c24",
+     "front": "Welche Rolle hat die Tonality in der Copy-Strategie?",
+     "back": "Sie legt Tonlage und Stil der Kommunikation fest."
+    },
+    {
+     "key": "mako-ex-kommunikation-c25",
+     "front": "Ein Claim soll …",
+     "back": "das Markenversprechen kurz und einprägsam ausdrücken."
+    },
+    {
+     "key": "mako-ex-kommunikation-c26",
+     "front": "Welche Aussage beschreibt Corporate Behaviour?",
+     "back": "Das Verhalten eines Unternehmens und seiner Mitarbeiter gegenüber Kunden und Öffentlichkeit"
+    },
+    {
+     "key": "mako-ex-kommunikation-c27",
+     "front": "Welche Werbeaussage könnte irreführend sein?",
+     "back": "„Das beste Produkt der Welt – belegt durch nichts.“ (Alleinstellungsbehauptung ohne Beleg)"
+    },
+    {
+     "key": "mako-ex-kommunikation-c28",
+     "front": "Eine Zielgruppe wird nach Lebensstil und Werten beschrieben. Welche Merkmalsart?",
+     "back": "Psychografische Merkmale"
+    },
+    {
+     "key": "mako-ex-kommunikation-c29",
+     "front": "Welche Aussage zum Briefing ist richtig?",
+     "back": "Das Re-Briefing dient der schriftlichen Bestätigung des Auftragsverständnisses."
+    }
+   ],
+   "glossary": [],
+   "questions": [
+    {
+     "key": "mako-ex-kommunikation-q01",
+     "type": "mc",
+     "exam_part": 1,
+     "difficulty": 2,
+     "source": "MaKo Prüfungstraining (eigene Aufgaben im IHK-Niveau, Rahmen: FAMK/Zweitschatz u. a.)",
+     "body": {
+      "prompt": "Welche Maßnahme ist geeignet, wenn ein Unternehmen kurzfristig den Absatz steigern möchte?",
+      "options": [
+       {
+        "text": "Consumer Promotion (z. B. Coupon-Aktion)",
+        "correct": true
+       },
+       {
+        "text": "Corporate-Design-Relaunch",
+        "correct": false
+       },
+       {
+        "text": "Sponsoring eines Opernhauses",
+        "correct": false
+       },
+       {
+        "text": "Pressemitteilung zur Gründung",
+        "correct": false
+       }
+      ]
+     }
+    },
+    {
+     "key": "mako-ex-kommunikation-q02",
+     "type": "mc",
+     "exam_part": 1,
+     "difficulty": 2,
+     "source": "MaKo Prüfungstraining (eigene Aufgaben im IHK-Niveau, Rahmen: FAMK/Zweitschatz u. a.)",
+     "body": {
+      "prompt": "Ein Hersteller schult Verkäufer im Handel und stellt Displays bereit. Welches Instrument?",
+      "options": [
+       {
+        "text": "Trade Promotion",
+        "correct": true
+       },
+       {
+        "text": "Consumer Promotion",
+        "correct": false
+       },
+       {
+        "text": "Corporate Behaviour",
+        "correct": false
+       },
+       {
+        "text": "Sponsoring",
+        "correct": false
+       }
+      ]
+     }
+    },
+    {
+     "key": "mako-ex-kommunikation-q03",
+     "type": "mc",
+     "exam_part": 1,
+     "difficulty": 2,
+     "source": "MaKo Prüfungstraining (eigene Aufgaben im IHK-Niveau, Rahmen: FAMK/Zweitschatz u. a.)",
+     "body": {
+      "prompt": "Welches Ziel ist ein psychologisches (außerökonomisches) Kommunikationsziel?",
+      "options": [
+       {
+        "text": "Die Markenbekanntheit in der Zielgruppe steigern",
+        "correct": true
+       },
+       {
+        "text": "Den Umsatz um 12 % erhöhen",
+        "correct": false
+       },
+       {
+        "text": "Den Marktanteil auf 10 % erhöhen",
+        "correct": false
+       },
+       {
+        "text": "Die Gewinnmarge verbessern",
+        "correct": false
+       }
+      ]
+     }
+    },
+    {
+     "key": "mako-ex-kommunikation-q04",
+     "type": "mc",
+     "exam_part": 1,
+     "difficulty": 2,
+     "source": "MaKo Prüfungstraining (eigene Aufgaben im IHK-Niveau, Rahmen: FAMK/Zweitschatz u. a.)",
+     "body": {
+      "prompt": "Was beschreibt der Reason Why in der Copy-Strategie?",
+      "options": [
+       {
+        "text": "Die Begründung bzw. den Beweis für das Nutzenversprechen",
+        "correct": true
+       },
+       {
+        "text": "Den Ton der Anzeige",
+        "correct": false
+       },
+       {
+        "text": "Die Zielgruppe",
+        "correct": false
+       },
+       {
+        "text": "Das Mediabudget",
+        "correct": false
+       }
+      ]
+     }
+    },
+    {
+     "key": "mako-ex-kommunikation-q05",
+     "type": "mc",
+     "exam_part": 1,
+     "difficulty": 2,
+     "source": "MaKo Prüfungstraining (eigene Aufgaben im IHK-Niveau, Rahmen: FAMK/Zweitschatz u. a.)",
+     "body": {
+      "prompt": "Was beschreibt der Consumer Benefit?",
+      "options": [
+       {
+        "text": "Das Nutzenversprechen aus Sicht des Konsumenten",
+        "correct": true
+       },
+       {
+        "text": "Den Produktpreis",
+        "correct": false
+       },
+       {
+        "text": "Das Logo",
+        "correct": false
+       },
+       {
+        "text": "Die Mediaplanung",
+        "correct": false
+       }
+      ]
+     }
+    },
+    {
+     "key": "mako-ex-kommunikation-q06",
+     "type": "mc",
+     "exam_part": 1,
+     "difficulty": 2,
+     "source": "MaKo Prüfungstraining (eigene Aufgaben im IHK-Niveau, Rahmen: FAMK/Zweitschatz u. a.)",
+     "body": {
+      "prompt": "Was ist ein USP?",
+      "options": [
+       {
+        "text": "Ein einzigartiges Verkaufsversprechen, das den Anbieter vom Wettbewerb abhebt.",
+        "correct": true
+       },
+       {
+        "text": "Eine Zahlungsbedingung.",
+        "correct": false
+       },
+       {
+        "text": "Ein Medientyp.",
+        "correct": false
+       },
+       {
+        "text": "Ein Kundenbindungsprogramm.",
+        "correct": false
+       }
+      ]
+     }
+    },
+    {
+     "key": "mako-ex-kommunikation-q07",
+     "type": "mc",
+     "exam_part": 1,
+     "difficulty": 2,
+     "source": "MaKo Prüfungstraining (eigene Aufgaben im IHK-Niveau, Rahmen: FAMK/Zweitschatz u. a.)",
+     "body": {
+      "prompt": "Ein Unternehmen sponsert den lokalen Fußballverein und erhält Bandenwerbung. Welches Instrument?",
+      "options": [
+       {
+        "text": "Sponsoring",
+        "correct": true
+       },
+       {
+        "text": "Public Relations",
+        "correct": false
+       },
+       {
+        "text": "Verkaufsförderung",
+        "correct": false
+       },
+       {
+        "text": "Direktmarketing",
+        "correct": false
+       }
+      ]
+     }
+    },
+    {
+     "key": "mako-ex-kommunikation-q08",
+     "type": "mc",
+     "exam_part": 1,
+     "difficulty": 2,
+     "source": "MaKo Prüfungstraining (eigene Aufgaben im IHK-Niveau, Rahmen: FAMK/Zweitschatz u. a.)",
+     "body": {
+      "prompt": "Ein Unternehmen lädt Journalisten zu einer Pressekonferenz ein. Welches Instrument?",
+      "options": [
+       {
+        "text": "Public Relations",
+        "correct": true
+       },
+       {
+        "text": "Sponsoring",
+        "correct": false
+       },
+       {
+        "text": "Product Placement",
+        "correct": false
+       },
+       {
+        "text": "Verkaufsförderung",
+        "correct": false
+       }
+      ]
+     }
+    },
+    {
+     "key": "mako-ex-kommunikation-q09",
+     "type": "mc",
+     "exam_part": 1,
+     "difficulty": 2,
+     "source": "MaKo Prüfungstraining (eigene Aufgaben im IHK-Niveau, Rahmen: FAMK/Zweitschatz u. a.)",
+     "body": {
+      "prompt": "Welche Eigenschaft ist typisch für Public Relations?",
+      "options": [
+       {
+        "text": "Sie baut langfristig Vertrauen und Image auf.",
+        "correct": true
+       },
+       {
+        "text": "Sie führt zu sofortigen Verkäufen.",
+        "correct": false
+       },
+       {
+        "text": "Sie ist für den Empfänger immer als Werbung erkennbar.",
+        "correct": false
+       },
+       {
+        "text": "Sie ist stets teurer als klassische Werbung.",
+        "correct": false
+       }
+      ]
+     }
+    },
+    {
+     "key": "mako-ex-kommunikation-q10",
+     "type": "mc",
+     "exam_part": 1,
+     "difficulty": 2,
+     "source": "MaKo Prüfungstraining (eigene Aufgaben im IHK-Niveau, Rahmen: FAMK/Zweitschatz u. a.)",
+     "body": {
+      "prompt": "Welche Maßnahme ist Direktmarketing?",
+      "options": [
+       {
+        "text": "Ein personalisiertes Mailing an ausgewählte Kunden",
+        "correct": true
+       },
+       {
+        "text": "Eine Plakatwand",
+        "correct": false
+       },
+       {
+        "text": "Ein TV-Spot",
+        "correct": false
+       },
+       {
+        "text": "Ein Messestand",
+        "correct": false
+       }
+      ]
+     }
+    },
+    {
+     "key": "mako-ex-kommunikation-q11",
+     "type": "mc",
+     "exam_part": 1,
+     "difficulty": 2,
+     "source": "MaKo Prüfungstraining (eigene Aufgaben im IHK-Niveau, Rahmen: FAMK/Zweitschatz u. a.)",
+     "body": {
+      "prompt": "Ein Unternehmen platziert sein Produkt gegen Entgelt in einer Fernsehserie. Welches Instrument?",
+      "options": [
+       {
+        "text": "Product Placement",
+        "correct": true
+       },
+       {
+        "text": "Sponsoring",
+        "correct": false
+       },
+       {
+        "text": "Eventmarketing",
+        "correct": false
+       },
+       {
+        "text": "Direktmarketing",
+        "correct": false
+       }
+      ]
+     }
+    },
+    {
+     "key": "mako-ex-kommunikation-q12",
+     "type": "mc",
+     "exam_part": 1,
+     "difficulty": 2,
+     "source": "MaKo Prüfungstraining (eigene Aufgaben im IHK-Niveau, Rahmen: FAMK/Zweitschatz u. a.)",
+     "body": {
+      "prompt": "Welche Aussage zu Guerilla-Marketing ist richtig?",
+      "options": [
+       {
+        "text": "Es nutzt überraschende, unkonventionelle Aktionen mit geringem Budget.",
+        "correct": true
+       },
+       {
+        "text": "Es ist immer teurer als klassische Werbung.",
+        "correct": false
+       },
+       {
+        "text": "Es ist rechtlich stets unzulässig.",
+        "correct": false
+       },
+       {
+        "text": "Es setzt ausschließlich auf TV-Werbung.",
+        "correct": false
+       }
+      ]
+     }
+    },
+    {
+     "key": "mako-ex-kommunikation-q13",
+     "type": "mc",
+     "exam_part": 1,
+     "difficulty": 2,
+     "source": "MaKo Prüfungstraining (eigene Aufgaben im IHK-Niveau, Rahmen: FAMK/Zweitschatz u. a.)",
+     "body": {
+      "prompt": "Welche Aussage zu Influencer-Marketing ist richtig?",
+      "options": [
+       {
+        "text": "Werbliche Beiträge müssen als Werbung gekennzeichnet werden.",
+        "correct": true
+       },
+       {
+        "text": "Kennzeichnung ist nur bei Nano-Influencern nötig.",
+        "correct": false
+       },
+       {
+        "text": "Eine Kennzeichnung schadet der Reichweite und ist verboten.",
+        "correct": false
+       },
+       {
+        "text": "Influencer unterliegen nicht dem UWG.",
+        "correct": false
+       }
+      ]
+     }
+    },
+    {
+     "key": "mako-ex-kommunikation-q14",
+     "type": "mc",
+     "exam_part": 1,
+     "difficulty": 2,
+     "source": "MaKo Prüfungstraining (eigene Aufgaben im IHK-Niveau, Rahmen: FAMK/Zweitschatz u. a.)",
+     "body": {
+      "prompt": "Welche Aussage zur Suchmaschinenoptimierung (SEO) ist richtig?",
+      "options": [
+       {
+        "text": "Sie verbessert die organische Platzierung in Suchergebnissen.",
+        "correct": true
+       },
+       {
+        "text": "Sie ist eine bezahlte Anzeigenform.",
+        "correct": false
+       },
+       {
+        "text": "Sie ersetzt die Pressearbeit.",
+        "correct": false
+       },
+       {
+        "text": "Sie wird pro Klick abgerechnet.",
+        "correct": false
+       }
+      ]
+     }
+    },
+    {
+     "key": "mako-ex-kommunikation-q15",
+     "type": "mc",
+     "exam_part": 1,
+     "difficulty": 2,
+     "source": "MaKo Prüfungstraining (eigene Aufgaben im IHK-Niveau, Rahmen: FAMK/Zweitschatz u. a.)",
+     "body": {
+      "prompt": "Welche Aussage zu SEA ist richtig?",
+      "options": [
+       {
+        "text": "SEA umfasst bezahlte Anzeigen in Suchmaschinen, häufig mit Abrechnung pro Klick.",
+        "correct": true
+       },
+       {
+        "text": "SEA verbessert die organische Platzierung.",
+        "correct": false
+       },
+       {
+        "text": "SEA ist ein Offlinemedium.",
+        "correct": false
+       },
+       {
+        "text": "SEA ist ausschließlich für B2C geeignet.",
+        "correct": false
+       }
+      ]
+     }
+    },
+    {
+     "key": "mako-ex-kommunikation-q16",
+     "type": "mc",
+     "exam_part": 1,
+     "difficulty": 2,
+     "source": "MaKo Prüfungstraining (eigene Aufgaben im IHK-Niveau, Rahmen: FAMK/Zweitschatz u. a.)",
+     "body": {
+      "prompt": "Welche Stufe folgt im AIDA-Modell auf Interest?",
+      "options": [
+       {
+        "text": "Desire",
+        "correct": true
+       },
+       {
+        "text": "Action",
+        "correct": false
+       },
+       {
+        "text": "Attention",
+        "correct": false
+       },
+       {
+        "text": "Awareness",
+        "correct": false
+       }
+      ]
+     }
+    },
+    {
+     "key": "mako-ex-kommunikation-q17",
+     "type": "mc",
+     "exam_part": 1,
+     "difficulty": 2,
+     "source": "MaKo Prüfungstraining (eigene Aufgaben im IHK-Niveau, Rahmen: FAMK/Zweitschatz u. a.)",
+     "body": {
+      "prompt": "Welche Funktion hat die Headline einer Anzeige?",
+      "options": [
+       {
+        "text": "Aufmerksamkeit wecken",
+        "correct": true
+       },
+       {
+        "text": "Die Zahlungsbedingungen nennen",
+        "correct": false
+       },
+       {
+        "text": "Den Absender rechtlich ausweisen",
+        "correct": false
+       },
+       {
+        "text": "Das Mediabudget festlegen",
+        "correct": false
+       }
+      ]
+     }
+    },
+    {
+     "key": "mako-ex-kommunikation-q18",
+     "type": "mc",
+     "exam_part": 1,
+     "difficulty": 2,
+     "source": "MaKo Prüfungstraining (eigene Aufgaben im IHK-Niveau, Rahmen: FAMK/Zweitschatz u. a.)",
+     "body": {
+      "prompt": "Eine Kampagne soll auf allen Kanälen mit gleicher Botschaft und Optik erscheinen. Welches Prinzip?",
+      "options": [
+       {
+        "text": "Integrierte Kommunikation",
+        "correct": true
+       },
+       {
+        "text": "Differenzierte Werbung",
+        "correct": false
+       },
+       {
+        "text": "Guerilla-Marketing",
+        "correct": false
+       },
+       {
+        "text": "Preisdifferenzierung",
+        "correct": false
+       }
+      ]
+     }
+    },
+    {
+     "key": "mako-ex-kommunikation-q19",
+     "type": "mc",
+     "exam_part": 1,
+     "difficulty": 2,
+     "source": "MaKo Prüfungstraining (eigene Aufgaben im IHK-Niveau, Rahmen: FAMK/Zweitschatz u. a.)",
+     "body": {
+      "prompt": "Welche Form des Eventmarketings spricht ein breites Publikum an?",
+      "options": [
+       {
+        "text": "Öffentliche (offene) Events",
+        "correct": true
+       },
+       {
+        "text": "Interne Events",
+        "correct": false
+       },
+       {
+        "text": "Aufsichtsratssitzungen",
+        "correct": false
+       },
+       {
+        "text": "Betriebsversammlungen",
+        "correct": false
+       }
+      ]
+     }
+    },
+    {
+     "key": "mako-ex-kommunikation-q20",
+     "type": "mc",
+     "exam_part": 1,
+     "difficulty": 2,
+     "source": "MaKo Prüfungstraining (eigene Aufgaben im IHK-Niveau, Rahmen: FAMK/Zweitschatz u. a.)",
+     "body": {
+      "prompt": "Welche Messe richtet sich überwiegend an Fachbesucher?",
+      "options": [
+       {
+        "text": "Fachmesse",
+        "correct": true
+       },
+       {
+        "text": "Publikumsmesse",
+        "correct": false
+       },
+       {
+        "text": "Kirmes",
+        "correct": false
+       },
+       {
+        "text": "Flohmarkt",
+        "correct": false
+       }
+      ]
+     }
+    },
+    {
+     "key": "mako-ex-kommunikation-q21",
+     "type": "mc",
+     "exam_part": 1,
+     "difficulty": 2,
+     "source": "MaKo Prüfungstraining (eigene Aufgaben im IHK-Niveau, Rahmen: FAMK/Zweitschatz u. a.)",
+     "body": {
+      "prompt": "Welche Aussage zur Erfolgskontrolle von Kommunikation ist richtig?",
+      "options": [
+       {
+        "text": "Sie sollte anhand vorher festgelegter Ziele und Kennzahlen (KPIs) erfolgen.",
+        "correct": true
+       },
+       {
+        "text": "Sie ist nur nach der Kampagne sinnvoll.",
+        "correct": false
+       },
+       {
+        "text": "Sie ersetzt die Zieldefinition.",
+        "correct": false
+       },
+       {
+        "text": "Sie ist bei Online-Kampagnen nicht möglich.",
+        "correct": false
+       }
+      ]
+     }
+    },
+    {
+     "key": "mako-ex-kommunikation-q22",
+     "type": "mc",
+     "exam_part": 1,
+     "difficulty": 2,
+     "source": "MaKo Prüfungstraining (eigene Aufgaben im IHK-Niveau, Rahmen: FAMK/Zweitschatz u. a.)",
+     "body": {
+      "prompt": "Was ist ein Pre-Test?",
+      "options": [
+       {
+        "text": "Ein Test von Werbemitteln vor dem Einsatz",
+        "correct": true
+       },
+       {
+        "text": "Ein Test nach der Kampagne",
+        "correct": false
+       },
+       {
+        "text": "Ein Test der Mediaplanung",
+        "correct": false
+       },
+       {
+        "text": "Ein Preis-Test im Handel",
+        "correct": false
+       }
+      ]
+     }
+    },
+    {
+     "key": "mako-ex-kommunikation-q23",
+     "type": "mc",
+     "exam_part": 1,
+     "difficulty": 2,
+     "source": "MaKo Prüfungstraining (eigene Aufgaben im IHK-Niveau, Rahmen: FAMK/Zweitschatz u. a.)",
+     "body": {
+      "prompt": "Was beschreibt der Begriff Recall?",
+      "options": [
+       {
+        "text": "Ungestützte Erinnerung an Werbung oder Marke",
+        "correct": true
+       },
+       {
+        "text": "Gestützte Wiedererkennung",
+        "correct": false
+       },
+       {
+        "text": "Reichweite eines Mediums",
+        "correct": false
+       },
+       {
+        "text": "Kaufabsicht",
+        "correct": false
+       }
+      ]
+     }
+    },
+    {
+     "key": "mako-ex-kommunikation-q24",
+     "type": "mc",
+     "exam_part": 1,
+     "difficulty": 2,
+     "source": "MaKo Prüfungstraining (eigene Aufgaben im IHK-Niveau, Rahmen: FAMK/Zweitschatz u. a.)",
+     "body": {
+      "prompt": "Welche Rolle hat die Tonality in der Copy-Strategie?",
+      "options": [
+       {
+        "text": "Sie legt Tonlage und Stil der Kommunikation fest.",
+        "correct": true
+       },
+       {
+        "text": "Sie bestimmt den Preis.",
+        "correct": false
+       },
+       {
+        "text": "Sie bestimmt die Mediagattung.",
+        "correct": false
+       },
+       {
+        "text": "Sie legt das Budget fest.",
+        "correct": false
+       }
+      ]
+     }
+    },
+    {
+     "key": "mako-ex-kommunikation-q25",
+     "type": "mc",
+     "exam_part": 1,
+     "difficulty": 2,
+     "source": "MaKo Prüfungstraining (eigene Aufgaben im IHK-Niveau, Rahmen: FAMK/Zweitschatz u. a.)",
+     "body": {
+      "prompt": "Ein Claim soll …",
+      "options": [
+       {
+        "text": "das Markenversprechen kurz und einprägsam ausdrücken.",
+        "correct": true
+       },
+       {
+        "text": "die Produktionskosten beziffern.",
+        "correct": false
+       },
+       {
+        "text": "den rechtlichen Absender nennen.",
+        "correct": false
+       },
+       {
+        "text": "die Zielgruppe beschreiben.",
+        "correct": false
+       }
+      ]
+     }
+    },
+    {
+     "key": "mako-ex-kommunikation-q26",
+     "type": "mc",
+     "exam_part": 1,
+     "difficulty": 2,
+     "source": "MaKo Prüfungstraining (eigene Aufgaben im IHK-Niveau, Rahmen: FAMK/Zweitschatz u. a.)",
+     "body": {
+      "prompt": "Welche Aussage beschreibt Corporate Behaviour?",
+      "options": [
+       {
+        "text": "Das Verhalten eines Unternehmens und seiner Mitarbeiter gegenüber Kunden und Öffentlichkeit",
+        "correct": true
+       },
+       {
+        "text": "Das visuelle Erscheinungsbild",
+        "correct": false
+       },
+       {
+        "text": "Die Pressearbeit",
+        "correct": false
+       },
+       {
+        "text": "Die Unternehmensfarbe",
+        "correct": false
+       }
+      ]
+     }
+    },
+    {
+     "key": "mako-ex-kommunikation-q27",
+     "type": "mc",
+     "exam_part": 1,
+     "difficulty": 2,
+     "explanation": "Alleinstellungsbehauptungen müssen belegbar sein (§ 5 UWG).",
+     "source": "MaKo Prüfungstraining (eigene Aufgaben im IHK-Niveau, Rahmen: FAMK/Zweitschatz u. a.)",
+     "body": {
+      "prompt": "Welche Werbeaussage könnte irreführend sein?",
+      "options": [
+       {
+        "text": "„Das beste Produkt der Welt – belegt durch nichts.“ (Alleinstellungsbehauptung ohne Beleg)",
+        "correct": true
+       },
+       {
+        "text": "„Seit 1950 in Familienbesitz.“ (belegbar)",
+        "correct": false
+       },
+       {
+        "text": "„Jetzt 3 Monate Garantie.“ (Garantie existiert)",
+        "correct": false
+       },
+       {
+        "text": "„Preis ab 9,90 €.“ (Preis stimmt)",
+        "correct": false
+       }
+      ]
+     }
+    },
+    {
+     "key": "mako-ex-kommunikation-q28",
+     "type": "mc",
+     "exam_part": 1,
+     "difficulty": 2,
+     "source": "MaKo Prüfungstraining (eigene Aufgaben im IHK-Niveau, Rahmen: FAMK/Zweitschatz u. a.)",
+     "body": {
+      "prompt": "Eine Zielgruppe wird nach Lebensstil und Werten beschrieben. Welche Merkmalsart?",
+      "options": [
+       {
+        "text": "Psychografische Merkmale",
+        "correct": true
+       },
+       {
+        "text": "Soziodemografische Merkmale",
+        "correct": false
+       },
+       {
+        "text": "Geografische Merkmale",
+        "correct": false
+       },
+       {
+        "text": "Verhaltensbezogene Merkmale",
+        "correct": false
+       }
+      ]
+     }
+    },
+    {
+     "key": "mako-ex-kommunikation-q29",
+     "type": "mc",
+     "exam_part": 1,
+     "difficulty": 2,
+     "source": "MaKo Prüfungstraining (eigene Aufgaben im IHK-Niveau, Rahmen: FAMK/Zweitschatz u. a.)",
+     "body": {
+      "prompt": "Welche Aussage zum Briefing ist richtig?",
+      "options": [
+       {
+        "text": "Das Re-Briefing dient der schriftlichen Bestätigung des Auftragsverständnisses.",
+        "correct": true
+       },
+       {
+        "text": "Das Re-Briefing ersetzt das Kundenbriefing.",
+        "correct": false
+       },
+       {
+        "text": "Das Re-Briefing erfolgt erst nach der Präsentation.",
+        "correct": false
+       },
+       {
+        "text": "Das Re-Briefing enthält nur das Budget.",
+        "correct": false
+       }
+      ]
+     }
+    },
+    {
+     "key": "mako-ex-kommunikation-q30",
+     "type": "tf",
+     "exam_part": 1,
+     "difficulty": 2,
+     "source": "MaKo Prüfungstraining (eigene Aufgaben im IHK-Niveau, Rahmen: FAMK/Zweitschatz u. a.)",
+     "body": {
+      "statement": "Verkaufsförderung wirkt vor allem langfristig auf das Image.",
+      "answer": false
+     }
+    },
+    {
+     "key": "mako-ex-kommunikation-q31",
+     "type": "tf",
+     "exam_part": 1,
+     "difficulty": 2,
+     "source": "MaKo Prüfungstraining (eigene Aufgaben im IHK-Niveau, Rahmen: FAMK/Zweitschatz u. a.)",
+     "body": {
+      "statement": "Public Relations richten sich an die Öffentlichkeit und Stakeholder.",
+      "answer": true
+     }
+    },
+    {
+     "key": "mako-ex-kommunikation-q32",
+     "type": "tf",
+     "exam_part": 1,
+     "difficulty": 2,
+     "source": "MaKo Prüfungstraining (eigene Aufgaben im IHK-Niveau, Rahmen: FAMK/Zweitschatz u. a.)",
+     "body": {
+      "statement": "Der Reason Why ist Teil der Copy-Strategie.",
+      "answer": true
+     }
+    },
+    {
+     "key": "mako-ex-kommunikation-q33",
+     "type": "tf",
+     "exam_part": 1,
+     "difficulty": 2,
+     "source": "MaKo Prüfungstraining (eigene Aufgaben im IHK-Niveau, Rahmen: FAMK/Zweitschatz u. a.)",
+     "body": {
+      "statement": "Eine SMART-Zielformulierung enthält einen Zeitbezug.",
+      "answer": true
+     }
+    },
+    {
+     "key": "mako-ex-kommunikation-q34",
+     "type": "tf",
+     "exam_part": 1,
+     "difficulty": 2,
+     "source": "MaKo Prüfungstraining (eigene Aufgaben im IHK-Niveau, Rahmen: FAMK/Zweitschatz u. a.)",
+     "body": {
+      "statement": "Eine Pressemitteilung ist kostenpflichtige Werbung.",
+      "answer": false
+     }
+    },
+    {
+     "key": "mako-ex-kommunikation-q35",
+     "type": "tf",
+     "exam_part": 1,
+     "difficulty": 2,
+     "source": "MaKo Prüfungstraining (eigene Aufgaben im IHK-Niveau, Rahmen: FAMK/Zweitschatz u. a.)",
+     "body": {
+      "statement": "Beim Sponsoring erhält der Sponsor Kommunikationsrechte als Gegenleistung.",
+      "answer": true
+     }
+    },
+    {
+     "key": "mako-ex-kommunikation-q36",
+     "type": "match",
+     "exam_part": 1,
+     "difficulty": 2,
+     "source": "MaKo Prüfungstraining (eigene Aufgaben im IHK-Niveau, Rahmen: FAMK/Zweitschatz u. a.)",
+     "body": {
+      "prompt": "Ordnen Sie jedes Instrument seinem typischen Ziel zu.",
+      "items": [
+       {
+        "term": "Verkaufsförderung",
+        "match": "kurzfristige Umsatzsteigerung"
+       },
+       {
+        "term": "Public Relations",
+        "match": "Vertrauen und Image"
+       },
+       {
+        "term": "Sponsoring",
+        "match": "Imagetransfer"
+       },
+       {
+        "term": "Direktmarketing",
+        "match": "individuelle Ansprache mit Response"
+       },
+       {
+        "term": "Eventmarketing",
+        "match": "emotionales Markenerlebnis"
+       }
+      ],
+      "distractors": []
+     }
+    },
+    {
+     "key": "mako-ex-kommunikation-q37",
+     "type": "match",
+     "exam_part": 1,
+     "difficulty": 2,
+     "source": "MaKo Prüfungstraining (eigene Aufgaben im IHK-Niveau, Rahmen: FAMK/Zweitschatz u. a.)",
+     "body": {
+      "prompt": "Ordnen Sie dem Instrument das Beispiel zu.",
+      "items": [
+       {
+        "term": "Consumer Promotion",
+        "match": "Gutschein-Coupon im Supermarkt"
+       },
+       {
+        "term": "Trade Promotion",
+        "match": "Zweitplatzierung im Regal gegen Rabatt"
+       },
+       {
+        "term": "Staff Promotion",
+        "match": "Verkaufswettbewerb für den Außendienst"
+       },
+       {
+        "term": "Product Placement",
+        "match": "Marke im Spielfilm"
+       }
+      ],
+      "distractors": []
+     }
+    },
+    {
+     "key": "mako-ex-kommunikation-q38",
+     "type": "match",
+     "exam_part": 1,
+     "difficulty": 2,
+     "source": "MaKo Prüfungstraining (eigene Aufgaben im IHK-Niveau, Rahmen: FAMK/Zweitschatz u. a.)",
+     "body": {
+      "prompt": "Ordnen Sie jedem Medienbegriff die Beschreibung zu.",
+      "items": [
+       {
+        "term": "Owned Media",
+        "match": "Eigene Kanäle wie Website und Newsletter"
+       },
+       {
+        "term": "Paid Media",
+        "match": "Bezahlte Werbeplätze wie Social Ads"
+       },
+       {
+        "term": "Earned Media",
+        "match": "Erwähnung durch Dritte ohne Bezahlung"
+       },
+       {
+        "term": "Shared Media",
+        "match": "Von Nutzern geteilte Inhalte in sozialen Netzwerken"
+       }
+      ],
+      "distractors": []
+     }
+    },
+    {
+     "key": "mako-ex-kommunikation-q39",
+     "type": "order",
+     "exam_part": 1,
+     "difficulty": 2,
+     "source": "MaKo Prüfungstraining (eigene Aufgaben im IHK-Niveau, Rahmen: FAMK/Zweitschatz u. a.)",
+     "body": {
+      "prompt": "Bringen Sie die Bestandteile eines Kommunikationskonzepts in die richtige Reihenfolge.",
+      "items": [
+       "Situations- und Zielgruppenanalyse",
+       "Kommunikationsziele",
+       "Strategie und Botschaft",
+       "Maßnahmen und Medien",
+       "Budget, Zeitplan, Erfolgskontrolle"
+      ]
+     }
+    },
+    {
+     "key": "mako-ex-kommunikation-q40",
+     "type": "order",
+     "exam_part": 1,
+     "difficulty": 2,
+     "source": "MaKo Prüfungstraining (eigene Aufgaben im IHK-Niveau, Rahmen: FAMK/Zweitschatz u. a.)",
+     "body": {
+      "prompt": "Bringen Sie den Ablauf eines Agenturprojekts in die richtige Reihenfolge.",
+      "items": [
+       "Kundenbriefing",
+       "Re-Briefing",
+       "Strategie und Konzept",
+       "Kreation und Präsentation",
+       "Produktion, Umsetzung und Controlling"
+      ]
+     }
+    },
+    {
+     "key": "mako-ex-kommunikation-q41",
+     "type": "cloze",
+     "exam_part": 1,
+     "difficulty": 2,
+     "source": "MaKo Prüfungstraining (eigene Aufgaben im IHK-Niveau, Rahmen: FAMK/Zweitschatz u. a.)",
+     "body": {
+      "text": "Der [[Reason Why]] liefert den Beweis für das Nutzenversprechen, die [[Tonality]] legt den Ton der Kommunikation fest."
+     }
+    },
+    {
+     "key": "mako-ex-kommunikation-q42",
+     "type": "cloze",
+     "exam_part": 1,
+     "difficulty": 2,
+     "source": "MaKo Prüfungstraining (eigene Aufgaben im IHK-Niveau, Rahmen: FAMK/Zweitschatz u. a.)",
+     "body": {
+      "text": "Die Abkürzung [[AIDA]] steht für Attention, Interest, [[Desire]] und Action."
+     }
+    },
+    {
+     "key": "mako-ex-kommunikation-q43",
+     "type": "error",
+     "exam_part": 1,
+     "difficulty": 2,
+     "source": "MaKo Prüfungstraining (eigene Aufgaben im IHK-Niveau, Rahmen: FAMK/Zweitschatz u. a.)",
+     "body": {
+      "prompt": "Welche Aussagen zu Kommunikationsinstrumenten sind fehlerhaft?",
+      "items": [
+       {
+        "text": "Sponsoring ist eine Form der Verkaufsförderung für den Handel.",
+        "wrong": true,
+        "fix": "Sponsoring ist ein eigenes Instrument."
+       },
+       {
+        "text": "Public Relations dienen dem Aufbau von Vertrauen.",
+        "wrong": false
+       },
+       {
+        "text": "Direktmarketing arbeitet mit anonymer Massenansprache ohne Response.",
+        "wrong": true,
+        "fix": "Direktmarketing ist individuell und mit Response-Möglichkeit."
+       },
+       {
+        "text": "Verkaufsförderung kann sich an Konsumenten, Handel und eigene Mitarbeiter richten.",
+        "wrong": false
+       }
+      ]
+     }
+    }
+   ],
+   "templates": [
+    {
+     "key": "mako-ex-kommunikation-t01",
+     "type": "mc",
+     "exam_part": 1,
+     "difficulty": 2,
+     "source": "MaKo Prüfungstraining (eigene Aufgaben im IHK-Niveau, Rahmen: FAMK/Zweitschatz u. a.)",
+     "vars": {
+      "ctx": {
+       "type": "pick",
+       "options": [
+        {
+         "firma": "eine Bio-Molkerei",
+         "ziel": "kurzfristig der Absatz im Handel steigen",
+         "richtig": "Consumer Promotion (Coupons, Probieraktion)",
+         "w1": "Corporate-Design-Relaunch",
+         "w2": "Sponsoring eines Opernhauses",
+         "w3": "Pressemitteilung zur Gründungsgeschichte"
+        },
+        {
+         "firma": "ein Maschinenbauer",
+         "ziel": "Kontakte zu Fachkunden angebahnt werden",
+         "richtig": "Auftritt auf einer Fachmesse",
+         "w1": "Plakatwerbung an Stadtbahnhaltestellen",
+         "w2": "Radiospot im Vorabendprogramm",
+         "w3": "Coupon-Aktion für Endverbraucher"
+        },
+        {
+         "firma": "ein Tierheim",
+         "ziel": "Vertrauen und Spenden gewonnen werden",
+         "richtig": "Public Relations und Direktmarketing (Spendenmailing)",
+         "w1": "Preisaktionen im Onlineshop",
+         "w2": "Verkaufsförderung im Handel",
+         "w3": "Guerilla-Marketing ohne Botschaft"
+        },
+        {
+         "firma": "ein Sportartikelhersteller",
+         "ziel": "das Markenimage als sportlich und erfolgreich aufgebaut werden",
+         "richtig": "Sponsoring von Vereinen und Athleten",
+         "w1": "Zahlungsbedingungen verbessern",
+         "w2": "Preisdifferenzierung",
+         "w3": "Kleinanzeigen in Lokalzeitungen"
+        }
+       ]
+      }
+     },
+     "body": {
+      "prompt": "Für das Unternehmen {ctx.firma} soll {ctx.ziel}. Welches Instrument empfehlen Sie vorrangig?",
+      "options": [
+       {
+        "text": "{ctx.richtig}",
+        "correct": true
+       },
+       {
+        "text": "{ctx.w1}",
+        "correct": false
+       },
+       {
+        "text": "{ctx.w2}",
+        "correct": false
+       },
+       {
+        "text": "{ctx.w3}",
+        "correct": false
+       }
+      ]
+     }
+    }
+   ],
+   "cases": []
+  }
+ ]
+}

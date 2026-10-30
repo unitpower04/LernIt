@@ -1,0 +1,1257 @@
+{
+ "demo": false,
+ "items": [
+  {
+   "topic": "mako-ex-media",
+   "flashcards": [
+    {
+     "key": "mako-ex-media-c01",
+     "front": "Welche Kennziffer zählt Mehrfachkontakte NICHT mit?",
+     "back": "Nettoreichweite"
+    },
+    {
+     "key": "mako-ex-media-c02",
+     "front": "Eine Zielperson liest zwei Ausgaben derselben Zeitschrift. Wie viele Kontakte entstehen in der Bruttoreichweite, wie viele in der Nettoreichweite?",
+     "back": "2 Kontakte brutto, 1 Person netto"
+    },
+    {
+     "key": "mako-ex-media-c03",
+     "front": "Der Tausender-Kontaktpreis (TKP) …",
+     "back": "setzt die Kosten ins Verhältnis zu 1.000 Kontakten (Bruttoreichweite)."
+    },
+    {
+     "key": "mako-ex-media-c04",
+     "front": "Ein Medium A hat einen TKP von 20 €, Medium B von 28 €. Was ist richtig?",
+     "back": "A ist je 1.000 Kontakte günstiger."
+    },
+    {
+     "key": "mako-ex-media-c05",
+     "front": "Der Affinitätsindex eines Magazins liegt bei 85. Was bedeutet das?",
+     "back": "Die Zielgruppe ist unterproportional vertreten."
+    },
+    {
+     "key": "mako-ex-media-c06",
+     "front": "Welche Kennziffer misst die Streugenauigkeit eines Mediums?",
+     "back": "Affinität"
+    },
+    {
+     "key": "mako-ex-media-c07",
+     "front": "Der Werbedruck eines Mediaplans wird gemessen in …",
+     "back": "GRP (Gross Rating Points)"
+    },
+    {
+     "key": "mako-ex-media-c08",
+     "front": "Ein Plan hat 120 GRP bei einer Reichweite von 40 %. Wie viele Kontakte pro Nutzer ergeben sich?",
+     "back": "3,0"
+    },
+    {
+     "key": "mako-ex-media-c09",
+     "front": "Welche Abkürzung beschreibt in der Online-Werbung die Abrechnung pro 1.000 Einblendungen?",
+     "back": "CPM bzw. TKP"
+    },
+    {
+     "key": "mako-ex-media-c10",
+     "front": "Welche Abrechnung erfolgt nur, wenn ein Nutzer auf die Anzeige klickt?",
+     "back": "CPC (Cost per Click)"
+    },
+    {
+     "key": "mako-ex-media-c11",
+     "front": "Welche Abrechnung erfolgt nur bei einer abgeschlossenen Aktion (z. B. Kauf)?",
+     "back": "CPA (Cost per Action)"
+    },
+    {
+     "key": "mako-ex-media-c12",
+     "front": "Was bedeutet CTR?",
+     "back": "Click-Through-Rate – Klicks im Verhältnis zu Impressionen"
+    },
+    {
+     "key": "mako-ex-media-c13",
+     "front": "Welche Kennzahl beschreibt die Zahl der tatsächlich erfolgten Werbemittel-Einblendungen online?",
+     "back": "Ad Impressions"
+    },
+    {
+     "key": "mako-ex-media-c14",
+     "front": "Was versteht man unter Retargeting?",
+     "back": "Erneute Ansprache von Besuchern einer Website auf anderen Seiten"
+    },
+    {
+     "key": "mako-ex-media-c15",
+     "front": "Welche Aussage zu Programmatic Advertising ist richtig?",
+     "back": "Werbeplätze werden automatisiert und datengestützt in Echtzeit eingekauft."
+    },
+    {
+     "key": "mako-ex-media-c16",
+     "front": "Welches Medium bietet die höchste Reichweite in kurzer Zeit, ist aber kostenintensiv?",
+     "back": "Fernsehen"
+    },
+    {
+     "key": "mako-ex-media-c17",
+     "front": "Welche Mediagattung eignet sich besonders für zeitlich flexible regionale Kampagnen mit niedrigem Budget?",
+     "back": "Hörfunk (Radio)"
+    },
+    {
+     "key": "mako-ex-media-c18",
+     "front": "Welcher Vorteil gilt für Außenwerbung (OOH)?",
+     "back": "Hohe Präsenz im öffentlichen Raum, Dauerkontakt"
+    },
+    {
+     "key": "mako-ex-media-c19",
+     "front": "Was ist ein Flight im Mediaplan?",
+     "back": "Eine zeitlich begrenzte, intensive Schaltungswelle"
+    },
+    {
+     "key": "mako-ex-media-c20",
+     "front": "Welche Phase gehört zur Mediaselektion?",
+     "back": "Auswahl der Werbeträger nach Kennziffern und Zielgruppe"
+    },
+    {
+     "key": "mako-ex-media-c21",
+     "front": "Welches Instrument beschreibt Mediakennziffern wie Reichweite und Affinität für Printmedien in Deutschland?",
+     "back": "Die b4p (best for planning)"
+    },
+    {
+     "key": "mako-ex-media-c22",
+     "front": "Welche Organisation prüft die Auflagen von Zeitschriften?",
+     "back": "IVW"
+    },
+    {
+     "key": "mako-ex-media-c23",
+     "front": "Welche Organisation erhebt Online-Reichweiten?",
+     "back": "AGOF"
+    },
+    {
+     "key": "mako-ex-media-c24",
+     "front": "Was versteht man unter dem intermedialen Vergleich?",
+     "back": "Den Vergleich verschiedener Mediengattungen"
+    },
+    {
+     "key": "mako-ex-media-c25",
+     "front": "Was versteht man unter dem intramedialen Vergleich?",
+     "back": "Den Vergleich von Werbeträgern innerhalb einer Gattung"
+    },
+    {
+     "key": "mako-ex-media-c26",
+     "front": "Wofür steht AE-Provision?",
+     "back": "Provision der Agentur für die Vermittlung von Werbeaufträgen an Medien"
+    },
+    {
+     "key": "mako-ex-media-c27",
+     "front": "Welche Wirkung hat ein Malstaffelrabatt?",
+     "back": "Der Preis sinkt mit der Zahl der Schaltungen."
+    }
+   ],
+   "glossary": [],
+   "questions": [
+    {
+     "key": "mako-ex-media-q01",
+     "type": "mc",
+     "exam_part": 3,
+     "difficulty": 2,
+     "source": "MaKo Prüfungstraining (eigene Aufgaben im IHK-Niveau, Rahmen: FAMK/Zweitschatz u. a.)",
+     "body": {
+      "prompt": "Welche Kennziffer zählt Mehrfachkontakte NICHT mit?",
+      "options": [
+       {
+        "text": "Nettoreichweite",
+        "correct": true
+       },
+       {
+        "text": "Bruttoreichweite",
+        "correct": false
+       },
+       {
+        "text": "Kontakte",
+        "correct": false
+       },
+       {
+        "text": "GRP",
+        "correct": false
+       }
+      ]
+     }
+    },
+    {
+     "key": "mako-ex-media-q02",
+     "type": "mc",
+     "exam_part": 3,
+     "difficulty": 2,
+     "source": "MaKo Prüfungstraining (eigene Aufgaben im IHK-Niveau, Rahmen: FAMK/Zweitschatz u. a.)",
+     "body": {
+      "prompt": "Eine Zielperson liest zwei Ausgaben derselben Zeitschrift. Wie viele Kontakte entstehen in der Bruttoreichweite, wie viele in der Nettoreichweite?",
+      "options": [
+       {
+        "text": "2 Kontakte brutto, 1 Person netto",
+        "correct": true
+       },
+       {
+        "text": "1 Kontakt brutto, 2 Personen netto",
+        "correct": false
+       },
+       {
+        "text": "2 Kontakte netto, 1 Person brutto",
+        "correct": false
+       },
+       {
+        "text": "Immer 1",
+        "correct": false
+       }
+      ]
+     }
+    },
+    {
+     "key": "mako-ex-media-q03",
+     "type": "mc",
+     "exam_part": 3,
+     "difficulty": 2,
+     "source": "MaKo Prüfungstraining (eigene Aufgaben im IHK-Niveau, Rahmen: FAMK/Zweitschatz u. a.)",
+     "body": {
+      "prompt": "Der Tausender-Kontaktpreis (TKP) …",
+      "options": [
+       {
+        "text": "setzt die Kosten ins Verhältnis zu 1.000 Kontakten (Bruttoreichweite).",
+        "correct": true
+       },
+       {
+        "text": "setzt die Kosten ins Verhältnis zur Auflage in Millionen.",
+        "correct": false
+       },
+       {
+        "text": "gibt die Reichweite in % an.",
+        "correct": false
+       },
+       {
+        "text": "misst die Affinität.",
+        "correct": false
+       }
+      ]
+     }
+    },
+    {
+     "key": "mako-ex-media-q04",
+     "type": "mc",
+     "exam_part": 3,
+     "difficulty": 2,
+     "source": "MaKo Prüfungstraining (eigene Aufgaben im IHK-Niveau, Rahmen: FAMK/Zweitschatz u. a.)",
+     "body": {
+      "prompt": "Ein Medium A hat einen TKP von 20 €, Medium B von 28 €. Was ist richtig?",
+      "options": [
+       {
+        "text": "A ist je 1.000 Kontakte günstiger.",
+        "correct": true
+       },
+       {
+        "text": "B ist je 1.000 Kontakte günstiger.",
+        "correct": false
+       },
+       {
+        "text": "Beide sind gleich teuer.",
+        "correct": false
+       },
+       {
+        "text": "A erreicht automatisch mehr Zielpersonen.",
+        "correct": false
+       }
+      ]
+     }
+    },
+    {
+     "key": "mako-ex-media-q05",
+     "type": "mc",
+     "exam_part": 3,
+     "difficulty": 2,
+     "source": "MaKo Prüfungstraining (eigene Aufgaben im IHK-Niveau, Rahmen: FAMK/Zweitschatz u. a.)",
+     "body": {
+      "prompt": "Der Affinitätsindex eines Magazins liegt bei 85. Was bedeutet das?",
+      "options": [
+       {
+        "text": "Die Zielgruppe ist unterproportional vertreten.",
+        "correct": true
+       },
+       {
+        "text": "Die Zielgruppe ist überproportional vertreten.",
+        "correct": false
+       },
+       {
+        "text": "Das Magazin erreicht 85 % der Zielgruppe.",
+        "correct": false
+       },
+       {
+        "text": "Die Zielgruppe entspricht exakt dem Bevölkerungsdurchschnitt.",
+        "correct": false
+       }
+      ]
+     }
+    },
+    {
+     "key": "mako-ex-media-q06",
+     "type": "mc",
+     "exam_part": 3,
+     "difficulty": 2,
+     "source": "MaKo Prüfungstraining (eigene Aufgaben im IHK-Niveau, Rahmen: FAMK/Zweitschatz u. a.)",
+     "body": {
+      "prompt": "Welche Kennziffer misst die Streugenauigkeit eines Mediums?",
+      "options": [
+       {
+        "text": "Affinität",
+        "correct": true
+       },
+       {
+        "text": "Auflage",
+        "correct": false
+       },
+       {
+        "text": "Reichweite",
+        "correct": false
+       },
+       {
+        "text": "TKP",
+        "correct": false
+       }
+      ]
+     }
+    },
+    {
+     "key": "mako-ex-media-q07",
+     "type": "mc",
+     "exam_part": 3,
+     "difficulty": 2,
+     "source": "MaKo Prüfungstraining (eigene Aufgaben im IHK-Niveau, Rahmen: FAMK/Zweitschatz u. a.)",
+     "body": {
+      "prompt": "Der Werbedruck eines Mediaplans wird gemessen in …",
+      "options": [
+       {
+        "text": "GRP (Gross Rating Points)",
+        "correct": true
+       },
+       {
+        "text": "Prozent der Auflage",
+        "correct": false
+       },
+       {
+        "text": "Euro pro Kontakt",
+        "correct": false
+       },
+       {
+        "text": "Visits pro Tag",
+        "correct": false
+       }
+      ]
+     }
+    },
+    {
+     "key": "mako-ex-media-q08",
+     "type": "mc",
+     "exam_part": 3,
+     "difficulty": 2,
+     "source": "MaKo Prüfungstraining (eigene Aufgaben im IHK-Niveau, Rahmen: FAMK/Zweitschatz u. a.)",
+     "body": {
+      "prompt": "Ein Plan hat 120 GRP bei einer Reichweite von 40 %. Wie viele Kontakte pro Nutzer ergeben sich?",
+      "options": [
+       {
+        "text": "3,0",
+        "correct": true
+       },
+       {
+        "text": "0,3",
+        "correct": false
+       },
+       {
+        "text": "30",
+        "correct": false
+       },
+       {
+        "text": "4,8",
+        "correct": false
+       }
+      ]
+     }
+    },
+    {
+     "key": "mako-ex-media-q09",
+     "type": "mc",
+     "exam_part": 3,
+     "difficulty": 2,
+     "source": "MaKo Prüfungstraining (eigene Aufgaben im IHK-Niveau, Rahmen: FAMK/Zweitschatz u. a.)",
+     "body": {
+      "prompt": "Welche Abkürzung beschreibt in der Online-Werbung die Abrechnung pro 1.000 Einblendungen?",
+      "options": [
+       {
+        "text": "CPM bzw. TKP",
+        "correct": true
+       },
+       {
+        "text": "CPC",
+        "correct": false
+       },
+       {
+        "text": "CPV",
+        "correct": false
+       },
+       {
+        "text": "CPA",
+        "correct": false
+       }
+      ]
+     }
+    },
+    {
+     "key": "mako-ex-media-q10",
+     "type": "mc",
+     "exam_part": 3,
+     "difficulty": 2,
+     "source": "MaKo Prüfungstraining (eigene Aufgaben im IHK-Niveau, Rahmen: FAMK/Zweitschatz u. a.)",
+     "body": {
+      "prompt": "Welche Abrechnung erfolgt nur, wenn ein Nutzer auf die Anzeige klickt?",
+      "options": [
+       {
+        "text": "CPC (Cost per Click)",
+        "correct": true
+       },
+       {
+        "text": "CPM",
+        "correct": false
+       },
+       {
+        "text": "CPV",
+        "correct": false
+       },
+       {
+        "text": "TKP",
+        "correct": false
+       }
+      ]
+     }
+    },
+    {
+     "key": "mako-ex-media-q11",
+     "type": "mc",
+     "exam_part": 3,
+     "difficulty": 2,
+     "source": "MaKo Prüfungstraining (eigene Aufgaben im IHK-Niveau, Rahmen: FAMK/Zweitschatz u. a.)",
+     "body": {
+      "prompt": "Welche Abrechnung erfolgt nur bei einer abgeschlossenen Aktion (z. B. Kauf)?",
+      "options": [
+       {
+        "text": "CPA (Cost per Action)",
+        "correct": true
+       },
+       {
+        "text": "CPM",
+        "correct": false
+       },
+       {
+        "text": "CPC",
+        "correct": false
+       },
+       {
+        "text": "CPV",
+        "correct": false
+       }
+      ]
+     }
+    },
+    {
+     "key": "mako-ex-media-q12",
+     "type": "mc",
+     "exam_part": 3,
+     "difficulty": 2,
+     "source": "MaKo Prüfungstraining (eigene Aufgaben im IHK-Niveau, Rahmen: FAMK/Zweitschatz u. a.)",
+     "body": {
+      "prompt": "Was bedeutet CTR?",
+      "options": [
+       {
+        "text": "Click-Through-Rate – Klicks im Verhältnis zu Impressionen",
+        "correct": true
+       },
+       {
+        "text": "Cost-to-Revenue",
+        "correct": false
+       },
+       {
+        "text": "Content-Targeting-Rate",
+        "correct": false
+       },
+       {
+        "text": "Contact-Time-Ratio",
+        "correct": false
+       }
+      ]
+     }
+    },
+    {
+     "key": "mako-ex-media-q13",
+     "type": "mc",
+     "exam_part": 3,
+     "difficulty": 2,
+     "source": "MaKo Prüfungstraining (eigene Aufgaben im IHK-Niveau, Rahmen: FAMK/Zweitschatz u. a.)",
+     "body": {
+      "prompt": "Welche Kennzahl beschreibt die Zahl der tatsächlich erfolgten Werbemittel-Einblendungen online?",
+      "options": [
+       {
+        "text": "Ad Impressions",
+        "correct": true
+       },
+       {
+        "text": "Visits",
+        "correct": false
+       },
+       {
+        "text": "Page Impressions",
+        "correct": false
+       },
+       {
+        "text": "Unique User",
+        "correct": false
+       }
+      ]
+     }
+    },
+    {
+     "key": "mako-ex-media-q14",
+     "type": "mc",
+     "exam_part": 3,
+     "difficulty": 2,
+     "source": "MaKo Prüfungstraining (eigene Aufgaben im IHK-Niveau, Rahmen: FAMK/Zweitschatz u. a.)",
+     "body": {
+      "prompt": "Was versteht man unter Retargeting?",
+      "options": [
+       {
+        "text": "Erneute Ansprache von Besuchern einer Website auf anderen Seiten",
+        "correct": true
+       },
+       {
+        "text": "Das Löschen von Cookies",
+        "correct": false
+       },
+       {
+        "text": "Die Optimierung der Suchmaschinenplatzierung",
+        "correct": false
+       },
+       {
+        "text": "Das Messen der Reichweite einer Zeitung",
+        "correct": false
+       }
+      ]
+     }
+    },
+    {
+     "key": "mako-ex-media-q15",
+     "type": "mc",
+     "exam_part": 3,
+     "difficulty": 2,
+     "source": "MaKo Prüfungstraining (eigene Aufgaben im IHK-Niveau, Rahmen: FAMK/Zweitschatz u. a.)",
+     "body": {
+      "prompt": "Welche Aussage zu Programmatic Advertising ist richtig?",
+      "options": [
+       {
+        "text": "Werbeplätze werden automatisiert und datengestützt in Echtzeit eingekauft.",
+        "correct": true
+       },
+       {
+        "text": "Werbeplätze werden telefonisch verhandelt.",
+        "correct": false
+       },
+       {
+        "text": "Es betrifft nur Printmedien.",
+        "correct": false
+       },
+       {
+        "text": "Es ist eine Rabattform.",
+        "correct": false
+       }
+      ]
+     }
+    },
+    {
+     "key": "mako-ex-media-q16",
+     "type": "mc",
+     "exam_part": 3,
+     "difficulty": 2,
+     "source": "MaKo Prüfungstraining (eigene Aufgaben im IHK-Niveau, Rahmen: FAMK/Zweitschatz u. a.)",
+     "body": {
+      "prompt": "Welches Medium bietet die höchste Reichweite in kurzer Zeit, ist aber kostenintensiv?",
+      "options": [
+       {
+        "text": "Fernsehen",
+        "correct": true
+       },
+       {
+        "text": "Fachzeitschrift",
+        "correct": false
+       },
+       {
+        "text": "Lokalzeitung",
+        "correct": false
+       },
+       {
+        "text": "Direktmailing",
+        "correct": false
+       }
+      ]
+     }
+    },
+    {
+     "key": "mako-ex-media-q17",
+     "type": "mc",
+     "exam_part": 3,
+     "difficulty": 2,
+     "source": "MaKo Prüfungstraining (eigene Aufgaben im IHK-Niveau, Rahmen: FAMK/Zweitschatz u. a.)",
+     "body": {
+      "prompt": "Welche Mediagattung eignet sich besonders für zeitlich flexible regionale Kampagnen mit niedrigem Budget?",
+      "options": [
+       {
+        "text": "Hörfunk (Radio)",
+        "correct": true
+       },
+       {
+        "text": "Kino",
+        "correct": false
+       },
+       {
+        "text": "Fachzeitschrift",
+        "correct": false
+       },
+       {
+        "text": "TV national",
+        "correct": false
+       }
+      ]
+     }
+    },
+    {
+     "key": "mako-ex-media-q18",
+     "type": "mc",
+     "exam_part": 3,
+     "difficulty": 2,
+     "source": "MaKo Prüfungstraining (eigene Aufgaben im IHK-Niveau, Rahmen: FAMK/Zweitschatz u. a.)",
+     "body": {
+      "prompt": "Welcher Vorteil gilt für Außenwerbung (OOH)?",
+      "options": [
+       {
+        "text": "Hohe Präsenz im öffentlichen Raum, Dauerkontakt",
+        "correct": true
+       },
+       {
+        "text": "Zielgenaue Einzelansprache",
+        "correct": false
+       },
+       {
+        "text": "Lange Textbotschaften",
+        "correct": false
+       },
+       {
+        "text": "Sehr niedrige Reichweite",
+        "correct": false
+       }
+      ]
+     }
+    },
+    {
+     "key": "mako-ex-media-q19",
+     "type": "mc",
+     "exam_part": 3,
+     "difficulty": 2,
+     "source": "MaKo Prüfungstraining (eigene Aufgaben im IHK-Niveau, Rahmen: FAMK/Zweitschatz u. a.)",
+     "body": {
+      "prompt": "Was ist ein Flight im Mediaplan?",
+      "options": [
+       {
+        "text": "Eine zeitlich begrenzte, intensive Schaltungswelle",
+        "correct": true
+       },
+       {
+        "text": "Eine Dauerschaltung",
+        "correct": false
+       },
+       {
+        "text": "Eine Rabattstaffel",
+        "correct": false
+       },
+       {
+        "text": "Eine Einkaufsprovision",
+        "correct": false
+       }
+      ]
+     }
+    },
+    {
+     "key": "mako-ex-media-q20",
+     "type": "mc",
+     "exam_part": 3,
+     "difficulty": 2,
+     "source": "MaKo Prüfungstraining (eigene Aufgaben im IHK-Niveau, Rahmen: FAMK/Zweitschatz u. a.)",
+     "body": {
+      "prompt": "Welche Phase gehört zur Mediaselektion?",
+      "options": [
+       {
+        "text": "Auswahl der Werbeträger nach Kennziffern und Zielgruppe",
+        "correct": true
+       },
+       {
+        "text": "Druckfreigabe",
+        "correct": false
+       },
+       {
+        "text": "Erstellen der Rechnung",
+        "correct": false
+       },
+       {
+        "text": "Beschriftung der Verpackung",
+        "correct": false
+       }
+      ]
+     }
+    },
+    {
+     "key": "mako-ex-media-q21",
+     "type": "mc",
+     "exam_part": 3,
+     "difficulty": 2,
+     "source": "MaKo Prüfungstraining (eigene Aufgaben im IHK-Niveau, Rahmen: FAMK/Zweitschatz u. a.)",
+     "body": {
+      "prompt": "Welches Instrument beschreibt Mediakennziffern wie Reichweite und Affinität für Printmedien in Deutschland?",
+      "options": [
+       {
+        "text": "Die b4p (best for planning)",
+        "correct": true
+       },
+       {
+        "text": "Der DAX",
+        "correct": false
+       },
+       {
+        "text": "Die GfK-Umfrage zur Konsumlaune",
+        "correct": false
+       },
+       {
+        "text": "Das Handelsregister",
+        "correct": false
+       }
+      ]
+     }
+    },
+    {
+     "key": "mako-ex-media-q22",
+     "type": "mc",
+     "exam_part": 3,
+     "difficulty": 2,
+     "source": "MaKo Prüfungstraining (eigene Aufgaben im IHK-Niveau, Rahmen: FAMK/Zweitschatz u. a.)",
+     "body": {
+      "prompt": "Welche Organisation prüft die Auflagen von Zeitschriften?",
+      "options": [
+       {
+        "text": "IVW",
+        "correct": true
+       },
+       {
+        "text": "AGOF",
+        "correct": false
+       },
+       {
+        "text": "GWA",
+        "correct": false
+       },
+       {
+        "text": "ADC",
+        "correct": false
+       }
+      ]
+     }
+    },
+    {
+     "key": "mako-ex-media-q23",
+     "type": "mc",
+     "exam_part": 3,
+     "difficulty": 2,
+     "source": "MaKo Prüfungstraining (eigene Aufgaben im IHK-Niveau, Rahmen: FAMK/Zweitschatz u. a.)",
+     "body": {
+      "prompt": "Welche Organisation erhebt Online-Reichweiten?",
+      "options": [
+       {
+        "text": "AGOF",
+        "correct": true
+       },
+       {
+        "text": "IVW",
+        "correct": false
+       },
+       {
+        "text": "ADC",
+        "correct": false
+       },
+       {
+        "text": "DPRG",
+        "correct": false
+       }
+      ]
+     }
+    },
+    {
+     "key": "mako-ex-media-q24",
+     "type": "mc",
+     "exam_part": 3,
+     "difficulty": 2,
+     "source": "MaKo Prüfungstraining (eigene Aufgaben im IHK-Niveau, Rahmen: FAMK/Zweitschatz u. a.)",
+     "body": {
+      "prompt": "Was versteht man unter dem intermedialen Vergleich?",
+      "options": [
+       {
+        "text": "Den Vergleich verschiedener Mediengattungen",
+        "correct": true
+       },
+       {
+        "text": "Den Vergleich von Titeln einer Gattung",
+        "correct": false
+       },
+       {
+        "text": "Den Vergleich von Preisen",
+        "correct": false
+       },
+       {
+        "text": "Den Vergleich von Zielgruppen",
+        "correct": false
+       }
+      ]
+     }
+    },
+    {
+     "key": "mako-ex-media-q25",
+     "type": "mc",
+     "exam_part": 3,
+     "difficulty": 2,
+     "source": "MaKo Prüfungstraining (eigene Aufgaben im IHK-Niveau, Rahmen: FAMK/Zweitschatz u. a.)",
+     "body": {
+      "prompt": "Was versteht man unter dem intramedialen Vergleich?",
+      "options": [
+       {
+        "text": "Den Vergleich von Werbeträgern innerhalb einer Gattung",
+        "correct": true
+       },
+       {
+        "text": "Den Vergleich von Gattungen",
+        "correct": false
+       },
+       {
+        "text": "Den Vergleich von Budgets",
+        "correct": false
+       },
+       {
+        "text": "Den Vergleich von Agenturen",
+        "correct": false
+       }
+      ]
+     }
+    },
+    {
+     "key": "mako-ex-media-q26",
+     "type": "mc",
+     "exam_part": 3,
+     "difficulty": 2,
+     "source": "MaKo Prüfungstraining (eigene Aufgaben im IHK-Niveau, Rahmen: FAMK/Zweitschatz u. a.)",
+     "body": {
+      "prompt": "Wofür steht AE-Provision?",
+      "options": [
+       {
+        "text": "Provision der Agentur für die Vermittlung von Werbeaufträgen an Medien",
+        "correct": true
+       },
+       {
+        "text": "Anzeigen-Entgelt-Prämie",
+        "correct": false
+       },
+       {
+        "text": "Aufschlag für Eilaufträge",
+        "correct": false
+       },
+       {
+        "text": "Auflagen-Erhöhung",
+        "correct": false
+       }
+      ]
+     }
+    },
+    {
+     "key": "mako-ex-media-q27",
+     "type": "mc",
+     "exam_part": 3,
+     "difficulty": 2,
+     "source": "MaKo Prüfungstraining (eigene Aufgaben im IHK-Niveau, Rahmen: FAMK/Zweitschatz u. a.)",
+     "body": {
+      "prompt": "Welche Wirkung hat ein Malstaffelrabatt?",
+      "options": [
+       {
+        "text": "Der Preis sinkt mit der Zahl der Schaltungen.",
+        "correct": true
+       },
+       {
+        "text": "Der Preis steigt mit jeder Schaltung.",
+        "correct": false
+       },
+       {
+        "text": "Es gibt nur Rabatt bei Sofortzahlung.",
+        "correct": false
+       },
+       {
+        "text": "Rabatt nur für Neukunden.",
+        "correct": false
+       }
+      ]
+     }
+    },
+    {
+     "key": "mako-ex-media-q28",
+     "type": "tf",
+     "exam_part": 3,
+     "difficulty": 2,
+     "source": "MaKo Prüfungstraining (eigene Aufgaben im IHK-Niveau, Rahmen: FAMK/Zweitschatz u. a.)",
+     "body": {
+      "statement": "Die Bruttoreichweite kann größer sein als die Zielgruppe.",
+      "answer": true
+     }
+    },
+    {
+     "key": "mako-ex-media-q29",
+     "type": "tf",
+     "exam_part": 3,
+     "difficulty": 2,
+     "source": "MaKo Prüfungstraining (eigene Aufgaben im IHK-Niveau, Rahmen: FAMK/Zweitschatz u. a.)",
+     "body": {
+      "statement": "Der Affinitätsindex 100 bedeutet, dass die Zielgruppe im Medium durchschnittlich vertreten ist.",
+      "answer": true
+     }
+    },
+    {
+     "key": "mako-ex-media-q30",
+     "type": "tf",
+     "exam_part": 3,
+     "difficulty": 2,
+     "explanation": "TKP bezieht sich auf Kontakte (Brutto); auf die Nettoreichweite bezieht sich der Tausender-Nutzer-Preis.",
+     "source": "MaKo Prüfungstraining (eigene Aufgaben im IHK-Niveau, Rahmen: FAMK/Zweitschatz u. a.)",
+     "body": {
+      "statement": "Der TKP wird immer auf die Nettoreichweite berechnet.",
+      "answer": false
+     }
+    },
+    {
+     "key": "mako-ex-media-q31",
+     "type": "tf",
+     "exam_part": 3,
+     "difficulty": 2,
+     "source": "MaKo Prüfungstraining (eigene Aufgaben im IHK-Niveau, Rahmen: FAMK/Zweitschatz u. a.)",
+     "body": {
+      "statement": "Earned Media sind bezahlte Werbeplätze.",
+      "answer": false
+     }
+    },
+    {
+     "key": "mako-ex-media-q32",
+     "type": "match",
+     "exam_part": 3,
+     "difficulty": 2,
+     "source": "MaKo Prüfungstraining (eigene Aufgaben im IHK-Niveau, Rahmen: FAMK/Zweitschatz u. a.)",
+     "body": {
+      "prompt": "Ordnen Sie jede Abrechnungsform dem Maßstab zu.",
+      "items": [
+       {
+        "term": "CPM",
+        "match": "pro 1.000 Einblendungen"
+       },
+       {
+        "term": "CPC",
+        "match": "pro Klick"
+       },
+       {
+        "term": "CPV",
+        "match": "pro Videoaufruf (View)"
+       },
+       {
+        "term": "CPA",
+        "match": "pro Aktion (z. B. Kauf)"
+       }
+      ],
+      "distractors": []
+     }
+    },
+    {
+     "key": "mako-ex-media-q33",
+     "type": "match",
+     "exam_part": 3,
+     "difficulty": 2,
+     "source": "MaKo Prüfungstraining (eigene Aufgaben im IHK-Niveau, Rahmen: FAMK/Zweitschatz u. a.)",
+     "body": {
+      "prompt": "Ordnen Sie jede Kennziffer der Formel zu.",
+      "items": [
+       {
+        "term": "Kontakte pro Nutzer",
+        "match": "Bruttoreichweite : Nettoreichweite"
+       },
+       {
+        "term": "GRP",
+        "match": "Reichweite in % · Kontakte pro Nutzer"
+       },
+       {
+        "term": "Affinitätsindex",
+        "match": "Anteil ZG im Medium : Anteil ZG in Bevölkerung · 100"
+       },
+       {
+        "term": "CTR",
+        "match": "Klicks : Impressions · 100"
+       }
+      ],
+      "distractors": []
+     }
+    },
+    {
+     "key": "mako-ex-media-q34",
+     "type": "order",
+     "exam_part": 3,
+     "difficulty": 2,
+     "source": "MaKo Prüfungstraining (eigene Aufgaben im IHK-Niveau, Rahmen: FAMK/Zweitschatz u. a.)",
+     "body": {
+      "prompt": "Bringen Sie die Schritte der Mediaplanung in die richtige Reihenfolge.",
+      "items": [
+       "Mediaziele festlegen",
+       "Mediastrategie entwickeln",
+       "Medien selektieren",
+       "Streuplan erstellen",
+       "Buchung und Kontrolle"
+      ]
+     }
+    },
+    {
+     "key": "mako-ex-media-q35",
+     "type": "cloze",
+     "exam_part": 3,
+     "difficulty": 2,
+     "source": "MaKo Prüfungstraining (eigene Aufgaben im IHK-Niveau, Rahmen: FAMK/Zweitschatz u. a.)",
+     "body": {
+      "text": "Der [[Tausender-Kontakt-Preis]] wird auf die Bruttoreichweite bezogen, der [[Tausender-Nutzer-Preis]] auf die Nettoreichweite."
+     }
+    }
+   ],
+   "templates": [
+    {
+     "key": "mako-ex-media-t01",
+     "type": "calc",
+     "exam_part": 3,
+     "difficulty": 2,
+     "source": "MaKo Prüfungstraining (eigene Aufgaben im IHK-Niveau, Rahmen: FAMK/Zweitschatz u. a.)",
+     "vars": {
+      "p": {
+       "type": "int",
+       "min": 10000,
+       "max": 60000,
+       "step": 2500
+      },
+      "b": {
+       "type": "int",
+       "min": 500000,
+       "max": 2500000,
+       "step": 100000
+      }
+     },
+     "body": {
+      "prompt": "Eine Anzeige kostet {p|eur}. Die Bruttoreichweite beträgt {b|int} Kontakte. Berechnen Sie den TKP.",
+      "answer": "p/b*1000",
+      "unit": "€",
+      "decimals": 2,
+      "steps": [
+       "TKP = Preis : Kontakte · 1.000 = {result|eur}"
+      ]
+     }
+    },
+    {
+     "key": "mako-ex-media-t02",
+     "type": "calc",
+     "exam_part": 3,
+     "difficulty": 2,
+     "source": "MaKo Prüfungstraining (eigene Aufgaben im IHK-Niveau, Rahmen: FAMK/Zweitschatz u. a.)",
+     "vars": {
+      "r": {
+       "type": "int",
+       "min": 30,
+       "max": 80,
+       "step": 5
+      },
+      "k": {
+       "type": "pick",
+       "options": [
+        2,
+        2.5,
+        3,
+        3.5,
+        4,
+        5
+       ]
+      }
+     },
+     "body": {
+      "prompt": "Kampagne: Reichweite {r} % der Zielgruppe, durchschnittlich {k} Kontakte pro erreichter Person. Berechnen Sie die GRP.",
+      "answer": "r*k",
+      "unit": "GRP",
+      "decimals": 0,
+      "steps": [
+       "GRP = Reichweite % · Kontakte = {r} · {k} = {result}"
+      ]
+     }
+    },
+    {
+     "key": "mako-ex-media-t03",
+     "type": "calc",
+     "exam_part": 3,
+     "difficulty": 2,
+     "source": "MaKo Prüfungstraining (eigene Aufgaben im IHK-Niveau, Rahmen: FAMK/Zweitschatz u. a.)",
+     "vars": {
+      "a": {
+       "type": "pick",
+       "options": [
+        12,
+        15,
+        18,
+        20,
+        24,
+        30
+       ]
+      },
+      "b": {
+       "type": "pick",
+       "options": [
+        10,
+        12,
+        15,
+        20
+       ]
+      }
+     },
+     "body": {
+      "prompt": "Eine Zeitschrift hat in der Zielgruppe einen Nutzeranteil von {a} %, die Zielgruppe macht {b} % der Bevölkerung aus. Wie hoch ist der Affinitätsindex?",
+      "answer": "a/b*100",
+      "decimals": 0,
+      "steps": [
+       "{a} : {b} · 100 = {result}"
+      ]
+     }
+    },
+    {
+     "key": "mako-ex-media-t04",
+     "type": "calc",
+     "exam_part": 3,
+     "difficulty": 2,
+     "source": "MaKo Prüfungstraining (eigene Aufgaben im IHK-Niveau, Rahmen: FAMK/Zweitschatz u. a.)",
+     "vars": {
+      "i": {
+       "type": "int",
+       "min": 200000,
+       "max": 1500000,
+       "step": 50000
+      },
+      "c": {
+       "type": "int",
+       "min": 1000,
+       "max": 6000,
+       "step": 500
+      },
+      "p": {
+       "type": "dec",
+       "min": 3,
+       "max": 12,
+       "decimals": 2
+      }
+     },
+     "body": {
+      "prompt": "Ein Display-Banner erzielt {i|int} Impressions und {c|int} Klicks. Der Preis beträgt {p|eur} CPM. Berechnen Sie die Kosten der Schaltung.",
+      "answer": "i/1000*p",
+      "unit": "€",
+      "decimals": 2,
+      "steps": [
+       "Kosten = Impressions : 1.000 · CPM = {result|eur}"
+      ]
+     }
+    },
+    {
+     "key": "mako-ex-media-t05",
+     "type": "calc",
+     "exam_part": 3,
+     "difficulty": 2,
+     "source": "MaKo Prüfungstraining (eigene Aufgaben im IHK-Niveau, Rahmen: FAMK/Zweitschatz u. a.)",
+     "vars": {
+      "k": {
+       "type": "int",
+       "min": 2000,
+       "max": 20000,
+       "step": 500
+      },
+      "c": {
+       "type": "int",
+       "min": 4000,
+       "max": 20000,
+       "step": 1000
+      }
+     },
+     "body": {
+      "prompt": "Eine Kampagne kostet {k|eur} und erzielt {c|int} Klicks. Berechnen Sie den Preis pro Klick (CPC).",
+      "answer": "k/c",
+      "unit": "€",
+      "decimals": 2,
+      "steps": [
+       "CPC = {k|eur} : {c|int} = {result|eur}"
+      ]
+     }
+    },
+    {
+     "key": "mako-ex-media-t06",
+     "type": "calc",
+     "exam_part": 3,
+     "difficulty": 2,
+     "source": "MaKo Prüfungstraining (eigene Aufgaben im IHK-Niveau, Rahmen: FAMK/Zweitschatz u. a.)",
+     "vars": {
+      "h": {
+       "type": "int",
+       "min": 60,
+       "max": 200,
+       "step": 10
+      },
+      "sp": {
+       "type": "int",
+       "min": 2,
+       "max": 4,
+       "step": 1
+      },
+      "mm": {
+       "type": "dec",
+       "min": 3,
+       "max": 8,
+       "decimals": 2
+      },
+      "ae": {
+       "type": "pick",
+       "options": [
+        10,
+        15
+       ]
+      },
+      "r": {
+       "type": "pick",
+       "options": [
+        5,
+        8,
+        10
+       ]
+      }
+     },
+     "body": {
+      "prompt": "Eine Zeitung veröffentlicht eine Anzeige mit {h} mm Höhe und {sp} Spalten. Millimeterpreis {mm|eur}, AE-Provision {ae} %, Mal-Rabatt {r} % auf den Bruttopreis. Berechnen Sie den Preis nach AE-Provision und Rabatt (erst Rabatt, dann AE-Provision).",
+      "answer": "h*sp*mm*(1-r/100)*(1-ae/100)",
+      "unit": "€",
+      "decimals": 2,
+      "steps": [
+       "Brutto = {h} · {sp} · {mm|eur}",
+       "− {r} % Rabatt und − {ae} % AE = {result|eur}"
+      ]
+     }
+    }
+   ],
+   "cases": []
+  }
+ ]
+}

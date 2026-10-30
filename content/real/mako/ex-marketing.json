@@ -1,0 +1,1332 @@
+{
+ "demo": false,
+ "items": [
+  {
+   "topic": "mako-ex-marketing",
+   "flashcards": [
+    {
+     "key": "mako-ex-marketing-c01",
+     "front": "Ein Unternehmen verkauft ein bewährtes Produkt jetzt auch in Österreich. Welche Marktfeldstrategie nach Ansoff liegt vor?",
+     "back": "Marktentwicklung"
+    },
+    {
+     "key": "mako-ex-marketing-c02",
+     "front": "Ein Hersteller von Zahnbürsten bringt erstmals Mundspülungen heraus (neues Produkt, neuer Markt). Welche Strategie?",
+     "back": "Diversifikation"
+    },
+    {
+     "key": "mako-ex-marketing-c03",
+     "front": "Ein Café erhöht durch Stempelkarten die Besuchshäufigkeit seiner Bestandskunden. Welche Strategie?",
+     "back": "Marktdurchdringung"
+    },
+    {
+     "key": "mako-ex-marketing-c04",
+     "front": "Ein Produktbereich mit niedrigem Marktwachstum und hohem relativem Marktanteil ist in der BCG-Matrix …",
+     "back": "eine Cash Cow – Gewinne abschöpfen."
+    },
+    {
+     "key": "mako-ex-marketing-c05",
+     "front": "Ein Produktbereich mit hohem Marktwachstum und niedrigem relativem Marktanteil ist …",
+     "back": "ein Question Mark."
+    },
+    {
+     "key": "mako-ex-marketing-c06",
+     "front": "Welche Normstrategie empfiehlt die BCG-Matrix für Poor Dogs?",
+     "back": "Desinvestition bzw. Rückzug"
+    },
+    {
+     "key": "mako-ex-marketing-c07",
+     "front": "Welche Phase des Produktlebenszyklus ist durch stark steigende Umsätze und beginnende Gewinne gekennzeichnet?",
+     "back": "Wachstumsphase"
+    },
+    {
+     "key": "mako-ex-marketing-c08",
+     "front": "In der Sättigungsphase sinken die Umsatzzuwächse. Welche Maßnahme ist sinnvoll?",
+     "back": "Relaunch bzw. Produktvariation und Preispflege"
+    },
+    {
+     "key": "mako-ex-marketing-c09",
+     "front": "Welche Strategie nach Porter setzt auf möglichst niedrige Kosten und Preise?",
+     "back": "Kostenführerschaft"
+    },
+    {
+     "key": "mako-ex-marketing-c10",
+     "front": "Ein Anbieter konzentriert sich auf ein sehr kleines Marktsegment mit speziellen Bedürfnissen. Welche Strategie?",
+     "back": "Nischenstrategie (Konzentration)"
+    },
+    {
+     "key": "mako-ex-marketing-c11",
+     "front": "Welche Aussage zur SWOT-Analyse ist zutreffend?",
+     "back": "Stärken und Schwächen betreffen das Unternehmen, Chancen und Risiken das Umfeld."
+    },
+    {
+     "key": "mako-ex-marketing-c12",
+     "front": "Eine Agentur nutzt ihre starke Kreativabteilung (Stärke), um von wachsender Nachfrage nach Videocontent (Chance) zu profitieren. Welche Strategieart?",
+     "back": "SO-Strategie (Stärken nutzen, Chancen ergreifen)"
+    },
+    {
+     "key": "mako-ex-marketing-c13",
+     "front": "Welcher Begriff beschreibt die Aufteilung eines Marktes in möglichst homogene Käufergruppen?",
+     "back": "Marktsegmentierung"
+    },
+    {
+     "key": "mako-ex-marketing-c14",
+     "front": "Was ist das Ziel der Positionierung einer Marke?",
+     "back": "Eine unverwechselbare Stellung im Vergleich zum Wettbewerb in den Köpfen der Zielgruppe aufbauen."
+    },
+    {
+     "key": "mako-ex-marketing-c15",
+     "front": "Welches Instrument gehört zur Produktpolitik?",
+     "back": "Verpackungsgestaltung"
+    },
+    {
+     "key": "mako-ex-marketing-c16",
+     "front": "Welches Instrument gehört zur Distributionspolitik?",
+     "back": "Wahl des Absatzkanals (z. B. eigener Onlineshop)"
+    },
+    {
+     "key": "mako-ex-marketing-c17",
+     "front": "Welches Instrument gehört zur Kontrahierungspolitik?",
+     "back": "Preis- und Rabattgestaltung"
+    },
+    {
+     "key": "mako-ex-marketing-c18",
+     "front": "Welches Instrument gehört zur Kommunikationspolitik?",
+     "back": "Sponsoring"
+    },
+    {
+     "key": "mako-ex-marketing-c19",
+     "front": "Ein Kunde möchte Produkte nur über ausgewählte Fachhändler anbieten. Welche Distributionsintensität?",
+     "back": "Selektive Distribution"
+    },
+    {
+     "key": "mako-ex-marketing-c20",
+     "front": "Ein Hersteller verkauft über seinen eigenen Onlineshop und über Amazon. Wie nennt man das?",
+     "back": "Multi-Channel-Vertrieb"
+    },
+    {
+     "key": "mako-ex-marketing-c21",
+     "front": "Welche Preisstrategie liegt vor: Ein neues Produkt wird zunächst sehr teuer angeboten und später günstiger?",
+     "back": "Skimming (Abschöpfung)"
+    },
+    {
+     "key": "mako-ex-marketing-c22",
+     "front": "Ein Streaming-Anbieter startet mit einem sehr niedrigen Einstiegspreis, um schnell viele Kunden zu gewinnen. Welche Strategie?",
+     "back": "Penetrationsstrategie"
+    },
+    {
+     "key": "mako-ex-marketing-c23",
+     "front": "Ein Kino bietet Dienstags ermäßigte Preise. Welche Form der Preisdifferenzierung?",
+     "back": "Zeitliche Preisdifferenzierung"
+    },
+    {
+     "key": "mako-ex-marketing-c24",
+     "front": "Welche Aussage zum Markenbegriff ist richtig?",
+     "back": "Eine Marke kennzeichnet Produkte und unterscheidet sie von denen anderer Anbieter."
+    },
+    {
+     "key": "mako-ex-marketing-c25",
+     "front": "Ein Konzern vermarktet Joghurt, Müsli und Milch unter dem Firmennamen. Welche Markenstrategie?",
+     "back": "Dachmarkenstrategie"
+    },
+    {
+     "key": "mako-ex-marketing-c26",
+     "front": "Ein Hersteller führt für Shampoo drei eigenständige Marken mit unterschiedlichem Image. Welche Strategie?",
+     "back": "Mehrmarkenstrategie"
+    },
+    {
+     "key": "mako-ex-marketing-c27",
+     "front": "Was versteht man unter einem Markentransfer?",
+     "back": "Die Übertragung einer erfolgreichen Marke auf neue Produkte."
+    },
+    {
+     "key": "mako-ex-marketing-c28",
+     "front": "Welches Merkmal kennzeichnet einen Verkäufermarkt?",
+     "back": "Die Nachfrage übersteigt das Angebot."
+    },
+    {
+     "key": "mako-ex-marketing-c29",
+     "front": "Welche Aussage zu 7-P im Dienstleistungsmarketing ist richtig?",
+     "back": "Zusätzlich zu den 4 P kommen People, Process und Physical Evidence hinzu."
+    }
+   ],
+   "glossary": [],
+   "questions": [
+    {
+     "key": "mako-ex-marketing-q01",
+     "type": "mc",
+     "exam_part": 1,
+     "difficulty": 2,
+     "source": "MaKo Prüfungstraining (eigene Aufgaben im IHK-Niveau, Rahmen: FAMK/Zweitschatz u. a.)",
+     "body": {
+      "prompt": "Ein Unternehmen verkauft ein bewährtes Produkt jetzt auch in Österreich. Welche Marktfeldstrategie nach Ansoff liegt vor?",
+      "options": [
+       {
+        "text": "Marktentwicklung",
+        "correct": true
+       },
+       {
+        "text": "Marktdurchdringung",
+        "correct": false
+       },
+       {
+        "text": "Produktentwicklung",
+        "correct": false
+       },
+       {
+        "text": "Diversifikation",
+        "correct": false
+       }
+      ]
+     }
+    },
+    {
+     "key": "mako-ex-marketing-q02",
+     "type": "mc",
+     "exam_part": 1,
+     "difficulty": 2,
+     "source": "MaKo Prüfungstraining (eigene Aufgaben im IHK-Niveau, Rahmen: FAMK/Zweitschatz u. a.)",
+     "body": {
+      "prompt": "Ein Hersteller von Zahnbürsten bringt erstmals Mundspülungen heraus (neues Produkt, neuer Markt). Welche Strategie?",
+      "options": [
+       {
+        "text": "Diversifikation",
+        "correct": true
+       },
+       {
+        "text": "Marktdurchdringung",
+        "correct": false
+       },
+       {
+        "text": "Marktentwicklung",
+        "correct": false
+       },
+       {
+        "text": "Produktentwicklung",
+        "correct": false
+       }
+      ]
+     }
+    },
+    {
+     "key": "mako-ex-marketing-q03",
+     "type": "mc",
+     "exam_part": 1,
+     "difficulty": 2,
+     "source": "MaKo Prüfungstraining (eigene Aufgaben im IHK-Niveau, Rahmen: FAMK/Zweitschatz u. a.)",
+     "body": {
+      "prompt": "Ein Café erhöht durch Stempelkarten die Besuchshäufigkeit seiner Bestandskunden. Welche Strategie?",
+      "options": [
+       {
+        "text": "Marktdurchdringung",
+        "correct": true
+       },
+       {
+        "text": "Marktentwicklung",
+        "correct": false
+       },
+       {
+        "text": "Produktentwicklung",
+        "correct": false
+       },
+       {
+        "text": "Diversifikation",
+        "correct": false
+       }
+      ]
+     }
+    },
+    {
+     "key": "mako-ex-marketing-q04",
+     "type": "mc",
+     "exam_part": 1,
+     "difficulty": 2,
+     "source": "MaKo Prüfungstraining (eigene Aufgaben im IHK-Niveau, Rahmen: FAMK/Zweitschatz u. a.)",
+     "body": {
+      "prompt": "Ein Produktbereich mit niedrigem Marktwachstum und hohem relativem Marktanteil ist in der BCG-Matrix …",
+      "options": [
+       {
+        "text": "eine Cash Cow – Gewinne abschöpfen.",
+        "correct": true
+       },
+       {
+        "text": "ein Star – investieren.",
+        "correct": false
+       },
+       {
+        "text": "ein Question Mark – selektiv investieren.",
+        "correct": false
+       },
+       {
+        "text": "ein Poor Dog – desinvestieren.",
+        "correct": false
+       }
+      ]
+     }
+    },
+    {
+     "key": "mako-ex-marketing-q05",
+     "type": "mc",
+     "exam_part": 1,
+     "difficulty": 2,
+     "source": "MaKo Prüfungstraining (eigene Aufgaben im IHK-Niveau, Rahmen: FAMK/Zweitschatz u. a.)",
+     "body": {
+      "prompt": "Ein Produktbereich mit hohem Marktwachstum und niedrigem relativem Marktanteil ist …",
+      "options": [
+       {
+        "text": "ein Question Mark.",
+        "correct": true
+       },
+       {
+        "text": "eine Cash Cow.",
+        "correct": false
+       },
+       {
+        "text": "ein Poor Dog.",
+        "correct": false
+       },
+       {
+        "text": "ein Star.",
+        "correct": false
+       }
+      ]
+     }
+    },
+    {
+     "key": "mako-ex-marketing-q06",
+     "type": "mc",
+     "exam_part": 1,
+     "difficulty": 2,
+     "source": "MaKo Prüfungstraining (eigene Aufgaben im IHK-Niveau, Rahmen: FAMK/Zweitschatz u. a.)",
+     "body": {
+      "prompt": "Welche Normstrategie empfiehlt die BCG-Matrix für Poor Dogs?",
+      "options": [
+       {
+        "text": "Desinvestition bzw. Rückzug",
+        "correct": true
+       },
+       {
+        "text": "Hohe Investitionen",
+        "correct": false
+       },
+       {
+        "text": "Gewinne abschöpfen und weiter ausbauen",
+        "correct": false
+       },
+       {
+        "text": "Preissenkung bei gleicher Qualität",
+        "correct": false
+       }
+      ]
+     }
+    },
+    {
+     "key": "mako-ex-marketing-q07",
+     "type": "mc",
+     "exam_part": 1,
+     "difficulty": 2,
+     "source": "MaKo Prüfungstraining (eigene Aufgaben im IHK-Niveau, Rahmen: FAMK/Zweitschatz u. a.)",
+     "body": {
+      "prompt": "Welche Phase des Produktlebenszyklus ist durch stark steigende Umsätze und beginnende Gewinne gekennzeichnet?",
+      "options": [
+       {
+        "text": "Wachstumsphase",
+        "correct": true
+       },
+       {
+        "text": "Einführungsphase",
+        "correct": false
+       },
+       {
+        "text": "Sättigungsphase",
+        "correct": false
+       },
+       {
+        "text": "Rückgangsphase",
+        "correct": false
+       }
+      ]
+     }
+    },
+    {
+     "key": "mako-ex-marketing-q08",
+     "type": "mc",
+     "exam_part": 1,
+     "difficulty": 2,
+     "source": "MaKo Prüfungstraining (eigene Aufgaben im IHK-Niveau, Rahmen: FAMK/Zweitschatz u. a.)",
+     "body": {
+      "prompt": "In der Sättigungsphase sinken die Umsatzzuwächse. Welche Maßnahme ist sinnvoll?",
+      "options": [
+       {
+        "text": "Relaunch bzw. Produktvariation und Preispflege",
+        "correct": true
+       },
+       {
+        "text": "Aufbau der ersten Distribution",
+        "correct": false
+       },
+       {
+        "text": "Hohe Einführungswerbung",
+        "correct": false
+       },
+       {
+        "text": "Sofortige Produkteinführung in neuen Märkten ohne Marktforschung",
+        "correct": false
+       }
+      ]
+     }
+    },
+    {
+     "key": "mako-ex-marketing-q09",
+     "type": "mc",
+     "exam_part": 1,
+     "difficulty": 2,
+     "source": "MaKo Prüfungstraining (eigene Aufgaben im IHK-Niveau, Rahmen: FAMK/Zweitschatz u. a.)",
+     "body": {
+      "prompt": "Welche Strategie nach Porter setzt auf möglichst niedrige Kosten und Preise?",
+      "options": [
+       {
+        "text": "Kostenführerschaft",
+        "correct": true
+       },
+       {
+        "text": "Differenzierung",
+        "correct": false
+       },
+       {
+        "text": "Nischenstrategie",
+        "correct": false
+       },
+       {
+        "text": "Imitation",
+        "correct": false
+       }
+      ]
+     }
+    },
+    {
+     "key": "mako-ex-marketing-q10",
+     "type": "mc",
+     "exam_part": 1,
+     "difficulty": 2,
+     "source": "MaKo Prüfungstraining (eigene Aufgaben im IHK-Niveau, Rahmen: FAMK/Zweitschatz u. a.)",
+     "body": {
+      "prompt": "Ein Anbieter konzentriert sich auf ein sehr kleines Marktsegment mit speziellen Bedürfnissen. Welche Strategie?",
+      "options": [
+       {
+        "text": "Nischenstrategie (Konzentration)",
+        "correct": true
+       },
+       {
+        "text": "Kostenführerschaft",
+        "correct": false
+       },
+       {
+        "text": "Massenmarktstrategie",
+        "correct": false
+       },
+       {
+        "text": "Preisstrategie",
+        "correct": false
+       }
+      ]
+     }
+    },
+    {
+     "key": "mako-ex-marketing-q11",
+     "type": "mc",
+     "exam_part": 1,
+     "difficulty": 2,
+     "source": "MaKo Prüfungstraining (eigene Aufgaben im IHK-Niveau, Rahmen: FAMK/Zweitschatz u. a.)",
+     "body": {
+      "prompt": "Welche Aussage zur SWOT-Analyse ist zutreffend?",
+      "options": [
+       {
+        "text": "Stärken und Schwächen betreffen das Unternehmen, Chancen und Risiken das Umfeld.",
+        "correct": true
+       },
+       {
+        "text": "Chancen und Risiken betreffen das Unternehmen intern.",
+        "correct": false
+       },
+       {
+        "text": "Stärken sind externe Faktoren.",
+        "correct": false
+       },
+       {
+        "text": "Die SWOT betrachtet nur Wettbewerber.",
+        "correct": false
+       }
+      ]
+     }
+    },
+    {
+     "key": "mako-ex-marketing-q12",
+     "type": "mc",
+     "exam_part": 1,
+     "difficulty": 2,
+     "source": "MaKo Prüfungstraining (eigene Aufgaben im IHK-Niveau, Rahmen: FAMK/Zweitschatz u. a.)",
+     "body": {
+      "prompt": "Eine Agentur nutzt ihre starke Kreativabteilung (Stärke), um von wachsender Nachfrage nach Videocontent (Chance) zu profitieren. Welche Strategieart?",
+      "options": [
+       {
+        "text": "SO-Strategie (Stärken nutzen, Chancen ergreifen)",
+        "correct": true
+       },
+       {
+        "text": "WT-Strategie",
+        "correct": false
+       },
+       {
+        "text": "WO-Strategie",
+        "correct": false
+       },
+       {
+        "text": "ST-Strategie",
+        "correct": false
+       }
+      ]
+     }
+    },
+    {
+     "key": "mako-ex-marketing-q13",
+     "type": "mc",
+     "exam_part": 1,
+     "difficulty": 2,
+     "source": "MaKo Prüfungstraining (eigene Aufgaben im IHK-Niveau, Rahmen: FAMK/Zweitschatz u. a.)",
+     "body": {
+      "prompt": "Welcher Begriff beschreibt die Aufteilung eines Marktes in möglichst homogene Käufergruppen?",
+      "options": [
+       {
+        "text": "Marktsegmentierung",
+        "correct": true
+       },
+       {
+        "text": "Diversifikation",
+        "correct": false
+       },
+       {
+        "text": "Positionierung",
+        "correct": false
+       },
+       {
+        "text": "Preisdifferenzierung",
+        "correct": false
+       }
+      ]
+     }
+    },
+    {
+     "key": "mako-ex-marketing-q14",
+     "type": "mc",
+     "exam_part": 1,
+     "difficulty": 2,
+     "source": "MaKo Prüfungstraining (eigene Aufgaben im IHK-Niveau, Rahmen: FAMK/Zweitschatz u. a.)",
+     "body": {
+      "prompt": "Was ist das Ziel der Positionierung einer Marke?",
+      "options": [
+       {
+        "text": "Eine unverwechselbare Stellung im Vergleich zum Wettbewerb in den Köpfen der Zielgruppe aufbauen.",
+        "correct": true
+       },
+       {
+        "text": "Möglichst viele Medien nutzen.",
+        "correct": false
+       },
+       {
+        "text": "Den Preis möglichst niedrig halten.",
+        "correct": false
+       },
+       {
+        "text": "Die Mitarbeiter motivieren.",
+        "correct": false
+       }
+      ]
+     }
+    },
+    {
+     "key": "mako-ex-marketing-q15",
+     "type": "mc",
+     "exam_part": 1,
+     "difficulty": 2,
+     "source": "MaKo Prüfungstraining (eigene Aufgaben im IHK-Niveau, Rahmen: FAMK/Zweitschatz u. a.)",
+     "body": {
+      "prompt": "Welches Instrument gehört zur Produktpolitik?",
+      "options": [
+       {
+        "text": "Verpackungsgestaltung",
+        "correct": true
+       },
+       {
+        "text": "Mengenrabatt",
+        "correct": false
+       },
+       {
+        "text": "Lieferbedingungen",
+        "correct": false
+       },
+       {
+        "text": "Messeauftritt",
+        "correct": false
+       }
+      ]
+     }
+    },
+    {
+     "key": "mako-ex-marketing-q16",
+     "type": "mc",
+     "exam_part": 1,
+     "difficulty": 2,
+     "source": "MaKo Prüfungstraining (eigene Aufgaben im IHK-Niveau, Rahmen: FAMK/Zweitschatz u. a.)",
+     "body": {
+      "prompt": "Welches Instrument gehört zur Distributionspolitik?",
+      "options": [
+       {
+        "text": "Wahl des Absatzkanals (z. B. eigener Onlineshop)",
+        "correct": true
+       },
+       {
+        "text": "Skontogewährung",
+        "correct": false
+       },
+       {
+        "text": "Slogan-Entwicklung",
+        "correct": false
+       },
+       {
+        "text": "Produktgarantie",
+        "correct": false
+       }
+      ]
+     }
+    },
+    {
+     "key": "mako-ex-marketing-q17",
+     "type": "mc",
+     "exam_part": 1,
+     "difficulty": 2,
+     "source": "MaKo Prüfungstraining (eigene Aufgaben im IHK-Niveau, Rahmen: FAMK/Zweitschatz u. a.)",
+     "body": {
+      "prompt": "Welches Instrument gehört zur Kontrahierungspolitik?",
+      "options": [
+       {
+        "text": "Preis- und Rabattgestaltung",
+        "correct": true
+       },
+       {
+        "text": "Pressemitteilung",
+        "correct": false
+       },
+       {
+        "text": "Verpackungsdesign",
+        "correct": false
+       },
+       {
+        "text": "Lagerhaltung",
+        "correct": false
+       }
+      ]
+     }
+    },
+    {
+     "key": "mako-ex-marketing-q18",
+     "type": "mc",
+     "exam_part": 1,
+     "difficulty": 2,
+     "source": "MaKo Prüfungstraining (eigene Aufgaben im IHK-Niveau, Rahmen: FAMK/Zweitschatz u. a.)",
+     "body": {
+      "prompt": "Welches Instrument gehört zur Kommunikationspolitik?",
+      "options": [
+       {
+        "text": "Sponsoring",
+        "correct": true
+       },
+       {
+        "text": "Zahlungsziele",
+        "correct": false
+       },
+       {
+        "text": "Sortimentsbreite",
+        "correct": false
+       },
+       {
+        "text": "Logistik",
+        "correct": false
+       }
+      ]
+     }
+    },
+    {
+     "key": "mako-ex-marketing-q19",
+     "type": "mc",
+     "exam_part": 1,
+     "difficulty": 2,
+     "source": "MaKo Prüfungstraining (eigene Aufgaben im IHK-Niveau, Rahmen: FAMK/Zweitschatz u. a.)",
+     "body": {
+      "prompt": "Ein Kunde möchte Produkte nur über ausgewählte Fachhändler anbieten. Welche Distributionsintensität?",
+      "options": [
+       {
+        "text": "Selektive Distribution",
+        "correct": true
+       },
+       {
+        "text": "Intensive Distribution",
+        "correct": false
+       },
+       {
+        "text": "Exklusive Distribution",
+        "correct": false
+       },
+       {
+        "text": "Direktvertrieb",
+        "correct": false
+       }
+      ]
+     }
+    },
+    {
+     "key": "mako-ex-marketing-q20",
+     "type": "mc",
+     "exam_part": 1,
+     "difficulty": 2,
+     "source": "MaKo Prüfungstraining (eigene Aufgaben im IHK-Niveau, Rahmen: FAMK/Zweitschatz u. a.)",
+     "body": {
+      "prompt": "Ein Hersteller verkauft über seinen eigenen Onlineshop und über Amazon. Wie nennt man das?",
+      "options": [
+       {
+        "text": "Multi-Channel-Vertrieb",
+        "correct": true
+       },
+       {
+        "text": "Franchising",
+        "correct": false
+       },
+       {
+        "text": "Kommissionshandel",
+        "correct": false
+       },
+       {
+        "text": "Reiner Direktvertrieb",
+        "correct": false
+       }
+      ]
+     }
+    },
+    {
+     "key": "mako-ex-marketing-q21",
+     "type": "mc",
+     "exam_part": 1,
+     "difficulty": 2,
+     "source": "MaKo Prüfungstraining (eigene Aufgaben im IHK-Niveau, Rahmen: FAMK/Zweitschatz u. a.)",
+     "body": {
+      "prompt": "Welche Preisstrategie liegt vor: Ein neues Produkt wird zunächst sehr teuer angeboten und später günstiger?",
+      "options": [
+       {
+        "text": "Skimming (Abschöpfung)",
+        "correct": true
+       },
+       {
+        "text": "Penetration",
+        "correct": false
+       },
+       {
+        "text": "Bündelpreis",
+        "correct": false
+       },
+       {
+        "text": "Konkurrenzpreis",
+        "correct": false
+       }
+      ]
+     }
+    },
+    {
+     "key": "mako-ex-marketing-q22",
+     "type": "mc",
+     "exam_part": 1,
+     "difficulty": 2,
+     "source": "MaKo Prüfungstraining (eigene Aufgaben im IHK-Niveau, Rahmen: FAMK/Zweitschatz u. a.)",
+     "body": {
+      "prompt": "Ein Streaming-Anbieter startet mit einem sehr niedrigen Einstiegspreis, um schnell viele Kunden zu gewinnen. Welche Strategie?",
+      "options": [
+       {
+        "text": "Penetrationsstrategie",
+        "correct": true
+       },
+       {
+        "text": "Skimming",
+        "correct": false
+       },
+       {
+        "text": "Premiumstrategie",
+        "correct": false
+       },
+       {
+        "text": "Hochpreisstrategie",
+        "correct": false
+       }
+      ]
+     }
+    },
+    {
+     "key": "mako-ex-marketing-q23",
+     "type": "mc",
+     "exam_part": 1,
+     "difficulty": 2,
+     "source": "MaKo Prüfungstraining (eigene Aufgaben im IHK-Niveau, Rahmen: FAMK/Zweitschatz u. a.)",
+     "body": {
+      "prompt": "Ein Kino bietet Dienstags ermäßigte Preise. Welche Form der Preisdifferenzierung?",
+      "options": [
+       {
+        "text": "Zeitliche Preisdifferenzierung",
+        "correct": true
+       },
+       {
+        "text": "Räumliche Preisdifferenzierung",
+        "correct": false
+       },
+       {
+        "text": "Personelle Preisdifferenzierung",
+        "correct": false
+       },
+       {
+        "text": "Mengenrabatt",
+        "correct": false
+       }
+      ]
+     }
+    },
+    {
+     "key": "mako-ex-marketing-q24",
+     "type": "mc",
+     "exam_part": 1,
+     "difficulty": 2,
+     "source": "MaKo Prüfungstraining (eigene Aufgaben im IHK-Niveau, Rahmen: FAMK/Zweitschatz u. a.)",
+     "body": {
+      "prompt": "Welche Aussage zum Markenbegriff ist richtig?",
+      "options": [
+       {
+        "text": "Eine Marke kennzeichnet Produkte und unterscheidet sie von denen anderer Anbieter.",
+        "correct": true
+       },
+       {
+        "text": "Eine Marke ist immer ein Gütesiegel.",
+        "correct": false
+       },
+       {
+        "text": "Marken dürfen nur Textmarken sein.",
+        "correct": false
+       },
+       {
+        "text": "Marken gelten nur für Luxusprodukte.",
+        "correct": false
+       }
+      ]
+     }
+    },
+    {
+     "key": "mako-ex-marketing-q25",
+     "type": "mc",
+     "exam_part": 1,
+     "difficulty": 2,
+     "source": "MaKo Prüfungstraining (eigene Aufgaben im IHK-Niveau, Rahmen: FAMK/Zweitschatz u. a.)",
+     "body": {
+      "prompt": "Ein Konzern vermarktet Joghurt, Müsli und Milch unter dem Firmennamen. Welche Markenstrategie?",
+      "options": [
+       {
+        "text": "Dachmarkenstrategie",
+        "correct": true
+       },
+       {
+        "text": "Einzelmarkenstrategie",
+        "correct": false
+       },
+       {
+        "text": "Mehrmarkenstrategie",
+        "correct": false
+       },
+       {
+        "text": "Handelsmarkenstrategie",
+        "correct": false
+       }
+      ]
+     }
+    },
+    {
+     "key": "mako-ex-marketing-q26",
+     "type": "mc",
+     "exam_part": 1,
+     "difficulty": 2,
+     "source": "MaKo Prüfungstraining (eigene Aufgaben im IHK-Niveau, Rahmen: FAMK/Zweitschatz u. a.)",
+     "body": {
+      "prompt": "Ein Hersteller führt für Shampoo drei eigenständige Marken mit unterschiedlichem Image. Welche Strategie?",
+      "options": [
+       {
+        "text": "Mehrmarkenstrategie",
+        "correct": true
+       },
+       {
+        "text": "Dachmarkenstrategie",
+        "correct": false
+       },
+       {
+        "text": "Familienmarkenstrategie",
+        "correct": false
+       },
+       {
+        "text": "Handelsmarkenstrategie",
+        "correct": false
+       }
+      ]
+     }
+    },
+    {
+     "key": "mako-ex-marketing-q27",
+     "type": "mc",
+     "exam_part": 1,
+     "difficulty": 2,
+     "source": "MaKo Prüfungstraining (eigene Aufgaben im IHK-Niveau, Rahmen: FAMK/Zweitschatz u. a.)",
+     "body": {
+      "prompt": "Was versteht man unter einem Markentransfer?",
+      "options": [
+       {
+        "text": "Die Übertragung einer erfolgreichen Marke auf neue Produkte.",
+        "correct": true
+       },
+       {
+        "text": "Den Verkauf der Marke an einen Handelskonzern.",
+        "correct": false
+       },
+       {
+        "text": "Die Umbenennung einer Marke.",
+        "correct": false
+       },
+       {
+        "text": "Den Verzicht auf eine Marke.",
+        "correct": false
+       }
+      ]
+     }
+    },
+    {
+     "key": "mako-ex-marketing-q28",
+     "type": "mc",
+     "exam_part": 1,
+     "difficulty": 2,
+     "source": "MaKo Prüfungstraining (eigene Aufgaben im IHK-Niveau, Rahmen: FAMK/Zweitschatz u. a.)",
+     "body": {
+      "prompt": "Welches Merkmal kennzeichnet einen Verkäufermarkt?",
+      "options": [
+       {
+        "text": "Die Nachfrage übersteigt das Angebot.",
+        "correct": true
+       },
+       {
+        "text": "Das Angebot übersteigt die Nachfrage.",
+        "correct": false
+       },
+       {
+        "text": "Es herrscht Preiskampf.",
+        "correct": false
+       },
+       {
+        "text": "Der Kunde ist König.",
+        "correct": false
+       }
+      ]
+     }
+    },
+    {
+     "key": "mako-ex-marketing-q29",
+     "type": "mc",
+     "exam_part": 1,
+     "difficulty": 2,
+     "source": "MaKo Prüfungstraining (eigene Aufgaben im IHK-Niveau, Rahmen: FAMK/Zweitschatz u. a.)",
+     "body": {
+      "prompt": "Welche Aussage zu 7-P im Dienstleistungsmarketing ist richtig?",
+      "options": [
+       {
+        "text": "Zusätzlich zu den 4 P kommen People, Process und Physical Evidence hinzu.",
+        "correct": true
+       },
+       {
+        "text": "Zusätzlich zu den 4 P kommen nur Personal und Price.",
+        "correct": false
+       },
+       {
+        "text": "Die 7 P gelten nur für Produkte.",
+        "correct": false
+       },
+       {
+        "text": "Die 7 P ersetzen den Marketing-Mix.",
+        "correct": false
+       }
+      ]
+     }
+    },
+    {
+     "key": "mako-ex-marketing-q30",
+     "type": "tf",
+     "exam_part": 1,
+     "difficulty": 2,
+     "explanation": "Das ist die Diversifikation.",
+     "source": "MaKo Prüfungstraining (eigene Aufgaben im IHK-Niveau, Rahmen: FAMK/Zweitschatz u. a.)",
+     "body": {
+      "statement": "Die Marktdurchdringung ist die riskanteste Marktfeldstrategie nach Ansoff.",
+      "answer": false
+     }
+    },
+    {
+     "key": "mako-ex-marketing-q31",
+     "type": "tf",
+     "exam_part": 1,
+     "difficulty": 2,
+     "source": "MaKo Prüfungstraining (eigene Aufgaben im IHK-Niveau, Rahmen: FAMK/Zweitschatz u. a.)",
+     "body": {
+      "statement": "Ein Star der BCG-Matrix erfordert hohe Investitionen, um den Marktanteil zu halten.",
+      "answer": true
+     }
+    },
+    {
+     "key": "mako-ex-marketing-q32",
+     "type": "tf",
+     "exam_part": 1,
+     "difficulty": 2,
+     "source": "MaKo Prüfungstraining (eigene Aufgaben im IHK-Niveau, Rahmen: FAMK/Zweitschatz u. a.)",
+     "body": {
+      "statement": "Marketing ist ein Synonym für Werbung.",
+      "answer": false
+     }
+    },
+    {
+     "key": "mako-ex-marketing-q33",
+     "type": "tf",
+     "exam_part": 1,
+     "difficulty": 2,
+     "source": "MaKo Prüfungstraining (eigene Aufgaben im IHK-Niveau, Rahmen: FAMK/Zweitschatz u. a.)",
+     "body": {
+      "statement": "Der Produktlebenszyklus gilt nur für Dienstleistungen.",
+      "answer": false
+     }
+    },
+    {
+     "key": "mako-ex-marketing-q34",
+     "type": "tf",
+     "exam_part": 1,
+     "difficulty": 2,
+     "source": "MaKo Prüfungstraining (eigene Aufgaben im IHK-Niveau, Rahmen: FAMK/Zweitschatz u. a.)",
+     "body": {
+      "statement": "Die Handelsmarke gehört dem Handelsunternehmen.",
+      "answer": true
+     }
+    },
+    {
+     "key": "mako-ex-marketing-q35",
+     "type": "tf",
+     "exam_part": 1,
+     "difficulty": 2,
+     "source": "MaKo Prüfungstraining (eigene Aufgaben im IHK-Niveau, Rahmen: FAMK/Zweitschatz u. a.)",
+     "body": {
+      "statement": "Skimming-Strategien sind besonders bei Innovationen mit Alleinstellungsmerkmal verbreitet.",
+      "answer": true
+     }
+    },
+    {
+     "key": "mako-ex-marketing-q36",
+     "type": "match",
+     "exam_part": 1,
+     "difficulty": 2,
+     "source": "MaKo Prüfungstraining (eigene Aufgaben im IHK-Niveau, Rahmen: FAMK/Zweitschatz u. a.)",
+     "body": {
+      "prompt": "Ordnen Sie jede BCG-Kategorie ihrer Merkmalskombination zu.",
+      "items": [
+       {
+        "term": "Star",
+        "match": "hohes Marktwachstum, hoher relativer Marktanteil"
+       },
+       {
+        "term": "Cash Cow",
+        "match": "niedriges Marktwachstum, hoher relativer Marktanteil"
+       },
+       {
+        "term": "Question Mark",
+        "match": "hohes Marktwachstum, niedriger relativer Marktanteil"
+       },
+       {
+        "term": "Poor Dog",
+        "match": "niedriges Marktwachstum, niedriger relativer Marktanteil"
+       }
+      ],
+      "distractors": []
+     }
+    },
+    {
+     "key": "mako-ex-marketing-q37",
+     "type": "match",
+     "exam_part": 1,
+     "difficulty": 2,
+     "source": "MaKo Prüfungstraining (eigene Aufgaben im IHK-Niveau, Rahmen: FAMK/Zweitschatz u. a.)",
+     "body": {
+      "prompt": "Ordnen Sie jedes Beispiel der Marktfeldstrategie zu.",
+      "items": [
+       {
+        "term": "Neue Sorte im bestehenden Markt",
+        "match": "Produktentwicklung"
+       },
+       {
+        "term": "Bestehendes Produkt in Spanien einführen",
+        "match": "Marktentwicklung"
+       },
+       {
+        "term": "Mehr Bestandskunden zu Wiederkäufen bewegen",
+        "match": "Marktdurchdringung"
+       },
+       {
+        "term": "Elektroautos statt Fahrrädern anbieten",
+        "match": "Diversifikation"
+       }
+      ],
+      "distractors": []
+     }
+    },
+    {
+     "key": "mako-ex-marketing-q38",
+     "type": "order",
+     "exam_part": 1,
+     "difficulty": 1,
+     "source": "MaKo Prüfungstraining (eigene Aufgaben im IHK-Niveau, Rahmen: FAMK/Zweitschatz u. a.)",
+     "body": {
+      "prompt": "Bringen Sie die Phasen des Produktlebenszyklus in die richtige Reihenfolge.",
+      "items": [
+       "Einführung",
+       "Wachstum",
+       "Reife",
+       "Sättigung",
+       "Rückgang"
+      ]
+     }
+    },
+    {
+     "key": "mako-ex-marketing-q39",
+     "type": "order",
+     "exam_part": 1,
+     "difficulty": 2,
+     "source": "MaKo Prüfungstraining (eigene Aufgaben im IHK-Niveau, Rahmen: FAMK/Zweitschatz u. a.)",
+     "body": {
+      "prompt": "Bringen Sie den Marketingprozess in die richtige Reihenfolge.",
+      "items": [
+       "Analyse (Markt, Wettbewerb, Unternehmen)",
+       "Zielsetzung",
+       "Strategieentwicklung",
+       "Marketing-Mix festlegen",
+       "Umsetzung und Kontrolle"
+      ]
+     }
+    },
+    {
+     "key": "mako-ex-marketing-q40",
+     "type": "cloze",
+     "exam_part": 1,
+     "difficulty": 2,
+     "source": "MaKo Prüfungstraining (eigene Aufgaben im IHK-Niveau, Rahmen: FAMK/Zweitschatz u. a.)",
+     "body": {
+      "text": "Beim [[Marktwachstum]] und dem relativen [[Marktanteil]] werden Produkte in der BCG-Matrix eingeordnet."
+     }
+    },
+    {
+     "key": "mako-ex-marketing-q41",
+     "type": "cloze",
+     "exam_part": 1,
+     "difficulty": 2,
+     "source": "MaKo Prüfungstraining (eigene Aufgaben im IHK-Niveau, Rahmen: FAMK/Zweitschatz u. a.)",
+     "body": {
+      "text": "Die Einführungsphase des Produktlebenszyklus ist durch hohe [[Werbeausgaben]] und noch geringe [[Gewinne]] geprägt."
+     }
+    },
+    {
+     "key": "mako-ex-marketing-q42",
+     "type": "error",
+     "exam_part": 1,
+     "difficulty": 2,
+     "source": "MaKo Prüfungstraining (eigene Aufgaben im IHK-Niveau, Rahmen: FAMK/Zweitschatz u. a.)",
+     "body": {
+      "prompt": "Welche Aussagen zum Marketing-Mix sind fehlerhaft?",
+      "items": [
+       {
+        "text": "Zur Distributionspolitik gehört die Wahl der Absatzkanäle.",
+        "wrong": false
+       },
+       {
+        "text": "Zur Kontrahierungspolitik gehört die Verpackungsgestaltung.",
+        "wrong": true,
+        "fix": "Die Verpackung gehört zur Produktpolitik."
+       },
+       {
+        "text": "Die Instrumente sollen aufeinander abgestimmt sein.",
+        "wrong": false
+       },
+       {
+        "text": "Die Kommunikationspolitik umfasst nur klassische Anzeigen.",
+        "wrong": true,
+        "fix": "Sie umfasst alle Kommunikationsinstrumente."
+       }
+      ]
+     }
+    }
+   ],
+   "templates": [
+    {
+     "key": "mako-ex-marketing-t01",
+     "type": "calc",
+     "exam_part": 1,
+     "difficulty": 2,
+     "source": "MaKo Prüfungstraining (eigene Aufgaben im IHK-Niveau, Rahmen: FAMK/Zweitschatz u. a.)",
+     "vars": {
+      "u0": {
+       "type": "int",
+       "min": 1000000,
+       "max": 8000000,
+       "step": 100000
+      },
+      "g": {
+       "type": "pick",
+       "options": [
+        10,
+        15,
+        20,
+        25
+       ]
+      }
+     },
+     "body": {
+      "prompt": "Ein Unternehmen setzt im Vorjahr {u0|eur} um. Das Marketingziel lautet +{g} % Umsatzwachstum. Welcher Umsatz soll im neuen Jahr erreicht werden?",
+      "answer": "u0*(1+g/100)",
+      "unit": "€",
+      "decimals": 2,
+      "steps": [
+       "{u0|eur} · (1 + {g} %) = {result|eur}"
+      ]
+     }
+    },
+    {
+     "key": "mako-ex-marketing-t02",
+     "type": "calc",
+     "exam_part": 1,
+     "difficulty": 2,
+     "source": "MaKo Prüfungstraining (eigene Aufgaben im IHK-Niveau, Rahmen: FAMK/Zweitschatz u. a.)",
+     "vars": {
+      "a": {
+       "type": "int",
+       "min": 5,
+       "max": 30,
+       "step": 1
+      },
+      "mv": {
+       "type": "int",
+       "min": 100,
+       "max": 900,
+       "step": 50
+      }
+     },
+     "body": {
+      "prompt": "Der Marktanteil eines Unternehmens beträgt {a} % bei einem Marktvolumen von {mv|eur} Mio. €. Wie hoch ist der Umsatz des Unternehmens (in Mio. €)?",
+      "answer": "mv*a/100",
+      "unit": "Mio. €",
+      "decimals": 2,
+      "steps": [
+       "{mv|eur} · {a} % = {result} Mio. €"
+      ]
+     }
+    },
+    {
+     "key": "mako-ex-marketing-t03",
+     "type": "calc",
+     "exam_part": 1,
+     "difficulty": 2,
+     "source": "MaKo Prüfungstraining (eigene Aufgaben im IHK-Niveau, Rahmen: FAMK/Zweitschatz u. a.)",
+     "vars": {
+      "u1": {
+       "type": "int",
+       "min": 400000,
+       "max": 900000,
+       "step": 50000
+      },
+      "g": {
+       "type": "pick",
+       "options": [
+        8,
+        10,
+        12,
+        15,
+        20
+       ]
+      },
+      "u2": {
+       "type": "expr",
+       "expr": "u1*(1+g/100)",
+       "decimals": 0
+      }
+     },
+     "body": {
+      "prompt": "Der Umsatz eines Produkts stieg von {u1|eur} auf {u2|eur}. Berechnen Sie das Umsatzwachstum in Prozent.",
+      "answer": "(u2-u1)/u1*100",
+      "unit": "%",
+      "decimals": 2,
+      "steps": [
+       "({u2|eur} − {u1|eur}) : {u1|eur} · 100 = {result} %"
+      ]
+     }
+    },
+    {
+     "key": "mako-ex-marketing-t04",
+     "type": "calc",
+     "exam_part": 1,
+     "difficulty": 2,
+     "source": "MaKo Prüfungstraining (eigene Aufgaben im IHK-Niveau, Rahmen: FAMK/Zweitschatz u. a.)",
+     "vars": {
+      "bp": {
+       "type": "int",
+       "min": 20,
+       "max": 120,
+       "step": 5
+      },
+      "hk": {
+       "type": "pick",
+       "options": [
+        20,
+        25,
+        30
+       ]
+      },
+      "g": {
+       "type": "pick",
+       "options": [
+        10,
+        15,
+        20
+       ]
+      },
+      "r": {
+       "type": "pick",
+       "options": [
+        5,
+        10
+       ]
+      }
+     },
+     "body": {
+      "prompt": "Ein Händler kalkuliert den Bezugspreis {bp|eur} mit {hk} % Handlungskosten und {g} % Gewinn. Der Kunde erhält {r} % Rabatt auf den Listenpreis. Berechnen Sie den Barverkaufspreis (netto).",
+      "answer": "bp*(1+hk/100)*(1+g/100)",
+      "unit": "€",
+      "decimals": 2,
+      "steps": [
+       "Selbstkosten = {bp|eur} · (1 + {hk} %)",
+       "Barverkaufspreis = Selbstkosten · (1 + {g} %) = {result|eur}"
+      ]
+     }
+    }
+   ],
+   "cases": []
+  }
+ ]
+}

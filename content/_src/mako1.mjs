@@ -30,6 +30,18 @@ const struktur = structure([
     lf("mako-lf10", "LF10", "Produktion & Umsetzung", [3], [
       tp("mako-lf10-produktion", "Druckverfahren, Papier & Produktionsablauf", [3]),
     ]),
+    lf("mako-zp", "ZP", "Zwischenprüfung & Grundlagen (Prüfungstraining)", [1], [
+      tp("mako-zp-aufgaben", "Zwischenprüfungs-Aufgaben & Grundlagen-Transfer", [1]),
+    ]),
+    lf("mako-ex", "EX", "Vertiefung & Transfer (Prüfungstraining)", [1, 3], [
+      tp("mako-ex-marketing", "Marketing & Strategie – Transferaufgaben", [1]),
+      tp("mako-ex-kommunikation", "Kommunikation & Konzept – Transferaufgaben", [1]),
+      tp("mako-ex-media", "Mediaplanung – Transferaufgaben", [3]),
+      tp("mako-ex-umsetzung", "Umsetzung, Produktion & Recht – Transferaufgaben", [3]),
+    ]),
+    lf("mako-pu", "PU", "Prüfungsnahe Umsetzungsaufgaben (Teil 3)", [3], [
+      tp("mako-pu-aufgaben", "Prüfungsnahe Aufgaben Umsetzung & Steuerung", [3]),
+    ]),
     lf("mako-pf", "PF", "Prüfungsfälle & Fachgespräch", [1, 4], [
       tp("mako-pf-teil1", "Teil 1: Fallsituationen Konzepte", [1]),
       tp("mako-pf-teil4", "Teil 4: Fachgespräch (Praxisfälle)", [4]),

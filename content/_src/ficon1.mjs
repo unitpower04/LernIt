@@ -11,6 +11,9 @@ const struktur = structure([
       tp("ficon-abschreibung", "Abschreibungen auf Sachanlagen", [3]),
       tp("ficon-kennzahlen", "Bilanzkennzahlen", [3]),
     ]),
+    lf("ficon-pr", "PR", "Prüfungsnahe Aufgaben Rechnungswesen (Teil 3)", [3], [
+      tp("ficon-pr-aufgaben", "Prüfungsnahe Rechen- und Belegaufgaben", [3]),
+    ]),
     lf("ficon-lf11", "LF11", "Gehaltsabrechnung & Kosten- und Leistungsrechnung", [3], [
       tp("ficon-gehalt", "Gehaltsabrechnung", [3]),
       tp("ficon-kostenarten", "Kostenartenrechnung", [3]),

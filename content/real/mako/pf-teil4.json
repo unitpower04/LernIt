@@ -193,6 +193,251 @@
        ]
       }
      ]
+    },
+    {
+     "key": "mako-pf-teil4-fall07",
+     "title": "Fall 7: Kunde fordert kurzfristig drastische Änderung der Kampagne",
+     "situation": "Drei Tage vor dem Druckstart der Plakate verlangt der Kunde „Rheinbrot“ eine komplett neue Headline und ein anderes Key Visual, weil die Geschäftsführung die erste Idee plötzlich nicht mehr mag. Die Freigabe war bereits schriftlich erteilt.",
+     "prompts": [
+      {
+       "question": "Wie reagierst du gegenüber dem Kunden?",
+       "sample": [
+        "Verständnis zeigen, Anliegen aufnehmen, auf die erteilte Freigabe und den Zeitplan hinweisen",
+        "Mehrkosten und Terminfolgen transparent machen und Lösungsvarianten anbieten",
+        "Rücksprache mit Kundenberatung/Teamleitung vor Zusagen"
+       ]
+      },
+      {
+       "question": "Welche vertraglichen Aspekte spielen eine Rolle?",
+       "sample": [
+        "Werkvertrag: Änderungswünsche nach Abnahme/Freigabe sind zusätzliche Leistungen",
+        "Angebotsbedingungen/AGB zu Änderungen und Freigaben",
+        "Schriftliche Dokumentation (Freigabeprotokoll)"
+       ]
+      },
+      {
+       "question": "Wie könnte man das Risiko solcher Änderungen verringern?",
+       "sample": [
+        "Freigabeprozess mit klaren Stufen und Verantwortlichen",
+        "Zwischenpräsentationen mit dem Entscheider",
+        "Change-Request-Regelung im Angebot"
+       ]
+      }
+     ]
+    },
+    {
+     "key": "mako-pf-teil4-fall08",
+     "title": "Fall 8: Preisverhandlung und Rabatt",
+     "situation": "Ein Neukunde möchte für ein Jahresprojekt (Social Media und Newsletter) 25 % Rabatt auf den Angebotspreis von 48.000 € netto. Die Agentur kalkuliert mit 20 % Gewinnaufschlag; die Selbstkosten betragen 40.000 €.",
+     "prompts": [
+      {
+       "question": "Berechne den Preis nach 25 % Rabatt und beurteile die Wirtschaftlichkeit.",
+       "sample": [
+        "48.000 € · 0,75 = 36.000 €",
+        "Das liegt unter den Selbstkosten von 40.000 € → Verlust von 4.000 €",
+        "Rabatt in dieser Höhe ist nicht wirtschaftlich"
+       ]
+      },
+      {
+       "question": "Welche Alternativen schlägst du dem Kunden vor?",
+       "sample": [
+        "Leistungsumfang reduzieren oder in Phasen aufteilen",
+        "Mengen-/Treuerabatt an Folgeaufträge koppeln",
+        "Kleineren Rabatt (z. B. 5–8 %) oder Zahlungsziel/Skonto anbieten"
+       ]
+      },
+      {
+       "question": "Welche Rolle spielt die Preisuntergrenze?",
+       "sample": [
+        "Kurzfristig: variable Kosten, langfristig Selbstkosten + Gewinn",
+        "Unterhalb der Selbstkosten nur in begründeten Ausnahmen (z. B. Referenzkunde)",
+        "Entscheidung gehört in die Geschäftsleitung"
+       ]
+      }
+     ]
+    },
+    {
+     "key": "mako-pf-teil4-fall09",
+     "title": "Fall 9: Beschwerde über diskriminierende Werbung",
+     "situation": "Nach Start einer Plakatkampagne für einen Getränkehersteller gehen beim Kunden und beim Deutschen Werberat Beschwerden ein: Das Motiv wirke herabwürdigend gegenüber Frauen.",
+     "prompts": [
+      {
+       "question": "Wie gehst du mit der Situation um?",
+       "sample": [
+        "Beschwerde ernst nehmen, intern eskalieren, Fakten zum Motiv und zur Resonanz sammeln",
+        "Stellungnahme gemeinsam mit dem Kunden vorbereiten",
+        "Gegebenenfalls Motiv anpassen oder zurückziehen"
+       ]
+      },
+      {
+       "question": "Welche Rolle hat der Deutsche Werberat?",
+       "sample": [
+        "Selbstkontrolle der Werbewirtschaft",
+        "Prüft Beschwerden und kann Rügen aussprechen – keine Bußgelder",
+        "Verhaltensregeln (z. B. gegen Diskriminierung)"
+       ]
+      },
+      {
+       "question": "Wie lässt sich so etwas künftig vermeiden?",
+       "sample": [
+        "Vorab-Check von Motiven (Pre-Test, Compliance)",
+        "Divers besetztes Team und Feedback von Zielgruppen",
+        "Kenntnis der Verhaltensregeln des Werberats"
+       ]
+      }
+     ]
+    },
+    {
+     "key": "mako-pf-teil4-fall10",
+     "title": "Fall 10: Mediaplanung – Streuverluste",
+     "situation": "Eine regionale Möbelkette (Einzugsgebiet 30 km) wollte in einer überregionalen Zeitschrift werben. Die Agentur rät davon ab und schlägt Regionalmedien vor.",
+     "prompts": [
+      {
+       "question": "Begründe die Empfehlung der Agentur.",
+       "sample": [
+        "Streuverluste: Nur ein Bruchteil der Leser lebt im Einzugsgebiet",
+        "Hohe Kosten je erreichter relevanter Person (TKP bezogen auf Zielgruppe)",
+        "Regionale Medien erreichen genauer und günstiger"
+       ]
+      },
+      {
+       "question": "Welche Regionalmedien schlägst du vor?",
+       "sample": [
+        "Lokalzeitung/Anzeigenblatt, regionales Radio",
+        "Plakat/City-Light im Einzugsgebiet, Kino lokal",
+        "Social Ads mit Geotargeting und Newsletter"
+       ]
+      },
+      {
+       "question": "Wie misst du den Erfolg?",
+       "sample": [
+        "Besucherzahlen/Abverkauf mit Aktionscode",
+        "Reichweite/Affinität laut Mediaplan, Klicks und Conversions",
+        "Pre-/Post-Befragung zur Bekanntheit"
+       ]
+      }
+     ]
+    },
+    {
+     "key": "mako-pf-teil4-fall11",
+     "title": "Fall 11: Fehler im Druck – Reklamation",
+     "situation": "Die Druckerei liefert 10.000 Flyer, bei denen das Logo des Kunden einen falschen Farbton hat (deutliche Abweichung vom Pantone-Wert). Der Kunde möchte sofort Neudruck auf Kosten der Agentur. Der Fehler wurde im Proof nicht bemerkt.",
+     "prompts": [
+      {
+       "question": "Wie klärst du die Verantwortlichkeit?",
+       "sample": [
+        "Datenlage prüfen (Datei, Farbprofil, freigegebener Proof, Auftrag)",
+        "Abweichung gegen Freigabe/Sollwert messen",
+        "Kommunikation mit Druckerei über Reklamation und Nachbesserung"
+       ]
+      },
+      {
+       "question": "Welche Rechte bestehen gegenüber der Druckerei?",
+       "sample": [
+        "Werkvertragsrecht: Nacherfüllung (Neudruck) vorrangig",
+        "Rüge unverzüglich; Frist zur Nacherfüllung setzen",
+        "Bei Scheitern Minderung/Rücktritt/Schadensersatz"
+       ]
+      },
+      {
+       "question": "Wie kommunizierst du mit dem Kunden?",
+       "sample": [
+        "Offen über Ursache und Lösung informieren",
+        "Termin- und Kostenfolgen darstellen",
+        "Prozessverbesserung (Proof-Prüfung, Checkliste) zusagen"
+       ]
+      }
+     ]
+    },
+    {
+     "key": "mako-pf-teil4-fall12",
+     "title": "Fall 12: Nachhaltigkeit und Greenwashing",
+     "situation": "Ein Kunde will eine Anzeige mit dem Claim „Zu 100 % klimaneutral“ schalten. Belege gibt es nur für die Verpackung, nicht für die Produktion.",
+     "prompts": [
+      {
+       "question": "Beurteile den Claim rechtlich.",
+       "sample": [
+        "Irreführende Werbung (UWG § 5) – pauschale Umweltaussagen müssen belegbar sein",
+        "Abmahnrisiko durch Wettbewerber/Verbände",
+        "EU-Vorgaben gegen Greenwashing"
+       ]
+      },
+      {
+       "question": "Wie könnte der Claim korrekt lauten?",
+       "sample": [
+        "Konkrete, belegte Aussage: „Verpackung aus 100 % Recyclingmaterial“",
+        "Quellenangabe/Siegel (z. B. Blauer Engel) nur bei Vorliegen",
+        "Transparente Erläuterung der Maßnahmen"
+       ]
+      },
+      {
+       "question": "Wie reagierst du gegenüber dem Kunden?",
+       "sample": [
+        "Rechtliche Risiken sachlich erklären",
+        "Alternative Formulierungen und Belege vorschlagen",
+        "Dokumentation der Beratung"
+       ]
+      }
+     ]
+    },
+    {
+     "key": "mako-pf-teil4-fall13",
+     "title": "Fall 13: Social-Media-Shitstorm",
+     "situation": "Ein Post der Agentur für einen Kunden wird missverstanden; innerhalb von zwei Stunden erscheinen hunderte negative Kommentare.",
+     "prompts": [
+      {
+       "question": "Welche ersten Maßnahmen ergreifst du?",
+       "sample": [
+        "Krisenverantwortliche informieren, Kommentare beobachten, Post ggf. offline nehmen",
+        "Nicht löschen/zensieren ohne Absprache, sachlich reagieren",
+        "Einheitliche Sprachregelung abstimmen"
+       ]
+      },
+      {
+       "question": "Wie sieht eine gute Krisenkommunikation aus?",
+       "sample": [
+        "Schnell, ehrlich, empathisch, mit klarer Entschuldigung bzw. Klarstellung",
+        "Einheitliche Ansprache auf allen Kanälen",
+        "Dialog statt Rechtfertigung"
+       ]
+      },
+      {
+       "question": "Was lernst du für die Zukunft?",
+       "sample": [
+        "Krisenplan und Verantwortlichkeiten definieren",
+        "Vorab-Check von Posts (Vier-Augen-Prinzip)",
+        "Monitoring und Community-Management"
+       ]
+      }
+     ]
+    },
+    {
+     "key": "mako-pf-teil4-fall14",
+     "title": "Fall 14: Kalkulation eines Einzelprojekts",
+     "situation": "Für einen Kunden sollen ein Flyer (A5, 4/4) und eine Landingpage erstellt werden. Zu kalkulieren sind: 6 Stunden Beratung (70 €/Std. intern), 18 Stunden Grafik (62 €/Std.), 12 Stunden Programmierung (75 €/Std.) und Fremdleistung Druck 1.150 € netto. Gewinnaufschlag 20 % auf Agenturleistung, Handling Fee 10 % auf Fremdleistung.",
+     "prompts": [
+      {
+       "question": "Berechne die Agenturleistung und den Angebotspreis netto.",
+       "sample": [
+        "Agenturleistung: 6·70 + 18·62 + 12·75 = 420 + 1.116 + 900 = 2.436 €",
+        "Mit 20 % Gewinn: 2.923,20 €; Fremdleistung 1.150 € · 1,10 = 1.265 €",
+        "Angebotspreis netto: 4.188,20 €"
+       ]
+      },
+      {
+       "question": "Wie hoch ist der Bruttopreis?",
+       "sample": [
+        "4.188,20 € · 1,19 = 4.984,06 €"
+       ]
+      },
+      {
+       "question": "Wie reagierst du auf die Bitte des Kunden um 10 % Rabatt?",
+       "sample": [
+        "Rabatt und Preisuntergrenze prüfen, Leistungsumfang oder Zahlungsziel als Alternative",
+        "Rückfrage bei Vorgesetzten, Angebot anpassen und dokumentieren"
+       ]
+      }
+     ]
     }
    ]
   }
