@@ -32,3 +32,5 @@
 - Aufgaben der IHK Sommer 2026 (WiSo, Umsetzung, Teil 1) und älterer Prüfungen abgewandelt nachgebaut (Kunde „Zweitschatz“, andere Zahlen/Szenarien).
 - 18 Teil-1-Fallsituationen, 14 Teil-4-Fälle, MaKo-Transferaufgaben, Zwischenprüfungs-Aufgaben.
 - Stand Supabase: MaKo 394 Aufgaben/410 Karten, WSP 368/516, FiCon 91/164, Politik 42/61, Deutsch 30/45.
+
+- Teil 1: 75 Fallsituationen (15 Prüfungen à 5 ohne Wiederholung); Prüfungsstart bevorzugt noch nicht geprüfte feste Aufgaben.

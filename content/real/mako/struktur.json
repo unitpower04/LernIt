@@ -256,6 +256,27 @@
        ]
       },
       {
+       "key": "mako-pf-teil1b",
+       "name": "Teil 1: Fallsituationen Konzepte (Serie B)",
+       "exam_parts": [
+        1
+       ]
+      },
+      {
+       "key": "mako-pf-teil1c",
+       "name": "Teil 1: Fallsituationen Konzepte (Serie C)",
+       "exam_parts": [
+        1
+       ]
+      },
+      {
+       "key": "mako-pf-teil1d",
+       "name": "Teil 1: Fallsituationen Konzepte (Serie D)",
+       "exam_parts": [
+        1
+       ]
+      },
+      {
        "key": "mako-pf-teil4",
        "name": "Teil 4: Fachgespräch (Praxisfälle)",
        "exam_parts": [

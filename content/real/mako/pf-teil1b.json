@@ -1,0 +1,917 @@
+{
+ "demo": false,
+ "items": [
+  {
+   "topic": "mako-pf-teil1b",
+   "flashcards": [],
+   "glossary": [],
+   "questions": [
+    {
+     "key": "mako-pf-teil1b-q01",
+     "type": "case",
+     "exam_part": 1,
+     "difficulty": 2,
+     "points": 20,
+     "source": "Prüfungsstil Teil 1 (eigene Fallsituationen, Serie B)",
+     "body": {
+      "situation": "Die FAMK betreut die E-Scooter-Sharing-Firma „Rollwerk“ (Berlin, 2.500 Scooter, 180.000 App-Nutzer). Gestützte Bekanntheit in Berlin 78 %, in Hamburg (Neustart) 12 %. Ziel: Markteintritt in Hamburg mit 40.000 Nutzern in sechs Monaten, Budget 600.000 €. Wettbewerber: zwei etablierte Anbieter; Risiko: Verbotsdebatten und Vandalismus.",
+      "tasks": [
+       {
+        "text": "Erstellen Sie eine SWOT-Analyse mit je einem Punkt pro Feld (4 P.) und leiten Sie eine ST-Strategie ab (2 P.).",
+        "points": 6,
+        "sample": "S: hohe Bekanntheit in Berlin, große Flotte. W: unbekannt in Hamburg. O: wachsende Akzeptanz von Mikromobilität. T: Verbotsdebatten, Vandalismus. ST: bewährtes Sicherheits- und Parkkonzept nutzen, um Regulierungsrisiken zu begegnen.",
+        "checklist": [
+         "vier Felder",
+         "intern/extern korrekt",
+         "ST-Strategie"
+        ]
+       },
+       {
+        "text": "Nennen Sie das Wachstumsmodell nach Ansoff, das der Hamburg-Start abbildet, und begründen Sie.",
+        "points": 4,
+        "sample": "Marktentwicklung: bestehendes Produkt in neuem regionalen Markt.",
+        "checklist": [
+         "Strategie",
+         "Begründung"
+        ]
+       },
+       {
+        "text": "Leiten Sie ein SMART-Kommunikationsziel ab.",
+        "points": 4,
+        "sample": "Gestützte Bekanntheit in Hamburg von 12 % auf 35 % bis Ende des sechsten Monats (Befragung).",
+        "checklist": [
+         "spezifisch",
+         "messbar",
+         "terminiert"
+        ]
+       },
+       {
+        "text": "Schlagen Sie drei Maßnahmen für den Start vor.",
+        "points": 6,
+        "sample": "Außenwerbung an Bahnhöfen mit QR-Code, Social Ads mit Geotargeting und Gratisfahrt-Coupon, Sampling/Event an Hochschulen.",
+        "checklist": [
+         "drei Maßnahmen",
+         "Begründung",
+         "Budgetbezug"
+        ]
+       }
+      ]
+     }
+    },
+    {
+     "key": "mako-pf-teil1b-q02",
+     "type": "case",
+     "exam_part": 1,
+     "difficulty": 2,
+     "points": 20,
+     "source": "Prüfungsstil Teil 1 (eigene Fallsituationen, Serie B)",
+     "body": {
+      "situation": "Der Hafermilch-Hersteller „Haferglück“ (Marktanteil 6 % in Deutschland) will in den Kaffee-Out-of-Home-Markt. Zielgruppe: Baristas und Cafés (B2B) sowie Endkunden. Budget 350.000 €. Wettbewerber: Oatly, Alpro. Marktinfo: Pflanzliche Drinks wachsen 11 % p. a.",
+      "tasks": [
+       {
+        "text": "Ordnen Sie das Produkt „Barista-Edition“ im BCG-Portfolio ein und begründen Sie mit zwei Argumenten.",
+        "points": 5,
+        "sample": "Question Mark: hohes Marktwachstum, geringer relativer Marktanteil im Barista-Segment.",
+        "checklist": [
+         "Einordnung",
+         "zwei Argumente"
+        ]
+       },
+       {
+        "text": "Beschreiben Sie zwei Kommunikationsmaßnahmen für die B2B-Zielgruppe.",
+        "points": 6,
+        "sample": "Fachmesse (Host Cologne) mit Verkostung, Barista-Workshops/Sampling-Pakete für Cafés, Fachmedien-PR.",
+        "checklist": [
+         "zwei Maßnahmen",
+         "B2B-Bezug",
+         "Begründung"
+        ]
+       },
+       {
+        "text": "Nennen Sie zwei Unterschiede zwischen B2B- und B2C-Kommunikation.",
+        "points": 4,
+        "sample": "B2B: rationale Argumente, persönliche Beziehungen, längere Entscheidungsprozesse, wenige Entscheider; B2C: emotionaler, Massenmedien.",
+        "checklist": [
+         "zwei Unterschiede"
+        ]
+       },
+       {
+        "text": "Formulieren Sie einen Claim für die Marke und erläutern Sie ihn.",
+        "points": 5,
+        "sample": "„Haferglück – macht Kaffee zum Moment.“ Verbindet Produktnutzen und Emotion.",
+        "checklist": [
+         "Claim",
+         "Begründung"
+        ]
+       }
+      ]
+     }
+    },
+    {
+     "key": "mako-pf-teil1b-q03",
+     "type": "case",
+     "exam_part": 1,
+     "difficulty": 2,
+     "points": 20,
+     "source": "Prüfungsstil Teil 1 (eigene Fallsituationen, Serie B)",
+     "body": {
+      "situation": "Der Fahrradhersteller „Kettenreaktion“ bringt ein faltbares E-Bike (2.390 €) auf den Markt. Zielgruppe: Berufspendler 30–50 in Großstädten. Budget 400.000 €. Gestützte Bekanntheit der Marke 18 %. Vertrieb über Fachhandel und eigenen Onlineshop.",
+      "tasks": [
+       {
+        "text": "Wählen Sie eine Preisstrategie und begründen Sie.",
+        "points": 5,
+        "sample": "Premium-/Hochpreisstrategie mit Verweis auf Qualität; Skimming möglich bei Innovationsvorsprung.",
+        "checklist": [
+         "Strategie",
+         "Begründung"
+        ]
+       },
+       {
+        "text": "Vergleichen Sie zwei Absatzwege und empfehlen Sie einen Mix.",
+        "points": 6,
+        "sample": "Fachhandel: Beratung, Probefahrt, aber Handelsmarge; Onlineshop: höhere Marge, Reichweite, aber keine Beratung. Mix: Online-Bestellung mit Abholung/Service im Fachhandel (Omni-Channel).",
+        "checklist": [
+         "zwei Wege",
+         "Vor-/Nachteile",
+         "Empfehlung"
+        ]
+       },
+       {
+        "text": "Nennen Sie drei Kommunikationsinstrumente für Pendler.",
+        "points": 6,
+        "sample": "Plakate/Digital-OOH an Bahnhöfen, Podcast-Werbung, Probefahrt-Events am Arbeitsplatz/Betrieb.",
+        "checklist": [
+         "drei Instrumente",
+         "Zielgruppenbezug"
+        ]
+       },
+       {
+        "text": "Wie messen Sie den Erfolg (zwei KPIs)?",
+        "points": 3,
+        "sample": "Probefahrten und Abverkäufe, Bekanntheit laut Befragung, Website-Traffic.",
+        "checklist": [
+         "zwei KPIs"
+        ]
+       }
+      ]
+     }
+    },
+    {
+     "key": "mako-pf-teil1b-q04",
+     "type": "case",
+     "exam_part": 1,
+     "difficulty": 2,
+     "points": 20,
+     "source": "Prüfungsstil Teil 1 (eigene Fallsituationen, Serie B)",
+     "body": {
+      "situation": "Die Online-Apotheke „Gesundweg“ hat 400.000 Kunden. Ziel: Neukundengewinnung (+15 %) im Segment 50+. Werberechtliche Besonderheiten (Heilmittelwerbegesetz) sind zu beachten. Budget 500.000 €.",
+      "tasks": [
+       {
+        "text": "Beschreiben Sie die Zielgruppe mit sechs Merkmalen (soziodemografisch, psychografisch, verhaltensbezogen).",
+        "points": 6,
+        "sample": "50–70 Jahre, mittleres Einkommen, Ruhestand/Teilzeit; gesundheitsbewusst, sicherheitsorientiert; kauft regelmäßig Medikamente, nutzt Zeitschriften und zunehmend Smartphone.",
+        "checklist": [
+         "sechs Merkmale",
+         "drei Kategorien"
+        ]
+       },
+       {
+        "text": "Nennen Sie zwei rechtliche Vorgaben für die Werbung.",
+        "points": 4,
+        "sample": "Heilmittelwerbegesetz (keine irreführenden Heilversprechen), Pflichtangaben, Datenschutz (Gesundheitsdaten besonders sensibel).",
+        "checklist": [
+         "zwei Vorgaben"
+        ]
+       },
+       {
+        "text": "Empfehlen Sie zwei Medien und begründen Sie anhand von Affinität und Wirtschaftlichkeit.",
+        "points": 6,
+        "sample": "Apothekenzeitschrift/Gesundheitsmagazine (hohe Affinität), regionale Zeitungsbeilagen oder Radio; Online-Suche (SEA).",
+        "checklist": [
+         "zwei Medien",
+         "Kriterien"
+        ]
+       },
+       {
+        "text": "Gestalten Sie eine Headline mit Consumer Benefit.",
+        "points": 4,
+        "sample": "„Ihre Medikamente. Pünktlich. Direkt zu Ihnen nach Hause.“",
+        "checklist": [
+         "Benefit erkennbar",
+         "Zielgruppenansprache"
+        ]
+       }
+      ]
+     }
+    },
+    {
+     "key": "mako-pf-teil1b-q05",
+     "type": "case",
+     "exam_part": 1,
+     "difficulty": 2,
+     "points": 20,
+     "source": "Prüfungsstil Teil 1 (eigene Fallsituationen, Serie B)",
+     "body": {
+      "situation": "Der Zoo „Tierpark Aurelia“ möchte die Besucherzahl um 15 % auf 460.000 steigern. Budget 220.000 €. Zielgruppen: Familien, Schulklassen, Touristen. Der Eintritt beträgt 22 €. Problem: Schlechtwetterwochen.",
+      "tasks": [
+       {
+        "text": "Berechnen Sie die derzeitige Besucherzahl.",
+        "points": 3,
+        "sample": "460.000 : 1,15 = 400.000 Besucher.",
+        "checklist": [
+         "Rechnung",
+         "Ergebnis"
+        ]
+       },
+       {
+        "text": "Entwickeln Sie zwei Verkaufsförderungsmaßnahmen.",
+        "points": 6,
+        "sample": "Familienkarte/Jahreskarte mit Rabatt, Schlechtwetter-Garantie (Wiederbesuch kostenlos), Kombitickets mit ÖPNV.",
+        "checklist": [
+         "zwei Maßnahmen",
+         "Bezug zum Problem"
+        ]
+       },
+       {
+        "text": "Entwickeln Sie eine PR-Maßnahme für den Tierpark.",
+        "points": 5,
+        "sample": "Nachwuchsgeburten: Pressemitteilung/Fototermin, Namenspatenschaft, Social-Media-Livecam.",
+        "checklist": [
+         "PR erkannt",
+         "konkret"
+        ]
+       },
+       {
+        "text": "Nennen Sie drei Medien für die Kampagne.",
+        "points": 6,
+        "sample": "Regionalzeitung, Radio, Plakate im Einzugsgebiet, Social Ads mit Geotargeting.",
+        "checklist": [
+         "drei Medien",
+         "Begründung"
+        ]
+       }
+      ]
+     }
+    },
+    {
+     "key": "mako-pf-teil1b-q06",
+     "type": "case",
+     "exam_part": 1,
+     "difficulty": 2,
+     "points": 20,
+     "source": "Prüfungsstil Teil 1 (eigene Fallsituationen, Serie B)",
+     "body": {
+      "situation": "Die Möbelmarke „Wohnwerk“ will ihre Marke jünger positionieren. Ist-Positionierung: solide, teuer, traditionell. Zielgruppe: 25–35, erste eigene Wohnung. Budget 700.000 €. Die Möbel sind modular, nachhaltig produziert, mit Lieferung in 5 Tagen.",
+      "tasks": [
+       {
+        "text": "Formulieren Sie Ist- und Soll-Positionierung.",
+        "points": 5,
+        "sample": "Ist: traditionell/teuer. Soll: modern, flexibel, nachhaltig, erschwinglich für Starter.",
+        "checklist": [
+         "Ist",
+         "Soll"
+        ]
+       },
+       {
+        "text": "Nennen Sie einen USP und einen UAP für Wohnwerk.",
+        "points": 4,
+        "sample": "USP: modulare Möbel, mitwachsend. UAP: emotional, z. B. Lebensgefühl ‚Dein erstes Zuhause‘.",
+        "checklist": [
+         "USP",
+         "UAP"
+        ]
+       },
+       {
+        "text": "Entwickeln Sie eine Copy-Strategie (Benefit, Reason Why, Tonality).",
+        "points": 6,
+        "sample": "Benefit: Möbel, die mit deinem Leben wachsen. Reason Why: modulares System, nachhaltige Materialien. Tonality: locker, optimistisch.",
+        "checklist": [
+         "drei Bestandteile"
+        ]
+       },
+       {
+        "text": "Beschreiben Sie zwei Online-Maßnahmen.",
+        "points": 5,
+        "sample": "Instagram/Pinterest Inspirationskampagne mit Creatorn, SEA für Suchbegriffe, AR-Funktion ‚Möbel in meine Wohnung‘.",
+        "checklist": [
+         "zwei Maßnahmen",
+         "Passung"
+        ]
+       }
+      ]
+     }
+    },
+    {
+     "key": "mako-pf-teil1b-q07",
+     "type": "case",
+     "exam_part": 1,
+     "difficulty": 2,
+     "points": 20,
+     "source": "Prüfungsstil Teil 1 (eigene Fallsituationen, Serie B)",
+     "body": {
+      "situation": "Die Streaming-Plattform „Seriengeist“ (2,1 Mio. Abonnenten, Monatspreis 8,99 €) plant eine Kampagne gegen Abwanderung (Churn 6 % pro Monat). Budget 300.000 €.",
+      "tasks": [
+       {
+        "text": "Berechnen Sie die monatlich abwandernden Abonnenten.",
+        "points": 3,
+        "sample": "2.100.000 · 0,06 = 126.000.",
+        "checklist": [
+         "Rechnung"
+        ]
+       },
+       {
+        "text": "Berechnen Sie den entgangenen Monatsumsatz durch Abwanderung.",
+        "points": 3,
+        "sample": "126.000 · 8,99 € = 1.132.740 €.",
+        "checklist": [
+         "Rechnung",
+         "Ergebnis"
+        ]
+       },
+       {
+        "text": "Nennen Sie zwei Maßnahmen der Kundenbindung.",
+        "points": 7,
+        "sample": "Treuebonus/Jahresabo mit Rabatt, personalisierte Empfehlungen, exklusive Inhalte, Kündigungsgrund-Befragung mit Win-back-Angebot.",
+        "checklist": [
+         "zwei Maßnahmen",
+         "Begründung"
+        ]
+       },
+       {
+        "text": "Wählen Sie Branding oder Performance für diese Kampagne und begründen Sie.",
+        "points": 7,
+        "sample": "Performance/CRM (Newsletter, In-App-Messages), da bestehende Kunden gezielt erreicht werden, hohe Messbarkeit; Branding ergänzend.",
+        "checklist": [
+         "Strategie",
+         "Begründung"
+        ]
+       }
+      ]
+     }
+    },
+    {
+     "key": "mako-pf-teil1b-q08",
+     "type": "case",
+     "exam_part": 1,
+     "difficulty": 2,
+     "points": 20,
+     "source": "Prüfungsstil Teil 1 (eigene Fallsituationen, Serie B)",
+     "body": {
+      "situation": "Die Regionalbank „Rheintalbank“ lädt zu einer Veranstaltung zum Thema Altersvorsorge ein (Zielgruppe 45–60, 300 Teilnehmer, Budget 40.000 €). Ziel: 120 Beratungstermine.",
+      "tasks": [
+       {
+        "text": "Nennen Sie sechs Punkte einer Checkliste für die Eventvorbereitung.",
+        "points": 6,
+        "sample": "Ziele/Budget, Location/Termin, Einladungsmanagement, Referenten und Programm, Technik/Catering/Sicherheit, Nachbereitung/Leads.",
+        "checklist": [
+         "sechs Punkte"
+        ]
+       },
+       {
+        "text": "Berechnen Sie die erforderliche Quote Teilnehmer → Beratungstermin.",
+        "points": 3,
+        "sample": "120 : 300 = 40 %.",
+        "checklist": [
+         "Rechnung"
+        ]
+       },
+       {
+        "text": "Beschreiben Sie zwei Einladungskanäle.",
+        "points": 5,
+        "sample": "Persönliches Mailing an Kunden (Opt-in beachten), Anzeige in Regionalzeitung, Website/Social.",
+        "checklist": [
+         "zwei Kanäle"
+        ]
+       },
+       {
+        "text": "Wie dokumentieren Sie den Erfolg?",
+        "points": 6,
+        "sample": "Teilnehmerliste, Terminvereinbarungen, Feedbackbogen, Abschlüsse nach 3 Monaten.",
+        "checklist": [
+         "KPIs",
+         "Erhebung"
+        ]
+       }
+      ]
+     }
+    },
+    {
+     "key": "mako-pf-teil1b-q09",
+     "type": "case",
+     "exam_part": 1,
+     "difficulty": 2,
+     "points": 20,
+     "source": "Prüfungsstil Teil 1 (eigene Fallsituationen, Serie B)",
+     "body": {
+      "situation": "Der Hotelbetrieb „Seeblick“ will die Auslastung in der Nebensaison (Oktober–März) von 48 % auf 60 % erhöhen. Zimmerzahl 120, Durchschnittspreis 95 €. Budget 150.000 €.",
+      "tasks": [
+       {
+        "text": "Berechnen Sie die zusätzlichen Übernachtungen in 182 Nebensaison-Tagen.",
+        "points": 4,
+        "sample": "120 · 182 · 0,12 = 2.620,8 ≈ 2.621 Übernachtungen.",
+        "checklist": [
+         "Rechnung"
+        ]
+       },
+       {
+        "text": "Berechnen Sie den zusätzlichen Zimmerumsatz (ohne Aufschläge).",
+        "points": 3,
+        "sample": "2.621 · 95 € ≈ 248.995 €.",
+        "checklist": [
+         "Rechnung"
+        ]
+       },
+       {
+        "text": "Wählen Sie eine Preisstrategie für die Nebensaison.",
+        "points": 6,
+        "sample": "Zeitliche Preisdifferenzierung (Frühbucher-/Nebensaisonpreise), Pakete (Wellness).",
+        "checklist": [
+         "Strategie",
+         "Begründung"
+        ]
+       },
+       {
+        "text": "Nennen Sie drei Kommunikationsmaßnahmen.",
+        "points": 7,
+        "sample": "Newsletter an Stammgäste, SEA/Metasearch, Kooperation mit Regionalmarketing, Social-Ads auf Wellness.",
+        "checklist": [
+         "drei Maßnahmen"
+        ]
+       }
+      ]
+     }
+    },
+    {
+     "key": "mako-pf-teil1b-q10",
+     "type": "case",
+     "exam_part": 1,
+     "difficulty": 2,
+     "points": 20,
+     "source": "Prüfungsstil Teil 1 (eigene Fallsituationen, Serie B)",
+     "body": {
+      "situation": "Die Technische Hochschule Aurelia will mehr internationale Studierende gewinnen (+200). Zielgruppe: Bachelor-Interessierte in Indien und Brasilien. Budget 250.000 €.",
+      "tasks": [
+       {
+        "text": "Beschreiben Sie die Zielgruppe mit vier Merkmalen.",
+        "points": 4,
+        "sample": "Alter 18–22, Abitur/Schulabschluss, englischsprachig, karriereorientiert, Social-Media-affin.",
+        "checklist": [
+         "vier Merkmale"
+        ]
+       },
+       {
+        "text": "Nennen Sie zwei Marktforschungsmethoden für die Länder.",
+        "points": 6,
+        "sample": "Online-Befragung (quantitativ), Interviews mit Studienberatern/Studierenden (qualitativ), Sekundärforschung (DAAD-Statistiken).",
+        "checklist": [
+         "zwei Methoden",
+         "Begründung"
+        ]
+       },
+       {
+        "text": "Empfehlen Sie zwei Kanäle.",
+        "points": 6,
+        "sample": "Instagram/YouTube, Messen/Agenturen vor Ort, Kooperationen mit Schulen.",
+        "checklist": [
+         "zwei Kanäle"
+        ]
+       },
+       {
+        "text": "Formulieren Sie einen interkulturell geeigneten Claim.",
+        "points": 4,
+        "sample": "„Study. Build. Belong.“",
+        "checklist": [
+         "Claim",
+         "Begründung"
+        ]
+       }
+      ]
+     }
+    },
+    {
+     "key": "mako-pf-teil1b-q11",
+     "type": "case",
+     "exam_part": 1,
+     "difficulty": 2,
+     "points": 20,
+     "source": "Prüfungsstil Teil 1 (eigene Fallsituationen, Serie B)",
+     "body": {
+      "situation": "Das Autohaus „Rheinmobil“ plant die Einführung eines E-Auto-Abos. Zielgruppe: Pendler und Selbstständige 35–55. Budget 280.000 €. Hindernisse: Reichweitenangst, Ladeinfrastruktur.",
+      "tasks": [
+       {
+        "text": "Nennen Sie zwei Barrieren der Zielgruppe und je eine Kommunikationslösung.",
+        "points": 6,
+        "sample": "Reichweitenangst – Reichweitenrechner/Probefahrt; Ladeinfrastruktur – Kooperation mit Ladenetz, Ladekarte inklusive.",
+        "checklist": [
+         "zwei Barrieren",
+         "Lösungen"
+        ]
+       },
+       {
+        "text": "Wählen Sie die Marktfeldstrategie nach Ansoff.",
+        "points": 4,
+        "sample": "Produktentwicklung (neues Angebot im bestehenden Markt).",
+        "checklist": [
+         "Strategie"
+        ]
+       },
+       {
+        "text": "Schlagen Sie drei Medien vor.",
+        "points": 6,
+        "sample": "Regionalzeitung/Wirtschaftsmedien, Radio im Berufsverkehr, SEA und LinkedIn für Selbstständige.",
+        "checklist": [
+         "drei Medien",
+         "Begründung"
+        ]
+       },
+       {
+        "text": "Nennen Sie zwei Erfolgskennzahlen.",
+        "points": 4,
+        "sample": "Anzahl Abo-Abschlüsse, Probefahrten, Leads, Cost per Lead.",
+        "checklist": [
+         "zwei KPIs"
+        ]
+       }
+      ]
+     }
+    },
+    {
+     "key": "mako-pf-teil1b-q12",
+     "type": "case",
+     "exam_part": 1,
+     "difficulty": 2,
+     "points": 20,
+     "source": "Prüfungsstil Teil 1 (eigene Fallsituationen, Serie B)",
+     "body": {
+      "situation": "Die Krankenkasse „GesundPlus“ (1,2 Mio. Versicherte) will junge Mitglieder (18–27) gewinnen. Image: bürokratisch. Budget 900.000 €. Rechtliche Vorgabe: Keine unzulässigen Gesundheitsversprechen.",
+      "tasks": [
+       {
+        "text": "Führen Sie eine Positionierung durch (Ist/Soll).",
+        "points": 5,
+        "sample": "Ist: bürokratisch, traditionell. Soll: digital, unkompliziert, nah an Lebenswelt junger Menschen.",
+        "checklist": [
+         "Ist",
+         "Soll"
+        ]
+       },
+       {
+        "text": "Beschreiben Sie die Zielgruppe mit sechs Merkmalen.",
+        "points": 6,
+        "sample": "18–27, Studierende/Azubis, geringes Einkommen; digital, preissensibel, gesundheitsinteressiert; nutzen Social Media/Apps, vergleichen online.",
+        "checklist": [
+         "sechs Merkmale"
+        ]
+       },
+       {
+        "text": "Entwickeln Sie eine Kampagnenidee mit Medien.",
+        "points": 5,
+        "sample": "App/Gesundheitskonto-Challenge, TikTok/Instagram-Videos, Hochschulevents; Bonusprogramm.",
+        "checklist": [
+         "Idee",
+         "Medien"
+        ]
+       },
+       {
+        "text": "Nennen Sie zwei rechtliche Risiken.",
+        "points": 4,
+        "sample": "Irreführende Gesundheitsaussagen (UWG/HWG), Datenschutz Gesundheitsdaten, Gewinnspielbedingungen.",
+        "checklist": [
+         "zwei Risiken"
+        ]
+       }
+      ]
+     }
+    },
+    {
+     "key": "mako-pf-teil1b-q13",
+     "type": "case",
+     "exam_part": 1,
+     "difficulty": 2,
+     "points": 20,
+     "source": "Prüfungsstil Teil 1 (eigene Fallsituationen, Serie B)",
+     "body": {
+      "situation": "Der Kosmetikhersteller „Naturlicht“ (Naturkosmetik, 60 Produkte) will die Gesichtspflege-Linie neu positionieren. Zielgruppe: Frauen 30–50. Budget 650.000 €. Wettbewerber: Drogerie-Eigenmarken, Dr. Hauschka.",
+      "tasks": [
+       {
+        "text": "Entwickeln Sie eine Copy-Strategie.",
+        "points": 6,
+        "sample": "Benefit: sichtbar gesunde Haut ohne Kompromiss bei Natur. Reason Why: zertifizierte Inhaltsstoffe, dermatologisch getestet. Tonality: warm, kompetent.",
+        "checklist": [
+         "Benefit",
+         "Reason Why",
+         "Tonality"
+        ]
+       },
+       {
+        "text": "Erläutern Sie die Brand Benefit Ladder für ein Produkt.",
+        "points": 6,
+        "sample": "Merkmal: Aloe-Extrakt; funktionaler Nutzen: Feuchtigkeit; emotionaler Nutzen: Wohlgefühl; Marke: Natürlichkeit und Verantwortung.",
+        "checklist": [
+         "vier Stufen"
+        ]
+       },
+       {
+        "text": "Beurteilen Sie den Werbespruch „Wirkt wie ein Facelifting“.",
+        "points": 4,
+        "sample": "Irreführend/unbelegt (UWG, Kosmetik-VO); Belege nötig.",
+        "checklist": [
+         "Beurteilung",
+         "Rechtsbezug"
+        ]
+       },
+       {
+        "text": "Nennen Sie zwei Medien.",
+        "points": 4,
+        "sample": "Frauenzeitschriften, Influencer/YouTube, Drogerie-POS.",
+        "checklist": [
+         "zwei Medien"
+        ]
+       }
+      ]
+     }
+    },
+    {
+     "key": "mako-pf-teil1b-q14",
+     "type": "case",
+     "exam_part": 1,
+     "difficulty": 2,
+     "points": 20,
+     "source": "Prüfungsstil Teil 1 (eigene Fallsituationen, Serie B)",
+     "body": {
+      "situation": "Der Spielwarenhersteller „Bauklotz“ will ein neues Holzspielzeug-Set (39,90 €) zu Weihnachten einführen. Zielgruppe: Eltern und Großeltern von Kindern 2–6. Budget 500.000 €. 70 % des Absatzes im Q4.",
+      "tasks": [
+       {
+        "text": "Nennen Sie zwei Besonderheiten der Zielgruppe (Käufer vs. Nutzer).",
+        "points": 4,
+        "sample": "Käufer sind Eltern/Großeltern, Nutzer sind Kinder; Entscheidungsmix aus Pädagogik/Sicherheit und Emotion.",
+        "checklist": [
+         "zwei Besonderheiten"
+        ]
+       },
+       {
+        "text": "Empfehlen Sie einen Streuplan (Timing).",
+        "points": 6,
+        "sample": "Aufbau ab Oktober, Hauptwelle November (Flight), Pulsing im Dezember; Plakate/Prospekte/Online.",
+        "checklist": [
+         "Timing",
+         "Begründung"
+        ]
+       },
+       {
+        "text": "Entwickeln Sie eine Trade-Promotion-Maßnahme.",
+        "points": 5,
+        "sample": "Zweitplatzierung/Display im Handel, Händlerrabatt, Verkaufsförderungsmaterial.",
+        "checklist": [
+         "Maßnahme",
+         "Handelsbezug"
+        ]
+       },
+       {
+        "text": "Nennen Sie zwei gesetzliche Aspekte in der Kinderwerbung.",
+        "points": 5,
+        "sample": "Keine unmittelbare Kaufaufforderung an Kinder, Kennzeichnung, Sicherheit/CE, Datenschutz bei Kindern.",
+        "checklist": [
+         "zwei Aspekte"
+        ]
+       }
+      ]
+     }
+    },
+    {
+     "key": "mako-pf-teil1b-q15",
+     "type": "case",
+     "exam_part": 1,
+     "difficulty": 2,
+     "points": 20,
+     "source": "Prüfungsstil Teil 1 (eigene Fallsituationen, Serie B)",
+     "body": {
+      "situation": "Das Reisebüro „Weitblick“ will online buchbare Wanderreisen bewerben. Zielgruppe: Best Ager 55–70. Budget 320.000 €. Wettbewerb: große Reiseportale.",
+      "tasks": [
+       {
+        "text": "Beschreiben Sie die Zielgruppe mit sechs Merkmalen.",
+        "points": 6,
+        "sample": "55–70, Ruhestand, mittleres bis höheres Einkommen; naturverbunden, sicherheitsbewusst; Printmedien und zunehmend E-Mail/Smartphone.",
+        "checklist": [
+         "sechs Merkmale"
+        ]
+       },
+       {
+        "text": "Wählen Sie drei Medien anhand der Kriterien Reichweite, Affinität und Kontaktqualität.",
+        "points": 8,
+        "sample": "Reisemagazine, regionale Tageszeitungen, Newsletter/SEA – Affinität zu Outdoor/Reisen.",
+        "checklist": [
+         "drei Medien",
+         "Kriterien"
+        ]
+       },
+       {
+        "text": "Formulieren Sie eine Headline.",
+        "points": 3,
+        "sample": "„Wandern Sie in Ihr nächstes Abenteuer – sicher begleitet.“",
+        "checklist": [
+         "Headline"
+        ]
+       },
+       {
+        "text": "Nennen Sie eine Maßnahme der Kundenbindung.",
+        "points": 3,
+        "sample": "Treuebonus, Newsletter, Reisetreffen.",
+        "checklist": [
+         "Maßnahme"
+        ]
+       }
+      ]
+     }
+    },
+    {
+     "key": "mako-pf-teil1b-q16",
+     "type": "case",
+     "exam_part": 1,
+     "difficulty": 2,
+     "points": 20,
+     "source": "Prüfungsstil Teil 1 (eigene Fallsituationen, Serie B)",
+     "body": {
+      "situation": "Der Fitnessstudio-Anbieter „Muskelwerk“ (35 Studios) will Neukunden im Januar gewinnen. Budget 450.000 €. Ziel: 8.000 neue Mitglieder; Mitgliedsbeitrag 29,90 €/Monat, durchschnittliche Laufzeit 14 Monate.",
+      "tasks": [
+       {
+        "text": "Berechnen Sie die Cost per Acquisition (CPA).",
+        "points": 3,
+        "sample": "450.000 : 8.000 = 56,25 €.",
+        "checklist": [
+         "Rechnung"
+        ]
+       },
+       {
+        "text": "Berechnen Sie den Kundenwert über die Laufzeit (Umsatz).",
+        "points": 3,
+        "sample": "29,90 · 14 = 418,60 €.",
+        "checklist": [
+         "Rechnung"
+        ]
+       },
+       {
+        "text": "Beurteilen Sie die Wirtschaftlichkeit.",
+        "points": 6,
+        "sample": "CPA 56,25 € bei Umsatz 418,60 € je Kunde: positiv, bevor Betriebskosten.",
+        "checklist": [
+         "Beurteilung",
+         "Begründung"
+        ]
+       },
+       {
+        "text": "Nennen Sie drei Instrumente.",
+        "points": 8,
+        "sample": "Social Ads mit Probetraining, Empfehlungsprogramm, Plakate/Radio regional, Coupon.",
+        "checklist": [
+         "drei Instrumente"
+        ]
+       }
+      ]
+     }
+    },
+    {
+     "key": "mako-pf-teil1b-q17",
+     "type": "case",
+     "exam_part": 1,
+     "difficulty": 2,
+     "points": 20,
+     "source": "Prüfungsstil Teil 1 (eigene Fallsituationen, Serie B)",
+     "body": {
+      "situation": "Der Energieversorger „StromAurelia“ will Ökostromkunden gewinnen (+25.000). Aktuell 190.000 Kunden. Budget 750.000 €. Preisaufschlag Ökostrom 2 ct/kWh. Zielgruppe: umweltbewusste Haushalte.",
+      "tasks": [
+       {
+        "text": "Berechnen Sie die Zielkundenzahl.",
+        "points": 3,
+        "sample": "190.000 + 25.000 = 215.000.",
+        "checklist": [
+         "Rechnung"
+        ]
+       },
+       {
+        "text": "Berechnen Sie CPA.",
+        "points": 3,
+        "sample": "750.000 : 25.000 = 30 €.",
+        "checklist": [
+         "Rechnung"
+        ]
+       },
+       {
+        "text": "Welche Kommunikationsstrategie (Preis oder Werte) empfehlen Sie?",
+        "points": 7,
+        "sample": "Werte-/Nutzenkommunikation mit Transparenz zu Herkunft, ergänzt durch Preisgarantie; Preisaufschlag erfordert Begründung.",
+        "checklist": [
+         "Strategie",
+         "Begründung"
+        ]
+       },
+       {
+        "text": "Nennen Sie rechtliche Vorgaben für Umweltwerbung.",
+        "points": 7,
+        "sample": "Belegbarkeit (UWG § 5), keine pauschalen Aussagen, Siegel prüfen, Stromkennzeichnung.",
+        "checklist": [
+         "zwei Vorgaben"
+        ]
+       }
+      ]
+     }
+    },
+    {
+     "key": "mako-pf-teil1b-q18",
+     "type": "case",
+     "exam_part": 1,
+     "difficulty": 2,
+     "points": 20,
+     "source": "Prüfungsstil Teil 1 (eigene Fallsituationen, Serie B)",
+     "body": {
+      "situation": "Der Baumarkt „Hammerhart“ möchte im Frühjahr Gartenprodukte bewerben (Umsatzziel +10 % auf 12 Mio. €). Aktionen im Handel sind geplant. Budget 380.000 €.",
+      "tasks": [
+       {
+        "text": "Berechnen Sie den aktuellen Umsatz.",
+        "points": 3,
+        "sample": "12 : 1,10 ≈ 10,91 Mio. €.",
+        "checklist": [
+         "Rechnung"
+        ]
+       },
+       {
+        "text": "Ordnen Sie drei Maßnahmen den Instrumenten Consumer Promotion, Trade Promotion und Werbung zu.",
+        "points": 6,
+        "sample": "Gutscheinheft (Consumer), Displayplatzierung (Trade), Anzeigenbeilage (Werbung).",
+        "checklist": [
+         "drei Zuordnungen"
+        ]
+       },
+       {
+        "text": "Nennen Sie zwei Medien und begründen Sie Regionalität.",
+        "points": 6,
+        "sample": "Handzettel/Beilagen und Radio mit regionalem Bezug; Einzugsgebiet begrenzt, geringe Streuverluste.",
+        "checklist": [
+         "zwei Medien",
+         "Begründung"
+        ]
+       },
+       {
+        "text": "Nennen Sie zwei KPIs.",
+        "points": 5,
+        "sample": "Umsatz je Aktionstag, Gutscheinrücklauf, Besucherfrequenz.",
+        "checklist": [
+         "zwei KPIs"
+        ]
+       }
+      ]
+     }
+    },
+    {
+     "key": "mako-pf-teil1b-q19",
+     "type": "case",
+     "exam_part": 1,
+     "difficulty": 2,
+     "points": 20,
+     "source": "Prüfungsstil Teil 1 (eigene Fallsituationen, Serie B)",
+     "body": {
+      "situation": "Der Tierfutterhersteller „Fellfreund“ will das Premiumsegment „Bio-Hundefutter“ ausbauen. Preis je 1,5-kg-Beutel 7,90 € (Wettbewerber 6,50 €). Zielgruppe: Hundehalter 30–55. Budget 420.000 €.",
+      "tasks": [
+       {
+        "text": "Ordnen Sie die Preisstrategie ein und begründen Sie.",
+        "points": 5,
+        "sample": "Premiumstrategie mit Qualitätsargument (Bio, Herkunft), Nutzenkommunikation.",
+        "checklist": [
+         "Strategie",
+         "Begründung"
+        ]
+       },
+       {
+        "text": "Nennen Sie drei Kommunikationsinstrumente.",
+        "points": 6,
+        "sample": "Tierarzt-Empfehlungen/PR, Social Media mit Hundeinfluencern, Sampling im Fachhandel.",
+        "checklist": [
+         "drei Instrumente"
+        ]
+       },
+       {
+        "text": "Beurteilen Sie die Werbeaussage „Macht Hunde gesünder“.",
+        "points": 4,
+        "sample": "Gesundheitsversprechen müssen belegbar sein, sonst irreführend; Alternative: konkrete Inhaltsstoffe.",
+        "checklist": [
+         "Beurteilung",
+         "Alternative"
+        ]
+       },
+       {
+        "text": "Wie testen Sie das Produkt vor dem Roll-out?",
+        "points": 5,
+        "sample": "Testmarkt in einer Region, Verkostungsaktion, Befragung der Halter.",
+        "checklist": [
+         "Methode",
+         "Begründung"
+        ]
+       }
+      ]
+     }
+    }
+   ],
+   "templates": [],
+   "cases": []
+  }
+ ]
+}

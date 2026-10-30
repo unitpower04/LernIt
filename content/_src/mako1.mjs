@@ -44,6 +44,9 @@ const struktur = structure([
     ]),
     lf("mako-pf", "PF", "Prüfungsfälle & Fachgespräch", [1, 4], [
       tp("mako-pf-teil1", "Teil 1: Fallsituationen Konzepte", [1]),
+      tp("mako-pf-teil1b", "Teil 1: Fallsituationen Konzepte (Serie B)", [1]),
+      tp("mako-pf-teil1c", "Teil 1: Fallsituationen Konzepte (Serie C)", [1]),
+      tp("mako-pf-teil1d", "Teil 1: Fallsituationen Konzepte (Serie D)", [1]),
       tp("mako-pf-teil4", "Teil 4: Fachgespräch (Praxisfälle)", [4]),
     ]),
   ]),

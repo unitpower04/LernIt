@@ -1,0 +1,917 @@
+{
+ "demo": false,
+ "items": [
+  {
+   "topic": "mako-pf-teil1d",
+   "flashcards": [],
+   "glossary": [],
+   "questions": [
+    {
+     "key": "mako-pf-teil1d-q01",
+     "type": "case",
+     "exam_part": 1,
+     "difficulty": 2,
+     "points": 20,
+     "source": "Prüfungsstil Teil 1 (eigene Fallsituationen, Serie D – Media, PR, Marke)",
+     "body": {
+      "situation": "Die FAMK plant für den Saftanbieter „Fruchtwerk“ eine Zeitschriftenkampagne. Zielgruppe: 30–49-jährige Eltern, 2,4 Mio. Personen. Budget 200.000 €. Rangreihe (Nettoreichweite in der ZG / Seitenpreis / Affinitätsindex): Eltern (NRW 480.000, 38.000 €, AI 160), Brigitte (NRW 600.000, 52.000 €, AI 118), Stern (NRW 720.000, 61.000 €, AI 95), Focus (NRW 450.000, 49.000 €, AI 105).",
+      "tasks": [
+       {
+        "text": "Berechnen Sie die Nettoreichweite in Prozent der Zielgruppe für „Eltern“ und „Stern“.",
+        "points": 4,
+        "sample": "Eltern: 480.000 : 2.400.000 = 20 %; Stern: 720.000 : 2.400.000 = 30 %.",
+        "checklist": [
+         "zwei Rechnungen"
+        ]
+       },
+       {
+        "text": "Berechnen Sie den Tausender-Nutzer-Preis (TNP) für „Eltern“ und „Brigitte“.",
+        "points": 6,
+        "sample": "Eltern: 38.000 · 1.000 : 480.000 = 79,17 €; Brigitte: 52.000 · 1.000 : 600.000 = 86,67 €.",
+        "checklist": [
+         "zwei Rechnungen"
+        ]
+       },
+       {
+        "text": "Wählen Sie zwei Titel für das Budget und begründen Sie.",
+        "points": 7,
+        "sample": "Eltern (AI 160, niedrigster TNP) und Brigitte (hohe NRW, AI 118, Budget 90.000 € passt); Stern teuer und AI < 100 (Streuverluste).",
+        "checklist": [
+         "zwei Titel",
+         "Kennziffern",
+         "Budget"
+        ]
+       },
+       {
+        "text": "Erläutern Sie den Unterschied zwischen Brutto- und Nettoreichweite.",
+        "points": 3,
+        "sample": "Brutto zählt Mehrfachkontakte mit, netto nur einmal erreichte Personen.",
+        "checklist": [
+         "Definition"
+        ]
+       }
+      ]
+     }
+    },
+    {
+     "key": "mako-pf-teil1d-q02",
+     "type": "case",
+     "exam_part": 1,
+     "difficulty": 2,
+     "points": 20,
+     "source": "Prüfungsstil Teil 1 (eigene Fallsituationen, Serie D – Media, PR, Marke)",
+     "body": {
+      "situation": "Die Brauerei „Rheinhopfen“ hat einen TV-Spot (30 Sek.) geplant. Budget 500.000 €. Zielgruppe: Männer 25–49, 6,0 Mio. Personen. Ein Spot erreicht 1,2 Mio. Zielpersonen (netto) bei 1,5 Kontakten pro Person bei einer Schaltung. TKP 18 €.",
+      "tasks": [
+       {
+        "text": "Berechnen Sie die Reichweite in Prozent.",
+        "points": 3,
+        "sample": "1,2 : 6,0 = 20 %.",
+        "checklist": [
+         "Rechnung"
+        ]
+       },
+       {
+        "text": "Berechnen Sie die Kosten pro Schaltung auf Basis des TKP und der Bruttokontakte (1,2 Mio. · 1,5).",
+        "points": 5,
+        "sample": "Bruttokontakte: 1,8 Mio.; 1,8 Mio. : 1.000 · 18 € = 32.400 €.",
+        "checklist": [
+         "Rechnung"
+        ]
+       },
+       {
+        "text": "Wie viele Schaltungen sind mit dem Budget möglich (abrunden)?",
+        "points": 4,
+        "sample": "500.000 : 32.400 = 15,4 → 15 Schaltungen.",
+        "checklist": [
+         "Rechnung"
+        ]
+       },
+       {
+        "text": "Beschreiben Sie zwei Vor- und zwei Nachteile von TV.",
+        "points": 8,
+        "sample": "Vorteile: hohe Reichweite, audiovisuelle Wirkung. Nachteile: hohe Kosten, Streuverluste, flüchtige Wahrnehmung.",
+        "checklist": [
+         "zwei Vorteile",
+         "zwei Nachteile"
+        ]
+       }
+      ]
+     }
+    },
+    {
+     "key": "mako-pf-teil1d-q03",
+     "type": "case",
+     "exam_part": 1,
+     "difficulty": 2,
+     "points": 20,
+     "source": "Prüfungsstil Teil 1 (eigene Fallsituationen, Serie D – Media, PR, Marke)",
+     "body": {
+      "situation": "Die FAMK bewertet einen Mediaplan für die Marke „Sportfreund“: Plan A: GRP 260, Reichweite 52 %; Plan B: GRP 180, Reichweite 60 %. Zielgruppe 3,0 Mio. Personen.",
+      "tasks": [
+       {
+        "text": "Berechnen Sie die Kontakte pro erreichter Person für beide Pläne.",
+        "points": 6,
+        "sample": "A: 260 : 52 = 5,0; B: 180 : 60 = 3,0.",
+        "checklist": [
+         "zwei Rechnungen"
+        ]
+       },
+       {
+        "text": "Berechnen Sie die erreichte Zielpersonenzahl für beide Pläne.",
+        "points": 4,
+        "sample": "A: 3,0 Mio. · 0,52 = 1,56 Mio.; B: 3,0 · 0,60 = 1,8 Mio.",
+        "checklist": [
+         "zwei Rechnungen"
+        ]
+       },
+       {
+        "text": "Beurteilen Sie, welcher Plan bei Ziel „Aufbau von Reichweite“ besser ist.",
+        "points": 5,
+        "sample": "Plan B (höhere Reichweite); A erzielt mehr Werbedruck (Frequenz).",
+        "checklist": [
+         "Entscheidung",
+         "Begründung"
+        ]
+       },
+       {
+        "text": "Welche Auswirkung hat ein hoher Werbedruck auf die Werbewirkung?",
+        "points": 5,
+        "sample": "Mehr Wiederholung stärkt Erinnerung, kann aber Reaktanz/Abnutzung erzeugen (Wear-out).",
+        "checklist": [
+         "Wirkung",
+         "Gefahr"
+        ]
+       }
+      ]
+     }
+    },
+    {
+     "key": "mako-pf-teil1d-q04",
+     "type": "case",
+     "exam_part": 1,
+     "difficulty": 2,
+     "points": 20,
+     "source": "Prüfungsstil Teil 1 (eigene Fallsituationen, Serie D – Media, PR, Marke)",
+     "body": {
+      "situation": "Das Unternehmen „Bürowerk“ (B2B, Bürostühle) will auf der Fachmesse „Office Aurelia“ ausstellen. Standkosten 24.000 €, Personal 6.000 €, Giveaways 3.000 €. Ziel: 150 qualifizierte Leads, durchschnittlicher Auftragswert 5.000 €, Abschlussquote 10 %.",
+      "tasks": [
+       {
+        "text": "Berechnen Sie die Gesamtkosten der Messe.",
+        "points": 3,
+        "sample": "24.000 + 6.000 + 3.000 = 33.000 €.",
+        "checklist": [
+         "Rechnung"
+        ]
+       },
+       {
+        "text": "Berechnen Sie den erwarteten Umsatz aus den Leads.",
+        "points": 3,
+        "sample": "150 · 10 % · 5.000 € = 75.000 €.",
+        "checklist": [
+         "Rechnung"
+        ]
+       },
+       {
+        "text": "Berechnen Sie die Cost per Lead.",
+        "points": 3,
+        "sample": "33.000 : 150 = 220 €.",
+        "checklist": [
+         "Rechnung"
+        ]
+       },
+       {
+        "text": "Nennen Sie sechs Punkte einer Messecheckliste.",
+        "points": 6,
+        "sample": "Ziele, Standplanung, Personal/Schulung, Einladungen/Terminvereinbarung, Lead-Erfassung, Nachfassen.",
+        "checklist": [
+         "sechs Punkte"
+        ]
+       },
+       {
+        "text": "Nennen Sie zwei Vorteile von Messen im B2B.",
+        "points": 5,
+        "sample": "Persönlicher Kontakt, Produktvorführung, Netzwerk, Marktüberblick.",
+        "checklist": [
+         "zwei Vorteile"
+        ]
+       }
+      ]
+     }
+    },
+    {
+     "key": "mako-pf-teil1d-q05",
+     "type": "case",
+     "exam_part": 1,
+     "difficulty": 2,
+     "points": 20,
+     "source": "Prüfungsstil Teil 1 (eigene Fallsituationen, Serie D – Media, PR, Marke)",
+     "body": {
+      "situation": "Ein Lebensmittelhersteller („Frischkost“) muss nach einem Rückruf wegen Verunreinigung kommunizieren. Es besteht Gesundheitsgefahr. Betroffen: 12.000 Packungen. Medien berichten bereits.",
+      "tasks": [
+       {
+        "text": "Nennen Sie fünf Maßnahmen der Krisenkommunikation.",
+        "points": 8,
+        "sample": "Krisenstab, Faktenlage klären, schnelle ehrliche Information (Rückruf, Warnung), Pressemitteilung/FAQ, Hotline, Monitoring Social Media.",
+        "checklist": [
+         "fünf Maßnahmen"
+        ]
+       },
+       {
+        "text": "Welche rechtlichen Pflichten bestehen?",
+        "points": 6,
+        "sample": "Behördenmeldung, öffentliche Warnung/Rückruf (LFGB), Produkthaftung beachten.",
+        "checklist": [
+         "zwei Pflichten"
+        ]
+       },
+       {
+        "text": "Wie bauen Sie nach der Krise Vertrauen wieder auf?",
+        "points": 6,
+        "sample": "Transparente Ursachenklärung, Qualitätsmaßnahmen kommunizieren, Zertifizierungen, Dialog mit Kunden.",
+        "checklist": [
+         "zwei Maßnahmen"
+        ]
+       }
+      ]
+     }
+    },
+    {
+     "key": "mako-pf-teil1d-q06",
+     "type": "case",
+     "exam_part": 1,
+     "difficulty": 2,
+     "points": 20,
+     "source": "Prüfungsstil Teil 1 (eigene Fallsituationen, Serie D – Media, PR, Marke)",
+     "body": {
+      "situation": "Die Kosmetikmarke „Hautnah“ plant eine Influencer-Kampagne (10 Creatorinnen, 120.000 € Budget). Reichweite insgesamt 2,5 Mio. Follower. Beiträge werden bezahlt.",
+      "tasks": [
+       {
+        "text": "Berechnen Sie den TKP auf Basis der Follower.",
+        "points": 3,
+        "sample": "120.000 : 2.500.000 · 1.000 = 48 €.",
+        "checklist": [
+         "Rechnung"
+        ]
+       },
+       {
+        "text": "Nennen Sie drei Auswahlkriterien für Influencer.",
+        "points": 6,
+        "sample": "Zielgruppenpassung, Glaubwürdigkeit/Engagement-Rate, Markenwerte, Fake-Follower-Prüfung.",
+        "checklist": [
+         "drei Kriterien"
+        ]
+       },
+       {
+        "text": "Welche Kennzeichnungspflicht gilt?",
+        "points": 5,
+        "sample": "Bezahlte Beiträge klar als Werbung/Anzeige kennzeichnen (UWG, Medienstaatsvertrag).",
+        "checklist": [
+         "Pflicht",
+         "Rechtsbezug"
+        ]
+       },
+       {
+        "text": "Nennen Sie zwei Risiken des Influencer-Marketings.",
+        "points": 6,
+        "sample": "Imageschaden bei Fehlverhalten, fehlende Kontrolle, Fake-Follower, Rechtsverstöße.",
+        "checklist": [
+         "zwei Risiken"
+        ]
+       }
+      ]
+     }
+    },
+    {
+     "key": "mako-pf-teil1d-q07",
+     "type": "case",
+     "exam_part": 1,
+     "difficulty": 2,
+     "points": 20,
+     "source": "Prüfungsstil Teil 1 (eigene Fallsituationen, Serie D – Media, PR, Marke)",
+     "body": {
+      "situation": "Der Podcast-Vermarkter „Hörzeit“ bietet Mid-Roll-Spots an: TKP 28 €. Die Marke „Kaffeekult“ will 1,5 Mio. Hörer erreichen (Bruttokontakte). Budget 60.000 €.",
+      "tasks": [
+       {
+        "text": "Berechnen Sie die Kosten für 1,5 Mio. Kontakte.",
+        "points": 4,
+        "sample": "1.500.000 : 1.000 · 28 = 42.000 €.",
+        "checklist": [
+         "Rechnung"
+        ]
+       },
+       {
+        "text": "Wie viele Kontakte wären mit dem gesamten Budget möglich?",
+        "points": 4,
+        "sample": "60.000 : 28 · 1.000 = 2.142.857 Kontakte.",
+        "checklist": [
+         "Rechnung"
+        ]
+       },
+       {
+        "text": "Nennen Sie zwei Vor- und zwei Nachteile von Podcast-Werbung.",
+        "points": 8,
+        "sample": "Vorteile: loyale Hörer, hohe Aufmerksamkeit, Nischenzielgruppen. Nachteile: begrenzte Messbarkeit, kein Bild.",
+        "checklist": [
+         "Vorteile",
+         "Nachteile"
+        ]
+       },
+       {
+        "text": "Nennen Sie eine Alternative im Audiobereich.",
+        "points": 4,
+        "sample": "Radio-Spot, Streaming-Audio-Ads.",
+        "checklist": [
+         "Alternative"
+        ]
+       }
+      ]
+     }
+    },
+    {
+     "key": "mako-pf-teil1d-q08",
+     "type": "case",
+     "exam_part": 1,
+     "difficulty": 2,
+     "points": 20,
+     "source": "Prüfungsstil Teil 1 (eigene Fallsituationen, Serie D – Media, PR, Marke)",
+     "body": {
+      "situation": "Der Verlag „Aurelia Zeitung“ will digitale Abos steigern (aktuell 28.000, Ziel 35.000 in einem Jahr). Preis 11,99 € monatlich, Budget 400.000 €.",
+      "tasks": [
+       {
+        "text": "Berechnen Sie den Zuwachs in Prozent.",
+        "points": 3,
+        "sample": "7.000 : 28.000 = 25 %.",
+        "checklist": [
+         "Rechnung"
+        ]
+       },
+       {
+        "text": "Berechnen Sie die Cost per Acquisition.",
+        "points": 3,
+        "sample": "400.000 : 7.000 = 57,14 €.",
+        "checklist": [
+         "Rechnung"
+        ]
+       },
+       {
+        "text": "Schlagen Sie drei Maßnahmen vor.",
+        "points": 8,
+        "sample": "Probeabo 1 € für 3 Monate, Paywall-Optimierung, Newsletter-Funnel, Kooperation mit Hochschulen.",
+        "checklist": [
+         "drei Maßnahmen"
+        ]
+       },
+       {
+        "text": "Berechnen Sie den Jahresumsatz bei 35.000 Abos.",
+        "points": 6,
+        "sample": "35.000 · 11,99 € · 12 = 5.035.800 €.",
+        "checklist": [
+         "Rechnung",
+         "Ergebnis"
+        ]
+       }
+      ]
+     }
+    },
+    {
+     "key": "mako-pf-teil1d-q09",
+     "type": "case",
+     "exam_part": 1,
+     "difficulty": 2,
+     "points": 20,
+     "source": "Prüfungsstil Teil 1 (eigene Fallsituationen, Serie D – Media, PR, Marke)",
+     "body": {
+      "situation": "Der Radiosender „Rheinwelle“ möchte Hörer im Alter 20–35 gewinnen (Reichweite derzeit 6 %, Ziel 9 %). Budget 180.000 €. Region: 1,8 Mio. Einwohner in der Altersgruppe 20–35: 500.000.",
+      "tasks": [
+       {
+        "text": "Berechnen Sie die derzeit und künftig erreichten Hörer in der Zielgruppe.",
+        "points": 5,
+        "sample": "Aktuell 500.000 · 6 % = 30.000; Ziel 45.000.",
+        "checklist": [
+         "zwei Rechnungen"
+        ]
+       },
+       {
+        "text": "Berechnen Sie die Cost per zusätzlicher Hörer.",
+        "points": 4,
+        "sample": "180.000 : 15.000 = 12 €.",
+        "checklist": [
+         "Rechnung"
+        ]
+       },
+       {
+        "text": "Nennen Sie drei Maßnahmen.",
+        "points": 6,
+        "sample": "Social-Video-Kampagne, Hochschulevents, Streaming-/Podcast-Angebote, Gewinnspiele.",
+        "checklist": [
+         "drei Maßnahmen"
+        ]
+       },
+       {
+        "text": "Nennen Sie zwei Kennzahlen der Radiomessung.",
+        "points": 5,
+        "sample": "Hörer pro Durchschnittsstunde, Reichweite, Marktanteil (ma Audio).",
+        "checklist": [
+         "zwei Kennzahlen"
+        ]
+       }
+      ]
+     }
+    },
+    {
+     "key": "mako-pf-teil1d-q10",
+     "type": "case",
+     "exam_part": 1,
+     "difficulty": 2,
+     "points": 20,
+     "source": "Prüfungsstil Teil 1 (eigene Fallsituationen, Serie D – Media, PR, Marke)",
+     "body": {
+      "situation": "Die Stadt „Aurelia“ will eine Imagekampagne gegen das Bild der „grauen Industriestadt“. Zielgruppe: junge Fachkräfte und Touristen. Budget 800.000 €.",
+      "tasks": [
+       {
+        "text": "Beschreiben Sie Ist- und Soll-Image.",
+        "points": 5,
+        "sample": "Ist: grau, industriell. Soll: lebendig, kreativ, grün, zukunftsorientiert.",
+        "checklist": [
+         "Ist",
+         "Soll"
+        ]
+       },
+       {
+        "text": "Nennen Sie drei Maßnahmen und ordnen Sie Instrumente zu.",
+        "points": 9,
+        "sample": "Eventreihe (Eventmarketing), Presse-/Influencer-Reisen (PR), Social-Kampagne #AureliaNeu, Plakatserie in Metropolen.",
+        "checklist": [
+         "drei Maßnahmen",
+         "Zuordnung"
+        ]
+       },
+       {
+        "text": "Wie messen Sie Imageveränderungen?",
+        "points": 6,
+        "sample": "Befragungen vor/nach, Medienresonanzanalyse, Social-Listening, Besucherzahlen.",
+        "checklist": [
+         "zwei Methoden"
+        ]
+       }
+      ]
+     }
+    },
+    {
+     "key": "mako-pf-teil1d-q11",
+     "type": "case",
+     "exam_part": 1,
+     "difficulty": 2,
+     "points": 20,
+     "source": "Prüfungsstil Teil 1 (eigene Fallsituationen, Serie D – Media, PR, Marke)",
+     "body": {
+      "situation": "Das Start-up „Pfandpionier“ (Mehrweg-Kaffeebecher) sucht eine Markenpositionierung. Gründung vor 14 Monaten, 40 Partnercafés. Budget 70.000 €. Zielgruppe: umweltbewusste Café-Besucher.",
+      "tasks": [
+       {
+        "text": "Entwickeln Sie einen Markenkern in drei Stichworten.",
+        "points": 4,
+        "sample": "Nachhaltig, einfach, gemeinschaftlich.",
+        "checklist": [
+         "drei Stichworte"
+        ]
+       },
+       {
+        "text": "Formulieren Sie einen Markennamen-Test: Nennen Sie drei Kriterien für einen guten Markennamen.",
+        "points": 6,
+        "sample": "Einprägsam, unterscheidbar, schutzfähig/markenrechtlich frei, internationale Aussprache.",
+        "checklist": [
+         "drei Kriterien"
+        ]
+       },
+       {
+        "text": "Nennen Sie zwei Maßnahmen mit geringem Budget.",
+        "points": 6,
+        "sample": "Guerilla-Aktion in Cafés, Kooperation mit Cafés, Social-Media-Challenge, PR.",
+        "checklist": [
+         "zwei Maßnahmen"
+        ]
+       },
+       {
+        "text": "Wie schützen Sie die Marke rechtlich?",
+        "points": 4,
+        "sample": "Markenanmeldung beim DPMA/EUIPO, Recherche auf Verwechslungsgefahr.",
+        "checklist": [
+         "Schutzrecht",
+         "Behörde"
+        ]
+       }
+      ]
+     }
+    },
+    {
+     "key": "mako-pf-teil1d-q12",
+     "type": "case",
+     "exam_part": 1,
+     "difficulty": 2,
+     "points": 20,
+     "source": "Prüfungsstil Teil 1 (eigene Fallsituationen, Serie D – Media, PR, Marke)",
+     "body": {
+      "situation": "Der Outdoor-Ausstatter „Gipfelstark“ plant eine Kooperation mit einem bekannten Bergsteiger als Markenbotschafter. Honorar 80.000 €, Laufzeit 12 Monate. Risiko: Reputation.",
+      "tasks": [
+       {
+        "text": "Nennen Sie zwei Chancen und zwei Risiken von Testimonial-Werbung.",
+        "points": 8,
+        "sample": "Chancen: Glaubwürdigkeit/Aufmerksamkeit; Risiken: Imageschaden bei Skandal, Abhängigkeit, Kosten.",
+        "checklist": [
+         "Chancen",
+         "Risiken"
+        ]
+       },
+       {
+        "text": "Nennen Sie drei Vertragsbestandteile.",
+        "points": 6,
+        "sample": "Leistungen (Posts, Auftritte), Nutzungsrechte, Exklusivität, Moralklausel, Vergütung.",
+        "checklist": [
+         "drei Bestandteile"
+        ]
+       },
+       {
+        "text": "Beurteilen Sie die Kennzeichnungspflicht bei der Zusammenarbeit.",
+        "points": 6,
+        "sample": "Werbliche Zusammenarbeit muss erkennbar sein (#Werbung).",
+        "checklist": [
+         "Pflicht",
+         "Bezug"
+        ]
+       }
+      ]
+     }
+    },
+    {
+     "key": "mako-pf-teil1d-q13",
+     "type": "case",
+     "exam_part": 1,
+     "difficulty": 2,
+     "points": 20,
+     "source": "Prüfungsstil Teil 1 (eigene Fallsituationen, Serie D – Media, PR, Marke)",
+     "body": {
+      "situation": "Das Kaffeehaus „Bohnenliebe“ möchte ein Treueprogramm einführen. Durchschnittlicher Bon 6,40 €, 3 Besuche pro Monat, Ziel +20 % Besuche. Budget 25.000 €.",
+      "tasks": [
+       {
+        "text": "Berechnen Sie den Monatsumsatz je Kunde heute und nach Ziel.",
+        "points": 4,
+        "sample": "Heute: 3 · 6,40 = 19,20 €; Ziel: 3,6 Besuche · 6,40 = 23,04 €.",
+        "checklist": [
+         "zwei Rechnungen"
+        ]
+       },
+       {
+        "text": "Nennen Sie zwei Treueprogramm-Modelle.",
+        "points": 6,
+        "sample": "Stempelkarte, Punktesystem/App, Gratis-Getränk nach 10 Käufen, Mitgliederstufen.",
+        "checklist": [
+         "zwei Modelle"
+        ]
+       },
+       {
+        "text": "Nennen Sie zwei Vor- und Nachteile.",
+        "points": 6,
+        "sample": "Vorteile: Bindung, Daten, höherer Umsatz. Nachteile: Kosten, Datenschutz, Rabattgewöhnung.",
+        "checklist": [
+         "Vorteile",
+         "Nachteile"
+        ]
+       },
+       {
+        "text": "Welche Datenschutzregel gilt für die App?",
+        "points": 4,
+        "sample": "Einwilligung, Information, Zweckbindung (DSGVO).",
+        "checklist": [
+         "Regel"
+        ]
+       }
+      ]
+     }
+    },
+    {
+     "key": "mako-pf-teil1d-q14",
+     "type": "case",
+     "exam_part": 1,
+     "difficulty": 2,
+     "points": 20,
+     "source": "Prüfungsstil Teil 1 (eigene Fallsituationen, Serie D – Media, PR, Marke)",
+     "body": {
+      "situation": "Die Marke „Kinderglück“ (Kinderkleidung) will die Zielgruppe „Neugeborene-Eltern“ erschließen. Kontakt über Geburtskliniken geplant, Wellpack mit Gutschein. Budget 250.000 €.",
+      "tasks": [
+       {
+        "text": "Beschreiben Sie Chancen und rechtliche Probleme dieser Direktansprache.",
+        "points": 6,
+        "sample": "Chance: hochrelevanter Zeitpunkt. Probleme: Datenschutz/Einwilligung, Hausrecht der Kliniken, Gesundheitsdaten.",
+        "checklist": [
+         "Chance",
+         "Rechtsproblem"
+        ]
+       },
+       {
+        "text": "Nennen Sie zwei Alternativen ohne Datenschutzrisiko.",
+        "points": 6,
+        "sample": "Elternzeitschriften/Hebammenkooperationen, Social Ads mit Interessentargeting, Babymessen.",
+        "checklist": [
+         "zwei Alternativen"
+        ]
+       },
+       {
+        "text": "Berechnen Sie die Kosten je Gutscheineinlösung bei 5 % Einlösequote von 20.000 verteilten Gutscheinen und 40.000 € Gutscheinbudget.",
+        "points": 4,
+        "sample": "Einlösungen: 1.000; 40.000 : 1.000 = 40 €.",
+        "checklist": [
+         "Rechnung"
+        ]
+       },
+       {
+        "text": "Formulieren Sie einen Slogan.",
+        "points": 4,
+        "sample": "„Von Anfang an gut angezogen.“",
+        "checklist": [
+         "Slogan"
+        ]
+       }
+      ]
+     }
+    },
+    {
+     "key": "mako-pf-teil1d-q15",
+     "type": "case",
+     "exam_part": 1,
+     "difficulty": 2,
+     "points": 20,
+     "source": "Prüfungsstil Teil 1 (eigene Fallsituationen, Serie D – Media, PR, Marke)",
+     "body": {
+      "situation": "Das Kreuzfahrtunternehmen „Meerblick“ will junge Gäste (25–40) gewinnen (Image: Rentnerurlaub). Budget 1,5 Mio. €. Preis ab 899 € pro Woche.",
+      "tasks": [
+       {
+        "text": "Beschreiben Sie das Imageproblem und die Soll-Positionierung.",
+        "points": 5,
+        "sample": "Ist: Rentnerurlaub; Soll: Erlebnis, Abenteuer, flexibel und nachhaltig.",
+        "checklist": [
+         "Ist",
+         "Soll"
+        ]
+       },
+       {
+        "text": "Wählen Sie zwei Medien und begründen Sie.",
+        "points": 6,
+        "sample": "YouTube/Instagram (Reise-Content, junge Zielgruppe), Podcasts/Reisemagazine.",
+        "checklist": [
+         "zwei Medien"
+        ]
+       },
+       {
+        "text": "Nennen Sie zwei Maßnahmen zur Produktanpassung.",
+        "points": 5,
+        "sample": "Themenreisen (Sport, Musik), flexible Kabinenkonzepte, Co-Working an Bord.",
+        "checklist": [
+         "zwei Maßnahmen"
+        ]
+       },
+       {
+        "text": "Nennen Sie zwei Risiken in der Kommunikation.",
+        "points": 4,
+        "sample": "Umweltkritik (Greenwashing), unglaubwürdiger Imagebruch.",
+        "checklist": [
+         "zwei Risiken"
+        ]
+       }
+      ]
+     }
+    },
+    {
+     "key": "mako-pf-teil1d-q16",
+     "type": "case",
+     "exam_part": 1,
+     "difficulty": 2,
+     "points": 20,
+     "source": "Prüfungsstil Teil 1 (eigene Fallsituationen, Serie D – Media, PR, Marke)",
+     "body": {
+      "situation": "Der Haushaltsgerätehersteller „Kochwerk“ will mit einem Saugroboter (399 €) in den Markt. Wettbewerber mit Marken wie Roborock. Zielgruppe: Berufstätige Paare 30–50. Budget 650.000 €.",
+      "tasks": [
+       {
+        "text": "Ordnen Sie den Saugroboter im Produktlebenszyklus des Marktes ein.",
+        "points": 4,
+        "sample": "Wachstumsphase des Marktes für Saugroboter (steigende Nachfrage, viele Anbieter).",
+        "checklist": [
+         "Phase",
+         "Begründung"
+        ]
+       },
+       {
+        "text": "Wählen Sie Preisstrategie und Kommunikationsfokus.",
+        "points": 6,
+        "sample": "Konkurrenzorientierter Preis/Penetration; Fokus auf Zeitersparnis und Zuverlässigkeit.",
+        "checklist": [
+         "Strategie",
+         "Fokus"
+        ]
+       },
+       {
+        "text": "Nennen Sie drei Kanäle.",
+        "points": 6,
+        "sample": "Vergleichsportale/SEA, YouTube-Tests, Handels-Displays.",
+        "checklist": [
+         "drei Kanäle"
+        ]
+       },
+       {
+        "text": "Nennen Sie zwei Testverfahren vor der Markteinführung.",
+        "points": 4,
+        "sample": "Produkttest mit Probanden, Testmarkt, Online-Beta.",
+        "checklist": [
+         "zwei Verfahren"
+        ]
+       }
+      ]
+     }
+    },
+    {
+     "key": "mako-pf-teil1d-q17",
+     "type": "case",
+     "exam_part": 1,
+     "difficulty": 2,
+     "points": 20,
+     "source": "Prüfungsstil Teil 1 (eigene Fallsituationen, Serie D – Media, PR, Marke)",
+     "body": {
+      "situation": "Der Mobilitätsanbieter „Fahrweg“ (Carsharing) will in Aurelia den Marktanteil von 12 % auf 18 % erhöhen. Marktvolumen 18.000 Nutzer. Budget 300.000 €.",
+      "tasks": [
+       {
+        "text": "Berechnen Sie die Nutzer heute und im Ziel.",
+        "points": 4,
+        "sample": "Heute: 2.160; Ziel: 3.240.",
+        "checklist": [
+         "zwei Rechnungen"
+        ]
+       },
+       {
+        "text": "Berechnen Sie den Zuwachs und die Cost per Neukunde.",
+        "points": 5,
+        "sample": "1.080 neue Nutzer; 300.000 : 1.080 = 277,78 €.",
+        "checklist": [
+         "zwei Rechnungen"
+        ]
+       },
+       {
+        "text": "Nennen Sie drei Maßnahmen.",
+        "points": 6,
+        "sample": "Gratis-Anmeldung, Aktion ‚Freunde werben‘, Außenwerbung an Bahnhöfen.",
+        "checklist": [
+         "drei Maßnahmen"
+        ]
+       },
+       {
+        "text": "Nennen Sie zwei Risiken des Preisvergleichs mit dem Marktführer.",
+        "points": 5,
+        "sample": "Preiskampf, Imageschaden, geringere Marge.",
+        "checklist": [
+         "zwei Risiken"
+        ]
+       }
+      ]
+     }
+    },
+    {
+     "key": "mako-pf-teil1d-q18",
+     "type": "case",
+     "exam_part": 1,
+     "difficulty": 2,
+     "points": 20,
+     "source": "Prüfungsstil Teil 1 (eigene Fallsituationen, Serie D – Media, PR, Marke)",
+     "body": {
+      "situation": "Die Brettspielmarke „Würfelspaß“ hat einen Crowdfunding-Plan: Ziel 60.000 € in 30 Tagen, Budget Kommunikation 8.000 €. Zielgruppe: Spieler 25–45.",
+      "tasks": [
+       {
+        "text": "Nennen Sie vier Elemente einer Crowdfunding-Kampagne.",
+        "points": 6,
+        "sample": "Videopitch, Belohnungsstufen, Community-Aufbau vor dem Start, Updates, Social-Ads.",
+        "checklist": [
+         "vier Elemente"
+        ]
+       },
+       {
+        "text": "Berechnen Sie den durchschnittlich nötigen Betrag pro Tag und bei 40 € Durchschnittsspende die Zahl der Unterstützer.",
+        "points": 6,
+        "sample": "60.000 : 30 = 2.000 €/Tag; 60.000 : 40 = 1.500 Unterstützer.",
+        "checklist": [
+         "zwei Rechnungen"
+        ]
+       },
+       {
+        "text": "Erläutern Sie zwei Chancen des Social Proof.",
+        "points": 4,
+        "sample": "Bewertungen und Spenderzahlen erhöhen Vertrauen, soziale Bestätigung.",
+        "checklist": [
+         "zwei Chancen"
+        ]
+       },
+       {
+        "text": "Nennen Sie zwei Kommunikationsmaßnahmen mit kleinem Budget.",
+        "points": 4,
+        "sample": "Reddit/Foren, Influencer-Spieleabende.",
+        "checklist": [
+         "zwei Maßnahmen"
+        ]
+       }
+      ]
+     }
+    },
+    {
+     "key": "mako-pf-teil1d-q19",
+     "type": "case",
+     "exam_part": 1,
+     "difficulty": 2,
+     "points": 20,
+     "source": "Prüfungsstil Teil 1 (eigene Fallsituationen, Serie D – Media, PR, Marke)",
+     "body": {
+      "situation": "Die NGO „Meer ohne Müll“ plant eine Aktion zum Weltmeerestag. Ziel: 10.000 Unterschriften, 500 Freiwillige. Budget 55.000 €. Zielgruppe: junge Erwachsene.",
+      "tasks": [
+       {
+        "text": "Berechnen Sie die Kosten je Unterschrift und je Freiwilligem bei jeweils 50 % Budgetanteil.",
+        "points": 4,
+        "sample": "27.500 : 10.000 = 2,75 €; 27.500 : 500 = 55 €.",
+        "checklist": [
+         "zwei Rechnungen"
+        ]
+       },
+       {
+        "text": "Nennen Sie drei Maßnahmen für die Aktion.",
+        "points": 8,
+        "sample": "Strandreinigung mit Influencern, Petition online, Pressetermin, Social-Challenge #MeerOhneMüll.",
+        "checklist": [
+         "drei Maßnahmen"
+        ]
+       },
+       {
+        "text": "Nennen Sie zwei rechtliche Aspekte.",
+        "points": 4,
+        "sample": "Datenschutz bei Petition/Unterschriften, Gemeinnützigkeit/Spendenwerbung, Genehmigungen für Aktionen.",
+        "checklist": [
+         "zwei Aspekte"
+        ]
+       },
+       {
+        "text": "Wie dokumentieren Sie die Wirkung?",
+        "points": 4,
+        "sample": "Zahlen (Unterschriften, Freiwillige), Medienresonanz, Reichweite.",
+        "checklist": [
+         "Kennzahlen"
+        ]
+       }
+      ]
+     }
+    },
+    {
+     "key": "mako-pf-teil1d-q20",
+     "type": "case",
+     "exam_part": 1,
+     "difficulty": 2,
+     "points": 20,
+     "source": "Prüfungsstil Teil 1 (eigene Fallsituationen, Serie D – Media, PR, Marke)",
+     "body": {
+      "situation": "Die Konditorei „Zuckerwerk“ (3 Filialen) will ihre Online-Bestellungen für Torten verdoppeln (aktuell 400 pro Monat, Durchschnittsbon 38 €). Budget 30.000 € für sechs Monate.",
+      "tasks": [
+       {
+        "text": "Berechnen Sie den zusätzlichen Monatsumsatz bei Zielerreichung.",
+        "points": 3,
+        "sample": "400 · 38 € = 15.200 € zusätzlich.",
+        "checklist": [
+         "Rechnung"
+        ]
+       },
+       {
+        "text": "Berechnen Sie die Cost per zusätzlicher Bestellung über sechs Monate (alle 400 zusätzlich pro Monat).",
+        "points": 3,
+        "sample": "30.000 : (400 · 6) = 12,50 €.",
+        "checklist": [
+         "Rechnung"
+        ]
+       },
+       {
+        "text": "Nennen Sie drei Online-Maßnahmen mit lokalem Fokus.",
+        "points": 8,
+        "sample": "Google-Unternehmensprofil/Local SEO, Social-Ads mit Geotargeting, Newsletter/Coupon, Instagram-Content.",
+        "checklist": [
+         "drei Maßnahmen"
+        ]
+       },
+       {
+        "text": "Formulieren Sie einen Claim.",
+        "points": 6,
+        "sample": "„Zuckerwerk – dein süßer Moment, frei Haus.“",
+        "checklist": [
+         "Claim",
+         "Begründung"
+        ]
+       }
+      ]
+     }
+    }
+   ],
+   "templates": [],
+   "cases": []
+  }
+ ]
+}

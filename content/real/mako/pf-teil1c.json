@@ -1,0 +1,848 @@
+{
+ "demo": false,
+ "items": [
+  {
+   "topic": "mako-pf-teil1c",
+   "flashcards": [],
+   "glossary": [],
+   "questions": [
+    {
+     "key": "mako-pf-teil1c-q01",
+     "type": "case",
+     "exam_part": 1,
+     "difficulty": 2,
+     "points": 20,
+     "source": "Prüfungsstil Teil 1 (eigene Fallsituationen, Serie C)",
+     "body": {
+      "situation": "Die Süßwarenmarke „Naschwerk“ (Gummibärchen, Marktanteil 4 %) will wissen, wie Jugendliche (12–17) ihre Produkte wahrnehmen. Budget für Marktforschung 60.000 €. Rechtliche Besonderheit: Befragungen Minderjähriger.",
+      "tasks": [
+       {
+        "text": "Empfehlen Sie eine qualitative und eine quantitative Methode und begründen Sie jeweils.",
+        "points": 8,
+        "sample": "Qualitativ: Gruppendiskussion/Fokusgruppe für Motive und Wahrnehmung. Quantitativ: Online-Befragung einer repräsentativen Stichprobe für Bekanntheit, Image und Kaufabsicht.",
+        "checklist": [
+         "zwei Methoden",
+         "Begründung",
+         "Zielbezug"
+        ]
+       },
+       {
+        "text": "Nennen Sie zwei rechtliche Anforderungen bei der Befragung Minderjähriger.",
+        "points": 4,
+        "sample": "Einwilligung der Erziehungsberechtigten, Datenschutz/DSGVO (Datensparsamkeit), altersgerechte Information.",
+        "checklist": [
+         "zwei Anforderungen"
+        ]
+       },
+       {
+        "text": "Erklären Sie den Begriff Repräsentativität.",
+        "points": 4,
+        "sample": "Die Stichprobe bildet die Grundgesamtheit verkleinert und strukturgleich ab.",
+        "checklist": [
+         "Definition",
+         "Bezug"
+        ]
+       },
+       {
+        "text": "Nennen Sie zwei Gütekriterien einer Befragung.",
+        "points": 4,
+        "sample": "Validität, Reliabilität, Objektivität.",
+        "checklist": [
+         "zwei Kriterien"
+        ]
+       }
+      ]
+     }
+    },
+    {
+     "key": "mako-pf-teil1c-q02",
+     "type": "case",
+     "exam_part": 1,
+     "difficulty": 2,
+     "points": 20,
+     "source": "Prüfungsstil Teil 1 (eigene Fallsituationen, Serie C)",
+     "body": {
+      "situation": "Der Schuhhersteller „Trittfest“ plant die Einführung einer veganen Sneaker-Linie. Vor dem Roll-out soll ein Testmarkt durchgeführt werden. Budget 280.000 €. Zielgruppe: 20–35, urban.",
+      "tasks": [
+       {
+        "text": "Beschreiben Sie, was ein Testmarkt ist und welche Vor- und Nachteile er hat.",
+        "points": 6,
+        "sample": "Räumlich begrenztes Gebiet, in dem Produkt unter realen Bedingungen getestet wird; Vorteil: realistische Daten, geringes Risiko; Nachteil: Kosten, Zeit, Konkurrenz erfährt früh.",
+        "checklist": [
+         "Definition",
+         "Vorteil",
+         "Nachteil"
+        ]
+       },
+       {
+        "text": "Wählen Sie Kriterien für die Auswahl der Testregion.",
+        "points": 5,
+        "sample": "Repräsentative Bevölkerungsstruktur, Handelsstruktur wie Gesamtmarkt, Mediensituation, begrenzte Streuung.",
+        "checklist": [
+         "zwei Kriterien",
+         "Begründung"
+        ]
+       },
+       {
+        "text": "Nennen Sie drei Kennzahlen zur Auswertung.",
+        "points": 6,
+        "sample": "Abverkauf, Wiederkaufrate, Bekanntheit, Preisakzeptanz.",
+        "checklist": [
+         "drei Kennzahlen"
+        ]
+       },
+       {
+        "text": "Formulieren Sie einen SMART-Zielwert für den Testmarkt.",
+        "points": 3,
+        "sample": "20 % Wiederkaufrate innerhalb von drei Monaten in der Testregion.",
+        "checklist": [
+         "SMART"
+        ]
+       }
+      ]
+     }
+    },
+    {
+     "key": "mako-pf-teil1c-q03",
+     "type": "case",
+     "exam_part": 1,
+     "difficulty": 2,
+     "points": 20,
+     "source": "Prüfungsstil Teil 1 (eigene Fallsituationen, Serie C)",
+     "body": {
+      "situation": "Das Mobilfunkunternehmen „Funkwerk“ (4 Mio. Kunden) will mit einem neuen Tarif (14,99 € mtl.) junge Kunden gewinnen. Wettbewerber senken Preise. Budget 1,4 Mio. €.",
+      "tasks": [
+       {
+        "text": "Wählen Sie die Preisstrategie und begründen Sie.",
+        "points": 5,
+        "sample": "Penetrationsstrategie oder Konkurrenzpreis; Preisführerschaft ist riskant wegen Preiskampfs.",
+        "checklist": [
+         "Strategie",
+         "Begründung"
+        ]
+       },
+       {
+        "text": "Entwickeln Sie eine Copy-Strategie.",
+        "points": 6,
+        "sample": "Benefit: günstig und flexibel telefonieren. Reason Why: monatlich kündbar, 20 GB. Tonality: direkt, jugendlich.",
+        "checklist": [
+         "drei Bestandteile"
+        ]
+       },
+       {
+        "text": "Beurteilen Sie die Preisangabe „ab 9,99 €“ (tatsächlich ab dem 7. Monat 14,99 €).",
+        "points": 5,
+        "sample": "Irreführung möglich (PAngV/UWG): Gesamtpreis und Bedingungen müssen klar erkennbar sein.",
+        "checklist": [
+         "Beurteilung",
+         "Rechtsbezug"
+        ]
+       },
+       {
+        "text": "Nennen Sie zwei Kanäle.",
+        "points": 4,
+        "sample": "Social Ads, Influencer, Streaming-Werbung, Shop-POS.",
+        "checklist": [
+         "zwei Kanäle"
+        ]
+       }
+      ]
+     }
+    },
+    {
+     "key": "mako-pf-teil1c-q04",
+     "type": "case",
+     "exam_part": 1,
+     "difficulty": 2,
+     "points": 20,
+     "source": "Prüfungsstil Teil 1 (eigene Fallsituationen, Serie C)",
+     "body": {
+      "situation": "Die Stadtverwaltung Aurelia will Fahrgäste für den ÖPNV gewinnen (+10 % Nutzer). Stadtbevölkerung 380.000, aktuell 62.000 tägliche Nutzer. Budget 400.000 €.",
+      "tasks": [
+       {
+        "text": "Berechnen Sie die Zielnutzerzahl.",
+        "points": 3,
+        "sample": "62.000 · 1,10 = 68.200.",
+        "checklist": [
+         "Rechnung"
+        ]
+       },
+       {
+        "text": "Nennen Sie zwei Barrieren der Autofahrer.",
+        "points": 4,
+        "sample": "Komfort, Zeit/Taktung, Kosten, Gewohnheit.",
+        "checklist": [
+         "zwei Barrieren"
+        ]
+       },
+       {
+        "text": "Entwickeln Sie zwei Maßnahmen (Produkt/Preis/Kommunikation).",
+        "points": 7,
+        "sample": "Probe-Monatskarte, Park-and-Ride-Aktion, Kampagne ‚Dein Weg‘, Plakate/Radio.",
+        "checklist": [
+         "zwei Maßnahmen",
+         "Mix"
+        ]
+       },
+       {
+        "text": "Wie messen Sie den Erfolg?",
+        "points": 6,
+        "sample": "Fahrgastzahlen, Befragung, App-Nutzung, Ticketverkäufe.",
+        "checklist": [
+         "KPIs",
+         "Erhebung"
+        ]
+       }
+      ]
+     }
+    },
+    {
+     "key": "mako-pf-teil1c-q05",
+     "type": "case",
+     "exam_part": 1,
+     "difficulty": 2,
+     "points": 20,
+     "source": "Prüfungsstil Teil 1 (eigene Fallsituationen, Serie C)",
+     "body": {
+      "situation": "Der Veranstalter „Klangwelt“ organisiert ein Open-Air-Festival (15.000 Besucher, Ticket 79 €). Sponsoren werden gesucht. Zielgruppe: 18–35. Budget Marketing 120.000 €.",
+      "tasks": [
+       {
+        "text": "Erklären Sie, was Sponsoring ist und welche Gegenleistung der Sponsor erhält.",
+        "points": 5,
+        "sample": "Förderung mit Geld oder Sachleistungen; Gegenleistung: Kommunikationsrechte (Logo, Namensnennung, Aktivierung).",
+        "checklist": [
+         "Definition",
+         "Gegenleistung"
+        ]
+       },
+       {
+        "text": "Nennen Sie drei Aktivierungsmöglichkeiten für einen Getränke-Sponsor.",
+        "points": 6,
+        "sample": "Verkostungsstand, Branding von Bühnen, Social-Content, Gewinnspiele.",
+        "checklist": [
+         "drei Möglichkeiten"
+        ]
+       },
+       {
+        "text": "Berechnen Sie den Ticketumsatz.",
+        "points": 3,
+        "sample": "15.000 · 79 € = 1.185.000 €.",
+        "checklist": [
+         "Rechnung"
+        ]
+       },
+       {
+        "text": "Erläutern Sie Ambush-Marketing und ein Risiko.",
+        "points": 6,
+        "sample": "Trittbrettfahren ohne Sponsorenrechte; Risiko: Rechtsverstoß, Image.",
+        "checklist": [
+         "Definition",
+         "Risiko"
+        ]
+       }
+      ]
+     }
+    },
+    {
+     "key": "mako-pf-teil1c-q06",
+     "type": "case",
+     "exam_part": 1,
+     "difficulty": 2,
+     "points": 20,
+     "source": "Prüfungsstil Teil 1 (eigene Fallsituationen, Serie C)",
+     "body": {
+      "situation": "Das Pflegeunternehmen „Heimatpflege“ sucht Pflegekräfte (Employer Branding), Ziel 120 Bewerbungen in 6 Monaten. Budget 160.000 €. Zielgruppe: Pflegefachkräfte 25–45.",
+      "tasks": [
+       {
+        "text": "Beschreiben Sie die Zielgruppe (sechs Merkmale).",
+        "points": 6,
+        "sample": "25–45, Pflegeausbildung, Schichtarbeit; sinnorientiert, überlastet; nutzt Jobportale, Instagram, Empfehlungen.",
+        "checklist": [
+         "sechs Merkmale"
+        ]
+       },
+       {
+        "text": "Nennen Sie drei Employer-Branding-Maßnahmen.",
+        "points": 6,
+        "sample": "Karriereseite, Mitarbeiter-Testimonials auf Social Media, Mitarbeiter-werben-Mitarbeiter, Praktikumsangebote.",
+        "checklist": [
+         "drei Maßnahmen"
+        ]
+       },
+       {
+        "text": "Berechnen Sie die Cost per Application.",
+        "points": 3,
+        "sample": "160.000 : 120 = 1.333,33 €.",
+        "checklist": [
+         "Rechnung"
+        ]
+       },
+       {
+        "text": "Formulieren Sie einen Claim.",
+        "points": 5,
+        "sample": "„Pflege mit Herz – und Zeit für dich.“",
+        "checklist": [
+         "Claim",
+         "Begründung"
+        ]
+       }
+      ]
+     }
+    },
+    {
+     "key": "mako-pf-teil1c-q07",
+     "type": "case",
+     "exam_part": 1,
+     "difficulty": 2,
+     "points": 20,
+     "source": "Prüfungsstil Teil 1 (eigene Fallsituationen, Serie C)",
+     "body": {
+      "situation": "Der Schokoladenhersteller „Goldkakao“ will den Marktanteil im Premiumsegment von 8 % auf 11 % erhöhen. Marktvolumen Premium 480 Mio. €. Budget 900.000 €.",
+      "tasks": [
+       {
+        "text": "Berechnen Sie den Umsatz bei 8 % und bei 11 %.",
+        "points": 4,
+        "sample": "8 %: 38,4 Mio. €; 11 %: 52,8 Mio. €.",
+        "checklist": [
+         "beide Rechnungen"
+        ]
+       },
+       {
+        "text": "Berechnen Sie den Umsatzzuwachs.",
+        "points": 3,
+        "sample": "52,8 − 38,4 = 14,4 Mio. €.",
+        "checklist": [
+         "Rechnung"
+        ]
+       },
+       {
+        "text": "Empfehlen Sie eine Strategie nach Ansoff.",
+        "points": 5,
+        "sample": "Marktdurchdringung (bestehende Produkte im bestehenden Markt).",
+        "checklist": [
+         "Strategie",
+         "Begründung"
+        ]
+       },
+       {
+        "text": "Nennen Sie drei Maßnahmen.",
+        "points": 8,
+        "sample": "Verkostungsaktionen, Zweitplatzierung, Anzeigen in Genussmagazinen, Gewinnspiel mit Coupon.",
+        "checklist": [
+         "drei Maßnahmen"
+        ]
+       }
+      ]
+     }
+    },
+    {
+     "key": "mako-pf-teil1c-q08",
+     "type": "case",
+     "exam_part": 1,
+     "difficulty": 2,
+     "points": 20,
+     "source": "Prüfungsstil Teil 1 (eigene Fallsituationen, Serie C)",
+     "body": {
+      "situation": "Das Möbelhaus „Heimat+“ wirbt mit „Bester Preis garantiert – sonst erstatten wir die Differenz“. Zielgruppe: Preisbewusste Haushalte. Budget 330.000 €. Die Werbung wird in Anzeigen und Online verbreitet.",
+      "tasks": [
+       {
+        "text": "Beurteilen Sie die Werbung rechtlich (zwei Anforderungen).",
+        "points": 6,
+        "sample": "Bedingungen der Garantie klar nennen (UWG), keine irreführende Alleinstellung; Preisangaben müssen korrekt sein.",
+        "checklist": [
+         "zwei Anforderungen",
+         "Rechtsbezug"
+        ]
+       },
+       {
+        "text": "Erläutern Sie vergleichende Werbung und ihre Zulässigkeit.",
+        "points": 5,
+        "sample": "Zulässig, wenn sachlich, objektiv nachprüfbar, nicht herabsetzend (§ 6 UWG).",
+        "checklist": [
+         "Definition",
+         "Bedingungen"
+        ]
+       },
+       {
+        "text": "Nennen Sie zwei Folgen eines Wettbewerbsverstoßes.",
+        "points": 4,
+        "sample": "Abmahnung, Unterlassungserklärung, Schadensersatz.",
+        "checklist": [
+         "zwei Folgen"
+        ]
+       },
+       {
+        "text": "Nennen Sie zwei alternative Claim-Ideen ohne Rechtsrisiko.",
+        "points": 5,
+        "sample": "„Faire Preise. Gute Möbel.“ / „Einrichten ohne Rechnen.“",
+        "checklist": [
+         "zwei Claims"
+        ]
+       }
+      ]
+     }
+    },
+    {
+     "key": "mako-pf-teil1c-q09",
+     "type": "case",
+     "exam_part": 1,
+     "difficulty": 2,
+     "points": 20,
+     "source": "Prüfungsstil Teil 1 (eigene Fallsituationen, Serie C)",
+     "body": {
+      "situation": "Die Sprachlern-App „Lingoo“ (500.000 Nutzer, 8 % zahlende) will die Zahl zahlender Nutzer erhöhen (+3 Prozentpunkte). Jahresabo 59,90 €. Budget 350.000 €.",
+      "tasks": [
+       {
+        "text": "Berechnen Sie die zusätzlichen zahlenden Nutzer.",
+        "points": 3,
+        "sample": "500.000 · 0,03 = 15.000.",
+        "checklist": [
+         "Rechnung"
+        ]
+       },
+       {
+        "text": "Berechnen Sie den zusätzlichen Jahresumsatz.",
+        "points": 3,
+        "sample": "15.000 · 59,90 € = 898.500 €.",
+        "checklist": [
+         "Rechnung"
+        ]
+       },
+       {
+        "text": "Schlagen Sie zwei Maßnahmen zur Conversion vor.",
+        "points": 8,
+        "sample": "Testphase mit Rabatt auf Jahresabo, In-App-Nachrichten, Streak-Erinnerungen, Empfehlungsprogramm.",
+        "checklist": [
+         "zwei Maßnahmen"
+        ]
+       },
+       {
+        "text": "Nennen Sie zwei KPIs.",
+        "points": 6,
+        "sample": "Conversion-Rate, Churn, CPA, Customer Lifetime Value.",
+        "checklist": [
+         "zwei KPIs"
+        ]
+       }
+      ]
+     }
+    },
+    {
+     "key": "mako-pf-teil1c-q10",
+     "type": "case",
+     "exam_part": 1,
+     "difficulty": 2,
+     "points": 20,
+     "source": "Prüfungsstil Teil 1 (eigene Fallsituationen, Serie C)",
+     "body": {
+      "situation": "Der Anbieter von Coworking-Räumen „Arbeitsraum“ eröffnet einen neuen Standort in Köln. Zielgruppe: Freelancer und Start-ups. Budget 90.000 €. Zielauslastung 70 % nach drei Monaten (120 Plätze).",
+      "tasks": [
+       {
+        "text": "Berechnen Sie die Zielauslastung in Plätzen.",
+        "points": 3,
+        "sample": "120 · 0,70 = 84 Plätze.",
+        "checklist": [
+         "Rechnung"
+        ]
+       },
+       {
+        "text": "Beschreiben Sie zwei Maßnahmen für die Eröffnung.",
+        "points": 8,
+        "sample": "Eröffnungsevent mit Netzwerk, Gratis-Schnupperwoche, Kooperation mit Gründerzentren.",
+        "checklist": [
+         "zwei Maßnahmen",
+         "Zielgruppenbezug"
+        ]
+       },
+       {
+        "text": "Wählen Sie zwei Medien.",
+        "points": 5,
+        "sample": "LinkedIn/Instagram-Ads, Newsletter von Gründernetzwerken, Plakate in Uni-Nähe.",
+        "checklist": [
+         "zwei Medien"
+        ]
+       },
+       {
+        "text": "Wie kontrollieren Sie den Erfolg?",
+        "points": 4,
+        "sample": "Auslastung, Leads, Besichtigungen, Abschlüsse.",
+        "checklist": [
+         "KPIs"
+        ]
+       }
+      ]
+     }
+    },
+    {
+     "key": "mako-pf-teil1c-q11",
+     "type": "case",
+     "exam_part": 1,
+     "difficulty": 2,
+     "points": 20,
+     "source": "Prüfungsstil Teil 1 (eigene Fallsituationen, Serie C)",
+     "body": {
+      "situation": "Das Solarunternehmen „Sonnenwerk“ vertreibt Dachanlagen (durchschnittlich 14.500 €). Zielgruppe: Eigenheimbesitzer 40–60. Budget 520.000 €. Hindernis: Förderunsicherheit und lange Entscheidungszyklen.",
+      "tasks": [
+       {
+        "text": "Beschreiben Sie den Kaufentscheidungsprozess in vier Phasen.",
+        "points": 6,
+        "sample": "Bedarfserkennung, Informationssuche, Angebotsvergleich, Kauf/Nachkauf.",
+        "checklist": [
+         "vier Phasen"
+        ]
+       },
+       {
+        "text": "Nennen Sie Kommunikationsinstrumente für die Phase Informationssuche.",
+        "points": 5,
+        "sample": "Ratgeber-Content, SEO, Webinare, Messen, Kundenreferenzen.",
+        "checklist": [
+         "zwei Instrumente"
+        ]
+       },
+       {
+        "text": "Berechnen Sie die Zahl der Verkäufe, die für 2 Mio. € Umsatz nötig sind.",
+        "points": 3,
+        "sample": "2.000.000 : 14.500 ≈ 138 Anlagen.",
+        "checklist": [
+         "Rechnung"
+        ]
+       },
+       {
+        "text": "Nennen Sie zwei Maßnahmen zur Vertrauensbildung.",
+        "points": 6,
+        "sample": "Zertifizierungen, Referenzprojekte, Kundenbewertungen, Garantie.",
+        "checklist": [
+         "zwei Maßnahmen"
+        ]
+       }
+      ]
+     }
+    },
+    {
+     "key": "mako-pf-teil1c-q12",
+     "type": "case",
+     "exam_part": 1,
+     "difficulty": 2,
+     "points": 20,
+     "source": "Prüfungsstil Teil 1 (eigene Fallsituationen, Serie C)",
+     "body": {
+      "situation": "Das Gartencenter „Grünwelt“ will das Sommergeschäft (Pflanzen, Grillen) stärken. Umsatzziel +8 % auf 6,5 Mio. €. Budget 140.000 €. Einzugsgebiet 25 km.",
+      "tasks": [
+       {
+        "text": "Berechnen Sie den Vorjahresumsatz.",
+        "points": 3,
+        "sample": "6,5 : 1,08 ≈ 6,02 Mio. €.",
+        "checklist": [
+         "Rechnung"
+        ]
+       },
+       {
+        "text": "Wählen Sie drei Instrumente (Mix) und begründen Sie.",
+        "points": 9,
+        "sample": "Handzettel/Beilagen (regional), Event ‚Gartenfest‘ (Erlebnis), Social-Ads mit Geotargeting.",
+        "checklist": [
+         "drei Instrumente",
+         "Begründung"
+        ]
+       },
+       {
+        "text": "Nennen Sie zwei Erfolgskennzahlen.",
+        "points": 4,
+        "sample": "Umsatz je Aktionswoche, Besucherzahl, Couponeinlösung.",
+        "checklist": [
+         "zwei KPIs"
+        ]
+       },
+       {
+        "text": "Beschreiben Sie eine Verkaufsförderung am POS.",
+        "points": 4,
+        "sample": "Sonderplatzierung, Pflanzberatung, Probierstand.",
+        "checklist": [
+         "Maßnahme"
+        ]
+       }
+      ]
+     }
+    },
+    {
+     "key": "mako-pf-teil1c-q13",
+     "type": "case",
+     "exam_part": 1,
+     "difficulty": 2,
+     "points": 20,
+     "source": "Prüfungsstil Teil 1 (eigene Fallsituationen, Serie C)",
+     "body": {
+      "situation": "Die Versicherung „Schutzbrief“ will Nachwuchskunden (25–35) für Haftpflicht und Hausrat gewinnen. Budget 600.000 €. Imageproblem: unverständliche Verträge.",
+      "tasks": [
+       {
+        "text": "Formulieren Sie Ist- und Soll-Positionierung.",
+        "points": 5,
+        "sample": "Ist: komplex, schwer verständlich. Soll: einfach, digital, fair.",
+        "checklist": [
+         "Ist",
+         "Soll"
+        ]
+       },
+       {
+        "text": "Entwickeln Sie eine Copy-Strategie.",
+        "points": 6,
+        "sample": "Benefit: Schutz in 5 Minuten abgeschlossen. Reason Why: digitaler Abschluss, klare Bedingungen. Tonality: einfach, vertrauenswürdig.",
+        "checklist": [
+         "drei Teile"
+        ]
+       },
+       {
+        "text": "Nennen Sie zwei Online-Maßnahmen.",
+        "points": 5,
+        "sample": "Vergleichsportal-Präsenz, SEA, Social-Ads, Erklärvideos.",
+        "checklist": [
+         "zwei Maßnahmen"
+        ]
+       },
+       {
+        "text": "Nennen Sie zwei rechtliche Anforderungen an Werbung für Versicherungen.",
+        "points": 4,
+        "sample": "Transparente Preis-/Leistungsangaben, Pflichtinformationen, Datenschutz.",
+        "checklist": [
+         "zwei Anforderungen"
+        ]
+       }
+      ]
+     }
+    },
+    {
+     "key": "mako-pf-teil1c-q14",
+     "type": "case",
+     "exam_part": 1,
+     "difficulty": 2,
+     "points": 20,
+     "source": "Prüfungsstil Teil 1 (eigene Fallsituationen, Serie C)",
+     "body": {
+      "situation": "Der Anbieter von Kita-Software „KitaFlow“ (B2B) will 200 neue Kitas gewinnen. Preis 120 € pro Monat. Budget 280.000 €. Zielgruppe: Kita-Leitungen und Träger.",
+      "tasks": [
+       {
+        "text": "Berechnen Sie den Jahresumsatz bei 200 Neukunden.",
+        "points": 3,
+        "sample": "200 · 120 € · 12 = 288.000 €.",
+        "checklist": [
+         "Rechnung"
+        ]
+       },
+       {
+        "text": "Nennen Sie drei B2B-Kommunikationsmaßnahmen.",
+        "points": 9,
+        "sample": "Fachmessen, Fachzeitschriften, Webinare, Empfehlungsmarketing, Direktmarketing an Träger.",
+        "checklist": [
+         "drei Maßnahmen"
+        ]
+       },
+       {
+        "text": "Erläutern Sie das Buying Center.",
+        "points": 4,
+        "sample": "Mehrere Beteiligte (Leitung, Träger, IT, Eltern) entscheiden gemeinsam über Kauf.",
+        "checklist": [
+         "Definition",
+         "Bezug"
+        ]
+       },
+       {
+        "text": "Nennen Sie zwei KPIs.",
+        "points": 4,
+        "sample": "Leads, Demo-Termine, Abschlussquote, CPA.",
+        "checklist": [
+         "zwei KPIs"
+        ]
+       }
+      ]
+     }
+    },
+    {
+     "key": "mako-pf-teil1c-q15",
+     "type": "case",
+     "exam_part": 1,
+     "difficulty": 2,
+     "points": 20,
+     "source": "Prüfungsstil Teil 1 (eigene Fallsituationen, Serie C)",
+     "body": {
+      "situation": "Das Ladenetz „VoltAurelia“ erweitert sein Netz um 400 Ladepunkte. Zielgruppe: E-Auto-Fahrer. Budget 380.000 €. Wettbewerber: große Energiekonzerne.",
+      "tasks": [
+       {
+        "text": "Beschreiben Sie zwei Nutzenargumente (Consumer Benefit, Reason Why).",
+        "points": 6,
+        "sample": "Benefit: schnell und überall laden; Reason Why: 400 neue Ladepunkte, 150 kW, App-Zahlung.",
+        "checklist": [
+         "Benefit",
+         "Reason Why"
+        ]
+       },
+       {
+        "text": "Nennen Sie drei Medien für die Kampagne.",
+        "points": 6,
+        "sample": "Navigations-/Lade-App-Werbung, Radio im Berufsverkehr, Out-of-Home an Autobahnen/Raststätten.",
+        "checklist": [
+         "drei Medien"
+        ]
+       },
+       {
+        "text": "Entwickeln Sie eine PR-Maßnahme zur Eröffnung.",
+        "points": 4,
+        "sample": "Pressetermin mit Oberbürgermeister, Pressemitteilung, Social-Livestream.",
+        "checklist": [
+         "Maßnahme"
+        ]
+       },
+       {
+        "text": "Nennen Sie zwei Kennzahlen zur Wirkung.",
+        "points": 4,
+        "sample": "App-Downloads, Ladevorgänge, Auslastung, Bekanntheit.",
+        "checklist": [
+         "zwei Kennzahlen"
+        ]
+       }
+      ]
+     }
+    },
+    {
+     "key": "mako-pf-teil1c-q16",
+     "type": "case",
+     "exam_part": 1,
+     "difficulty": 2,
+     "points": 20,
+     "source": "Prüfungsstil Teil 1 (eigene Fallsituationen, Serie C)",
+     "body": {
+      "situation": "Der Hersteller von veganem Käse „PflanzGenuss“ möchte vom Nischen- in den Massenmarkt. Preis 3,49 € (Wettbewerber Milchkäse 2,19 €). Budget 1,1 Mio. €.",
+      "tasks": [
+       {
+        "text": "Analysieren Sie Chancen und Risiken (je zwei).",
+        "points": 6,
+        "sample": "Chancen: wachsende Nachfrage nach veganer Ernährung, Flexitarier. Risiken: Preisabstand, Geschmacksakzeptanz.",
+        "checklist": [
+         "zwei Chancen",
+         "zwei Risiken"
+        ]
+       },
+       {
+        "text": "Empfehlen Sie eine Preisstrategie.",
+        "points": 5,
+        "sample": "Einführungspreis/Promotion (Penetration) mit späterer Anpassung oder Premium mit Qualitätsargument.",
+        "checklist": [
+         "Strategie",
+         "Begründung"
+        ]
+       },
+       {
+        "text": "Wählen Sie zwei VKF-Maßnahmen.",
+        "points": 5,
+        "sample": "Sampling im Handel, Coupons, Zweitplatzierung.",
+        "checklist": [
+         "zwei Maßnahmen"
+        ]
+       },
+       {
+        "text": "Nennen Sie zwei Instrumente für Reichweite.",
+        "points": 4,
+        "sample": "TV-Spot, Social Video, Plakate.",
+        "checklist": [
+         "zwei Instrumente"
+        ]
+       }
+      ]
+     }
+    },
+    {
+     "key": "mako-pf-teil1c-q17",
+     "type": "case",
+     "exam_part": 1,
+     "difficulty": 2,
+     "points": 20,
+     "source": "Prüfungsstil Teil 1 (eigene Fallsituationen, Serie C)",
+     "body": {
+      "situation": "Das Theater „Schauwerk“ hat eine Auslastung von 58 % (400 Plätze) und will 70 % erreichen. Durchschnittlicher Preis 34 €. 180 Vorstellungen pro Jahr. Budget 100.000 €.",
+      "tasks": [
+       {
+        "text": "Berechnen Sie die zusätzlichen Zuschauer pro Vorstellung.",
+        "points": 3,
+        "sample": "400 · 0,12 = 48.",
+        "checklist": [
+         "Rechnung"
+        ]
+       },
+       {
+        "text": "Berechnen Sie den Mehrumsatz pro Jahr.",
+        "points": 4,
+        "sample": "48 · 180 · 34 = 293.760 €.",
+        "checklist": [
+         "Rechnung"
+        ]
+       },
+       {
+        "text": "Beschreiben Sie zwei Maßnahmen für junge Zielgruppen.",
+        "points": 7,
+        "sample": "Schülerabo, Last-Minute-Tickets, TikTok-Trailer, Kooperation mit Schulen.",
+        "checklist": [
+         "zwei Maßnahmen"
+        ]
+       },
+       {
+        "text": "Formulieren Sie einen Claim.",
+        "points": 6,
+        "sample": "„Schauwerk – Dein Abend. Dein Applaus.“",
+        "checklist": [
+         "Claim",
+         "Begründung"
+        ]
+       }
+      ]
+     }
+    },
+    {
+     "key": "mako-pf-teil1c-q18",
+     "type": "case",
+     "exam_part": 1,
+     "difficulty": 2,
+     "points": 20,
+     "source": "Prüfungsstil Teil 1 (eigene Fallsituationen, Serie C)",
+     "body": {
+      "situation": "Das Mineralwasser „Quellrein“ will den Markenaufbau in der Gastronomie vorantreiben. 8.000 Gastronomiebetriebe sollen gelistet werden. Budget 700.000 €. Wettbewerber: Marktführer mit Dauerrabatten.",
+      "tasks": [
+       {
+        "text": "Nennen Sie drei Trade-Promotion-Maßnahmen für die Gastronomie.",
+        "points": 9,
+        "sample": "Gläser/Karten mit Branding, Staffelrabatt, Schulungen, kostenlose Kühlschränke.",
+        "checklist": [
+         "drei Maßnahmen"
+        ]
+       },
+       {
+        "text": "Berechnen Sie die Kosten pro gelistetem Betrieb.",
+        "points": 3,
+        "sample": "700.000 : 8.000 = 87,50 €.",
+        "checklist": [
+         "Rechnung"
+        ]
+       },
+       {
+        "text": "Wie positionieren Sie die Marke gegenüber dem Marktführer?",
+        "points": 4,
+        "sample": "Regional, nachhaltig, Premium, Glasflasche.",
+        "checklist": [
+         "Positionierung"
+        ]
+       },
+       {
+        "text": "Nennen Sie zwei Kennzahlen.",
+        "points": 4,
+        "sample": "Listungsquote, Absatz je Betrieb, Marktanteil Gastronomie.",
+        "checklist": [
+         "zwei Kennzahlen"
+        ]
+       }
+      ]
+     }
+    }
+   ],
+   "templates": [],
+   "cases": []
+  }
+ ]
+}

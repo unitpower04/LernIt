@@ -44,7 +44,14 @@ export default function PruefungPage() {
     try {
       const sb = supabase();
       const bp = BLUEPRINTS[kind];
-      const pool = await fetchPool(sb, { parts: bp.parts, types: bp.types });
+      const full = await fetchPool(sb, { parts: bp.parts, types: bp.types });
+      // Bereits geprüfte feste Aufgaben zunächst ausschließen (keine Wiederholung, solange der Pool reicht)
+      const { data: prev } = await sb.from("exam_attempts").select("state").eq("kind", kind);
+      const used = new Set<string>();
+      for (const a of (prev ?? []) as { state?: { questions?: { ref?: { kind: string; id: string } }[] } }[])
+        for (const q of a.state?.questions ?? []) if (q.ref?.kind === "question") used.add(q.ref.id);
+      const fresh = { ...full, questions: full.questions.filter((q) => !used.has(q.id)) };
+      const pool = poolSize(fresh) >= bp.count ? fresh : full;
       const seed = randomSeed();
       const questions = composeExam(kind, pool, seed);
       if (!questions.length) throw new Error("Für diesen Prüfungsteil gibt es noch keine Aufgaben.");
