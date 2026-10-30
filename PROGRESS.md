@@ -23,3 +23,7 @@
 - KI-Bewertung offener Aufgaben (Claude-API) ist nur vorbereitet, nicht aktiv (API-Key fehlt)
 - E2E-Tests laufen grün (20/20) sowohl gegen den lokalen Ersatz als auch gegen das echte Supabase (Test-Codes/-Nutzer danach gelöscht)
 - Gefundener+behobener Fehler: jsonb behält die Reihenfolge der Vorlagen-Variablen nicht → `rollVars` löst abgeleitete Variablen jetzt abhängigkeitsbasiert auf
+
+## 30.10.2026 – Echte Inhalte
+- 5 Fächer, ~1.040 Karten, ~660 Aufgaben, 71 Vorlagen, 6 Fachgesprächsfälle, 11 Teil-1-Fallsituationen importiert; Demo entfernt; fachliche Gegenprüfung durchgeführt und Korrekturen eingearbeitet.
+- Migration `reset_demo_fix` (WHERE-Klausel).

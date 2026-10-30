@@ -9,6 +9,7 @@ Prüfungs-Lern-App für Kaufleute für Marketingkommunikation (IHK-Abschlussprü
 |---|---|
 | `npm run dev` | Dev-Server |
 | `npm run build` / `npm run lint` / `npm run typecheck` | Qualität |
+| `npm run content:build` | Inhalts-Quellen `content/_src/*.mjs` (DSL, `dsl.mjs`) → `content/real/*.json` |
 | `npm run content:validate` | Inhalte in `content/` prüfen (Schema + Selbsttest: Musterlösung muss als richtig gewertet werden, Vorlagen werden 40× instanziiert) |
 | `npm run content:import` | Inhalte nach Supabase schreiben (braucht `SUPABASE_SERVICE_ROLE_KEY` in `.env.local`) |
 | `npm run content:emit` | Wie import, gibt aber `select import_bundle(...)`-SQL aus (SQL-Editor / MCP) |
@@ -49,3 +50,9 @@ Prüfungs-Lern-App für Kaufleute für Marketingkommunikation (IHK-Abschlussprü
 - Keine Secrets committen (`.env*` ist ignoriert, `.env.example` dokumentiert). Service-Role-Key nie im Frontend.
 - Nach Phasen: `PROGRESS.md` aktualisieren, committen, pushen.
 - Mobile first, Dark Mode über CSS-Variablen (`globals.css`), Komponenten-Klassen `.card .btn .input .opt`.
+
+## Stand Inhalte (30.10.2026)
+- Echte Inhalte aus Google Drive (Fächer WSP, Politik, FiCon, MaKo, Deutsch) liegen als DSL-Quellen in `content/_src/` und generiert in `content/real/`; sie sind in Supabase importiert, Demo-Daten sind entfernt (Demo-Fixture nur noch für E2E: `e2e/fixtures/demo`).
+- Prüfungsteile laut echter IHK-Prüfung: Teil 1 Konzepte, Teil 2 WiSo, Teil 3 Umsetzung & Steuerung, Teil 4 Fachgespräch.
+- Änderungen an Inhalten: `_src` bearbeiten → `npm run content:build` → `content:validate` → Import (z. B. temporärer Admin-Account + `import_bundle`).
+- `.goodnotes`-Dateien aus dem Drive sind nicht lesbar (ZIP-Format) und wurden nicht ausgewertet; PDF-Exporte nachreichen.

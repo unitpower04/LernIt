@@ -106,7 +106,7 @@ begin
   delete from answers where topic_id in (select t.id from topics t where t.is_demo)
      or source_id in (select id from questions where is_demo union select id from question_templates where is_demo union select id from flashcards where is_demo);
   get diagnostics n_ans = row_count;
-  if p_wipe_attempts then delete from exam_attempts; delete from duels; end if;
+  if p_wipe_attempts then delete from exam_attempts where true; delete from duels where true; end if;
   delete from glossary where is_demo;
   delete from exam_cases where is_demo;
   delete from summaries where is_demo;
